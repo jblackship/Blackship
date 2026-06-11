@@ -2,7 +2,7 @@ name: Daily internship scout
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # 06:00 UTC = 07:00 London
+    - cron: "0 6 * * *"   # 06:00 UTC = 07:00 London / 09:00 Athens in summer
   workflow_dispatch:        # adds a "Run workflow" button for manual test runs
 
 permissions:
@@ -25,14 +25,11 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
-          SMTP_USER: ${{ secrets.SMTP_USER }}
-          SMTP_PASS: ${{ secrets.SMTP_PASS }}
-          EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: python agent.py
 
-      - name: Remember what we've seen
+      - name: Publish results
         run: |
           git config user.name "internship-agent"
           git config user.email "agent@users.noreply.github.com"
-          git add seen.json
-          git diff --staged --quiet || (git commit -m "Update seen postings [skip ci]" && git push)
+          git add seen.json matches.json docs/
+          git diff --staged --quiet || (git commit -m "Update matches [skip ci]" && git push)
