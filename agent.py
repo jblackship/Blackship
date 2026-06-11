@@ -121,6 +121,7 @@ def fetch_adzuna() -> list:
                             "url": link,
                             "snippet": clean(job.get("description", ""))[:600],
                             "source": "Adzuna",
+                            "trust": "verified",
                         }
                     )
     return postings
@@ -173,8 +174,139 @@ At most 10 items. Only include postings with a real, direct URL."""
                 "url": url,
                 "snippet": "",
                 "source": "Claude web search",
+                "trust": "lead",
             }
         )
+    return postings
+
+
+def fetch_reed() -> list:
+    """Postings from Reed's official UK jobseeker API (strong London coverage)."""
+    if not CONFIG["search"].get("reed", {}).get("enabled", False):
+        return []
+    api_key = os.environ.get("REED_API_KEY")
+    if not api_key:
+        print("Reed enabled but REED_API_KEY not set - skipping Reed.")
+        return []
+
+    cfg = CONFIG["search"]["reed"]
+    postings = []
+    for query in cfg.get("queries", []):
+        for where in cfg.get("locations", [""]) or [""]:
+            params = {"keywords": query, "resultsToTake": 30}
+            if where:
+                params["locationName"] = where
+                params["distanceFromLocation"] = 15
+            try:
+                # Reed uses HTTP basic auth: API key as username, blank password.
+                resp = requests.get(
+                    "https://www.reed.co.uk/api/1.0/search",
+                    params=params,
+                    auth=(api_key, ""),
+                    timeout=30,
+                )
+                resp.raise_for_status()
+                results = resp.json().get("results", [])
+            except Exception as exc:  # noqa: BLE001
+                print(f"Reed error ({query!r} / {where!r}): {exc}")
+                continue
+            for job in results:
+                link = job.get("jobUrl")
+                if not link:
+                    continue
+                postings.append(
+                    {
+                        "id": posting_id(link),
+                        "title": clean(job.get("jobTitle", "Untitled")),
+                        "company": clean(job.get("employerName", "Unknown")),
+                        "location": clean(job.get("locationName", "UK")),
+                        "url": link,
+                        "snippet": clean(job.get("jobDescription", ""))[:600],
+                        "source": "Reed",
+                        "trust": "verified",
+                    }
+                )
+    return postings
+
+
+def fetch_company_boards() -> list:
+    """Poll named firms' Greenhouse and Lever boards directly.
+
+    Highest-trust source: these ARE the live application systems, so any
+    posting returned is genuinely open. Only internship-ish roles are kept.
+    """
+    cfg = CONFIG["search"].get("company_boards", {})
+    if not cfg.get("enabled", False):
+        return []
+
+    keywords = [k.lower() for k in cfg.get("role_keywords", ["intern", "internship"])]
+    postings = []
+
+    def relevant(title: str) -> bool:
+        t = title.lower()
+        return any(k in t for k in keywords)
+
+    # --- Greenhouse: public JSON board per company token ---
+    for token in cfg.get("greenhouse", []):
+        url = f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs"
+        try:
+            resp = requests.get(url, params={"content": "true"}, timeout=30)
+            resp.raise_for_status()
+            jobs = resp.json().get("jobs", [])
+        except Exception as exc:  # noqa: BLE001
+            print(f"Greenhouse error ({token}): {exc}")
+            continue
+        for job in jobs:
+            title = job.get("title", "")
+            if not relevant(title):
+                continue
+            link = job.get("absolute_url")
+            if not link:
+                continue
+            loc = (job.get("location") or {}).get("name", "?")
+            postings.append(
+                {
+                    "id": posting_id(link),
+                    "title": clean(title),
+                    "company": token.replace("-", " ").title(),
+                    "location": clean(loc),
+                    "url": link,
+                    "snippet": clean(job.get("content", ""))[:600],
+                    "source": f"{token} (Greenhouse)",
+                    "trust": "verified",
+                }
+            )
+
+    # --- Lever: public JSON postings per company token ---
+    for token in cfg.get("lever", []):
+        url = f"https://api.lever.co/v0/postings/{token}"
+        try:
+            resp = requests.get(url, params={"mode": "json"}, timeout=30)
+            resp.raise_for_status()
+            jobs = resp.json()
+        except Exception as exc:  # noqa: BLE001
+            print(f"Lever error ({token}): {exc}")
+            continue
+        for job in jobs if isinstance(jobs, list) else []:
+            title = job.get("text", "")
+            if not relevant(title):
+                continue
+            link = job.get("hostedUrl")
+            if not link:
+                continue
+            loc = (job.get("categories") or {}).get("location", "?")
+            postings.append(
+                {
+                    "id": posting_id(link),
+                    "title": clean(title),
+                    "company": token.replace("-", " ").title(),
+                    "location": clean(loc),
+                    "url": link,
+                    "snippet": clean(job.get("descriptionPlain", ""))[:600],
+                    "source": f"{token} (Lever)",
+                    "trust": "verified",
+                }
+            )
     return postings
 
 
@@ -258,6 +390,16 @@ def card_html(p: dict, is_new: bool) -> str:
         if is_new
         else ""
     )
+    if p.get("trust") == "lead":
+        trust_badge = (
+            '<span class="trust lead" title="Found by web search - confirm it is open before applying">'
+            "&#9888; lead &mdash; verify</span>"
+        )
+    else:
+        trust_badge = (
+            '<span class="trust verified" title="From a live job feed or the firm\'s own application system">'
+            "&#10003; verified open</span>"
+        )
     deadline = (
         f'<div style="color:#A32D2D;font-size:13px;margin-top:6px;">'
         f"&#9201; Deadline: {html.escape(str(p['deadline']))}</div>"
@@ -266,8 +408,11 @@ def card_html(p: dict, is_new: bool) -> str:
     )
     found = html.escape(p.get("found_on", ""))
     return f"""
-    <article class="card" data-score="{score}" data-date="{html.escape(p.get('found_on',''))}">
-      <div class="score" style="color:{color};">{score}<span class="outof">/100</span></div>
+    <article class="card" data-score="{score}" data-date="{html.escape(p.get('found_on',''))}" data-trust="{html.escape(p.get('trust','verified'))}">
+      <div class="cardtop">
+        <div class="score" style="color:{color};">{score}<span class="outof">/100</span></div>
+        {trust_badge}
+      </div>
       <h3><a href="{html.escape(p['url'])}" target="_blank" rel="noopener">{html.escape(p['title'])}{new_badge}</a></h3>
       <div class="meta">{html.escape(p['company'])} &middot; {html.escape(p['location'])}</div>
       <p class="reason">{html.escape(p.get('reason',''))}</p>
@@ -316,7 +461,15 @@ def build_dashboard(archive: list, new_ids: set, last_run: str, scanned_today: i
   .controls button.active {{ background: #e8f0fb; border-color: #b5d4f4; font-weight: 600; }}
   .card {{ background: #fff; border: 1px solid #e4e4e4; border-radius: 12px;
           padding: 16px 18px; margin-bottom: 14px; }}
-  .score {{ font-size: 13px; font-weight: 700; margin-bottom: 2px; }}
+  .cardtop {{ display: flex; align-items: center; gap: 10px; margin-bottom: 2px; }}
+  .score {{ font-size: 13px; font-weight: 700; }}
+  .trust {{ font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 10px; }}
+  .trust.verified {{ background: #e1f5ee; color: #0f6e56; }}
+  .trust.lead {{ background: #faeeda; color: #854f0b; }}
+  @media (prefers-color-scheme: dark) {{
+    .trust.verified {{ background: #0f3a2e; color: #5dcaa5; }}
+    .trust.lead {{ background: #3d2c0a; color: #f0c060; }}
+  }}
   .outof {{ font-weight: 400; opacity: 0.6; font-size: 11px; }}
   h3 {{ margin: 0 0 4px; font-size: 17px; line-height: 1.3; }}
   h3 a {{ color: #1a1a1a; text-decoration: none; }}
@@ -336,6 +489,7 @@ def build_dashboard(archive: list, new_ids: set, last_run: str, scanned_today: i
 <div class="controls">
   <button class="active" onclick="filterCards('all', this)">All</button>
   <button onclick="filterCards('new', this)">New only</button>
+  <button onclick="filterCards('verified', this)">Verified open only</button>
   <button onclick="sortCards('score')">Sort by score</button>
   <button onclick="sortCards('date')">Sort by date</button>
 </div>
@@ -350,7 +504,11 @@ def build_dashboard(archive: list, new_ids: set, last_run: str, scanned_today: i
     if (btn) btn.classList.add('active');
     cards().forEach(c => {{
       const isNew = c.querySelector('h3 a').textContent.includes('NEW');
-      c.style.display = (mode === 'all' || isNew) ? '' : 'none';
+      const isVerified = c.dataset.trust === 'verified';
+      let show = true;
+      if (mode === 'new') show = isNew;
+      else if (mode === 'verified') show = isVerified;
+      c.style.display = show ? '' : 'none';
     }});
   }}
   function sortCards(key) {{
@@ -376,7 +534,12 @@ def main() -> None:
     archive = load_archive()
     run_stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
-    postings = fetch_adzuna() + fetch_claude_discovery()
+    postings = (
+        fetch_adzuna()
+        + fetch_reed()
+        + fetch_company_boards()
+        + fetch_claude_discovery()
+    )
 
     fresh, batch_ids = [], set()
     for p in postings:
