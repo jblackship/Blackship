@@ -17,10 +17,41 @@ search:
       - off-cycle internship
     max_days_old: 2          # only postings from the last N days
 
-  # Extra pass where Claude searches the web itself. Catches spring weeks and
-  # insight programmes that only appear on firm career pages, which job APIs
-  # often miss. Costs a few extra cents per run - set to false to disable.
+  # Extra pass where Claude searches the web itself. Now DEMOTED to a
+  # lead-finder: its results are flagged "lead - verify" on the dashboard
+  # because it can be wrong about whether a programme is currently open.
+  # Still valuable for spring weeks / insight programmes that never hit
+  # job boards. Set to false to drop it entirely.
   claude_discovery: true
+
+  # ---- Reed: official UK jobseeker API. Strong London coverage. ----
+  # Get a free key at reed.co.uk/developers, add it as the REED_API_KEY secret.
+  reed:
+    enabled: true
+    queries:
+      - finance internship
+      - investment banking internship
+      - spring week
+      - asset management internship
+      - consulting internship
+    locations: ["London"]
+
+  # ---- Company boards: poll firms' OWN application systems directly. ----
+  # Highest trust - every posting returned is genuinely open. Add the
+  # board token for each firm (the slug in their careers URL). Find it by
+  # looking at a firm's careers page URL:
+  #   boards.greenhouse.io/TOKEN   or   jobs.lever.co/TOKEN
+  # The starter lists below are common finance/tech employers known to use
+  # each system; prune or extend freely. Wrong tokens are logged and skipped.
+  company_boards:
+    enabled: true
+    role_keywords: ["intern", "internship", "spring", "insight", "summer analyst", "off-cycle", "placement"]
+    greenhouse:
+      - citadel
+      - point72
+      - millennium
+    lever:
+      - jane-street
 
 # ----------------------------------------------------------------- scoring
 scoring:
