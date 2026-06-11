@@ -37,21 +37,26 @@ search:
     locations: ["London"]
 
   # ---- Company boards: poll firms' OWN application systems directly. ----
-  # Highest trust - every posting returned is genuinely open. Add the
-  # board token for each firm (the slug in their careers URL). Find it by
-  # looking at a firm's careers page URL:
-  #   boards.greenhouse.io/TOKEN   or   jobs.lever.co/TOKEN
-  # The starter lists below are common finance/tech employers known to use
-  # each system; prune or extend freely. Wrong tokens are logged and skipped.
+  # Highest trust - every posting returned is genuinely open. Tokens below were
+  # verified by finding real London/2026 internship postings on each board.
+  # NOTE: the big standalone quant shops (Citadel, Jane Street) run their own
+  # portals, NOT Greenhouse/Lever, so they can't be polled here - they get
+  # caught by Adzuna/Reed/Claude instead. Add or remove tokens freely; wrong
+  # ones are logged and skipped. only_locations keeps just the cities you want.
   company_boards:
     enabled: true
-    role_keywords: ["intern", "internship", "spring", "insight", "summer analyst", "off-cycle", "placement"]
+    only_locations: ["london", "united kingdom", "uk", "remote"]
+    role_keywords: ["intern", "internship", "spring", "insight", "summer analyst", "off-cycle", "placement", "graduate"]
     greenhouse:
-      - citadel
-      - point72
-      - millennium
+      - schonfeld            # multi-strat hedge fund, London internships
+      - exoduspoint          # multi-strat hedge fund, London summer interns
+      - dvtrading            # prop trading, London/global
+      - emergingtalent       # Maven Securities early-careers board
+      - financialtechnologypartners  # FT Partners IB, London summer internship
+      - galaxydigitalservices        # Galaxy, London summer internship
+      - optiverprivate       # Optiver market-making intern board
     lever:
-      - jane-street
+      []                     # add finance-firm Lever tokens here if you find any
 
 # ----------------------------------------------------------------- scoring
 scoring:
