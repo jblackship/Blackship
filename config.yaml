@@ -25,13 +25,8 @@ search:
 # ----------------------------------------------------------------- scoring
 scoring:
   model: claude-haiku-4-5    # cheap and fast; use claude-sonnet-4-6 for sharper judgement
-  min_score: 55              # postings below this never reach your inbox
-  max_alerts: 12             # cap per digest, best scores first
+  min_score: 55              # postings below this never reach the dashboard
 
-# ----------------------------------------------------------------- email
-# Credentials live in GitHub secrets (SMTP_USER, SMTP_PASS, EMAIL_TO),
-# not in this file. These are just the non-secret connection settings.
-email:
-  from_name: Internship scout
-  smtp_host: smtp.gmail.com
-  smtp_port: 587
+# ----------------------------------------------------------------- dashboard
+dashboard:
+  max_items: 300             # cap the running list so the page stays fast
