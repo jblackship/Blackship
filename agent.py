@@ -242,11 +242,19 @@ def fetch_company_boards() -> list:
     keywords = [k.lower() for k in cfg.get("role_keywords", ["intern", "internship"])]
     postings = []
 
+    keep_locations = [l.lower() for l in cfg.get("only_locations", [])]
+
     def relevant(title: str) -> bool:
         t = title.lower()
         return any(k in t for k in keywords)
 
-    # --- Greenhouse: public JSON board per company token ---
+    def location_ok(loc: str) -> bool:
+        if not keep_locations:
+            return True
+        loc_l = (loc or "").lower()
+        return any(k in loc_l for k in keep_locations)
+
+    # --- Greenhouse: public JSON board per company token (region-agnostic API) ---
     for token in cfg.get("greenhouse", []):
         url = f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs"
         try:
@@ -256,14 +264,17 @@ def fetch_company_boards() -> list:
         except Exception as exc:  # noqa: BLE001
             print(f"Greenhouse error ({token}): {exc}")
             continue
+        kept = 0
         for job in jobs:
             title = job.get("title", "")
             if not relevant(title):
                 continue
+            loc = (job.get("location") or {}).get("name", "?")
+            if not location_ok(loc):
+                continue
             link = job.get("absolute_url")
             if not link:
                 continue
-            loc = (job.get("location") or {}).get("name", "?")
             postings.append(
                 {
                     "id": posting_id(link),
@@ -276,25 +287,40 @@ def fetch_company_boards() -> list:
                     "trust": "verified",
                 }
             )
+            kept += 1
+        print(f"Greenhouse {token}: {kept} relevant internship postings.")
 
-    # --- Lever: public JSON postings per company token ---
+    # --- Lever: public JSON postings; try US host then EU host ---
     for token in cfg.get("lever", []):
-        url = f"https://api.lever.co/v0/postings/{token}"
-        try:
-            resp = requests.get(url, params={"mode": "json"}, timeout=30)
-            resp.raise_for_status()
-            jobs = resp.json()
-        except Exception as exc:  # noqa: BLE001
-            print(f"Lever error ({token}): {exc}")
+        jobs = None
+        for host in ("api.lever.co", "api.eu.lever.co"):
+            try:
+                resp = requests.get(
+                    f"https://{host}/v0/postings/{token}",
+                    params={"mode": "json"},
+                    timeout=30,
+                )
+                resp.raise_for_status()
+                data = resp.json()
+                if isinstance(data, list) and data:
+                    jobs = data
+                    break
+            except Exception:  # noqa: BLE001 - try the next host before giving up
+                continue
+        if jobs is None:
+            print(f"Lever error ({token}): no postings on either US or EU host.")
             continue
-        for job in jobs if isinstance(jobs, list) else []:
+        kept = 0
+        for job in jobs:
             title = job.get("text", "")
             if not relevant(title):
+                continue
+            loc = (job.get("categories") or {}).get("location", "?")
+            if not location_ok(loc):
                 continue
             link = job.get("hostedUrl")
             if not link:
                 continue
-            loc = (job.get("categories") or {}).get("location", "?")
             postings.append(
                 {
                     "id": posting_id(link),
@@ -307,6 +333,8 @@ def fetch_company_boards() -> list:
                     "trust": "verified",
                 }
             )
+            kept += 1
+        print(f"Lever {token}: {kept} relevant internship postings.")
     return postings
 
 
