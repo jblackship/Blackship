@@ -2,9 +2,11 @@
 """Internship scout.
 
 Runs once per day (via GitHub Actions): pulls fresh internship postings,
-asks Claude to score each one against profile.txt, and emails a ranked
-digest of everything that clears the bar. Postings it has already alerted
-on are remembered in seen.json so nothing is sent twice.
+asks Claude to score each one against profile.txt, and publishes a ranked
+dashboard (docs/index.html) served by GitHub Pages. It keeps a running
+archive of every match in matches.json, so the page shows everything found
+over time with the newest run highlighted. Postings already seen are
+remembered in seen.json so nothing is scored or listed twice.
 """
 
 import hashlib
@@ -12,10 +14,7 @@ import html
 import json
 import os
 import re
-import smtplib
-from datetime import datetime
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
@@ -26,6 +25,9 @@ ROOT = Path(__file__).parent
 CONFIG = yaml.safe_load((ROOT / "config.yaml").read_text())
 PROFILE = (ROOT / "profile.txt").read_text().strip()
 SEEN_PATH = ROOT / "seen.json"
+ARCHIVE_PATH = ROOT / "matches.json"        # running list of every match found
+DOCS_DIR = ROOT / "docs"                     # GitHub Pages serves from here
+PAGE_PATH = DOCS_DIR / "index.html"
 
 TAG_RE = re.compile(r"<[^>]+>")
 
@@ -232,61 +234,147 @@ def score_all(postings: list) -> None:
         score_batch(postings[i : i + 25])
 
 
-# ---------------------------------------------------------------- email
+# ---------------------------------------------------------------- dashboard
 
-def render_email(matches: list, total_new: int) -> str:
-    rows = []
-    for p in matches:
-        color = "#1D9E75" if p["score"] >= 80 else "#BA7517" if p["score"] >= 65 else "#5F5E5A"
-        deadline = (
-            f'<div style="color:#A32D2D;font-size:13px;margin-top:4px;">'
-            f"Deadline: {html.escape(p['deadline'])}</div>"
-            if p.get("deadline")
-            else ""
-        )
-        rows.append(
-            f"""
-      <div style="border:1px solid #e4e4e4;border-radius:8px;padding:14px 16px;margin:0 0 12px;">
-        <div style="font-size:13px;font-weight:bold;color:{color};margin-bottom:2px;">{p['score']}/100</div>
-        <a href="{html.escape(p['url'])}" style="font-size:16px;font-weight:bold;color:#1a1a1a;">{html.escape(p['title'])}</a>
-        <div style="color:#555;font-size:14px;margin-top:2px;">{html.escape(p['company'])} &middot; {html.escape(p['location'])}</div>
-        <div style="font-size:14px;margin-top:6px;">{html.escape(p['reason'])}</div>
-        {deadline}
-        <div style="color:#999;font-size:12px;margin-top:6px;">via {html.escape(p['source'])}</div>
-      </div>"""
-        )
-    return f"""<div style="font-family:Arial,Helvetica,sans-serif;max-width:640px;margin:auto;">
-    <h2 style="font-weight:600;">Internship matches &mdash; {datetime.now():%d %b %Y}</h2>
-    <p style="color:#555;">Scanned {total_new} new postings today; these {len(matches)} cleared your bar.</p>
-    {''.join(rows)}
-    <p style="color:#999;font-size:12px;">Sent by your internship scout.
-    Edit profile.txt and config.yaml in the repo to change what gets through.</p>
-  </div>"""
+def load_archive() -> list:
+    if ARCHIVE_PATH.exists():
+        try:
+            return json.loads(ARCHIVE_PATH.read_text() or "[]")
+        except json.JSONDecodeError:
+            return []
+    return []
 
 
-def send_email(matches: list, total_new: int) -> None:
-    em = CONFIG["email"]
-    user = os.environ["SMTP_USER"]
-    password = os.environ["SMTP_PASS"]
-    to_addr = os.environ.get("EMAIL_TO") or user
+def save_archive(archive: list) -> None:
+    ARCHIVE_PATH.write_text(json.dumps(archive, ensure_ascii=False, indent=2) + "\n")
 
-    n = len(matches)
-    msg = MIMEMultipart("alternative")
-    msg["Subject"] = f"{n} internship match{'es' if n != 1 else ''} today (top score {matches[0]['score']})"
-    msg["From"] = f"{em.get('from_name', 'Internship scout')} <{user}>"
-    msg["To"] = to_addr
-    msg.attach(MIMEText(render_email(matches, total_new), "html"))
 
-    with smtplib.SMTP(em.get("smtp_host", "smtp.gmail.com"), em.get("smtp_port", 587)) as server:
-        server.starttls()
-        server.login(user, password)
-        server.sendmail(user, [to_addr], msg.as_string())
+def card_html(p: dict, is_new: bool) -> str:
+    score = p.get("score", 0)
+    color = "#1D9E75" if score >= 80 else "#BA7517" if score >= 65 else "#5F5E5A"
+    new_badge = (
+        '<span style="background:#1D9E75;color:#fff;font-size:11px;font-weight:600;'
+        'padding:2px 8px;border-radius:10px;margin-left:8px;">NEW</span>'
+        if is_new
+        else ""
+    )
+    deadline = (
+        f'<div style="color:#A32D2D;font-size:13px;margin-top:6px;">'
+        f"&#9201; Deadline: {html.escape(str(p['deadline']))}</div>"
+        if p.get("deadline")
+        else ""
+    )
+    found = html.escape(p.get("found_on", ""))
+    return f"""
+    <article class="card" data-score="{score}" data-date="{html.escape(p.get('found_on',''))}">
+      <div class="score" style="color:{color};">{score}<span class="outof">/100</span></div>
+      <h3><a href="{html.escape(p['url'])}" target="_blank" rel="noopener">{html.escape(p['title'])}{new_badge}</a></h3>
+      <div class="meta">{html.escape(p['company'])} &middot; {html.escape(p['location'])}</div>
+      <p class="reason">{html.escape(p.get('reason',''))}</p>
+      {deadline}
+      <div class="foot">via {html.escape(p.get('source',''))} &middot; found {found}</div>
+    </article>"""
+
+
+def build_dashboard(archive: list, new_ids: set, last_run: str, scanned_today: int) -> None:
+    ranked = sorted(
+        archive,
+        key=lambda p: (p.get("found_on", ""), p.get("score", 0)),
+        reverse=True,
+    )
+    cards = "\n".join(card_html(p, p["id"] in new_ids) for p in ranked)
+    new_count = len(new_ids)
+    total = len(archive)
+
+    page = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Blackship &mdash; internship matches</title>
+<style>
+  :root {{ color-scheme: light dark; }}
+  * {{ box-sizing: border-box; }}
+  body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+         max-width: 760px; margin: 0 auto; padding: 28px 20px 60px;
+         background: #fafafa; color: #1a1a1a; }}
+  @media (prefers-color-scheme: dark) {{
+    body {{ background: #121212; color: #ececec; }}
+    .card {{ background: #1d1d1d !important; border-color: #333 !important; }}
+    .meta, .foot {{ color: #9a9a9a !important; }}
+    a {{ color: #6fb1ff !important; }}
+    .controls button {{ background: #1d1d1d; color: #ececec; border-color: #333; }}
+    .controls button.active {{ background: #2d4a6b; border-color: #3a5f8a; }}
+  }}
+  header {{ margin-bottom: 6px; }}
+  h1 {{ font-size: 26px; margin: 0 0 4px; letter-spacing: -0.5px; }}
+  .sub {{ color: #777; font-size: 14px; margin: 0 0 20px; }}
+  .controls {{ display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap; }}
+  .controls button {{ font-size: 13px; padding: 6px 14px; border-radius: 20px;
+        border: 1px solid #ddd; background: #fff; cursor: pointer; }}
+  .controls button.active {{ background: #e8f0fb; border-color: #b5d4f4; font-weight: 600; }}
+  .card {{ background: #fff; border: 1px solid #e4e4e4; border-radius: 12px;
+          padding: 16px 18px; margin-bottom: 14px; }}
+  .score {{ font-size: 13px; font-weight: 700; margin-bottom: 2px; }}
+  .outof {{ font-weight: 400; opacity: 0.6; font-size: 11px; }}
+  h3 {{ margin: 0 0 4px; font-size: 17px; line-height: 1.3; }}
+  h3 a {{ color: #1a1a1a; text-decoration: none; }}
+  h3 a:hover {{ text-decoration: underline; }}
+  .meta {{ color: #555; font-size: 14px; }}
+  .reason {{ font-size: 14px; margin: 8px 0 0; line-height: 1.5; }}
+  .foot {{ color: #aaa; font-size: 12px; margin-top: 8px; }}
+  .empty {{ color: #888; padding: 40px 0; text-align: center; }}
+</style>
+</head>
+<body>
+<header>
+  <h1>Blackship</h1>
+  <p class="sub">{total} matches found over time &middot; {new_count} new this run &middot;
+     {scanned_today} postings scanned today &middot; last run {html.escape(last_run)}</p>
+</header>
+<div class="controls">
+  <button class="active" onclick="filterCards('all', this)">All</button>
+  <button onclick="filterCards('new', this)">New only</button>
+  <button onclick="sortCards('score')">Sort by score</button>
+  <button onclick="sortCards('date')">Sort by date</button>
+</div>
+<main id="list">
+{cards if ranked else '<p class="empty">No matches yet. The agent will fill this in on its next run.</p>'}
+</main>
+<script>
+  const list = document.getElementById('list');
+  const cards = () => Array.from(list.querySelectorAll('.card'));
+  function filterCards(mode, btn) {{
+    document.querySelectorAll('.controls button').forEach(b => b.classList.remove('active'));
+    if (btn) btn.classList.add('active');
+    cards().forEach(c => {{
+      const isNew = c.querySelector('h3 a').textContent.includes('NEW');
+      c.style.display = (mode === 'all' || isNew) ? '' : 'none';
+    }});
+  }}
+  function sortCards(key) {{
+    const sorted = cards().sort((a, b) => {{
+      if (key === 'score') return b.dataset.score - a.dataset.score;
+      return b.dataset.date.localeCompare(a.dataset.date);
+    }});
+    sorted.forEach(c => list.appendChild(c));
+  }}
+</script>
+</body>
+</html>"""
+    DOCS_DIR.mkdir(exist_ok=True)
+    PAGE_PATH.write_text(page)
+    # .nojekyll tells GitHub Pages to serve the file as-is, no processing
+    (DOCS_DIR / ".nojekyll").write_text("")
 
 
 # ---------------------------------------------------------------- main
 
 def main() -> None:
     seen = load_seen()
+    archive = load_archive()
+    run_stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     postings = fetch_adzuna() + fetch_claude_discovery()
 
@@ -298,28 +386,28 @@ def main() -> None:
         fresh.append(p)
     print(f"Fetched {len(postings)} postings, {len(fresh)} new.")
 
-    if not fresh:
-        print("Nothing new today.")
-        return
-
-    score_all(fresh)
-
-    min_score = CONFIG["scoring"].get("min_score", 55)
-    max_alerts = CONFIG["scoring"].get("max_alerts", 12)
-    matches = sorted(
-        (p for p in fresh if p["score"] >= min_score),
-        key=lambda p: p["score"],
-        reverse=True,
-    )[:max_alerts]
-
-    if matches:
-        send_email(matches, len(fresh))
-        print(f"Emailed {len(matches)} matches (top score {matches[0]['score']}).")
+    new_ids = set()
+    if fresh:
+        score_all(fresh)
+        min_score = CONFIG["scoring"].get("min_score", 55)
+        for p in fresh:
+            if p["score"] >= min_score:
+                p["found_on"] = run_stamp
+                archive.append(p)
+                new_ids.add(p["id"])
+        print(f"{len(new_ids)} of {len(fresh)} new postings cleared min_score={min_score}.")
     else:
-        print(f"{len(fresh)} new postings, but none cleared min_score={min_score}.")
+        print("Nothing new today.")
 
+    # Trim the archive so the page never grows without bound.
+    cap = CONFIG["dashboard"].get("max_items", 300)
+    archive = sorted(archive, key=lambda p: p.get("found_on", ""), reverse=True)[:cap]
+
+    build_dashboard(archive, new_ids, run_stamp, len(fresh))
+    save_archive(archive)
     seen |= batch_ids
     save_seen(seen)
+    print(f"Dashboard rebuilt: {len(archive)} matches shown, {len(new_ids)} flagged new.")
 
 
 if __name__ == "__main__":
