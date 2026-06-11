@@ -339,8 +339,15 @@ Weigh hard constraints heavily (excluded locations, right-to-work / visa,
 graduation year, language requirements). Penalise non-internship roles,
 unpaid roles, and anything that smells like spam or a fake listing.
 
+Also identify the REAL hiring company. The "company" field above is sometimes a
+job board or recruitment agency (e.g. "eFinancialCareers", "eFC", a staffing
+firm) rather than the actual employer. If the title or description reveals the
+true hiring firm, return it in "real_company". If the existing company value
+already looks like a genuine employer, repeat it. If you genuinely cannot tell,
+return null - do NOT guess a famous bank just because it fits the candidate.
+
 Return ONLY a JSON array, no other text:
-[{{"id": "...", "score": 0, "reason": "one short sentence", "deadline": "date if mentioned in the text, else null"}}]"""
+[{{"id": "...", "score": 0, "reason": "one short sentence", "deadline": "date if mentioned in the text, else null", "real_company": "actual employer or null"}}]"""
 
     resp = claude().messages.create(
         model=CONFIG["scoring"]["model"],
@@ -359,6 +366,10 @@ Return ONLY a JSON array, no other text:
         p["reason"] = s.get("reason") or "No assessment returned."
         deadline = s.get("deadline")
         p["deadline"] = None if (not deadline or str(deadline).lower() == "null") else str(deadline)
+        # Replace board/agency names with the real employer when the model found one.
+        real = s.get("real_company")
+        if real and str(real).strip().lower() not in ("null", "none", "unknown", ""):
+            p["company"] = str(real).strip()
 
 
 def score_all(postings: list) -> None:
