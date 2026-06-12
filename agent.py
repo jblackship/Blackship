@@ -229,6 +229,110 @@ def fetch_reed() -> list:
     return postings
 
 
+def fetch_muse() -> list:
+    """Postings from The Muse public API. No key needed (key just raises the
+    rate limit). Filters by category + location, newest first."""
+    cfg = CONFIG["search"].get("muse", {})
+    if not cfg.get("enabled", False):
+        return []
+    api_key = os.environ.get("MUSE_API_KEY")  # optional
+    postings = []
+    for category in cfg.get("categories", []):
+        for location in cfg.get("locations", [""]) or [""]:
+            params = {"category": category, "page": 1, "descending": "true"}
+            if location:
+                params["location"] = location
+            if api_key:
+                params["api_key"] = api_key
+            try:
+                resp = requests.get(
+                    "https://www.themuse.com/api/public/jobs",
+                    params=params,
+                    timeout=30,
+                )
+                resp.raise_for_status()
+                results = resp.json().get("results", [])
+            except Exception as exc:  # noqa: BLE001
+                print(f"Muse error ({category!r} / {location!r}): {exc}")
+                continue
+            for job in results:
+                link = (job.get("refs") or {}).get("landing_page")
+                if not link:
+                    continue
+                locs = ", ".join(l.get("name", "") for l in job.get("locations", []) if l.get("name"))
+                postings.append(
+                    {
+                        "id": posting_id(link),
+                        "title": clean(job.get("name", "Untitled")),
+                        "company": clean((job.get("company") or {}).get("name", "Unknown")),
+                        "location": clean(locs or "?"),
+                        "url": link,
+                        "snippet": clean(job.get("contents", ""))[:600],
+                        "source": "The Muse",
+                        "trust": "verified",
+                    }
+                )
+    return postings
+
+
+def fetch_jooble() -> list:
+    """Postings from Jooble's REST API (POST with JSON body). Needs a free key.
+
+    Jooble's free tier is a hard cap of 500 requests total, and each run costs
+    one request per query. To preserve the budget, this only runs at the UTC
+    hours listed in config 'run_at_hours' (e.g. [8, 20] = twice a day)."""
+    cfg = CONFIG["search"].get("jooble", {})
+    if not cfg.get("enabled", False):
+        return []
+
+    run_hours = cfg.get("run_at_hours")
+    if run_hours is not None:
+        current_hour = datetime.now(timezone.utc).hour
+        if current_hour not in run_hours:
+            print(f"Jooble: skipping this run (hour {current_hour} not in {run_hours}); preserving request budget.")
+            return []
+
+    api_key = os.environ.get("JOOBLE_API_KEY")
+    if not api_key:
+        print("Jooble enabled but JOOBLE_API_KEY not set - skipping Jooble.")
+        return []
+
+    postings = []
+    for query in cfg.get("queries", []):
+        for location in cfg.get("locations", [""]) or [""]:
+            body = {"keywords": query, "page": "1"}
+            if location:
+                body["location"] = location
+            try:
+                resp = requests.post(
+                    f"https://jooble.org/api/{api_key}",
+                    json=body,
+                    timeout=30,
+                )
+                resp.raise_for_status()
+                jobs = resp.json().get("jobs", [])
+            except Exception as exc:  # noqa: BLE001
+                print(f"Jooble error ({query!r} / {location!r}): {exc}")
+                continue
+            for job in jobs:
+                link = job.get("link")
+                if not link:
+                    continue
+                postings.append(
+                    {
+                        "id": posting_id(link),
+                        "title": clean(job.get("title", "Untitled")),
+                        "company": clean(job.get("company", "") or "Unknown"),
+                        "location": clean(job.get("location", "") or "?"),
+                        "url": link,
+                        "snippet": clean(job.get("snippet", ""))[:600],
+                        "source": "Jooble",
+                        "trust": "verified",
+                    }
+                )
+    return postings
+
+
 def fetch_company_boards() -> list:
     """Poll named firms' Greenhouse and Lever boards directly.
 
@@ -374,16 +478,32 @@ true hiring firm, return it in "real_company". If the existing company value
 already looks like a genuine employer, repeat it. If you genuinely cannot tell,
 return null - do NOT guess a famous bank just because it fits the candidate.
 
+For EACH posting also provide, judged against THIS candidate specifically:
+- "pros": up to 3 short bullet phrases (max ~8 words each) on why it fits them.
+  Be specific to the role/firm, not generic. Fewer than 3 is fine.
+- "cons": up to 3 short bullet phrases on risks or poor-fit aspects (e.g.
+  location mismatch, visa/eligibility doubt, seniority, vague posting). Fewer
+  than 3 is fine; use [] only if there are genuinely none.
+- "analysis": 2-4 sentences of plain-prose reasoning a candidate could act on -
+  why the score is what it is, what stands out, what to check before applying.
+  Write it TO the candidate. No markdown, no headings.
+
 Return ONLY a JSON array, no other text:
-[{{"id": "...", "score": 0, "reason": "one short sentence", "deadline": "date if mentioned in the text, else null", "real_company": "actual employer or null"}}]"""
+[{{"id": "...", "score": 0, "reason": "one short sentence", "deadline": "date or null", "real_company": "employer or null", "pros": ["...","..."], "cons": ["...","..."], "analysis": "..."}}]"""
 
     resp = claude().messages.create(
         model=CONFIG["scoring"]["model"],
-        max_tokens=4000,
+        max_tokens=8000,
         messages=[{"role": "user", "content": prompt}],
     )
     text = "".join(block.text for block in resp.content if block.type == "text")
     scores = {s["id"]: s for s in parse_json_array(text) if isinstance(s, dict) and "id" in s}
+
+    def clean_list(val, cap=3):
+        if not isinstance(val, list):
+            return []
+        out = [str(x).strip() for x in val if str(x).strip()]
+        return out[:cap]
 
     for p in postings:
         s = scores.get(p["id"], {})
@@ -398,6 +518,9 @@ Return ONLY a JSON array, no other text:
         real = s.get("real_company")
         if real and str(real).strip().lower() not in ("null", "none", "unknown", ""):
             p["company"] = str(real).strip()
+        p["pros"] = clean_list(s.get("pros"))
+        p["cons"] = clean_list(s.get("cons"))
+        p["analysis"] = str(s.get("analysis") or "").strip() or p["reason"]
 
 
 def score_all(postings: list) -> None:
@@ -420,15 +543,58 @@ def save_archive(archive: list) -> None:
     ARCHIVE_PATH.write_text(json.dumps(archive, ensure_ascii=False, indent=2) + "\n")
 
 
-def card_html(p: dict, is_new: bool) -> str:
+def analysis_page_html(p: dict) -> str:
+    """Standalone page with the deeper why-it-fits analysis for one posting."""
     score = p.get("score", 0)
     color = "#1D9E75" if score >= 80 else "#BA7517" if score >= 65 else "#5F5E5A"
-    new_badge = (
-        '<span style="background:#1D9E75;color:#fff;font-size:11px;font-weight:600;'
-        'padding:2px 8px;border-radius:10px;margin-left:8px;">NEW</span>'
-        if is_new
-        else ""
+    pros = "".join(f"<li>{html.escape(x)}</li>" for x in p.get("pros", [])) or "<li>None noted.</li>"
+    cons = "".join(f"<li>{html.escape(x)}</li>" for x in p.get("cons", [])) or "<li>None noted.</li>"
+    deadline = (
+        f'<p class="deadline">Deadline: {html.escape(str(p["deadline"]))}</p>'
+        if p.get("deadline") else ""
     )
+    return f"""<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>{html.escape(p['title'])} &mdash; analysis</title>
+<style>
+  :root {{ color-scheme: light dark; }}
+  body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+         max-width: 680px; margin: 0 auto; padding: 28px 20px 60px;
+         background: #fafafa; color: #1a1a1a; line-height: 1.55; }}
+  @media (prefers-color-scheme: dark) {{ body {{ background: #121212; color: #ececec; }} a {{ color: #6fb1ff; }} }}
+  a.back {{ font-size: 14px; text-decoration: none; }}
+  h1 {{ font-size: 22px; margin: 14px 0 2px; }}
+  .meta {{ color: #777; font-size: 15px; margin-bottom: 4px; }}
+  .score {{ font-weight: 700; color: {color}; font-size: 15px; }}
+  .found {{ color: #999; font-size: 13px; margin: 6px 0 18px; }}
+  h2 {{ font-size: 15px; margin: 22px 0 6px; text-transform: uppercase; letter-spacing: 0.5px; color: #888; }}
+  ul {{ margin: 0; padding-left: 20px; }} li {{ margin: 3px 0; }}
+  .analysis {{ font-size: 16px; }}
+  .apply {{ display: inline-block; margin-top: 22px; padding: 10px 18px; background: #2d4a6b;
+           color: #fff; border-radius: 8px; text-decoration: none; font-weight: 600; }}
+  .deadline {{ color: #A32D2D; font-weight: 600; }}
+</style></head><body>
+<a class="back" href="../index.html">&larr; Back to Blackship</a>
+<h1>{html.escape(p['title'])}</h1>
+<div class="meta">{html.escape(p['company'])} &middot; {html.escape(p['location'])}</div>
+<div class="score">Fit score: {score}/100</div>
+<div class="found">Found {html.escape(p.get('found_on',''))} &middot; via {html.escape(p.get('source',''))}</div>
+{deadline}
+<h2>Why it fits</h2>
+<ul>{pros}</ul>
+<h2>Watch-outs</h2>
+<ul>{cons}</ul>
+<h2>Analysis</h2>
+<p class="analysis">{html.escape(p.get('analysis',''))}</p>
+<a class="apply" href="{html.escape(p['url'])}" target="_blank" rel="noopener">Open application &rarr;</a>
+</body></html>"""
+
+
+def card_html(p: dict) -> str:
+    score = p.get("score", 0)
+    color = "#1D9E75" if score >= 80 else "#BA7517" if score >= 65 else "#5F5E5A"
     if p.get("trust") == "lead":
         trust_badge = (
             '<span class="trust lead" title="Found by web search - confirm it is open before applying">'
@@ -440,33 +606,52 @@ def card_html(p: dict, is_new: bool) -> str:
             "&#10003; verified open</span>"
         )
     deadline = (
-        f'<div style="color:#A32D2D;font-size:13px;margin-top:6px;">'
-        f"&#9201; Deadline: {html.escape(str(p['deadline']))}</div>"
-        if p.get("deadline")
-        else ""
+        f'<span class="deadline">&#9201; {html.escape(str(p["deadline"]))}</span>'
+        if p.get("deadline") else ""
+    )
+    pros = "".join(f"<li class='pro'>{html.escape(x)}</li>" for x in p.get("pros", []))
+    cons = "".join(f"<li class='con'>{html.escape(x)}</li>" for x in p.get("cons", []))
+    proscons = (
+        f"<ul class='proscons'>{pros}{cons}</ul>" if (pros or cons)
+        else f"<p class='reason'>{html.escape(p.get('reason',''))}</p>"
     )
     found = html.escape(p.get("found_on", ""))
+    pid = html.escape(p["id"])
+    analysis_link = f"jobs/{pid}.html"
     return f"""
-    <article class="card" data-score="{score}" data-date="{html.escape(p.get('found_on',''))}" data-trust="{html.escape(p.get('trust','verified'))}">
+    <article class="card" data-id="{pid}" data-score="{score}" data-found="{found}" data-trust="{html.escape(p.get('trust','verified'))}">
       <div class="cardtop">
         <div class="score" style="color:{color};">{score}<span class="outof">/100</span></div>
         {trust_badge}
+        <span class="newbadge" data-found="{found}"></span>
+        <label class="hidebox"><input type="checkbox" onchange="toggleHide('{pid}')"> hide</label>
       </div>
-      <h3><a href="{html.escape(p['url'])}" target="_blank" rel="noopener">{html.escape(p['title'])}{new_badge}</a></h3>
+      <h3><a href="{html.escape(p['url'])}" target="_blank" rel="noopener">{html.escape(p['title'])}</a></h3>
       <div class="meta">{html.escape(p['company'])} &middot; {html.escape(p['location'])}</div>
-      <p class="reason">{html.escape(p.get('reason',''))}</p>
-      {deadline}
-      <div class="foot">via {html.escape(p.get('source',''))} &middot; found {found}</div>
+      {proscons}
+      <div class="cardfoot">
+        <span class="found">Found {found}</span>
+        {deadline}
+        <a class="analysis-link" href="{analysis_link}">Full analysis &rarr;</a>
+      </div>
     </article>"""
 
 
 def build_dashboard(archive: list, new_ids: set, last_run: str, scanned_today: int) -> None:
+    # Newest first by default ("New openings" view).
     ranked = sorted(
         archive,
         key=lambda p: (p.get("found_on", ""), p.get("score", 0)),
         reverse=True,
     )
-    cards = "\n".join(card_html(p, p["id"] in new_ids) for p in ranked)
+
+    # Write one analysis page per posting.
+    jobs_dir = DOCS_DIR / "jobs"
+    jobs_dir.mkdir(parents=True, exist_ok=True)
+    for p in ranked:
+        (jobs_dir / f"{p['id']}.html").write_text(analysis_page_html(p))
+
+    cards = "\n".join(card_html(p) for p in ranked)
     new_count = len(new_ids)
     total = len(archive)
 
@@ -486,22 +671,23 @@ def build_dashboard(archive: list, new_ids: set, last_run: str, scanned_today: i
   @media (prefers-color-scheme: dark) {{
     body {{ background: #121212; color: #ececec; }}
     .card {{ background: #1d1d1d !important; border-color: #333 !important; }}
-    .meta, .foot {{ color: #9a9a9a !important; }}
+    .meta, .cardfoot, .found {{ color: #9a9a9a !important; }}
     a {{ color: #6fb1ff !important; }}
-    .controls button {{ background: #1d1d1d; color: #ececec; border-color: #333; }}
-    .controls button.active {{ background: #2d4a6b; border-color: #3a5f8a; }}
+    .tabs button {{ background: #1d1d1d; color: #ececec; border-color: #333; }}
+    .tabs button.active {{ background: #2d4a6b; border-color: #3a5f8a; }}
   }}
   header {{ margin-bottom: 6px; }}
   h1 {{ font-size: 26px; margin: 0 0 4px; letter-spacing: -0.5px; }}
-  .sub {{ color: #777; font-size: 14px; margin: 0 0 20px; }}
-  .controls {{ display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap; }}
-  .controls button {{ font-size: 13px; padding: 6px 14px; border-radius: 20px;
+  .sub {{ color: #777; font-size: 14px; margin: 0 0 18px; }}
+  .tabs {{ display: flex; gap: 8px; margin-bottom: 18px; flex-wrap: wrap; }}
+  .tabs button {{ font-size: 13px; padding: 6px 14px; border-radius: 20px;
         border: 1px solid #ddd; background: #fff; cursor: pointer; }}
-  .controls button.active {{ background: #e8f0fb; border-color: #b5d4f4; font-weight: 600; }}
+  .tabs button.active {{ background: #e8f0fb; border-color: #b5d4f4; font-weight: 600; }}
   .card {{ background: #fff; border: 1px solid #e4e4e4; border-radius: 12px;
           padding: 16px 18px; margin-bottom: 14px; }}
-  .cardtop {{ display: flex; align-items: center; gap: 10px; margin-bottom: 2px; }}
+  .cardtop {{ display: flex; align-items: center; gap: 10px; margin-bottom: 4px; }}
   .score {{ font-size: 13px; font-weight: 700; }}
+  .outof {{ font-weight: 400; opacity: 0.6; font-size: 11px; }}
   .trust {{ font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 10px; }}
   .trust.verified {{ background: #e1f5ee; color: #0f6e56; }}
   .trust.lead {{ background: #faeeda; color: #854f0b; }}
@@ -509,54 +695,105 @@ def build_dashboard(archive: list, new_ids: set, last_run: str, scanned_today: i
     .trust.verified {{ background: #0f3a2e; color: #5dcaa5; }}
     .trust.lead {{ background: #3d2c0a; color: #f0c060; }}
   }}
-  .outof {{ font-weight: 400; opacity: 0.6; font-size: 11px; }}
-  h3 {{ margin: 0 0 4px; font-size: 17px; line-height: 1.3; }}
+  .newbadge.show {{ background: #1D9E75; color: #fff; font-size: 11px; font-weight: 600;
+        padding: 2px 8px; border-radius: 10px; }}
+  .hidebox {{ margin-left: auto; font-size: 12px; color: #999; cursor: pointer; user-select: none; }}
+  h3 {{ margin: 2px 0 4px; font-size: 17px; line-height: 1.3; }}
   h3 a {{ color: #1a1a1a; text-decoration: none; }}
   h3 a:hover {{ text-decoration: underline; }}
-  .meta {{ color: #555; font-size: 14px; }}
+  .meta {{ color: #555; font-size: 14px; margin-bottom: 8px; }}
+  .proscons {{ list-style: none; margin: 8px 0 0; padding: 0; font-size: 14px; }}
+  .proscons li {{ padding: 1px 0 1px 20px; position: relative; line-height: 1.45; }}
+  .proscons li.pro::before {{ content: "+"; position: absolute; left: 4px; color: #1D9E75; font-weight: 700; }}
+  .proscons li.con::before {{ content: "\\2212"; position: absolute; left: 4px; color: #BA7517; font-weight: 700; }}
   .reason {{ font-size: 14px; margin: 8px 0 0; line-height: 1.5; }}
-  .foot {{ color: #aaa; font-size: 12px; margin-top: 8px; }}
+  .cardfoot {{ display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+        margin-top: 12px; font-size: 13px; color: #888; }}
+  .found {{ font-weight: 600; color: #555; }}
+  .deadline {{ color: #A32D2D; font-weight: 600; }}
+  .analysis-link {{ margin-left: auto; font-weight: 600; text-decoration: none; }}
   .empty {{ color: #888; padding: 40px 0; text-align: center; }}
 </style>
 </head>
 <body>
 <header>
   <h1>Blackship</h1>
-  <p class="sub">{total} matches found over time &middot; {new_count} new this run &middot;
-     {scanned_today} postings scanned today &middot; last run {html.escape(last_run)}</p>
+  <p class="sub">{total} matches &middot; {new_count} new this run &middot;
+     {scanned_today} scanned today &middot; last run {html.escape(last_run)}</p>
 </header>
-<div class="controls">
-  <button class="active" onclick="filterCards('all', this)">All</button>
-  <button onclick="filterCards('new', this)">New only</button>
-  <button onclick="filterCards('verified', this)">Verified open only</button>
-  <button onclick="sortCards('score')">Sort by score</button>
-  <button onclick="sortCards('date')">Sort by date</button>
+<div class="tabs">
+  <button id="tab-new" class="active" onclick="setView('new', this)">New openings</button>
+  <button id="tab-best" onclick="setView('best', this)">Best fits</button>
+  <button id="tab-hidden" onclick="setView('hidden', this)">Hidden (<span id="hidden-count">0</span>)</button>
 </div>
 <main id="list">
 {cards if ranked else '<p class="empty">No matches yet. The agent will fill this in on its next run.</p>'}
 </main>
 <script>
+  const HIDE_KEY = 'blackship_hidden_v1';
   const list = document.getElementById('list');
   const cards = () => Array.from(list.querySelectorAll('.card'));
-  function filterCards(mode, btn) {{
-    document.querySelectorAll('.controls button').forEach(b => b.classList.remove('active'));
-    if (btn) btn.classList.add('active');
+
+  function getHidden() {{
+    try {{ return new Set(JSON.parse(localStorage.getItem(HIDE_KEY) || '[]')); }}
+    catch (e) {{ return new Set(); }}
+  }}
+  function saveHidden(set) {{
+    try {{ localStorage.setItem(HIDE_KEY, JSON.stringify([...set])); }} catch (e) {{}}
+  }}
+  function toggleHide(id) {{
+    const h = getHidden();
+    if (h.has(id)) h.delete(id); else h.add(id);
+    saveHidden(h);
+    render();
+  }}
+
+  // Expire the NEW badge 24h after a posting was found.
+  function markNew() {{
+    const now = Date.now();
     cards().forEach(c => {{
-      const isNew = c.querySelector('h3 a').textContent.includes('NEW');
-      const isVerified = c.dataset.trust === 'verified';
-      let show = true;
-      if (mode === 'new') show = isNew;
-      else if (mode === 'verified') show = isVerified;
-      c.style.display = show ? '' : 'none';
+      const badge = c.querySelector('.newbadge');
+      const foundStr = (c.dataset.found || '').replace(' UTC', 'Z').replace(' ', 'T');
+      const t = Date.parse(foundStr);
+      if (!isNaN(t) && (now - t) < 24*60*60*1000) {{ badge.textContent = 'NEW'; badge.classList.add('show'); }}
+      else {{ badge.textContent = ''; badge.classList.remove('show'); }}
     }});
   }}
-  function sortCards(key) {{
+
+  let currentView = 'new';
+  function setView(view, btn) {{
+    currentView = view;
+    document.querySelectorAll('.tabs button').forEach(b => b.classList.remove('active'));
+    if (btn) btn.classList.add('active');
+    render();
+  }}
+
+  function render() {{
+    const hidden = getHidden();
+    document.getElementById('hidden-count').textContent = hidden.size;
+    // sync each checkbox to stored state
+    cards().forEach(c => {{
+      const box = c.querySelector('.hidebox input');
+      if (box) box.checked = hidden.has(c.dataset.id);
+    }});
+    // sort
     const sorted = cards().sort((a, b) => {{
-      if (key === 'score') return b.dataset.score - a.dataset.score;
-      return b.dataset.date.localeCompare(a.dataset.date);
+      if (currentView === 'best') return b.dataset.score - a.dataset.score;
+      return (b.dataset.found || '').localeCompare(a.dataset.found || '');
     }});
     sorted.forEach(c => list.appendChild(c));
+    // filter by view
+    let shown = 0;
+    cards().forEach(c => {{
+      const isHidden = hidden.has(c.dataset.id);
+      const show = (currentView === 'hidden') ? isHidden : !isHidden;
+      c.style.display = show ? '' : 'none';
+      if (show) shown++;
+    }});
   }}
+
+  markNew();
+  render();
 </script>
 </body>
 </html>"""
@@ -576,6 +813,8 @@ def main() -> None:
     postings = (
         fetch_adzuna()
         + fetch_reed()
+        + fetch_muse()
+        + fetch_jooble()
         + fetch_company_boards()
         + fetch_claude_discovery()
     )
