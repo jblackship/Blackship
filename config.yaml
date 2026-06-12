@@ -17,12 +17,10 @@ search:
       - off-cycle internship
     max_days_old: 2          # only postings from the last N days
 
-  # Extra pass where Claude searches the web itself. Now DEMOTED to a
-  # lead-finder: its results are flagged "lead - verify" on the dashboard
-  # because it can be wrong about whether a programme is currently open.
-  # Still valuable for spring weeks / insight programmes that never hit
-  # job boards. Set to false to drop it entirely.
-  claude_discovery: true
+  # Extra pass where Claude searches the web itself. DISABLED for now - it
+  # was surfacing too many false "open" leads. Re-enable later by setting
+  # this back to true. Its results (when on) are flagged "lead - verify".
+  claude_discovery: false
 
   # ---- Reed: official UK jobseeker API. Strong London coverage. ----
   # Get a free key at reed.co.uk/developers, add it as the REED_API_KEY secret.
@@ -34,6 +32,32 @@ search:
       - spring week
       - asset management internship
       - consulting internship
+    locations: ["London"]
+
+  # ---- The Muse: public jobs API, no key required (key just raises rate limit). ----
+  # Filters by category + location. Optional MUSE_API_KEY secret for higher limits.
+  muse:
+    enabled: true
+    categories:
+      - Finance
+      - Accounting and Finance
+      - Data and Analytics
+    locations: ["London, United Kingdom"]
+
+  # ---- Jooble: aggregator REST API. Needs a free key. ----
+  # Request one at jooble.org/api/about, add it as the JOOBLE_API_KEY secret.
+  # FREE TIER = 500 requests TOTAL (hard cap). Each run costs 1 request per
+  # query, so the 4 queries below = 4 requests per run. run_at_hours limits
+  # Jooble to those UTC hours only: [8, 20] = twice daily = 8 req/day, so the
+  # 500 budget lasts ~2 months. Widen the hours if you want it more often.
+  jooble:
+    enabled: true
+    run_at_hours: [8, 20]    # UTC hours Jooble is allowed to run (twice daily)
+    queries:
+      - finance internship
+      - investment banking internship
+      - spring week finance
+      - asset management internship
     locations: ["London"]
 
   # ---- Company boards: poll firms' OWN application systems directly. ----
@@ -48,15 +72,25 @@ search:
     only_locations: ["london", "united kingdom", "uk", "remote"]
     role_keywords: ["intern", "internship", "spring", "insight", "summer analyst", "off-cycle", "placement", "graduate"]
     greenhouse:
-      - schonfeld            # multi-strat hedge fund, London internships
-      - exoduspoint          # multi-strat hedge fund, London summer interns
-      - dvtrading            # prop trading, London/global
-      - emergingtalent       # Maven Securities early-careers board
-      - financialtechnologypartners  # FT Partners IB, London summer internship
+      # --- Multi-strat & systematic hedge funds (London internships confirmed) ---
+      - schonfeld            # multi-strat, London summer interns
+      - exoduspoint          # multi-strat, London summer interns
+      - mangroup             # Man Group / AHL - EU-hosted board, London tech & quant interns
+      - mwnaintern           # Marshall Wace intern board (NA-led but posts globally)
+      - mwamevents           # Marshall Wace London insight days & quant events
+      - quadraturecapital    # Quadrature - London 11-week summer interns (apps Sept-Jan)
+      - walleyecapital-external-internships  # Walleye - quant intern board
+      # --- Prop trading / market making ---
+      - dvtrading            # DV Trading, London/global
+      - emergingtalent       # Maven Securities early-careers
+      - optiverprivate       # Optiver intern board
+      - xpcampus             # XP / campus board, London quant & risk interns
+      # --- Investment banking (boutique) ---
+      - financialtechnologypartners  # FT Partners, London summer internship
+      # --- Digital assets / other ---
       - galaxydigitalservices        # Galaxy, London summer internship
-      - optiverprivate       # Optiver market-making intern board
     lever:
-      []                     # add finance-firm Lever tokens here if you find any
+      - wintermute-trading   # Wintermute - crypto algo-trading, London; live internships
 
 # ----------------------------------------------------------------- scoring
 scoring:
