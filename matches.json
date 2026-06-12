@@ -1,1 +1,315 @@
-[]
+[
+  {
+    "id": "2c67eebcbdaeaa29",
+    "title": "Quantitative Investment Researcher - BlackRock Investment Institute, Associate",
+    "company": "BlackRock",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5760704520?utm_medium=api&utm_source=88a1c016",
+    "snippet": "About this role BlackRock is one of the world's largest and most prominent investment management firms, managing trillions of dollars in assets for institutions, governments, and individuals worldwide.? We offer a wide range of investment products and services, including mutual funds, exchange-traded funds (ETFs), and alternative investments, catering to various investor needs and risk appetites.? BlackRock has embraced technology in its operations and investment strategies, utilizing advanced …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong firm and location, but role appears graduate/associate-level, not clearly internship; AI descriptions suggest possible auto-generation",
+    "deadline": null,
+    "pros": [
+      "Tier-1 asset manager, strong fit for AM interest",
+      "London-based, preferred location",
+      "Quantitative focus aligns with Python and modelling skills"
+    ],
+    "cons": [
+      "Title says 'Associate', not internship—may be graduate-only",
+      "Description truncated/unclear on duration and level",
+      "Investment Institute vs core AM unclear"
+    ],
+    "analysis": "BlackRock is an obvious target for someone with your asset management background and quant skills. However, the 'Associate' title and truncated job description raise uncertainty about whether this is genuinely an internship or a graduate hire. Before applying, clarify the actual duration and whether current students are eligible. If it's a proper internship programme, this is a strong fit; if graduate-only, deprioritise.",
+    "found_on": "2026-06-12 07:31 UTC"
+  },
+  {
+    "id": "42e2c7c810e19190",
+    "title": "Private Credit Intern (London - 6 Months)",
+    "company": "Hayfin Capital Management",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5760170439?utm_medium=api&utm_source=88a1c016",
+    "snippet": "The internship is full-time, for six months, from September 2026. You will be based in Hayfin's London office. The Private Credit off-cycle internship is an opportunity to experience the culture and atmosphere in the Private Credit Division by taking on some of the responsibilities and functions of a Full-time Analyst for a short period. You will spend your time working across the private credit strategies (Direct Lending and Special Opportunities), building basic skills in financial analysis, …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 85,
+    "reason": "Off-cycle internship, private credit (structured finance adjacent), London, paid, clear 6-month duration, strong alignment with candidate profile",
+    "deadline": null,
+    "pros": [
+      "Off-cycle internship, fits term-time constraint perfectly",
+      "Structured finance exposure via private credit",
+      "Clear 6-month, full-time, paid role"
+    ],
+    "cons": [
+      "September 2026 start may conflict if still in final year; verify term dates"
+    ],
+    "analysis": "This is a strong fit: Hayfin is a respected private credit firm, the role is explicitly an internship, it's off-cycle (which you flagged as interesting), London-based, and paid. Your structured finance internship experience is directly relevant. The only check needed is confirming September 2026 doesn't overlap with your university term dates. Apply soon—off-cycle roles like this often have rolling deadlines.",
+    "found_on": "2026-06-12 07:31 UTC"
+  },
+  {
+    "id": "07ba28122f6dde99",
+    "title": "2026 Blackstone Credit & Insurance, Private Credit Strategies –Off Cycle Intern (London)",
+    "company": "Blackstone",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5759898824?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at www.blackstone.com . Follow @blacks…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 83,
+    "reason": "Off-cycle internship, Blackstone (tier-1 alternative asset manager), private credit, London, paid; exceptional prestige fit",
+    "deadline": null,
+    "pros": [
+      "Blackstone is a market leader, excellent prestige",
+      "Off-cycle internship structure matches your needs",
+      "Private credit/structured finance directly relevant"
+    ],
+    "cons": [
+      "Posting description is truncated; start date and duration unclear",
+      "Highly competitive; no signal of acceptance likelihood"
+    ],
+    "analysis": "Blackstone's off-cycle internship programme is genuinely prestigious and aligns perfectly with your sector and location preferences. Your structured finance and asset management background is exactly what they want. The main drawback is that the posting lacks details on duration, pay clarification, and specific start dates—reach out to their careers team or check their main site for full terms. This is worth pursuing even if competitive.",
+    "found_on": "2026-06-12 07:31 UTC"
+  },
+  {
+    "id": "65e62af244e2e59d",
+    "title": "Risk & Permanent Controls Intern",
+    "company": "Unnamed global asset servicing provider (via Reed Recruitment)",
+    "location": "EC2A2DA",
+    "url": "https://www.reed.co.uk/jobs/risk-permanent-controls-intern/56892276",
+    "snippet": "A leading global asset servicing provider are seeking a Risk and Permanent Controls Intern to join their team in London. The organisation delivers a comprehensive range of services to institutional clients, including custody services for Collective Investment Schemes, Pension Schemes, and Wealth Managers, as well as fund administration and related services. The Risk & Permanent Controls Intern will support the local Risk Department in monito...",
+    "source": "Reed",
+    "trust": "verified",
+    "score": 62,
+    "reason": "Risk & controls internship at tier-1 asset servicing firm, London, paid, strong relevance; but asset servicing (back/middle office) rather than front-office AM/IB",
+    "deadline": null,
+    "pros": [
+      "Internship role, London-based",
+      "Asset servicing at institutional scale, strong brand employers typically",
+      "Risk and controls relevant to finance sector"
+    ],
+    "cons": [
+      "Asset servicing = back/middle office, not front-office AM, IB, or trading",
+      "Posting vague on firm identity and role specifics",
+      "Risk monitoring is compliance-focused, not investment-focused"
+    ],
+    "analysis": "This is a legitimate internship at a major asset servicing firm (likely BNY Mellon, State Street, or Euroclear). It's paid, London, and offers exposure to institutional finance. However, asset servicing and risk controls are middle/back-office functions, not the front-office investment banking, asset management, or trading roles you prioritised. It's a respectable finance internship, but lower on your priority list. Only apply if you haven't placed elsewhere.",
+    "found_on": "2026-06-12 07:31 UTC"
+  },
+  {
+    "id": "929b2733c538c7b5",
+    "title": "2026 Commercial & Investment Banking - Markets - Off-Cycle Internship - London",
+    "company": "JPMorgan Chase & Co.",
+    "location": "Central London",
+    "url": "https://www.reed.co.uk/jobs/2026-commercial-investment-banking-markets-off-cycle-internship-london/57012619",
+    "snippet": "2026 Commercial & Investment Banking - Markets - Off-Cycle Internship - London 210757890 T09:53:23+00:00 London Seasonal Employee Full time Job Profile If you are enthusiastic, committed and looking to apply what you've learned to real-world financial experience, we have a role for you. Our global markets teams operate in all major financial markets and develop sophisticated financial solutions to help clients manage risk, increase returns a...",
+    "source": "Reed",
+    "trust": "verified",
+    "score": 82,
+    "reason": "JPMorgan off-cycle internship in Markets (S&T); London; internship-level; strong fit for your profile.",
+    "deadline": null,
+    "pros": [
+      "Off-cycle internship (fits around term dates)",
+      "Markets/Sales & Trading (target sector)",
+      "Top-tier bank, central London location"
+    ],
+    "cons": [
+      "Job posting is heavily truncated; unclear full scope",
+      "Verify 2026 timing aligns with your graduation June 2028"
+    ],
+    "analysis": "This is a strong opportunity. JPMorgan's off-cycle internship in Markets aligns directly with your sales & trading interests and the flexibility suits your term-time constraints. Central London is your preferred location. Your Python, Excel, and financial modelling skills are relevant, and JPMorgan actively recruits strong economists. The posting is truncated but the basics are excellent. Confirm the 2026 timeline works with your academic calendar and apply promptly.",
+    "found_on": "2026-06-12 07:31 UTC"
+  },
+  {
+    "id": "5e30ed8faad7f55a",
+    "title": "Renewable Energy Investment Banking M&A Intern - Augusta & Co",
+    "company": "Augusta & Co",
+    "location": "London",
+    "url": "https://www.reed.co.uk/jobs/renewable-energy-investment-banking-m-a-intern-augusta-co/56730857",
+    "snippet": "Augusta & Co is a leading independent financial advisory and investment house serving the European renewable energy sector since 2002. Headquartered in London, Augusta has completed 125 transactions across 25GW of renewable energy to an aggregate value in excess of €13bn. Augusta provides capital raising, M&A advice and a growing asset management business helping clients invest in special investment situations in European renewables. The...",
+    "source": "Reed",
+    "trust": "verified",
+    "score": 71,
+    "reason": "Investment banking M&A internship at boutique; London; sector fit good but boutique scale and renewable energy speciality may narrow appeal.",
+    "deadline": null,
+    "pros": [
+      "Investment banking M&A (target sector)",
+      "Internship-level role, London location",
+      "125 completed transactions shows real deal experience"
+    ],
+    "cons": [
+      "Renewable energy speciality may be narrow focus",
+      "Boutique (smaller than bulge-bracket; less prestige signal)",
+      "Posting from eFinancialCareers; confirm internship format and dates"
+    ],
+    "analysis": "Augusta & Co is a credible independent investment bank with genuine transaction experience in renewable energy M&A. The internship aligns with your investment banking interests and London location. However, the renewable energy speciality means you'll be pigeonholed into that sector, which may limit optionality for your future career. The boutique scale is less prestigious than bulge-bracket but offers more hands-on experience. Check the posting for internship duration and confirm it fits your summer availability or off-cycle flexibility.",
+    "found_on": "2026-06-12 07:31 UTC"
+  },
+  {
+    "id": "aa3f2d50cd57b5b1",
+    "title": "Internship - Tikehau Special Opportunities TSO - London - July 2026 - Tikehau Capital",
+    "company": "Tikehau Capital",
+    "location": "London",
+    "url": "https://www.reed.co.uk/jobs/internship-tikehau-special-opportunities-tso-london-july-2026-tikehau-capital/56975398",
+    "snippet": "Responsibilities : Taking an active supporting role in the entire spectrum of a special opportunities investment, Analysing investment memos, presentations and specific analytical researches, Understanding financial performance and market positioning of selected companies, Researching strategic and financial trends within industries, Undertaking company valuation based on different methodologies (M&A multiples, trading comps, etc.), Having e...",
+    "source": "Reed",
+    "trust": "verified",
+    "score": 76,
+    "reason": "Special opportunities/asset management internship; London; July 2026 timing; strong sector match with financial modelling exposure.",
+    "deadline": "July 2026",
+    "pros": [
+      "Asset management (target sector); you have AM internship experience",
+      "Special opportunities/private markets (aligned with structured finance interests)",
+      "Company valuation & financial modelling (skills you have)"
+    ],
+    "cons": [
+      "July 2026 is during UK term time (Easter term typically runs until mid-June; need to confirm dates)",
+      "Posting from eFinancialCareers; verify role structure and remuneration"
+    ],
+    "analysis": "Tikehau Capital is a serious asset management firm and this special opportunities internship matches your sector interests and prior experience. The focus on valuation, financial modelling, and analytical research aligns with your Excel and Python skills. However, July 2026 may fall during your Easter term depending on your university's exact calendar. Contact Tikehau or your careers service to confirm whether this timing is feasible as an internship or if you'd need to negotiate a later start or off-cycle arrangement. Verify compensation is included and not unpaid before applying.",
+    "found_on": "2026-06-12 07:31 UTC"
+  },
+  {
+    "id": "c24b3da754ef8234",
+    "title": "Internship - Capital Market Strategies Equity Research - July 2026 - London - Tikehau Capital",
+    "company": "Tikehau Capital",
+    "location": "London",
+    "url": "https://www.reed.co.uk/jobs/internship-capital-market-strategies-equity-research-july-2026-london-tikehau-capital/56976127",
+    "snippet": "Main Responsibilites : The intern will perform the functions of an equity research analyst within our Capital Markets Strategies department. In this capacity, the intern's main duties will include but will not be limited to: Qualitative and quantitative assessment of the business model and performance of European and US publicly-listed companies (based on financial and non-financial data); Financial and valuation modelling; Provide idea generati...",
+    "source": "Reed",
+    "trust": "verified",
+    "score": 73,
+    "reason": "Equity research internship; asset management; London; July 2026; strong skills match but timing concern with term dates.",
+    "deadline": "July 2026",
+    "pros": [
+      "Equity research (adjacent to asset management; your target sector)",
+      "Financial & valuation modelling (your skillset)",
+      "Qualitative/quantitative analysis of European & US companies (Economics background relevant)"
+    ],
+    "cons": [
+      "July 2026 timing likely conflicts with UK Easter term (mid-June finish)",
+      "Posting from eFinancialCareers; verify internship structure and compensation"
+    ],
+    "analysis": "This is a solid opportunity at Tikehau Capital in Capital Markets Strategies. Equity research sits squarely in the asset management space, your financial modelling skills are directly applicable, and your Economics degree gives you strong analytical foundations. The main blocker is July 2026 timing. Check your university's academic calendar urgently: if Easter term finishes by mid-June, you might start early July. Otherwise, contact Tikehau or your careers office to negotiate an earlier start or September slot. Confirm this is a paid internship before proceeding.",
+    "found_on": "2026-06-12 07:31 UTC"
+  },
+  {
+    "id": "7ec60912c1a8e066",
+    "title": "Investment Banking - EMEA Leveraged Finance - Analyst - London",
+    "company": "JPMorgan Chase",
+    "location": "London, United Kingdom",
+    "url": "https://www.themuse.com/jobs/jpmorganchase/investment-banking-emea-leveraged-finance-analyst-london-304ba0",
+    "snippet": "This is an exciting opportunity for someone who is highly motivated to work in a dynamic team and to contribute to our Investment Banking business.Building your career in Investment Banking Division, you will work with top-tier professionals at the heart of a leading global investment bank. With hands-on learning opportunities, mentoring and feedback, and numerous development opportunities, you will gain a strong career foundation in financial services. Leveraged Finance comprises JPMorgan's leveraged loan and high yield bond product groups within the firm's Investment Banking Line of Business",
+    "source": "The Muse",
+    "trust": "verified",
+    "score": 82,
+    "reason": "JPMorgan Investment Banking Analyst internship, London, perfect sector/location/seniority",
+    "deadline": null,
+    "pros": [
+      "Investment Banking Analyst, exact target role",
+      "London location, top preference",
+      "Leveraged Finance, structured finance relevant to your background"
+    ],
+    "cons": [],
+    "analysis": "This is a JPMorgan Investment Banking Analyst role in London focused on Leveraged Finance—a nearly perfect match for your profile. You want investment banking in London, this is a Tier 1 bank offering exactly that in a structured finance subsector where you have prior internship experience. The posting emphasizes learning, mentoring, and development, which aligns with internship positioning. Check the job posting carefully for explicit internship vs. permanent analyst distinction, but this is a strong target. Your Economics background and Python skills will be valuable; prioritise financial modelling excellence in your application.",
+    "found_on": "2026-06-12 07:31 UTC"
+  },
+  {
+    "id": "f88e282658b593fa",
+    "title": "Applied AI ML Senior Associate - Machine Learning Center of Excellence - Time Series Reinforcement Learning",
+    "company": "JPMorgan Chase",
+    "location": "London, United Kingdom",
+    "url": "https://www.themuse.com/jobs/jpmorganchase/applied-ai-ml-senior-associate-machine-learning-center-of-excellence-time-series-reinforcement-learning",
+    "snippet": "The Chief Data & Analytics Office (CDAO) at JPMorgan Chase is responsible for accelerating the firm's data and analytics journey. This includes ensuring the quality, integrity, and security of the company's data, as well as leveraging this data to generate insights and drive decision-making. The CDAO is also responsible for developing and implementing solutions that support the firm's commercial goals by harnessing artificial intelligence and machine learning technologies to develop new products, improve productivity, and enhance risk management effectively and responsibly.As an Applied AI ML ",
+    "source": "The Muse",
+    "trust": "verified",
+    "score": 68,
+    "reason": "JPMorgan ML/AI Senior Associate in CDAO, London, strong tech fit, but seniority and specialism uncertain for internship",
+    "deadline": null,
+    "pros": [
+      "JPMorgan, Tier 1 bank, London location",
+      "Machine learning/AI in finance, cutting-edge",
+      "Chief Data & Analytics Office, central to bank strategy"
+    ],
+    "cons": [
+      "Senior Associate level, not clear if internship or permanent",
+      "Highly specialised (time series, reinforcement learning), may require PhD or deep ML background",
+      "Vague on eligibility for 2nd year undergrad"
+    ],
+    "analysis": "This is a JPMorgan ML role in their Chief Data & Analytics Office in London—excellent firm, location, and sector. The role involves cutting-edge ML for time series and reinforcement learning in finance, which could appeal to your Python background. However, the 'Senior Associate' title and specialisation in reinforcement learning suggest this is likely a graduate-level or early-career permanent hire, not an undergrad internship. Check carefully whether JPMorgan is hiring for internship-track or full-time. If internship, your Python skills could make you competitive; if permanent, you're likely underqualified at 2nd year BSc. Request clarification before investing time in the application.",
+    "found_on": "2026-06-12 07:31 UTC"
+  },
+  {
+    "id": "1c954011d91fcab6",
+    "title": "Lead Data Engineer (Capital Markets Risk - Data Visualization)",
+    "company": "EPAM Systems / JPMorgan Chase",
+    "location": "London, United Kingdom",
+    "url": "https://www.themuse.com/jobs/epamsystems/lead-data-engineer-capital-markets-risk-data-visualization",
+    "snippet": "As one of the world's leading digital transformation service providers, we are looking to actively expand our Data Practice across the UK to meet increasing client demand for our services. We are hiring for a Lead Data Engineer with a specific focus on Capital Markets Risk.The ideal candidate will have extensive experience designing, developing and optimizing data pipelines and infrastructure within the capital markets risk domain. This role requires expertise in risk analytics, data engineering best practices and data visualization.#LI-DNI   Responsibilities Design, develop and optimize data ",
+    "source": "The Muse",
+    "trust": "verified",
+    "score": 58,
+    "reason": "JPMorgan Capital Markets data engineering, London, strong sector/location fit, but mid-level permanent role not internship",
+    "deadline": null,
+    "pros": [
+      "Capital Markets Risk, investment banking adjacent",
+      "London location, perfect for you",
+      "Data engineering for sophisticated finance use case"
+    ],
+    "cons": [
+      "Lead Data Engineer level, senior permanent hire",
+      "Role via EPAM (recruitment firm), not direct JPM hire",
+      "Requires extensive prior experience in data engineering"
+    ],
+    "analysis": "EPAM is recruiting a lead data engineer for JPMorgan's Capital Markets Risk team in London. The location and capital markets focus are excellent, but this is a mid-to-senior permanent role requiring extensive prior data pipeline and risk analytics experience—not an internship or entry-level position. The fact that EPAM is hiring rather than JPMorgan directly also suggests vendor/contractor model. Look for JPMorgan's own analyst or internship programmes instead.",
+    "found_on": "2026-06-12 07:31 UTC"
+  },
+  {
+    "id": "09c0ac8e8e9068c1",
+    "title": "2027 Summer Internships-Express Your Interest",
+    "company": "Schonfeld",
+    "location": "Dubai, United Arab Emirates; Hong Kong, Hong Kong; London, England, United Kingdom; Miami, Florida, United States; New York, New York, United States",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7635430",
+    "snippet": "<p><strong><u>The Role</u></strong></p>\n<p>Exciting career opportunities are on the horizon! Schonfeld will open a wide range of roles across many offices and many departments this August for the Class of 2027. Whether your passion lies in investing, technology, data, operations, or corporate functions, you’ll find dynamic positions that let you make an immediate impact and grow alongside our world-class team. Keep an eye on our careers page and be ready to apply when postings go live—you won’t want to miss the chance to build your future with us.</p>\n<p><strong><u>Our Internship</u></strong><",
+    "source": "schonfeld (Greenhouse)",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Hedge fund summer internship 2027; London location, right timing",
+    "deadline": null,
+    "pros": [
+      "Summer internship explicitly for Class of 2027 (matches graduation June 2028)",
+      "London office available (strong preference match)",
+      "Multi-asset hedge fund aligns with sales & trading / asset management interests"
+    ],
+    "cons": [
+      "Posting is vague—no specific role details",
+      "Dubai, Hong Kong, NY offices also listed but London available"
+    ],
+    "analysis": "Schonfeld is a hedge fund opening summer internship roles across multiple departments (investing, trading, tech, ops) in August for the Class of 2027. You graduate June 2028, so timing aligns perfectly with an off-cycle summer position. London is explicitly listed as one of five locations. The vagueness is a drawback—roles haven't been posted in detail yet—but this is a legitimate fit to bookmark and monitor. Check their careers page when postings go live for specific openings in trading or asset management.",
+    "found_on": "2026-06-12 07:31 UTC"
+  },
+  {
+    "id": "579e53082df738e7",
+    "title": "Internships",
+    "company": "Quadrature Capital",
+    "location": "London, New York",
+    "url": "https://job-boards.greenhouse.io/quadraturecapital/jobs/4255974",
+    "snippet": "<h2 class=\"two-col-illustration__title\">We offer students from a variety of different backgrounds the chance to apply their skills and curiosity to real-world, interesting problems</h2>\n<div class=\"two-col-illustration__paragraph\">\n<p>We believe that the learning and insights you gather through education set the tone for your early career and help you figure out what you want to do. We offer London and New York based, competitively paid summer internships to University students from across the globe.&nbsp;</p>\n<h3 class=\"two-col__title\">Internships</h3>\n<div class=\"two-col__paragraph\">\n<p>We o",
+    "source": "quadraturecapital (Greenhouse)",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Competitive summer internship at prop trading firm; London available",
+    "deadline": null,
+    "pros": [
+      "Competitively paid summer internships for university students",
+      "London-based location matches preference",
+      "Prop trading/systematic investing aligns with finance sector interests"
+    ],
+    "cons": [
+      "Posting lacks specific role detail and dates",
+      "Mention of 'variety of backgrounds' suggests inclusive criteria but no explicit internship confirmation in excerpt"
+    ],
+    "analysis": "Quadrature Capital is a systematic trading and investment firm offering paid summer internships from London and New York to university students across various backgrounds. Location and internship status tick your boxes, and the firm's investment focus aligns well with your interests in trading and asset management. The posting is brief and doesn't detail specific roles, start dates, or eligibility, so you'll need to visit their careers page for detail. Given your Python and financial modelling skills and economics background, you'd be competitive. Strong candidate to pursue.",
+    "found_on": "2026-06-12 07:31 UTC"
+  }
+]
