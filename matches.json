@@ -1,5 +1,147 @@
 [
   {
+    "id": "08016d2c50f5c7c7",
+    "title": "Analyst",
+    "company": "LCM Partners",
+    "location": "The City, Central London",
+    "url": "https://www.adzuna.co.uk/jobs/details/5762052318?utm_medium=api&utm_source=88a1c016",
+    "snippet": "LCM Partners is one of Europe's leading alternatives investment management firms. We are widely recognised for our deep understanding of credit and track record of generating strong, risk adjusted returns for our clients through investments in performing, rescheduled and non-performing loans. We have one of the strongest origination capabilities in Europe and are responsible for managing over €65 billion across over 6,000 portfolios. Our senior team has over 500 years of combined experience wit…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Strong fit: leading alternatives asset manager, London location, analyst role matches your AM background.",
+    "deadline": null,
+    "pros": [
+      "Tier-1 alternatives asset manager (€65bn AUM)",
+      "Credit and structured assets align with your experience",
+      "Central London location, strong relevant brand"
+    ],
+    "cons": [
+      "Posting is truncated; full role scope unclear",
+      "No explicit internship or salary mentioned",
+      "No timeline or off-cycle flexibility stated"
+    ],
+    "analysis": "LCM Partners is a genuine, prestigious player in European alternatives and structured credit—directly aligned with your structured finance and asset management internship background. The analyst title and London City location are very attractive. However, the posting is incomplete and doesn't explicitly confirm this is an internship role, summer timing, or compensation level. Reach out to confirm it's a paid summer/off-cycle internship before investing time.",
+    "found_on": "2026-06-13 10:14 UTC"
+  },
+  {
+    "id": "1ab84ba5740d2c95",
+    "title": "Analyst",
+    "company": "LCM Partners",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5762038729?utm_medium=api&utm_source=88a1c016",
+    "snippet": "LCM Partners is one of Europe's leading alternatives investment management firms. We are widely recognised for our deep understanding of credit and track record of generating strong, risk adjusted returns for our clients through investments in performing, rescheduled and non-performing loans. We have one of the strongest origination capabilities in Europe and are responsible for managing over €65 billion across over 6,000 portfolios. Our senior team has over 500 years of combined experience wit…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Duplicate of id 08016d2c50f5c7c7; same strong fit, same caveats apply.",
+    "deadline": null,
+    "pros": [
+      "Tier-1 alternatives asset manager (€65bn AUM)",
+      "Credit and structured assets align with your experience",
+      "London location, strong relevant brand"
+    ],
+    "cons": [
+      "Posting is truncated; full role scope unclear",
+      "No explicit internship or salary mentioned",
+      "No timeline or off-cycle flexibility stated"
+    ],
+    "analysis": "This is the same LCM Partners Analyst role as the previous posting, just listed twice with slightly different location formatting (London, UK vs The City). Treat as one opportunity. Same caveat: confirm paid internship status and summer availability before applying.",
+    "found_on": "2026-06-13 10:14 UTC"
+  },
+  {
+    "id": "170a62fa975dd6fb",
+    "title": "Software Developer",
+    "company": "Selby Jennings London",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5761832264?utm_medium=api&utm_source=88a1c016",
+    "snippet": "We are partnering with a leading, technology-driven quantitative trading firm seeking Research Developers to join their team supporting a portfolio of fully automated electronic trading strategies. This role sits at the intersection of quant research and software engineering, offering the opportunity to work on real-time trading systems with direct impact on strategy performance and PnL. Responsibilities: Design and develop predictive signals and trading models Analyse noisy, high-frequency dat…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 65,
+    "reason": "Quant/algo trading (sales & trading adjacent), Python fits, but 'Research Developer' skews software engineering over finance.",
+    "deadline": null,
+    "pros": [
+      "Python and quantitative modelling directly relevant",
+      "Real-time trading systems, high-impact PnL work",
+      "Selby Jennings is recruiting for genuine trading firm"
+    ],
+    "cons": [
+      "Title 'Software Developer' suggests engineering focus, not trading",
+      "No mention of internship, timeline, or compensation",
+      "Role emphasis on coding vs. financial analysis"
+    ],
+    "analysis": "This is a quant trading engineering role—adjacent to your sales & trading interest, but pitched as software development rather than analyst/trader track. Your Python skills are a strong fit, and the work (predictive signals, high-frequency trading) is intellectually aligned. However, Selby Jennings is a recruiter, and the posting doesn't clarify if this is an internship position, summer-only availability, or paid role. Request clarity on internship status and duration before applying.",
+    "found_on": "2026-06-13 10:14 UTC"
+  },
+  {
+    "id": "2b2e1fc8fe91886b",
+    "title": "2026 Commercial & Investment Banking - Markets - Off-Cycle Internship - London",
+    "company": "JPMorgan Chase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5761412395?se=HggspxBn8RGa1bJZ-qbD6A&utm_medium=api&utm_source=88a1c016&v=2CE54B82369FA3CC5C498F30B27A8DAFDE3765CF",
+    "snippet": "Description Job Profile If you are enthusiastic, committed and looking to apply what you’ve learned to real-world financial experience, we have a role for you. Our global markets teams operate in all major financial markets and develop sophisticated financial solutions to help clients manage risk, increase returns and solve complex financial problems. Globally, we hold key positions across all major financial markets. This approach means you'll be part of an energetic team, helping to solve a r…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 92,
+    "reason": "JPMorgan off-cycle IB internship, top-tier bank, Markets (S&T), London, paid, eligible.",
+    "deadline": null,
+    "pros": [
+      "Off-cycle internship explicitly stated; fits around term dates",
+      "Top-tier investment banking, Markets (Sales & Trading focus)",
+      "London-based; directly matches your preferred location and sectors"
+    ],
+    "cons": [],
+    "analysis": "This is an excellent fit. JPMorgan's off-cycle internship in Markets is exactly what you're looking for: a paid, prestigious banking role in your preferred sector and location, with flexibility to fit around your academic calendar. Your structured finance and asset management internship background, combined with your economics expertise and Python skills, position you well competitively. Apply immediately if you haven't already; JPMorgan off-cycle deadlines can be rolling. Check the full JD for specific deadlines and application requirements.",
+    "found_on": "2026-06-13 10:14 UTC"
+  },
+  {
+    "id": "0bcbddc2b28592fa",
+    "title": "2026 Commercial & Investment Banking - Markets - Off-Cycle Internship - London",
+    "company": "JPMorgan Chase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5761412395?se=fsWo6RBn8RG0btGxqHH3qw&utm_medium=api&utm_source=88a1c016&v=2CE54B82369FA3CC5C498F30B27A8DAFDE3765CF",
+    "snippet": "Description Job Profile If you are enthusiastic, committed and looking to apply what you’ve learned to real-world financial experience, we have a role for you. Our global markets teams operate in all major financial markets and develop sophisticated financial solutions to help clients manage risk, increase returns and solve complex financial problems. Globally, we hold key positions across all major financial markets. This approach means you'll be part of an energetic team, helping to solve a r…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 92,
+    "reason": "Duplicate of id 2b2e1fc8fe91886b; JPMorgan off-cycle IB Markets internship, London.",
+    "deadline": null,
+    "pros": [
+      "Off-cycle internship explicitly stated; fits around term dates",
+      "Top-tier investment banking, Markets (Sales & Trading focus)",
+      "London-based; directly matches preferred location and sectors"
+    ],
+    "cons": [],
+    "analysis": "This is a duplicate of the JPMorgan off-cycle Markets internship (id 2b2e1fc8fe91886b). Treat as one opportunity. Excellent fit; apply with urgency.",
+    "found_on": "2026-06-13 10:14 UTC"
+  },
+  {
+    "id": "d248f307ce4098b8",
+    "title": "finance stagiair L'Or al Benelux",
+    "company": "team5pm",
+    "location": "Amsterdam, Noord-Holland",
+    "url": "https://www.adzuna.nl/details/5762164319?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Ben jij een student met een passie voor cijfers, structuur en het oplossen van financi le vraagstukken? Werk je nauwkeurig, houd je overzicht in grote datastromen en krijg je energie van processen die tot in de puntjes kloppen? En wil je tijdens je stage een belangrijke rol spelen in het order-to-cash proces achter influencer marketing voor L'Or al Benelux? Dan is deze stage precies wat je zoekt. Finance stagiair L Or al Benelux Als Finance Stagiair L'Or al Benelux help je mee binnen het volled…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 60,
+    "reason": "Finance internship, Amsterdam (acceptable), but Dutch-language posting and limited detail raise concerns.",
+    "deadline": null,
+    "pros": [
+      "Finance stagiair (internship) role, paid",
+      "Amsterdam is within your acceptable locations",
+      "Order-to-cash process / accounting exposure relevant"
+    ],
+    "cons": [
+      "Posting is in Dutch; language barrier and unclear if role is in English",
+      "L'Oréal Benelux suggests FMCG finance, not your preferred sectors (IB, AM, trading)",
+      "No salary, duration, or eligibility details provided"
+    ],
+    "analysis": "This is a finance internship (stage) with L'Oréal Benelux in Amsterdam—a solid company in an acceptable location. However, the posting is in Dutch, which raises questions about the role's working language and your readiness to operate in Dutch (you list French as working proficiency, not Dutch). The role appears to be corporate accounting/order-to-cash for a FMCG business, not the investment banking, trading, or structured finance you've emphasized. Contact team5pm to clarify working language, salary, duration, and role focus before investing effort.",
+    "found_on": "2026-06-13 10:14 UTC"
+  },
+  {
     "id": "e5c0991e6d3d44dd",
     "title": "2026 Commercial & Investment Banking - Markets - Off-Cycle Internship - Paris",
     "company": "JPMorganChase",
