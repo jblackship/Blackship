@@ -1,5 +1,153 @@
 [
   {
+    "id": "1e5ec061b67ecedd",
+    "title": "Data Analyst Intern - Financial Markets",
+    "company": "The Opportunity Hub UK",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5767403477?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Role Summary: An exceptional opportunity for Business or Economics undergraduates with a demonstrated interest in wholesale financial markets and data analytics. This role offers hands-on experience in business analysis within a pioneering financial market data company in the City. Company Profile: Located in the heart of London's financial district, our client is at the forefront of building the future of data and reporting for financial markets. They work collaboratively with all industry sta…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Data Analyst role in financial markets for Economics undergraduates; strong location and field match with minor seniority ambiguity.",
+    "deadline": null,
+    "pros": [
+      "Explicitly targets 'Business or Economics undergraduates'",
+      "Financial markets data analytics aligns with your interests",
+      "London City location; hands-on wholesale markets experience"
+    ],
+    "cons": [
+      "Posting is duplicated (id e844cf782cc0ed0a); unclear if active",
+      "No explicit internship label—verify it's internship-level and paid",
+      "Vague on start dates and term-time compatibility"
+    ],
+    "analysis": "This is a good fit on paper: you're an Economics student, they want Economics students, and financial markets data work sits squarely in your target sector. However, the posting is vague on pay, duration, and term-time scheduling. Before applying, confirm it's a proper paid internship and that summer/off-cycle timing works around your studies. Also check if this posting is still active given the duplicate.",
+    "found_on": "2026-06-18 12:13 UTC"
+  },
+  {
+    "id": "4fc7f64cccfba1db",
+    "title": "Quantitative Investment Researcher - Associate",
+    "company": "BlackRock",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5766911137?se=vsZBMA9r8RGF0oMhL7eT8A&utm_medium=api&utm_source=88a1c016&v=ECBEB6EBDFEE11F7F3C9DD28AC3FD0D626C1FD0B",
+    "snippet": "BlackRock is one of the worlds largest and most prominent investment management firms, managing trillions of dollars in assets for institutions, governments, and individuals worldwide. We offer a wide range of investment products and services, including mutual funds, exchange-traded funds (ETFs), and alternative investments, catering to various investor needs and risk appetites. BlackRock has embraced technology in its operations and investment strategies, utilizing advanced analytics, machine …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "BlackRock quant role is prestigious asset management (target sector) but title suggests senior researcher level, not intern.",
+    "deadline": null,
+    "pros": [
+      "BlackRock is world-leading asset manager; direct target sector",
+      "London location; quantitative role matches Python + modelling skills",
+      "Your asset management internship experience is directly relevant"
+    ],
+    "cons": [
+      "'Associate' title signals mid-level, not internship—likely overqualified or wrong tier",
+      "Posting is truncated; unclear if this is actually intern-level",
+      "Quant researcher role may require advanced maths/ML beyond your stated skills"
+    ],
+    "analysis": "BlackRock and asset management are exactly your target, but the 'Quantitative Investment Researcher - Associate' title is a red flag. Associates are typically post-graduate hires, not interns. The description is cut off, making it hard to assess real requirements. Reach out to BlackRock's careers page directly to find their actual summer internship schemes—they almost certainly run them, and they'd be a much better fit than this unclear posting.",
+    "found_on": "2026-06-18 12:13 UTC"
+  },
+  {
+    "id": "e844cf782cc0ed0a",
+    "title": "Data Analyst Intern - Financial Markets",
+    "company": "The Opportunity Hub UK",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5766344595?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Role Summary: An exceptional opportunity for Business or Economics undergraduates with a demonstrated interest in wholesale financial markets and data analytics. This role offers hands-onRole Summary: An exceptional opportunity for Business or Economics undergraduates with a demonstrated interest in wholesale financial markets and data analytics. This role offers hands-on experience in business analysis within a pioneering financial market data company in the City.Company Profile: Located in th…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Duplicate of id 1e5ec061b67ecedd—same strong fundamentals, same caveats apply.",
+    "deadline": null,
+    "pros": [
+      "Explicitly targets 'Business or Economics undergraduates'",
+      "Financial markets data analytics aligns with your interests",
+      "London City location; hands-on wholesale markets experience"
+    ],
+    "cons": [
+      "Duplicate posting; verify it's still active and not a system error",
+      "No explicit internship label—verify it's internship-level and paid",
+      "Vague on start dates and term-time compatibility"
+    ],
+    "analysis": "This is a duplicate of posting 1e5ec061b67ecedd with identical description. Apply only once to avoid confusion. Same advice as the original: confirm pay, internship status, and summer timing before submitting.",
+    "found_on": "2026-06-18 12:13 UTC"
+  },
+  {
+    "id": "0740c708a80b8066",
+    "title": "Q1 2027 Off-Cycle Internship - Corporate Finance (Technology)",
+    "company": "Houlihan Lokey",
+    "location": "Frankfurt am Main, Hessen",
+    "url": "https://www.adzuna.de/details/5767275397?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Business Unit: Corporate Finance Industry: Technology&xa;&xa; Overview Houlihan Lokey, Inc. (NYSE:HLI) is a leading global investment bank recognized for delivering independent strategic and financial advice to corporations, financial sponsors, and governments. With uniquely deep industry expertise, broad international reach, and a partnership approach rooted in trust, the firm provides innovative, integrated solutions across mergers and acquisitions, capital solutions, financial restructuring,…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 81,
+    "reason": "Houlihan Lokey Corporate Finance off-cycle internship (Q1 2027) in Frankfurt; strong fit across field, level, location, and timing.",
+    "deadline": null,
+    "pros": [
+      "Leading investment bank; corporate finance (M&A) is direct target sector",
+      "Off-cycle internship explicitly matches your interest in flexible timing",
+      "Q1 2027 timing aligns with your term-around availability as 2nd year student"
+    ],
+    "cons": [
+      "Frankfurt location is secondary preference; not London",
+      "Technology industry focus—ensure it matches your interests, not a dealbreaker"
+    ],
+    "analysis": "This is a strong fit. Houlihan Lokey is a top-tier global investment bank, and their Corporate Finance internship is exactly in your target sector. The Q1 2027 off-cycle timing is ideal because it avoids conflicting with your academic term (you graduate June 2028, so Q1 2027 is during your 2nd year). Frankfurt is your second choice after London, which is a minor trade-off. Apply strongly here; your financial modelling and economics background are exactly what they want.",
+    "found_on": "2026-06-18 12:13 UTC"
+  },
+  {
+    "id": "7f465195fc42571e",
+    "title": "Q4 2026 Off-Cycle Internship - Corporate Finance (Technology)",
+    "company": "Houlihan Lokey",
+    "location": "Frankfurt am Main, Hessen",
+    "url": "https://www.adzuna.de/details/5767269813?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Business Unit: Corporate Finance Industry: Technology&xa;&xa; Overview Houlihan Lokey, Inc. (NYSE:HLI) is a leading global investment bank recognized for delivering independent strategic and financial advice to corporations, financial sponsors, and governments. With uniquely deep industry expertise, broad international reach, and a partnership approach rooted in trust, the firm provides innovative, integrated solutions across mergers and acquisitions, capital solutions, financial restructuring,…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Houlihan Lokey Corporate Finance off-cycle internship (Q4 2026) in Frankfurt; strong fit across field, level, location, and timing.",
+    "deadline": null,
+    "pros": [
+      "Leading investment bank; corporate finance (M&A) is direct target sector",
+      "Off-cycle internship explicitly matches your interest in flexible timing",
+      "Q4 2026 timing is even earlier—good for gaining finance experience early"
+    ],
+    "cons": [
+      "Frankfurt location is secondary preference; not London",
+      "Q4 2026 (late 2026) may conflict with your exam schedule or term dates—verify availability",
+      "Technology industry focus—ensure it matches your interests"
+    ],
+    "analysis": "This is a strong match with a slight timing caveat. Q4 2026 is late 2026, which falls during or near your 2nd year exams or term. Before applying, check your academic calendar to confirm you can take 6-8 weeks off in November–December 2026 without clashing with coursework deadlines. If you can manage it, Houlihan Lokey Corporate Finance is a top choice. Frankfurt over London is a minor downside.",
+    "found_on": "2026-06-18 12:13 UTC"
+  },
+  {
+    "id": "36d60be3b0862ec4",
+    "title": "Q1 2027 Off-Cycle Internship - Corporate Finance (Industrials)",
+    "company": "Houlihan Lokey",
+    "location": "Frankfurt am Main, Hessen",
+    "url": "https://www.adzuna.de/details/5767266063?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Business Unit: Corporate Finance Industry: Industrials&xa;&xa; Overview Houlihan Lokey, Inc. (NYSE:HLI) is a leading global investment bank recognized for delivering independent strategic and financial advice to corporations, financial sponsors, and governments. With uniquely deep industry expertise, broad international reach, and a partnership approach rooted in trust, the firm provides innovative, integrated solutions across mergers and acquisitions, capital solutions, financial restructuring…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 80,
+    "reason": "Houlihan Lokey Corporate Finance off-cycle internship (Q1 2027, Industrials) in Frankfurt; strong fit on field, level, timing.",
+    "deadline": null,
+    "pros": [
+      "Leading investment bank; corporate finance (M&A) is direct target sector",
+      "Off-cycle internship matches your interest in flexible term-around timing",
+      "Q1 2027 timing aligns well with your 2nd year schedule"
+    ],
+    "cons": [
+      "Frankfurt location is secondary preference; not London",
+      "Industrials sector—verify alignment with your interests (vs. technology track)"
+    ],
+    "analysis": "Another strong Houlihan Lokey opportunity. Q1 2027 (January–March) is well-positioned for a 2nd-year student, and Industrials M&A is a solid alternative to Technology. Your economics and financial modelling skills apply equally here. Frankfurt remains the secondary location trade-off, but Houlihan Lokey's prestige and your target sector make this worth pursuing alongside the Technology Q1 2027 posting.",
+    "found_on": "2026-06-18 12:13 UTC"
+  },
+  {
     "id": "fdb43286be7fb666",
     "title": "Desk Assistant - Sovereign, Supranational & Agency",
     "company": "TP ICAP Group Services",
