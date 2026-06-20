@@ -1,5 +1,80 @@
 [
   {
+    "id": "0100bfbb6f20c86c",
+    "title": "Accounting Intern",
+    "company": "Not specified; European mid-market value investment firm",
+    "location": "Central London, London",
+    "url": "https://www.adzuna.co.uk/jobs/details/5770243032?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Finance Intern - Accounting 12 month internshipA prominent European mid-market value investment firm with a robust legacy in the DACH and Nordic regions, is currentlyFinance Intern - Accounting 12 month internshipA prominent European mid-market value investment firm with a robust legacy in the DACH and Nordic regions, is currently seeking a Finance Intern - Accounting. Operating with offices in all over Europe and in China our client stands out for its sector specialisation and a diverse team o…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 62,
+    "reason": "Asset management firm accounting internship in Europe; 12-month duration doesn't match summer availability.",
+    "deadline": null,
+    "pros": [
+      "Investment/asset management sector matches interests",
+      "European location (offices across Europe)",
+      "Finance-focused accounting role"
+    ],
+    "cons": [
+      "12-month internship incompatible with term dates",
+      "Real company unclear from posting",
+      "Accounting focus less aligned than S&T/IB"
+    ],
+    "analysis": "This is posted via The Opportunity Hub but describes a 12-month accounting internship at a European value investment firm with DACH and Nordic focus. While the sector (asset management) and geography (Europe) partially fit, the 12-month duration is a hard constraint—you need summer-only or off-cycle internships around term dates. The vague company description also raises concerns. Contact The Opportunity Hub directly if interested to clarify actual firm, dates, and structure.",
+    "found_on": "2026-06-20 10:20 UTC"
+  },
+  {
+    "id": "009a912a5975ed07",
+    "title": "12 Month Internship - Corporate & Leveraged Finance",
+    "company": "CA CIB UK (Crédit Agricole CIB)",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5768661625?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Embark on a dynamic career path with this internship in Corporate & Leveraged Finance at a prestigious global bank. This role is a gateway for graduates to immerse themselves in high-stakes finance, working on large-cap transactions and gaining exposure to a broad range of financial practices and global markets. Day-to-Day of the Role: Market and Credit Analysis: Conduct thorough analysis of business sectors and transactional pricing to assess potential leveraged finance issuers. Support in Pit…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Prestigious 12-month corporate & leveraged finance internship at top global bank; duration and timing unclear relative to term dates.",
+    "deadline": null,
+    "pros": [
+      "Leveraged finance matches structured finance interests",
+      "Prestigious global bank",
+      "London location"
+    ],
+    "cons": [
+      "12-month duration may conflict with term/graduation",
+      "Unclear if summer-only or off-cycle placement",
+      "Need to verify start/end dates vs. academic calendar"
+    ],
+    "analysis": "This is a strong sector and employer fit—Crédit Agricole CIB is a top-tier investment bank with an established graduate internship programme in corporate and leveraged finance in London. The role offers exactly the skills and exposure you're seeking: credit analysis, financial modelling, market research. However, the posting says '12-month' internship, which could conflict with your June 2028 graduation and term dates. Before applying, contact CA CIB directly to confirm whether this is a fixed summer internship, an off-cycle flexible-date internship, or a longer commitment that won't fit your timeline.",
+    "found_on": "2026-06-20 10:20 UTC"
+  },
+  {
+    "id": "7093039bce934018",
+    "title": "Stagiair Programmaconsultant (afstudeerstagiair) Pensioen van Str",
+    "company": "APG (Dutch pension fund asset manager)",
+    "location": "Amsterdam, Noord-Holland",
+    "url": "https://www.adzuna.nl/details/5769935946?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Werk mee aan de grootste transitie in de Nederlandse pensioensector Functieomschrijving Wil jij tijdens je stage: vanaf dag één meewerken aan complexe en zichtbare vraagstukken impact maken op de inrichting van het nieuwe pensioenstelsel samenwerken met ervaren professionals op het snijvlak van business, IT en finance Als stagiair programmaconsultant binnen het programma Pensioen van Straks werk je in het hart van de grootste transformatie binnen APG. Je draait volledig mee in het programmabure…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 55,
+    "reason": "Dutch-language pension/programme management internship at APG Amsterdam; language barrier and sector mismatch.",
+    "deadline": null,
+    "pros": [
+      "Asset management/institutional finance sector",
+      "Amsterdam location (on your list)",
+      "Complex financial systems and business/IT/finance intersection"
+    ],
+    "cons": [
+      "Posted in Dutch; requires Dutch language proficiency",
+      "Programme consulting/IT focus, not trading/IB/structured finance",
+      "Graduation internship ('afstudeerstagiair') likely requires being in final year"
+    ],
+    "analysis": "APG is a major Dutch pension fund and asset manager based in Amsterdam, which is on your list of acceptable locations. However, the posting is in Dutch and describes work on a pension system transformation programme ('Pensioen van Straks'). While it involves finance and business systems, it's programme/transformation consulting with a strong IT component—not aligned with your interests in investment banking, sales & trading, or structured finance. The 'afstudeerstagiair' label suggests it's for final-year thesis/graduation interns. Your Dutch is not mentioned, and your French is 'working proficiency', not Dutch. Unlikely to be a strong fit.",
+    "found_on": "2026-06-20 10:20 UTC"
+  },
+  {
     "id": "1045d52c1873fd3c",
     "title": "12 Month Internship - Corporate & Leveraged Finance",
     "company": "Crédit Agricole CIB",
