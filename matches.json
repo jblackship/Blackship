@@ -1,5 +1,80 @@
 [
   {
+    "id": "6979d6711771e2b9",
+    "title": "Analyst, Operational Risk (London, GB)",
+    "company": "European Bank for Reconstruction & Development",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5775716322?utm_medium=api&utm_source=88a1c016",
+    "snippet": "European Bank for Reconstruction & Development Requisition ID 36780 Office Country United Kingdom Office City London Division Risk Management Contract Type Short Term Contract Length 12 months Posting End Date 30/06/2026 Purpose of Job: The Analyst supports the development implementation and ongoing enhancement of the Bank's Operational Risk Management Framework. This includes training processes, procedures, reporting and governance arrangements identify, assess, monitor, and report operational…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Risk management at development bank; strong location and eligibility, but 12-month contract and less mainstream finance",
+    "deadline": "2026-06-30",
+    "pros": [
+      "Operational risk role in major multilateral financial institution",
+      "London-based, strong institution",
+      "12-month contract suggests formal, paid position"
+    ],
+    "cons": [
+      "Posting closed 30 June 2026 (before your summer 2027 availability)",
+      "Risk management rather than core investment banking/trading",
+      "No mention of structured finance, asset management or S&T focus"
+    ],
+    "analysis": "The EBRD is a legitimate, well-regarded institution and this role offers genuine finance exposure in a risk management context. However, the posting deadline of 30 June 2026 has likely already passed, and the 12-month contract length doesn't fit your summer internship window or term dates. The operational risk focus is also less aligned with your stated preference for investment banking, asset management, or trading. Worth flagging to the EBRD directly if they run rolling recruitment, but this specific posting is not currently viable.",
+    "found_on": "2026-06-25 10:24 UTC"
+  },
+  {
+    "id": "9008a91f09a8f21a",
+    "title": "Intern, Capital solutions",
+    "company": "CDPQ (Caisse de dépôt et placement du Québec)",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5774974621?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Become invested in the community! Join a global investment group and take pride in helping build a sustainable future. At La Caisse: We value your unique contribution to a world-class team. We give you work that allows you to flourish and excel. We offer opportunities to learn from experts who generously share their knowledge. We are fully invested so that you can fulfil our mission every day. Over the years, we have built a strong culture based on four pillars: ambition to push ourselves furth…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 68,
+    "reason": "Asset management internship at major global investor; right field and location, vague on internship mechanics",
+    "deadline": null,
+    "pros": [
+      "Asset management role; directly relevant to your experience and interests",
+      "Major global institutional investor with London presence",
+      "Strong employer brand and learning culture"
+    ],
+    "cons": [
+      "Posting is extremely vague; no detail on duration, pay, or start date",
+      "No explicit mention of internship vs other contract type",
+      "No indication of whether role fits around term dates"
+    ],
+    "analysis": "CDPQ is an elite global asset manager and this 'Intern, Capital Solutions' role is exactly the type of opportunity you should pursue. The vagueness of the posting is the main issue—it reads more like a marketing snippet than a job spec. Before applying, you'll need to dig into their careers page to find the full role description, learn the internship duration and timing, and confirm it's paid and fits your summer availability. The firm's quality and the sector alignment make this worth investigating further, but don't assume the details without digging.",
+    "found_on": "2026-06-25 10:24 UTC"
+  },
+  {
+    "id": "7ce4d289fba2953c",
+    "title": "Structured Investments Operations – Trading Services Analyst",
+    "company": "JPMorgan Chase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5774973354?se=mhuoDoBw8RGrvYF11hqYFQ&utm_medium=api&utm_source=88a1c016&v=ADD98D929DA08BA5F286CC0AC9DA2ED5EE709635",
+    "snippet": "Description Join our Structured Investment Operations team - support trade execution, improve processes and partner with Sales for clients now! As a Trading Services Analyst within Structured Investments Operations Team, you will support end-to-end execution across origination support, client onboarding, subscriptions, trade booking, confirmations, settlements, lifecycle management, and fee governance. You’ll contribute to standardization and reporting, help maintain tracking tools, and work wi…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 58,
+    "reason": "Structured investments operations at JPMorgan; right bank and location, but ops/middle-office rather than client-facing trading",
+    "deadline": null,
+    "pros": [
+      "Structured finance exposure; directly relevant to your internship experience",
+      "Tier-1 investment bank in London; prestigious",
+      "Trade execution and operations; builds valuable technical skills"
+    ],
+    "cons": [
+      "Trading Services Analyst is middle-office/operations, not sales & trading or front-office",
+      "Heavy emphasis on process, reporting and lifecycle management vs client interaction",
+      "Seniority level unclear; may be grad-hire rather than intern role"
+    ],
+    "analysis": "JPMorgan is world-class and structured investments is a sector you've worked in before, which is a strong signal. However, this role sits in Structured Investment Operations, which is middle-office support for traders and clients—not a sales & trading or front-office strategist role. You'll learn operations and structured products deeply, but if you're seeking direct market exposure or client-facing experience, this is a step back from your previous internships. Check whether it's explicitly an internship programme with a summer window and whether the level and pay match your expectations. If structured finance operations interests you as a career path, pursue it; if you're seeking client interaction or market access, look elsewhere.",
+    "found_on": "2026-06-25 10:24 UTC"
+  },
+  {
     "id": "03f5c3cd7eca7a42",
     "title": "Structured Investments Operations – Trading Services Analyst",
     "company": "JPMorgan Chase",
