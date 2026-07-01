@@ -1,5 +1,78 @@
 [
   {
+    "id": "4fe1429aeb48850a",
+    "title": "2027 Placement Program - EMEA",
+    "company": "BlackRock",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5782636678?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Region EMEA Countries United Kingdom Cities Edinburgh, London Recruitment Year 2027 Program Off-cycle Internship Program Job description BlackRock offers placement opportunities for a duration of 12 months. This programme is for candidates graduating in 2029 who are required by their degree to complete a long-term internship. This opportunity gives you a chance to work closely with and add value to a specific team, set and complete objectives, and be exposed to BlackRock's culture and ethos. Du…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong fit on company/location/type, but graduation year mismatch creates eligibility doubt.",
+    "deadline": null,
+    "pros": [
+      "BlackRock, tier-1 asset management firm",
+      "Off-cycle internship, fits your schedule flexibility",
+      "London location, your strong preference"
+    ],
+    "cons": [
+      "Programme targets 2029 graduates; you graduate June 2028",
+      "12-month duration may not align with your term dates",
+      "Eligibility unclear for one year earlier graduation cohort"
+    ],
+    "analysis": "This is a genuine BlackRock placement programme for 2029 graduates, but you graduate a year earlier (June 2028). The description says 'candidates graduating in 2029 who are required by their degree to complete a long-term internship'—you likely don't meet the cohort requirement. Contact BlackRock directly to confirm if earlier graduates can apply, but don't assume you're eligible. If they have equivalent 2028 cohort streams, this would be excellent fit.",
+    "found_on": "2026-07-01 10:57 UTC"
+  },
+  {
+    "id": "02e81f3b00b10c0d",
+    "title": "Off-Cycle Internship, Venture Capital, 2027 - Macquarie Group",
+    "company": "Macquarie Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5782273687?se=VKWsujt18RGI04_Vu1Eg6g&utm_medium=api&utm_source=88a1c016&v=9FB6E757498A86A2EB38D158048F84225050AA24",
+    "snippet": "This three-month off-cycle internship gives you the opportunity to work alongside experienced colleagues on meaningful, venture capital activity, shaping the internet and software sectors across the UK, Europe and global markets. You'll build technical skills, contribute to live deals and gain hands-on experience supporting the team across a range of ongoing projects. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're e…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Right level, location, and company; off-cycle timing excellent; VC/structured finance gap minor.",
+    "deadline": null,
+    "pros": [
+      "Three-month off-cycle internship, fits summer timing perfectly",
+      "Macquarie, top-tier global financial services firm",
+      "London location, technical skills transferable to deals"
+    ],
+    "cons": [
+      "Venture capital focus; your background is structured finance",
+      "Tech sector deals may be outside your current expertise"
+    ],
+    "analysis": "Macquarie's off-cycle VC internship is well-aligned on company prestige, location, and internship structure. Your structured finance background shows you can learn deal workflows fast, and Python skills are valuable in VC tech diligence. The three-month duration should fit neatly around term dates if timed right. VC is adjacent to your finance interests rather than a perfect match, but Macquarie's brand and hands-on deal exposure make this genuinely compelling. Confirm exact dates before applying to ensure no term-time clash.",
+    "found_on": "2026-07-01 10:57 UTC"
+  },
+  {
+    "id": "0bb718788bb35aab",
+    "title": "2027 Off-cycle Internship Program - EMEA",
+    "company": "BlackRock",
+    "location": "Paris, Ile-de-France",
+    "url": "https://www.adzuna.fr/land/ad/5782869361?se=xv66vTt18RG5C7bifAHLJw&utm_medium=api&utm_source=88a1c016&v=558F2DA422FD058181DEA5740ECEDBB5A531F048",
+    "snippet": "2027 Off-cycle Internship Program - EMEA Region EMEA Countries France, Germany, Italy, Switzerland Cities Frankfurt, Milan, Munich, Paris, Zurich Recruitment Year 2027 Program Off-cycle Internship Program Job description BlackRock offers six-month Off-Cycle Internships in some of our Continental European offices. This programme is for candidates in their penultimate year of studies who will graduate with an undergraduate or master's degree between July 2027 and 2028. This opportunity gives you …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 81,
+    "reason": "Tier-1 asset manager, off-cycle internship, strong European location, excellent graduation/eligibility fit.",
+    "deadline": null,
+    "pros": [
+      "BlackRock, world-leading asset manager, fits your targets",
+      "Six-month off-cycle internship, ideal schedule flexibility",
+      "Paris or Frankfurt locations, both your preferred cities"
+    ],
+    "cons": [
+      "Six months is substantial; confirm it doesn't clash term dates",
+      "Continental European office may differ from London experience"
+    ],
+    "analysis": "This BlackRock programme is explicitly for 2027 recruitment (penultimate year students graduating 2027–2028), which matches you perfectly. Six months off-cycle, Paris or Frankfurt locations, and a tier-1 asset manager tick all your boxes. The duration is longer than a typical summer internship, so verify exact start/end dates align with your term calendar and visa work restrictions. Your EU citizenship + French working proficiency make you a competitive candidate. This is a strong fit; prioritise it highly.",
+    "found_on": "2026-07-01 10:57 UTC"
+  },
+  {
     "id": "0c2faec0a8beb712",
     "title": "2027 January Off-Cycle Analyst - Strategic Advisory & Restructuring, Paris",
     "company": "PJT Partners",
