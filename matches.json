@@ -1,5 +1,79 @@
 [
   {
+    "id": "70e4ab290f41ff6b",
+    "title": "Intern, Kroll Agency & Trustee Services",
+    "company": "Kroll",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5785358361?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Description Kroll Agency & Trustee Services (FKA Lucid Agency and Trustee Services Ltd) was launched in 2017 and provides independent, conflict-free, third-party loan agency, security agency and bond trustee services. Servicing the bond and loan markets, Kroll has developed its strong reputation by providing proactive and bespoke services to its clients. We currently manage over 1000 loan and bond transactions. The Client Services Team administer our portfolio of transactions from a business as…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 55,
+    "reason": "Structured finance adjacent role in London; agency/trustee services is niche; internship level unclear; limited detail provided.",
+    "deadline": null,
+    "pros": [
+      "Structured finance-related (loan/bond agency services)",
+      "London location matches your preference",
+      "Client services/operations exposure in capital markets"
+    ],
+    "cons": [
+      "Role focuses on client administration, not deal experience",
+      "Agency/trustee services is peripheral to core structured finance",
+      "Job posting extremely vague; internship status, duration, dates unclear"
+    ],
+    "analysis": "Kroll is a legitimate structured finance player, and the agency/trustee services team does touch loans and bonds, which aligns loosely with your structured finance interest. However, the role reads as administrative client servicing rather than deal-driven work, and the posting gives almost no detail on internship structure, duration, or summer availability. Before applying, contact Kroll directly to confirm this is a genuine summer internship program with clear dates and scope.",
+    "found_on": "2026-07-02 17:14 UTC"
+  },
+  {
+    "id": "a5146c5efa529caa",
+    "title": "Off-Cycle Internship, Venture Capital, 2027 - Macquarie Group",
+    "company": "Macquarie Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5782273687?se=-KeTeTl28RGuL_Dxd_Dh0Q&utm_medium=api&utm_source=88a1c016&v=9FB6E757498A86A2EB38D158048F84225050AA24",
+    "snippet": "This three-month off-cycle internship gives you the opportunity to work alongside experienced colleagues on meaningful, venture capital activity, shaping the internet and software sectors across the UK, Europe and global markets. You'll build technical skills, contribute to live deals and gain hands-on experience supporting the team across a range of ongoing projects. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're e…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 80,
+    "reason": "Off-cycle internship, venture capital, 3 months, Macquarie Group, London; strong fit on location, timing, firm tier, and seniority.",
+    "deadline": null,
+    "pros": [
+      "Off-cycle internship explicitly matches your interest",
+      "Macquarie tier-1 global bank, strong finance credentials",
+      "3-month duration fits around term dates and UK visa constraints"
+    ],
+    "cons": [
+      "Venture capital (VC) is adjacent to but not your stated first-choice sectors (IB/AM/S&T/structured finance)",
+      "Deadline and exact dates not specified in posting"
+    ],
+    "analysis": "Macquarie is a world-tier financial services group, and this is a genuine three-month off-cycle internship in venture capital—exactly what you said interests you. You'll work on live deals and build technical skills in a highly reputable firm in London. VC is slightly outside your core interest areas (investment banking, asset management, trading), but it's still prestigious finance and will build modeling and deal experience. Reach out to Macquarie to confirm the 2027 timeline and application window align with your term dates.",
+    "found_on": "2026-07-02 17:14 UTC"
+  },
+  {
+    "id": "feed51da7bb388bf",
+    "title": "2027 Off-cycle Internship Program - EMEA",
+    "company": "BlackRock",
+    "location": "Paris, Ile-de-France",
+    "url": "https://www.adzuna.fr/land/ad/5782869361?se=IMipejl28RGJ_ZNmKGa4Pg&utm_medium=api&utm_source=88a1c016&v=558F2DA422FD058181DEA5740ECEDBB5A531F048",
+    "snippet": "2027 Off-cycle Internship Program - EMEA Region EMEA Countries France, Germany, Italy, Switzerland Cities Frankfurt, Milan, Munich, Paris, Zurich Recruitment Year 2027 Program Off-cycle Internship Program Job description BlackRock offers six-month Off-Cycle Internships in some of our Continental European offices. This programme is for candidates in their penultimate year of studies who will graduate with an undergraduate or master's degree between July 2027 and 2028. This opportunity gives you …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 85,
+    "reason": "BlackRock 6-month off-cycle internship, EMEA, Paris listed; top-tier asset manager; strong seniority and location fit.",
+    "deadline": null,
+    "pros": [
+      "BlackRock is world-leading asset manager; core target sector",
+      "Off-cycle internship, 6 months; fits around your term dates",
+      "Paris is in your acceptable locations list; EU/UK visa eligible"
+    ],
+    "cons": [
+      "6 months is longer than typical summer internship; ensure it fits your schedule",
+      "Posting does not specify exact division (e.g., IB, trading, research) within BlackRock",
+      "Application year listed as 2027; confirm deadlines and whether you meet penultimate-year requirement"
+    ],
+    "analysis": "This is a highly competitive, prestigious off-cycle internship at BlackRock, the world's largest asset manager. The program explicitly targets penultimate-year students (you are 2nd year, graduating June 2028—you fit). The six-month duration is longer than a typical summer break, so verify it can run during your break without conflicting with term. As an EU citizen with a UK student visa, you are eligible to work. The Paris location matches your acceptable cities. Apply strongly, but clarify the specific division and exact dates with BlackRock before submitting.",
+    "found_on": "2026-07-02 17:14 UTC"
+  },
+  {
     "id": "49a1e457124b2dd4",
     "title": "Off-Cycle Internship, Venture Capital, 2027 - Macquarie Group",
     "company": "Macquarie Group",
