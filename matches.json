@@ -1,5 +1,55 @@
 [
   {
+    "id": "1d5088e508b19d84",
+    "title": "Finance stage",
+    "company": "Things I Like Things I Love",
+    "location": "Noord west, Amsterdam",
+    "url": "https://www.adzuna.nl/details/5787464108?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Finance meewerk stage Bij Things I Like Things I Love zijn we op zoek naar een Finance stagiaire om ons team te komen versterken. Per aug/ sept 2026 - Full-time / Part-time · Amsterdam Binnen Finance & Control krijg je de kans om mee te werken in een modern, data-gedreven bedrijf waar automatisering en technologie worden ingezet om financiële processen te verbeteren. We geloven dat cijfers een verhaal vertellen. Samen met de business maken we dat verhaal inzichtelijk, controleren we het en gebr…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 60,
+    "reason": "Finance internship in Amsterdam, right field and level, but timing and role detail unclear.",
+    "deadline": null,
+    "pros": [
+      "Finance & control role matches sector interest",
+      "Internship/stage structure aligns with what you seek",
+      "Amsterdam is acceptable alternative location"
+    ],
+    "cons": [
+      "Dutch-language posting; role conducted in Dutch is likely",
+      "August/September 2026 start may conflict with term dates",
+      "Limited detail on role scope or whether paid"
+    ],
+    "analysis": "This is a genuine finance internship at a Dutch company (Things I Like Things I Love) with a data-driven finance function. The posting is in Dutch, which suggests the working language is Dutch—your working French helps, but Dutch fluency is not mentioned. The August/September 2026 timing needs careful checking against your term dates; if it's fully in the summer break and paid, it could work, but the vague posting and language barrier introduce friction. Contact them to confirm language requirements and exact dates before investing effort.",
+    "found_on": "2026-07-05 08:25 UTC"
+  },
+  {
+    "id": "42fb9be4395664c2",
+    "title": "Junior Finance Associate Internship",
+    "company": "Commify",
+    "location": "Amsterdam, Noord-Holland",
+    "url": "https://www.adzuna.nl/details/5786994325?utm_medium=api&utm_source=88a1c016",
+    "snippet": "At Commify, we're not just a company, we're a globally connected team of innovators who love what we do. As a CPaaS leader with 25 years of groundbreaking experience, we're the force behind over 5 billion customer interactions each year, enabling businesses worldwide to connect via advanced channels like SMS, RCS, and complex mobile journeys. Our culture is our core strength. Operating across the UK, EMEA, the USA, and Australia, we've fostered a truly diverse and connected environment, earning…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 55,
+    "reason": "Junior finance internship in Amsterdam, right level and sector, but role scope and pay unclear.",
+    "deadline": null,
+    "pros": [
+      "Junior Finance Associate Internship explicitly targets your level",
+      "Amsterdam location within acceptable geography",
+      "Tech-enabled fintech company relevant to finance career"
+    ],
+    "cons": [
+      "Description is vague (company boilerplate, no role detail)",
+      "No explicit mention of pay or term dates",
+      "Commify is a CPaaS/telecom platform, not core finance business"
+    ],
+    "analysis": "Commify is a legitimate CPaaS (Communications Platform as a Service) company with a finance function; the Junior Finance Associate Internship title suggests they're recruiting at your level. However, the posting provides almost no information about the actual role, responsibilities, or whether it's summer-specific or year-round. It's also not clear if the internship is paid (though company size and location suggest yes). Reach out to Commify directly to understand the exact scope, timeline, and compensation before applying. If it ticks the timing and pay boxes, it's worth pursuing.",
+    "found_on": "2026-07-05 08:25 UTC"
+  },
+  {
     "id": "5cb365a98687e12e",
     "title": "2026 Blackstone Credit & Insurance, Insurance Strategy and Solutions H2 Off Cycle Intern (London)",
     "company": "Blackstone",
