@@ -1,5 +1,55 @@
 [
   {
+    "id": "e8cd7bef7c5035c6",
+    "title": "Data Analyst Intern - Financial Markets",
+    "company": "The Opportunity Hub UK",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5795126726?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Role Summary: An exceptional opportunity for Business or Economics undergraduates with a demonstrated interest in wholesale financial markets and data analytics. This role offers hands-onRole Summary: An exceptional opportunity for Business or Economics undergraduates with a demonstrated interest in wholesale financial markets and data analytics. This role offers hands-on experience in business analysis within a pioneering financial market data company in the City.Company Profile: Located in th…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Right location and field, but role is data analytics-focused rather than core finance track; unclear if paid.",
+    "deadline": null,
+    "pros": [
+      "London location, strong preference match",
+      "Financial markets data experience aligns with analytics skills",
+      "Economics undergraduate explicitly welcomed"
+    ],
+    "cons": [
+      "Data analytics role sits outside stated finance specialisms (IB, AM, S&T, consulting)",
+      "Company name 'The Opportunity Hub UK' suggests recruitment board, not direct employer—real firm unknown",
+      "No explicit mention of paid status or internship duration"
+    ],
+    "analysis": "This posting has the right geography and welcomes your background, but the actual employer is hidden behind a job board name, which is a red flag. The role itself is data-focused rather than client-facing finance, so it's tangential to your stated goals in investment banking or asset management. Before applying, verify the real hiring company and confirm this is a paid summer internship; if it checks out, it could be a solid Plan B that develops your Excel and Python skills in a financial context.",
+    "found_on": "2026-07-11 06:26 UTC"
+  },
+  {
+    "id": "a4801a80c85cd26e",
+    "title": "Junior Analyst - Distressed M&A, Special Situations",
+    "company": "Interpath Advisory",
+    "location": "Paris, Ile-de-France",
+    "url": "https://www.adzuna.fr/details/5794259875?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Interpath is an international and fast-growing advisory business with deep expertise in a broad range of specialisms spanning deals, advisory and restructuring. We deliver tangible results for global businesses, their investors, and stakeholders when complex problems arise, and critical decisions need to be made. Interpath is agile, independent, and conflict-free, and our passion for doing what’s right, every time, sets us apart. Our diverse teams provide specialist technical knowledge combined…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 68,
+    "reason": "Strong finance specialism (restructuring/M&A advisory), Paris location acceptable, but seniority and experience level unclear for 2nd year.",
+    "deadline": null,
+    "pros": [
+      "Distressed M&A and restructuring align with finance sector goals",
+      "Paris is an acceptable secondary location for you",
+      "Advisory role mirrors strategy consulting interest"
+    ],
+    "cons": [
+      "Title 'Junior Analyst' may imply experienced hire, not typical undergrad intern placement",
+      "No explicit internship label or summer dates mentioned",
+      "No mention of pay or whether unpaid; Interpath is restructuring-focused, not core IB/AM"
+    ],
+    "analysis": "Interpath is a real, credible firm, and restructuring advisory is genuine finance work that fits your stated interests. However, the posting doesn't clearly signal this is an undergraduate internship program—'Junior Analyst' can mean entry-level professional roles, not summer placements. Before applying, confirm with Interpath that this is a paid summer internship for 2nd-year undergraduates and verify the salary or daily rate. If it is, this is a strong alternative to mainstream investment banking.",
+    "found_on": "2026-07-11 06:26 UTC"
+  },
+  {
     "id": "d681dab3f7d653f6",
     "title": "2027 Blackstone Credit and Insurance, Private Credit Strategies Summer Analyst (London)",
     "company": "Blackstone",
