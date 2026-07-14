@@ -1,5 +1,79 @@
 [
   {
+    "id": "6b419ff817023ed9",
+    "title": "Automotive Treasury Intern",
+    "company": "ABL Recruitment",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5799944844?se=mGnyr8B_8RGXptzwgxhogw&utm_medium=api&utm_source=88a1c016&v=97077E42F620399E132A6889ECC6D6CE6B5CD01F",
+    "snippet": "Automotive Finance Treasury Intern (1 Year FTC) This is an unusual and high-impact role for someone with a degree or experience in a Finance environment. You will be joining a fast-growth business within a strategic function that sits right at the heart of funding, risk management and revenue generation. Your role directly enables customer purchases, driving sales and profitability and you will work closely with banks, capital markets and senior leadership, directly influencing the company’s fi…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Finance role in London with treasury focus, but 1-year FTC contract suggests graduate position rather than summer internship",
+    "deadline": null,
+    "pros": [
+      "Treasury and structured finance alignment",
+      "London-based, work with capital markets",
+      "Paid role with real impact"
+    ],
+    "cons": [
+      "Appears to be graduate/permanent contract, not summer internship",
+      "1-year FTC duration incompatible with June 2028 graduation timeline",
+      "No term-time flexibility mentioned"
+    ],
+    "analysis": "This looks like a genuine finance role in your target sector and city, but there's a critical mismatch: you're seeking a summer internship before graduation in June 2028, and this is explicitly a 1-year fixed-term contract. That would require you to leave university and commit to a full year, which doesn't fit your stated timeline. If you're willing to defer graduation or take a gap year, this could be strong, but as posted it's incompatible with your studies.",
+    "found_on": "2026-07-14 20:14 UTC"
+  },
+  {
+    "id": "d4e70b4881faa712",
+    "title": "Internships",
+    "company": "Quadrature Capital",
+    "location": "London, KY",
+    "url": "https://jooble.org/jdp/2124082335192631667",
+    "snippet": "...We offer London and New York based, competitively paid summer internships to University students from across the globe.\nInternships\nWe offer...  ...that might not have considered a career in quantitative finance, so if you don’t have experience with markets or our industry...",
+    "source": "Jooble",
+    "trust": "verified",
+    "score": 85,
+    "reason": "Paid quantitative finance summer internship, London-based, open to students globally – strong fit",
+    "deadline": null,
+    "pros": [
+      "Competitively paid summer internship for students",
+      "Quantitative finance / trading focus",
+      "London-based (primary preference)"
+    ],
+    "cons": [
+      "Listing location shows 'London, KY' (likely data error; real firm is London UK)",
+      "Quantitative role may favour strong coding backgrounds"
+    ],
+    "analysis": "Quadrature Capital is a genuine London-based quant hedge fund. The listing location appears corrupted (showing Kentucky), but this is a well-known firm offering paid summer internships. Your Python skills, economics background, and structured finance internship experience fit well. The only question is competition on technical depth, but they explicitly welcome students without market experience. Verify the application link carefully to ensure you're applying to the real London office, not a spam posting using their name.",
+    "found_on": "2026-07-14 20:14 UTC"
+  },
+  {
+    "id": "ffda43011a6ddb26",
+    "title": "Intern",
+    "company": "European Bank for Reconstruction and Development",
+    "location": "London, KY",
+    "url": "https://jooble.org/jdp/-1075985927898823387",
+    "snippet": "...would be an asset.\nWorking knowledge of an official language of the Bank other than English.\nWhat is it like to work at the EBRD?\nOur...  ...difference to people's lives and help shape the future of the regions we invest in.\nThe EBRD environment provides you with:\nVaried, stimulating...",
+    "source": "Jooble",
+    "trust": "verified",
+    "score": 62,
+    "reason": "EBRD internship in London – development finance, relevant sector, but location shows Kentucky (data corruption)",
+    "deadline": null,
+    "pros": [
+      "EBRD is genuine multilateral development bank",
+      "Finance/banking sector fit",
+      "Working knowledge of non-English language (French) valued"
+    ],
+    "cons": [
+      "Location shows 'London, KY' (USA) – likely data corruption; real firm is London UK",
+      "Development finance, not investment banking/asset management/trading",
+      "Internship description truncated; no detail on pay or exact role"
+    ],
+    "analysis": "The EBRD is a real and respected institution in London. However, this listing is clearly corrupted (showing Kentucky). Development finance is adjacent to your target sectors but less directly aligned than banking or asset management. Before applying, verify the actual vacancy on the EBRD's official careers site. If it's confirmed London-based and paid, it could work, but development finance is a narrower fit than your stated preferences.",
+    "found_on": "2026-07-14 20:14 UTC"
+  },
+  {
     "id": "2841a2ff9d96b969",
     "title": "Automotive Treasury Intern",
     "company": "ABL Recruitment",
