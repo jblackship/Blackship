@@ -1,5 +1,80 @@
 [
   {
+    "id": "ba4205bad5b91987",
+    "title": "Leadership Rotation Network Analyst",
+    "company": "DRW",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5801190339?utm_medium=api&utm_source=88a1c016",
+    "snippet": "As a participant in our yearlong middle and back-office rotation program, referred to internally as our Leadership Rotation Network (LRN), you’ll begin your journey with our immersive onboarding experience. This will reinforce your knowledge of market fundamentals, equipping you for the dynamic rotations that follow. Additionally, it offers an invaluable opportunity to build strong relationships with your fellow cohort members and integrate into the wider LRN community. Following onboarding, yo…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong location and finance sector fit, but yearlong commitment conflicts with June 2028 graduation and candidate seeking summer internships.",
+    "deadline": null,
+    "pros": [
+      "Prestigious trading firm with strong finance credentials",
+      "London-based, candidate's preferred location",
+      "Structured rotations across middle/back-office desirable for career exploration"
+    ],
+    "cons": [
+      "Yearlong program doesn't align with summer internship preference",
+      "Timing unclear—likely starts before summer or extends beyond graduation",
+      "Middle/back-office rotations less aligned with IB/asset management focus"
+    ],
+    "analysis": "DRW is a legitimate and well-regarded proprietary trading firm, and this Leadership Rotation program has prestige. However, the description suggests a full-year commitment that would conflict with your term dates and graduation timeline. Before applying, clarify whether they offer a summer-only track or if this is genuinely a 12-month program starting in summer 2026. If it's the latter, it's misaligned with your stated preference for summer internships fitting around term dates.",
+    "found_on": "2026-07-15 14:53 UTC"
+  },
+  {
+    "id": "7439cbaba47b4dce",
+    "title": "Summer 2026 Finance Intern – AI Training",
+    "company": "Aptura",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5801166228?utm_medium=api&utm_source=88a1c016",
+    "snippet": "About Aptura Aptura AI builds domain-specific AI systems for regulated industries such as finance by combining frontier models with real-world expert judgment. Our leadership includes professionals from Lazard and Partners Group, and we operate across London and San Francisco. We work with AI labs and vertical AI companies to improve how models reason in finance, healthcare, and legal workflows. The Opportunity We're hiring a Summer Finance Intern to join our London team for a 12-week placement…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 55,
+    "reason": "AI/fintech company in London with finance focus, but role is AI training (non-traditional finance) and may not develop core banking/trading skills.",
+    "deadline": null,
+    "pros": [
+      "Finance-adjacent fintech in London (preferred location)",
+      "12-week summer placement fits availability perfectly",
+      "Leadership from Lazard/Partners Group signals serious finance expertise"
+    ],
+    "cons": [
+      "AI training internship is tangential to core finance roles you're targeting",
+      "Unlikely to develop Excel, modelling, or trading floor experience",
+      "Role description vague; unclear if you'd gain IB/trading/AM exposure"
+    ],
+    "analysis": "Aptura is a legitimate fintech building AI systems for finance, and a summer placement fits your timeline well. However, an 'AI Training' internship suggests you'd be preparing training data or working on machine learning infrastructure—valuable for a fintech career, but not aligned with your explicit interest in investment banking, asset management, or sales & trading. If you're genuinely interested in fintech/AI, this is plausible; otherwise, this sits on the edge of your sector preference. Check the job description carefully for what skills you'd actually develop.",
+    "found_on": "2026-07-15 14:53 UTC"
+  },
+  {
+    "id": "9ba8c7676e344b97",
+    "title": "Investment Banking Intern",
+    "company": "Aptura",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5801163353?utm_medium=api&utm_source=88a1c016",
+    "snippet": "About Aptura Aptura is building the reinforcement learning data company that powers frontier model training globally. We combine deep expertise in finance with cutting-edge in-house tech to deliver tailored, domain-specific training data and feedback loops. At work, we're building a high-performance, people-first culture. We move quickly, think ambitiously, and set a high bar for ourselves, all while staying open, collaborative, and genuinely enjoyable to work with. The best ideas here win rega…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 62,
+    "reason": "Finance-focused role at fintech in London fits location and sector, but 'Investment Banking Intern' title is misleading and role is likely non-traditional finance work.",
+    "deadline": null,
+    "pros": [
+      "London-based, candidate's top location choice",
+      "Finance-sector company with strong industry credibility",
+      "Reinforcement learning and AI in finance is emerging, valuable field"
+    ],
+    "cons": [
+      "Title 'Investment Banking Intern' likely misleading—role is data/ML-focused, not actual IB",
+      "Building training data for models is not core banking skill development",
+      "Misalignment with explicit interest in IB, trading, asset management roles"
+    ],
+    "analysis": "This is a bait-and-switch posting: the title says 'Investment Banking Intern' but the description reveals it's focused on fintech data infrastructure and AI training feedback loops. While Aptura is a serious company backed by finance professionals, you'd be working on machine learning rather than financial modelling, pitch books, or trading workflows. This is only a fit if you're genuinely excited about fintech/AI; if you're targeting traditional IB or trading roles, the skills gained won't directly support that. Read carefully before applying.",
+    "found_on": "2026-07-15 14:53 UTC"
+  },
+  {
     "id": "b8378ac9778455a6",
     "title": "Automotive Treasury Intern",
     "company": "ABL Recruitment",
