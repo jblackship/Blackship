@@ -1,5 +1,30 @@
 [
   {
+    "id": "98eb6852f75a2773",
+    "title": "Finance Research Intern, AI Evaluation",
+    "company": "Aptura",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5802851549?utm_medium=api&utm_source=88a1c016",
+    "snippet": "About Aptura Aptura is building the reinforcement learning data company that powers frontier model training globally. We combine deep expertise in finance with cutting-edge in-house tech to deliver tailored, domain-specific training data and feedback loops. At work, we're building a high-performance, people-first culture. We move quickly, think ambitiously, and set a high bar for ourselves, all while staying open, collaborative, and genuinely enjoyable to work with. The best ideas here win rega…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 55,
+    "reason": "London fintech research internship in right location, but AI evaluation focus and unclear internship status create uncertainty",
+    "deadline": null,
+    "pros": [
+      "Finance-adjacent role at well-described startup",
+      "London location matches strong preference",
+      "Data & AI skills transferable to modern finance"
+    ],
+    "cons": [
+      "AI/ML evaluation focus, not core finance domain",
+      "Internship status and duration not explicitly confirmed",
+      "Early-stage startup, compensation structure unclear"
+    ],
+    "analysis": "Aptura is a legitimate fintech company working on training data for AI models, with a finance domain focus. The role is in London and touches finance, which aligns with your sector interest. However, it's positioned as research rather than traditional finance work, and the posting doesn't clearly confirm internship status, duration, or pay. Before applying, confirm this is a structured internship with fair compensation and understand whether the work is truly finance-focused or more general ML work that happens to use financial data.",
+    "found_on": "2026-07-16 15:04 UTC"
+  },
+  {
     "id": "2bb5deecda8bde2a",
     "title": "Operations & Process Improvement Intern - Financial Crime Ops",
     "company": "Lendable",
