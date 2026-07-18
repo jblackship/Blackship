@@ -1,5 +1,55 @@
 [
   {
+    "id": "87c147798f547f16",
+    "title": "Data Analyst Intern - Financial Markets",
+    "company": "Financial market data company (City of London)",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5805539489?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Role Summary: An exceptional opportunity for Business or Economics undergraduates with a demonstrated interest in wholesale financial markets and data analytics. This role offers hands-on experience in business analysis within a pioneering financial market data company in the City. Company Profile: Located in the heart of London's financial district, our client is at the forefront of building the future of data and reporting for financial markets. They work collaboratively with all industry sta…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 62,
+    "reason": "Strong sector and location fit; data analytics in financial markets aligns with candidate's Python and economics skills, but role lacks explicit IB/S&T/AM branding.",
+    "deadline": null,
+    "pros": [
+      "Economics undergrad focus explicitly mentioned",
+      "London financial district; wholesale markets exposure",
+      "Python and analytics skills directly applicable"
+    ],
+    "cons": [
+      "Data analyst role, not investment banking or core finance sales",
+      "No salary disclosed; verify it's paid",
+      "Vague on internship length and start date"
+    ],
+    "analysis": "This is a credible fit if you see data analytics as a gateway into trading or strategy roles. Your economics background and Python skills are directly relevant, and the financial markets context is valuable. The location is ideal. However, this is a support/analytics role rather than a revenue-generating seat in IB or S&T, so it's a sidestep from your core interests. Clarify internship duration (must fit your summer calendar), confirm it's paid, and ask if there's a pathway into trading or advisory teams.",
+    "found_on": "2026-07-18 02:43 UTC"
+  },
+  {
+    "id": "c09bdf8d843b53f4",
+    "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
+    "company": "JPMorgan Chase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5804897060?se=IB-EflKC8RGF5LNal_k3gA&utm_medium=api&utm_source=88a1c016&v=A90F168A09877E00B120F3A0A1F6C7FF167CA40A",
+    "snippet": "Description The Infrastructure Finance & Advisory group advises clients on financing infrastructure projects and works with coverage, product, and sales teams to develop and execute financing solutions across transportation, energy, utilities, and social infrastructure. The London-based team focuses primarily on Europe, the Middle East, and Africa and includes professionals with expertise in project finance, bonds, loans, structured products, and derivatives. As a first-year Analyst in the Inve…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 75,
+    "reason": "Strong IB credentials and structured finance (infrastructure) alignment; JPMorgan prestige; timing and seniority level unclear—check if open to undergraduates.",
+    "deadline": null,
+    "pros": [
+      "Tier-1 investment banking (Infrastructure Finance & Advisory)",
+      "Project finance & structured products core to role",
+      "London coverage of EMEA; prestigious Analyst path"
+    ],
+    "cons": [
+      "Posted as 'Analyst' (typically post-MBA/graduate); may not be for undergraduates",
+      "No explicit mention of internship vs. full-time graduate role",
+      "No salary or application deadline visible"
+    ],
+    "analysis": "This is exactly the kind of structured finance and investment banking exposure you're seeking, and JPMorgan is a top-tier name. However, 'first-year Analyst' usually signals a post-graduation or MBA hire, not an internship track. Before investing time, contact JPMorgan or check their careers portal to confirm if this is part of their summer internship program for undergraduates (they do run these). If it's a full-time graduate role, it's not what you're looking for now. If it's their undergraduate analyst summer program, this is a strong 85+ fit.",
+    "found_on": "2026-07-18 02:43 UTC"
+  },
+  {
     "id": "ce2cf3fa7490625d",
     "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
     "company": "JPMorgan Chase",
