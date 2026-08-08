@@ -1,5 +1,55 @@
 [
   {
+    "id": "acd75e9fb11e4f00",
+    "title": "Data Operations Specialist II",
+    "company": "Moody's Corporation",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5830190990?se=lg_3YT6T8RGRHenxBAi_NA&utm_medium=api&utm_source=88a1c016&v=7209013FB055F5D177B97128C00B997BFBE22A00",
+    "snippet": "hackajob is collaborating with Moody's Corporation to connect them with exceptional professionals for this role. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody’s is transforming how the world sees risk. As a global leader in …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 62,
+    "reason": "Finance-adjacent at Moody's in London, but Data Operations Specialist II implies mid-level seniority, not intern-track.",
+    "deadline": null,
+    "pros": [
+      "Moody's is top-tier financial services employer",
+      "London location matches strong preference",
+      "Data operations could leverage Python and analytics skills"
+    ],
+    "cons": [
+      "Specialist II suggests mid-career level, not intern",
+      "Posting vague; unclear if internship or grad role",
+      "hackajob intermediary raises legitimacy concerns"
+    ],
+    "analysis": "Moody's is a legitimate credit ratings and financial data powerhouse, so this could be interesting—but the role title 'Specialist II' and lack of explicit internship language suggest this is a graduate or mid-level hire, not an internship track. The posting is also vague on level, salary, and exact seniority. Contact Moody's directly or clarify via hackajob whether they have formal summer internship programmes, as this particular posting may be mislabeled or aimed at more experienced candidates.",
+    "found_on": "2026-08-08 15:32 UTC"
+  },
+  {
+    "id": "badcceb193022a94",
+    "title": "France IB Capital Market Coverage Analyst",
+    "company": "Deutsche Bank",
+    "location": "Paris, Ile-de-France",
+    "url": "https://www.adzuna.fr/details/5833594054?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Job Description: Details of the role and how it fits into the team Deutsche Bank is a client-centric global universal bank. One that is leading change and innovation in the industry – championing integrity, sustainable performance and innovation with our clients, and redefining our culture and relationships with each other. Origination & Advisory combines Investment Banking Coverage and Advisory along with Capital Markets to deliver the most appropriate products to both the C-Suite and Treasure…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 75,
+    "reason": "Strong finance fit (IB, capital markets) at Deutsche Bank in Paris; ambiguity on seniority and internship status.",
+    "deadline": null,
+    "pros": [
+      "Investment Banking Coverage—core career path for you",
+      "Deutsche Bank is Tier-1, prestigious employer",
+      "Paris location is on your acceptable list"
+    ],
+    "cons": [
+      "Posting lacks internship label; may be graduate/experienced hire",
+      "No mention of salary, contract type, or duration",
+      "Analyst title and seniority level unclear"
+    ],
+    "analysis": "This role ticks your sector boxes perfectly—Deutsche Bank, investment banking, Paris—and your working French proficiency is a genuine asset here. However, the posting is frustratingly sparse on whether this is an internship, grad scheme entry point, or mid-level hire. The title 'Analyst' without qualifier could mean anything. Before applying, contact Deutsche Bank's graduate recruitment or internship programme directly to confirm this is an entry-level opportunity; if it's a mid-career posting, look instead for their formal summer analyst or internship schemes, which they run annually.",
+    "found_on": "2026-08-08 15:32 UTC"
+  },
+  {
     "id": "e765e377a3c036ba",
     "title": "Data Operations Specialist II",
     "company": "Moody's Corporation",
