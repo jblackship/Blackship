@@ -1,5 +1,30 @@
 [
   {
+    "id": "0928fe39e733c2bc",
+    "title": "Data Operations Specialist II",
+    "company": "Moody's Corporation",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5830190990?se=ZMA_SGiT8RGyVa_9J1BBNQ&utm_medium=api&utm_source=88a1c016&v=7209013FB055F5D177B97128C00B997BFBE22A00",
+    "snippet": "hackajob is collaborating with Moody's Corporation to connect them with exceptional professionals for this role. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody’s is transforming how the world sees risk. As a global leader in …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 62,
+    "reason": "Finance-adjacent role at reputable firm in London, but posting is vague on level, contract type, and internship status.",
+    "deadline": null,
+    "pros": [
+      "Moody's is a major financial data/analytics firm",
+      "London location matches your preference",
+      "Credit ratings exposure relevant to structured finance background"
+    ],
+    "cons": [
+      "Title suggests data operations, not core finance internship",
+      "No clarity on whether this is internship vs. full-time vs. contract",
+      "Vague job description; posting via hackajob suggests possible generic match"
+    ],
+    "analysis": "Moody's is a serious financial institution and London is ideal, but the Data Operations Specialist II role is ambiguous. The title and sketchy description suggest this may be a full-time or mid-level hire, not an internship. Before applying, clarify directly whether this is internship-eligible and whether the role involves substantive financial analysis or is pure data administration. If it's clerical data ops, it won't build your banking/AM/trading credentials.",
+    "found_on": "2026-08-08 20:32 UTC"
+  },
+  {
     "id": "fb066005e056985c",
     "title": "Data Operations Specialist II",
     "company": "Moody's Corporation",
@@ -7282,31 +7307,6 @@
       "Vague on eligibility for 2nd year undergrad"
     ],
     "analysis": "This is a JPMorgan ML role in their Chief Data & Analytics Office in London—excellent firm, location, and sector. The role involves cutting-edge ML for time series and reinforcement learning in finance, which could appeal to your Python background. However, the 'Senior Associate' title and specialisation in reinforcement learning suggest this is likely a graduate-level or early-career permanent hire, not an undergrad internship. Check carefully whether JPMorgan is hiring for internship-track or full-time. If internship, your Python skills could make you competitive; if permanent, you're likely underqualified at 2nd year BSc. Request clarification before investing time in the application.",
-    "found_on": "2026-06-12 07:31 UTC"
-  },
-  {
-    "id": "1c954011d91fcab6",
-    "title": "Lead Data Engineer (Capital Markets Risk - Data Visualization)",
-    "company": "EPAM Systems / JPMorgan Chase",
-    "location": "London, United Kingdom",
-    "url": "https://www.themuse.com/jobs/epamsystems/lead-data-engineer-capital-markets-risk-data-visualization",
-    "snippet": "As one of the world's leading digital transformation service providers, we are looking to actively expand our Data Practice across the UK to meet increasing client demand for our services. We are hiring for a Lead Data Engineer with a specific focus on Capital Markets Risk.The ideal candidate will have extensive experience designing, developing and optimizing data pipelines and infrastructure within the capital markets risk domain. This role requires expertise in risk analytics, data engineering best practices and data visualization.#LI-DNI   Responsibilities Design, develop and optimize data ",
-    "source": "The Muse",
-    "trust": "verified",
-    "score": 58,
-    "reason": "JPMorgan Capital Markets data engineering, London, strong sector/location fit, but mid-level permanent role not internship",
-    "deadline": null,
-    "pros": [
-      "Capital Markets Risk, investment banking adjacent",
-      "London location, perfect for you",
-      "Data engineering for sophisticated finance use case"
-    ],
-    "cons": [
-      "Lead Data Engineer level, senior permanent hire",
-      "Role via EPAM (recruitment firm), not direct JPM hire",
-      "Requires extensive prior experience in data engineering"
-    ],
-    "analysis": "EPAM is recruiting a lead data engineer for JPMorgan's Capital Markets Risk team in London. The location and capital markets focus are excellent, but this is a mid-to-senior permanent role requiring extensive prior data pipeline and risk analytics experience—not an internship or entry-level position. The fact that EPAM is hiring rather than JPMorgan directly also suggests vendor/contractor model. Look for JPMorgan's own analyst or internship programmes instead.",
     "found_on": "2026-06-12 07:31 UTC"
   }
 ]
