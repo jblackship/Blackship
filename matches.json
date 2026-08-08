@@ -1,5 +1,30 @@
 [
   {
+    "id": "1a1670a1b8d7f6a4",
+    "title": "Data Operations Specialist II",
+    "company": "Moody's Corporation",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5830190990?se=UCRjx3CT8RGS6r_2sYaoYg&utm_medium=api&utm_source=88a1c016&v=7209013FB055F5D177B97128C00B997BFBE22A00",
+    "snippet": "hackajob is collaborating with Moody's Corporation to connect them with exceptional professionals for this role. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody’s is transforming how the world sees risk. As a global leader in …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 62,
+    "reason": "Finance sector employer in London with relevant ops/data exposure, but role seniority and internship status unclear.",
+    "deadline": null,
+    "pros": [
+      "Moody's is a leading financial services firm",
+      "London location matches your preference",
+      "Data/operations skills relevant to finance tech"
+    ],
+    "cons": [
+      "Title says 'Specialist II' – suggests mid-level, not internship entry",
+      "Posted via hackajob job board; internship status ambiguous",
+      "Description is vague boilerplate; no salary, duration, or internship confirmation"
+    ],
+    "analysis": "Moody's is a genuine, respected player in risk and ratings—very much in your sector. However, the 'Specialist II' title signals this is likely a mid-level hire rather than an internship role, and the posting is too vague to confirm. The fact it's on hackajob (a jobs platform) rather than Moody's careers page, combined with generic corporate language and no mention of internship duration or salary, is a red flag. Before applying, you'd need to verify whether this is actually an internship programme or a permanent role misclassified. If it is an internship, it could be a plausible fit given Moody's finance credentials and London location.",
+    "found_on": "2026-08-08 21:33 UTC"
+  },
+  {
     "id": "0928fe39e733c2bc",
     "title": "Data Operations Specialist II",
     "company": "Moody's Corporation",
@@ -7282,31 +7307,6 @@
     ],
     "cons": [],
     "analysis": "This is a JPMorgan Investment Banking Analyst role in London focused on Leveraged Finance—a nearly perfect match for your profile. You want investment banking in London, this is a Tier 1 bank offering exactly that in a structured finance subsector where you have prior internship experience. The posting emphasizes learning, mentoring, and development, which aligns with internship positioning. Check the job posting carefully for explicit internship vs. permanent analyst distinction, but this is a strong target. Your Economics background and Python skills will be valuable; prioritise financial modelling excellence in your application.",
-    "found_on": "2026-06-12 07:31 UTC"
-  },
-  {
-    "id": "f88e282658b593fa",
-    "title": "Applied AI ML Senior Associate - Machine Learning Center of Excellence - Time Series Reinforcement Learning",
-    "company": "JPMorgan Chase",
-    "location": "London, United Kingdom",
-    "url": "https://www.themuse.com/jobs/jpmorganchase/applied-ai-ml-senior-associate-machine-learning-center-of-excellence-time-series-reinforcement-learning",
-    "snippet": "The Chief Data & Analytics Office (CDAO) at JPMorgan Chase is responsible for accelerating the firm's data and analytics journey. This includes ensuring the quality, integrity, and security of the company's data, as well as leveraging this data to generate insights and drive decision-making. The CDAO is also responsible for developing and implementing solutions that support the firm's commercial goals by harnessing artificial intelligence and machine learning technologies to develop new products, improve productivity, and enhance risk management effectively and responsibly.As an Applied AI ML ",
-    "source": "The Muse",
-    "trust": "verified",
-    "score": 68,
-    "reason": "JPMorgan ML/AI Senior Associate in CDAO, London, strong tech fit, but seniority and specialism uncertain for internship",
-    "deadline": null,
-    "pros": [
-      "JPMorgan, Tier 1 bank, London location",
-      "Machine learning/AI in finance, cutting-edge",
-      "Chief Data & Analytics Office, central to bank strategy"
-    ],
-    "cons": [
-      "Senior Associate level, not clear if internship or permanent",
-      "Highly specialised (time series, reinforcement learning), may require PhD or deep ML background",
-      "Vague on eligibility for 2nd year undergrad"
-    ],
-    "analysis": "This is a JPMorgan ML role in their Chief Data & Analytics Office in London—excellent firm, location, and sector. The role involves cutting-edge ML for time series and reinforcement learning in finance, which could appeal to your Python background. However, the 'Senior Associate' title and specialisation in reinforcement learning suggest this is likely a graduate-level or early-career permanent hire, not an undergrad internship. Check carefully whether JPMorgan is hiring for internship-track or full-time. If internship, your Python skills could make you competitive; if permanent, you're likely underqualified at 2nd year BSc. Request clarification before investing time in the application.",
     "found_on": "2026-06-12 07:31 UTC"
   }
 ]
