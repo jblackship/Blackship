@@ -1,5 +1,30 @@
 [
   {
+    "id": "febcd108836b49a1",
+    "title": "Data Operations Specialist II",
+    "company": "Moody's Corporation",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5830190990?se=fIkI93iT8RGYrdXs-hgf2g&utm_medium=api&utm_source=88a1c016&v=7209013FB055F5D177B97128C00B997BFBE22A00",
+    "snippet": "hackajob is collaborating with Moody's Corporation to connect them with exceptional professionals for this role. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody’s is transforming how the world sees risk. As a global leader in …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 62,
+    "reason": "Finance-adjacent firm in London, but posting is vague, seniority unclear, and role (Data Operations) is not core target areas.",
+    "deadline": null,
+    "pros": [
+      "Moody's is a top-tier financial services firm",
+      "London location matches strong preference",
+      "Data operations touches risk/analytics relevant to finance"
+    ],
+    "cons": [
+      "Posting is extremely vague; no mention of internship or summer role",
+      "Data Operations Specialist II sounds like mid-level, not intern",
+      "Not investment banking, asset management, or S&T—your stated priorities"
+    ],
+    "analysis": "Moody's is a heavyweight in finance and the London location is ideal. However, this posting raises red flags: it's posted via hackajob (a job board), the title says Specialist II which implies seniority, and there's no explicit mention that this is an internship or summer role. The description is also boilerplate corporate messaging, offering no detail on actual responsibilities, level, or duration. Before investing time, contact the hackajob coordinator or Moody's careers directly to confirm this is open to undergraduates and is indeed an internship, not a permanent hire or graduate-only role.",
+    "found_on": "2026-08-08 22:31 UTC"
+  },
+  {
     "id": "1a1670a1b8d7f6a4",
     "title": "Data Operations Specialist II",
     "company": "Moody's Corporation",
@@ -7286,27 +7311,6 @@
       "Posting from eFinancialCareers; verify internship structure and compensation"
     ],
     "analysis": "This is a solid opportunity at Tikehau Capital in Capital Markets Strategies. Equity research sits squarely in the asset management space, your financial modelling skills are directly applicable, and your Economics degree gives you strong analytical foundations. The main blocker is July 2026 timing. Check your university's academic calendar urgently: if Easter term finishes by mid-June, you might start early July. Otherwise, contact Tikehau or your careers office to negotiate an earlier start or September slot. Confirm this is a paid internship before proceeding.",
-    "found_on": "2026-06-12 07:31 UTC"
-  },
-  {
-    "id": "7ec60912c1a8e066",
-    "title": "Investment Banking - EMEA Leveraged Finance - Analyst - London",
-    "company": "JPMorgan Chase",
-    "location": "London, United Kingdom",
-    "url": "https://www.themuse.com/jobs/jpmorganchase/investment-banking-emea-leveraged-finance-analyst-london-304ba0",
-    "snippet": "This is an exciting opportunity for someone who is highly motivated to work in a dynamic team and to contribute to our Investment Banking business.Building your career in Investment Banking Division, you will work with top-tier professionals at the heart of a leading global investment bank. With hands-on learning opportunities, mentoring and feedback, and numerous development opportunities, you will gain a strong career foundation in financial services. Leveraged Finance comprises JPMorgan's leveraged loan and high yield bond product groups within the firm's Investment Banking Line of Business",
-    "source": "The Muse",
-    "trust": "verified",
-    "score": 82,
-    "reason": "JPMorgan Investment Banking Analyst internship, London, perfect sector/location/seniority",
-    "deadline": null,
-    "pros": [
-      "Investment Banking Analyst, exact target role",
-      "London location, top preference",
-      "Leveraged Finance, structured finance relevant to your background"
-    ],
-    "cons": [],
-    "analysis": "This is a JPMorgan Investment Banking Analyst role in London focused on Leveraged Finance—a nearly perfect match for your profile. You want investment banking in London, this is a Tier 1 bank offering exactly that in a structured finance subsector where you have prior internship experience. The posting emphasizes learning, mentoring, and development, which aligns with internship positioning. Check the job posting carefully for explicit internship vs. permanent analyst distinction, but this is a strong target. Your Economics background and Python skills will be valuable; prioritise financial modelling excellence in your application.",
     "found_on": "2026-06-12 07:31 UTC"
   }
 ]
