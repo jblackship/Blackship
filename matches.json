@@ -1,5 +1,30 @@
 [
   {
+    "id": "b7d570f117542499",
+    "title": "Portfolio Analyst",
+    "company": "Socket",
+    "location": "London, KY",
+    "url": "https://jooble.org/jdp/-4460151863632451674",
+    "snippet": "...Transition Assets, Asian based investments and Growth Equity (Venture capital). You will work with platform leads, asset managers, finance, investment teams, external valuers and auditors to turn investment and asset-level data into fund-level insight, reporting and valuation...",
+    "source": "Jooble",
+    "trust": "verified",
+    "score": 62,
+    "reason": "Asset management internship in target field, but location is Kentucky not London; eligibility unclear.",
+    "deadline": null,
+    "pros": [
+      "Asset management role directly matches your experience and target sector",
+      "Fund valuation and investment analytics align with your structured finance background",
+      "Exposure to growth equity and cross-functional finance teams"
+    ],
+    "cons": [
+      "London, KY is Kentucky, USA—not London, UK (candidate's strong preference)",
+      "US-based role may require visa sponsorship not mentioned; visa eligibility uncertain",
+      "No detail on internship status, duration, or compensation structure"
+    ],
+    "analysis": "This looks like a genuine asset management internship that would normally be a strong fit for your profile—the work (fund-level reporting, valuation, asset data) matches your structured finance internship experience and target roles. However, the critical blocker is location: London, Kentucky is in the US, not the UK, and you've stated a strong preference for London and openness only to Frankfurt, Paris, Amsterdam, Dublin. As a UK student visa holder, working in the US would require sponsorship and likely isn't feasible during your summer window. Before investing time, confirm whether this is truly a US-based role or whether Socket has a London office.",
+    "found_on": "2026-08-09 20:35 UTC"
+  },
+  {
     "id": "bb958771d45e6e29",
     "title": "2027 Investment Management Off-Cycle Internship - Global Sales & Marketing (Frankfurt)",
     "company": "Morgan Stanley",
@@ -7286,30 +7311,6 @@
       "Risk monitoring is compliance-focused, not investment-focused"
     ],
     "analysis": "This is a legitimate internship at a major asset servicing firm (likely BNY Mellon, State Street, or Euroclear). It's paid, London, and offers exposure to institutional finance. However, asset servicing and risk controls are middle/back-office functions, not the front-office investment banking, asset management, or trading roles you prioritised. It's a respectable finance internship, but lower on your priority list. Only apply if you haven't placed elsewhere.",
-    "found_on": "2026-06-12 07:31 UTC"
-  },
-  {
-    "id": "929b2733c538c7b5",
-    "title": "2026 Commercial & Investment Banking - Markets - Off-Cycle Internship - London",
-    "company": "JPMorgan Chase & Co.",
-    "location": "Central London",
-    "url": "https://www.reed.co.uk/jobs/2026-commercial-investment-banking-markets-off-cycle-internship-london/57012619",
-    "snippet": "2026 Commercial & Investment Banking - Markets - Off-Cycle Internship - London 210757890 T09:53:23+00:00 London Seasonal Employee Full time Job Profile If you are enthusiastic, committed and looking to apply what you've learned to real-world financial experience, we have a role for you. Our global markets teams operate in all major financial markets and develop sophisticated financial solutions to help clients manage risk, increase returns a...",
-    "source": "Reed",
-    "trust": "verified",
-    "score": 82,
-    "reason": "JPMorgan off-cycle internship in Markets (S&T); London; internship-level; strong fit for your profile.",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship (fits around term dates)",
-      "Markets/Sales & Trading (target sector)",
-      "Top-tier bank, central London location"
-    ],
-    "cons": [
-      "Job posting is heavily truncated; unclear full scope",
-      "Verify 2026 timing aligns with your graduation June 2028"
-    ],
-    "analysis": "This is a strong opportunity. JPMorgan's off-cycle internship in Markets aligns directly with your sales & trading interests and the flexibility suits your term-time constraints. Central London is your preferred location. Your Python, Excel, and financial modelling skills are relevant, and JPMorgan actively recruits strong economists. The posting is truncated but the basics are excellent. Confirm the 2026 timeline works with your academic calendar and apply promptly.",
     "found_on": "2026-06-12 07:31 UTC"
   }
 ]
