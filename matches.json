@@ -1,5 +1,30 @@
 [
   {
+    "id": "8def3fee54288e6b",
+    "title": "Internship – Finance and Treasury Department (H/F) - January 2027",
+    "company": "Tikehau Capital",
+    "location": "8ème Arrondissement, Paris",
+    "url": "https://www.adzuna.fr/details/5836592885?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Mission : [FR] Vous rejoindrez la Direction Financière (notamment l'équipe Financement & Trésorerie), dans le cadre d’un stage d’une durée de 6 mois, qui a pour objectif d'accompagner le développement des entités opérationnelles du Groupe, à travers quatre départements: financement & trésorerie, contrôle financier, comptabilité & consolidation, gestion de portefeuille. Le département Financement et Trésorerie joue un rôle déterminant dans la gestion actif-passif de l'entreprise. Dans le cadre d…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Finance internship at asset manager in acceptable location; timing and language fit, but 6-month duration and January start raise feasibility questions.",
+    "deadline": null,
+    "pros": [
+      "Finance & Treasury internship at established asset manager",
+      "Paris is acceptable secondary location",
+      "French language requirement matches your working proficiency"
+    ],
+    "cons": [
+      "6-month duration may conflict with academic term (January 2027–June 2027)",
+      "Internship description in French; limited detail in English",
+      "January start timing unclear vs. term schedule"
+    ],
+    "analysis": "Tikehau Capital is a real, credible Paris-based alternative asset manager, and a Finance & Treasury internship aligns well with your sector interests. Your French working proficiency makes this feasible, and Paris is on your acceptable-locations list. However, the 6-month duration starting January 2027 is a critical question: your academic calendar runs until June 2028, so you need to verify this doesn't overlap with term time. The French-language posting also means you'll need to review the full role details carefully. If the timing can work around your studies, this is a strong fit; clarify the exact dates before applying.",
+    "found_on": "2026-08-11 10:51 UTC"
+  },
+  {
     "id": "b7d570f117542499",
     "title": "Portfolio Analyst",
     "company": "Socket",
@@ -7286,31 +7311,6 @@
       "Highly competitive; no signal of acceptance likelihood"
     ],
     "analysis": "Blackstone's off-cycle internship programme is genuinely prestigious and aligns perfectly with your sector and location preferences. Your structured finance and asset management background is exactly what they want. The main drawback is that the posting lacks details on duration, pay clarification, and specific start dates—reach out to their careers team or check their main site for full terms. This is worth pursuing even if competitive.",
-    "found_on": "2026-06-12 07:31 UTC"
-  },
-  {
-    "id": "65e62af244e2e59d",
-    "title": "Risk & Permanent Controls Intern",
-    "company": "Unnamed global asset servicing provider (via Reed Recruitment)",
-    "location": "EC2A2DA",
-    "url": "https://www.reed.co.uk/jobs/risk-permanent-controls-intern/56892276",
-    "snippet": "A leading global asset servicing provider are seeking a Risk and Permanent Controls Intern to join their team in London. The organisation delivers a comprehensive range of services to institutional clients, including custody services for Collective Investment Schemes, Pension Schemes, and Wealth Managers, as well as fund administration and related services. The Risk & Permanent Controls Intern will support the local Risk Department in monito...",
-    "source": "Reed",
-    "trust": "verified",
-    "score": 62,
-    "reason": "Risk & controls internship at tier-1 asset servicing firm, London, paid, strong relevance; but asset servicing (back/middle office) rather than front-office AM/IB",
-    "deadline": null,
-    "pros": [
-      "Internship role, London-based",
-      "Asset servicing at institutional scale, strong brand employers typically",
-      "Risk and controls relevant to finance sector"
-    ],
-    "cons": [
-      "Asset servicing = back/middle office, not front-office AM, IB, or trading",
-      "Posting vague on firm identity and role specifics",
-      "Risk monitoring is compliance-focused, not investment-focused"
-    ],
-    "analysis": "This is a legitimate internship at a major asset servicing firm (likely BNY Mellon, State Street, or Euroclear). It's paid, London, and offers exposure to institutional finance. However, asset servicing and risk controls are middle/back-office functions, not the front-office investment banking, asset management, or trading roles you prioritised. It's a respectable finance internship, but lower on your priority list. Only apply if you haven't placed elsewhere.",
     "found_on": "2026-06-12 07:31 UTC"
   }
 ]
