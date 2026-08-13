@@ -1,5 +1,30 @@
 [
   {
+    "id": "d4d63c60c61c061e",
+    "title": "Internship – M&A Analyst",
+    "company": "Euronext",
+    "location": "Paris, Ile-de-France",
+    "url": "https://www.adzuna.fr/details/5840369372?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Are you ready to shape the future of capital markets? We are looking for an M&A Analyst intern to join the M&A team. The position will be based in Paris, and start 4 January 2027. You will report to the Head of M&A. You will primarily be responsible for: Conducting comprehensive company and industry-level research Monitoring sectors and screening for potential acquisition targets Preparing investment memos and presentations for senior management, the Board and strategic committees Developing, m…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong field and location fit, but off-cycle timing creates uncertainty around term dates and visa availability.",
+    "deadline": null,
+    "pros": [
+      "Paris location matches your open preference",
+      "M&A research aligns with finance sector interests",
+      "Structured Finance background relevant to deal analysis"
+    ],
+    "cons": [
+      "January 2027 start date may conflict with term time (verify exact UK term dates)",
+      "No explicit mention of paid compensation in excerpt",
+      "Off-cycle timing requires confirming visa/student status compatibility"
+    ],
+    "analysis": "This is a genuine finance internship at a major European exchange in a preferred location. The M&A Analyst role sits squarely in your interest area and your structured finance experience is a clear asset. However, the 4 January 2027 start date is your critical blocker—UK universities typically don't finish winter term until mid-January, and your visa may restrict working during term time. Before applying, confirm with your university and UK Visas & Immigration whether this date falls within an approved break. Also verify that Euronext explicitly confirms this is a paid internship, since the excerpt doesn't state compensation.",
+    "found_on": "2026-08-13 16:05 UTC"
+  },
+  {
     "id": "dfd0d842f8acf886",
     "title": "Investment Banking Analyst - Infrastructure M&A - Selby Jennings",
     "company": "Selby Jennings",
@@ -7287,31 +7312,6 @@
     ],
     "cons": [],
     "analysis": "This is a duplicate of the JPMorgan off-cycle Markets internship (id 2b2e1fc8fe91886b). Treat as one opportunity. Excellent fit; apply with urgency.",
-    "found_on": "2026-06-13 10:14 UTC"
-  },
-  {
-    "id": "d248f307ce4098b8",
-    "title": "finance stagiair L'Or al Benelux",
-    "company": "team5pm",
-    "location": "Amsterdam, Noord-Holland",
-    "url": "https://www.adzuna.nl/details/5762164319?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Ben jij een student met een passie voor cijfers, structuur en het oplossen van financi le vraagstukken? Werk je nauwkeurig, houd je overzicht in grote datastromen en krijg je energie van processen die tot in de puntjes kloppen? En wil je tijdens je stage een belangrijke rol spelen in het order-to-cash proces achter influencer marketing voor L'Or al Benelux? Dan is deze stage precies wat je zoekt. Finance stagiair L Or al Benelux Als Finance Stagiair L'Or al Benelux help je mee binnen het volled…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 60,
-    "reason": "Finance internship, Amsterdam (acceptable), but Dutch-language posting and limited detail raise concerns.",
-    "deadline": null,
-    "pros": [
-      "Finance stagiair (internship) role, paid",
-      "Amsterdam is within your acceptable locations",
-      "Order-to-cash process / accounting exposure relevant"
-    ],
-    "cons": [
-      "Posting is in Dutch; language barrier and unclear if role is in English",
-      "L'Oréal Benelux suggests FMCG finance, not your preferred sectors (IB, AM, trading)",
-      "No salary, duration, or eligibility details provided"
-    ],
-    "analysis": "This is a finance internship (stage) with L'Oréal Benelux in Amsterdam—a solid company in an acceptable location. However, the posting is in Dutch, which raises questions about the role's working language and your readiness to operate in Dutch (you list French as working proficiency, not Dutch). The role appears to be corporate accounting/order-to-cash for a FMCG business, not the investment banking, trading, or structured finance you've emphasized. Contact team5pm to clarify working language, salary, duration, and role focus before investing effort.",
     "found_on": "2026-06-13 10:14 UTC"
   }
 ]
