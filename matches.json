@@ -1,5 +1,30 @@
 [
   {
+    "id": "c3ca81bb9d01cc75",
+    "title": "Trading Services Associate - Prime Finance (Equities)",
+    "company": "JPMorgan Chase",
+    "location": "London, United Kingdom",
+    "url": "https://www.themuse.com/jobs/jpmorganchase/trading-services-associate-prime-finance-equities",
+    "snippet": "Join a fast-paced Prime Finance trading support team where accuracy, controls, and partnership with the Front Office are critical to daily outcomes. In this role, you will help ensure trades are reflected correctly in risk management systems, manage key controls, and resolve exceptions across the trade lifecycle. You will work closely with trading, product partners, and global operations teams while contributing to process improvements and automation. If you enjoy problem-solving and thrive under pressure, this role offers strong visibility and impact.As a Trading Services Associate in Prime F",
+    "source": "The Muse",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong finance firm and location, but trading support role rather than core trading or IB internship.",
+    "deadline": null,
+    "pros": [
+      "JPMorgan Chase—tier-1 investment bank, excellent signal",
+      "London location, perfect geography",
+      "Sales & Trading exposure via Prime Finance operations"
+    ],
+    "cons": [
+      "Trading Services Associate is operations/middle-office, not front-office trading",
+      "Role focuses on controls and exceptions, not trading strategy or execution",
+      "Unclear if this is an internship or permanent entry-level position"
+    ],
+    "analysis": "JPMorgan's Prime Finance trading support team is a solid opportunity at a world-leading bank in your preferred location. The role involves working with trading teams and front office, which gives you genuine sales & trading exposure. However, this is a middle-office operations role (trade lifecycle, risk systems, controls) rather than core trading or investment banking. It could be valuable for networking and understanding trading operations, but clarify whether it's an internship or permanent role before applying. If it's an internship, this is worth pursuing; if permanent only, less ideal.",
+    "found_on": "2026-08-14 02:09 UTC"
+  },
+  {
     "id": "d4d63c60c61c061e",
     "title": "Internship – M&A Analyst",
     "company": "Euronext",
@@ -7291,27 +7316,6 @@
     ],
     "cons": [],
     "analysis": "This is an excellent fit. JPMorgan's off-cycle internship in Markets is exactly what you're looking for: a paid, prestigious banking role in your preferred sector and location, with flexibility to fit around your academic calendar. Your structured finance and asset management internship background, combined with your economics expertise and Python skills, position you well competitively. Apply immediately if you haven't already; JPMorgan off-cycle deadlines can be rolling. Check the full JD for specific deadlines and application requirements.",
-    "found_on": "2026-06-13 10:14 UTC"
-  },
-  {
-    "id": "0bcbddc2b28592fa",
-    "title": "2026 Commercial & Investment Banking - Markets - Off-Cycle Internship - London",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5761412395?se=fsWo6RBn8RG0btGxqHH3qw&utm_medium=api&utm_source=88a1c016&v=2CE54B82369FA3CC5C498F30B27A8DAFDE3765CF",
-    "snippet": "Description Job Profile If you are enthusiastic, committed and looking to apply what you’ve learned to real-world financial experience, we have a role for you. Our global markets teams operate in all major financial markets and develop sophisticated financial solutions to help clients manage risk, increase returns and solve complex financial problems. Globally, we hold key positions across all major financial markets. This approach means you'll be part of an energetic team, helping to solve a r…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 92,
-    "reason": "Duplicate of id 2b2e1fc8fe91886b; JPMorgan off-cycle IB Markets internship, London.",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship explicitly stated; fits around term dates",
-      "Top-tier investment banking, Markets (Sales & Trading focus)",
-      "London-based; directly matches preferred location and sectors"
-    ],
-    "cons": [],
-    "analysis": "This is a duplicate of the JPMorgan off-cycle Markets internship (id 2b2e1fc8fe91886b). Treat as one opportunity. Excellent fit; apply with urgency.",
     "found_on": "2026-06-13 10:14 UTC"
   }
 ]
