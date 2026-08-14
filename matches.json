@@ -1,5 +1,29 @@
 [
   {
+    "id": "db7fe786e60b2176",
+    "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
+    "company": "JPMorgan Chase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5841926149?se=ci24DAGY8RGJftUyzQ0_4w&utm_medium=api&utm_source=88a1c016&v=7BF364E3F1F28985005456F248A888CABB011FE1",
+    "snippet": "Description The Infrastructure Finance & Advisory group advises clients on financing infrastructure projects and works with coverage, product, and sales teams to develop and execute financing solutions across transportation, energy, utilities, and social infrastructure. The London-based team focuses primarily on Europe, the Middle East, and Africa and includes professionals with expertise in project finance, bonds, loans, structured products, and derivatives. As a first-year Analyst in the Inve…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Strong fit: investment banking role in London, right seniority level, candidate eligible, relevant to stated interests.",
+    "deadline": null,
+    "pros": [
+      "Investment banking in stated target sector",
+      "London-based, your strong preference",
+      "Infrastructure & structured finance aligns with your background"
+    ],
+    "cons": [
+      "Analyst role may be post-grad; confirm internship/summer programme eligibility",
+      "EMEA focus requires clarification on UK summer availability"
+    ],
+    "analysis": "This is a genuine JPMorgan Chase posting in your core sector and preferred location. However, the title 'Analyst' typically signals a full-time graduate hire rather than a summer internship. Before applying, verify that JPMorgan has a summer analyst or internship stream for this team—they often do, but you need to confirm the programme type and whether it runs during your summer break (not term time). The structured finance and project finance focus is a strong match for your previous internship experience.",
+    "found_on": "2026-08-14 16:56 UTC"
+  },
+  {
     "id": "d01420ae5ca6535e",
     "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
     "company": "JPMorganChase",
@@ -7295,31 +7319,6 @@
       "No timeline or off-cycle flexibility stated"
     ],
     "analysis": "This is the same LCM Partners Analyst role as the previous posting, just listed twice with slightly different location formatting (London, UK vs The City). Treat as one opportunity. Same caveat: confirm paid internship status and summer availability before applying.",
-    "found_on": "2026-06-13 10:14 UTC"
-  },
-  {
-    "id": "170a62fa975dd6fb",
-    "title": "Software Developer",
-    "company": "Selby Jennings London",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/details/5761832264?utm_medium=api&utm_source=88a1c016",
-    "snippet": "We are partnering with a leading, technology-driven quantitative trading firm seeking Research Developers to join their team supporting a portfolio of fully automated electronic trading strategies. This role sits at the intersection of quant research and software engineering, offering the opportunity to work on real-time trading systems with direct impact on strategy performance and PnL. Responsibilities: Design and develop predictive signals and trading models Analyse noisy, high-frequency dat…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 65,
-    "reason": "Quant/algo trading (sales & trading adjacent), Python fits, but 'Research Developer' skews software engineering over finance.",
-    "deadline": null,
-    "pros": [
-      "Python and quantitative modelling directly relevant",
-      "Real-time trading systems, high-impact PnL work",
-      "Selby Jennings is recruiting for genuine trading firm"
-    ],
-    "cons": [
-      "Title 'Software Developer' suggests engineering focus, not trading",
-      "No mention of internship, timeline, or compensation",
-      "Role emphasis on coding vs. financial analysis"
-    ],
-    "analysis": "This is a quant trading engineering role—adjacent to your sales & trading interest, but pitched as software development rather than analyst/trader track. Your Python skills are a strong fit, and the work (predictive signals, high-frequency trading) is intellectually aligned. However, Selby Jennings is a recruiter, and the posting doesn't clarify if this is an internship position, summer-only availability, or paid role. Request clarity on internship status and duration before applying.",
     "found_on": "2026-06-13 10:14 UTC"
   }
 ]
