@@ -1,5 +1,29 @@
 [
   {
+    "id": "002bb1f438ec6d4b",
+    "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
+    "company": "JPMorgan Chase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5841926149?se=xM9QkFSY8RGRDoNAUCEN1Q&utm_medium=api&utm_source=88a1c016&v=7BF364E3F1F28985005456F248A888CABB011FE1",
+    "snippet": "Description The Infrastructure Finance & Advisory group advises clients on financing infrastructure projects and works with coverage, product, and sales teams to develop and execute financing solutions across transportation, energy, utilities, and social infrastructure. The London-based team focuses primarily on Europe, the Middle East, and Africa and includes professionals with expertise in project finance, bonds, loans, structured products, and derivatives. As a first-year Analyst in the Inve…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Strong sector/location fit (IB, infrastructure finance, London); analyst role suggests internship-track; eligibility confirmed; some uncertainty on actual internship vs. grad hire structure.",
+    "deadline": null,
+    "pros": [
+      "Investment banking—primary target sector",
+      "Infrastructure/project finance aligns with structured finance background",
+      "London-based, prestigious firm with strong training"
+    ],
+    "cons": [
+      "Title says 'Analyst' not 'Intern'—may be grad hire, not summer internship",
+      "Posting lacks explicit internship timeline/dates"
+    ],
+    "analysis": "JPMorgan's Infrastructure Finance & Advisory group is squarely in your target zone—investment banking, structured products, project finance expertise. Your structured finance internship experience and Python skills are relevant. However, the title 'first-year Analyst' suggests this might be a graduate analyst role rather than a summer internship. Before applying, clarify the posting date, duration, and whether it's explicitly an internship or early-career hire. If it's a summer internship for 2nd-years, this is an excellent fit; if it's a grad programme, check your graduation eligibility.",
+    "found_on": "2026-08-15 02:53 UTC"
+  },
+  {
     "id": "814c8e4ec2779c40",
     "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
     "company": "JPMorgan Chase",
@@ -7301,30 +7325,6 @@
       "Highly competitive; no signal of specific eligibility requirements mentioned"
     ],
     "analysis": "JPMorgan's off-cycle Markets internship is an excellent fit. The role sits in Global Markets (sales, trading, and client solutions), which is one of your target areas, and the off-cycle structure means it can flex around your term dates. You have strong fundamentals (Excel, Python, relevant internship experience, economics background) and are eligible to work in the UK. Get the full JD to confirm duration and application deadlines, then prioritise this application.",
-    "found_on": "2026-06-14 08:57 UTC"
-  },
-  {
-    "id": "753e9f3dedb0f127",
-    "title": "2026 Commercial & Investment Banking - Markets - Off-Cycle Internship - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5761412395?se=JpO9Ds9n8RG0btGxqHH3qw&utm_medium=api&utm_source=88a1c016&v=2CE54B82369FA3CC5C498F30B27A8DAFDE3765CF",
-    "snippet": "Description Job Profile If you are enthusiastic, committed and looking to apply what you’ve learned to real-world financial experience, we have a role for you. Our global markets teams operate in all major financial markets and develop sophisticated financial solutions to help clients manage risk, increase returns and solve complex financial problems. Globally, we hold key positions across all major financial markets. This approach means you'll be part of an energetic team, helping to solve a r…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 88,
-    "reason": "Strong fit: JPM off-cycle Markets internship, London, sales & trading and strategy, right seniority",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship fits flexible scheduling around term dates",
-      "Markets division aligns with sales & trading goal",
-      "Tier-1 bank, prestigious brand, global exposure"
-    ],
-    "cons": [
-      "Description truncated; verify internship length and application timeline",
-      "Highly competitive programme"
-    ],
-    "analysis": "This is the same JPMorgan off-cycle Markets internship as 52f3f5252045703a (duplicate posting). The role is an excellent fit for your background and goals. Markets internships at JPM offer structured exposure to trading, sales, and client solutions. Your Python skills, Excel capability, and structured finance background are assets. Confirm the deadlines and internship dates in the full posting, then apply if timeline aligns with your academic calendar.",
     "found_on": "2026-06-14 08:57 UTC"
   }
 ]
