@@ -1,5 +1,30 @@
 [
   {
+    "id": "6a2624d7fb5818c7",
+    "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
+    "company": "JPMorgan Chase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5841926149?se=5GKsj5uY8RGA6K5hE8VA1w&utm_medium=api&utm_source=88a1c016&v=7BF364E3F1F28985005456F248A888CABB011FE1",
+    "snippet": "Description The Infrastructure Finance & Advisory group advises clients on financing infrastructure projects and works with coverage, product, and sales teams to develop and execute financing solutions across transportation, energy, utilities, and social infrastructure. The London-based team focuses primarily on Europe, the Middle East, and Africa and includes professionals with expertise in project finance, bonds, loans, structured products, and derivatives. As a first-year Analyst in the Inve…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Strong fit: JPM investment banking in London, right seniority, but listed as Analyst role not internship.",
+    "deadline": null,
+    "pros": [
+      "Investment banking in target sector",
+      "Infrastructure/project finance aligns with structured finance experience",
+      "London-based, strong prestige and learning opportunity"
+    ],
+    "cons": [
+      "Listed as 'Analyst' not internship—may be graduate/permanent role",
+      "Unclear if open to current students or post-graduation only",
+      "No mention of salary or internship timeline in snippet"
+    ],
+    "analysis": "This posting sits at the border of what you're looking for. JPMorgan's Infrastructure Finance & Advisory group is exactly your target sector—structured finance, project finance, bonds, and loans all match your background. However, the title says 'first-year Analyst', which typically means a post-graduation role, not a summer internship. Before applying, clarify with JPM whether this is an internship programme or graduate hire. If they have an internship version of this role, pursue it aggressively; if not, bookmark it for post-graduation applications.",
+    "found_on": "2026-08-15 11:22 UTC"
+  },
+  {
     "id": "8d800358a0238cd2",
     "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
     "company": "JPMorgan Chase",
@@ -7305,30 +7330,5 @@
     ],
     "analysis": "Man Group is a world-class global alternative investment manager (public on NASDAQ, Euronext, IBEX) and a legitimate target employer for your internship search. This is a 2026 Technology Graduate Programme in platform engineering, which aligns with your graduation date and London preference. While it's platform/tech-focused rather than trading or AM directly, Man Group's systematic and discretionary strategies mean strong technologists are highly valued. Your Python background and economics focus are relevant. Verify the programme structure—whether it includes internship options before full-time graduation placement—and apply if it offers summer internship slots that fit your term dates.",
     "found_on": "2026-06-17 14:26 UTC"
-  },
-  {
-    "id": "85c874fd3d1049a9",
-    "title": "Q1 2027 Off-Cycle Internship - Corporate Finance (IT Services)",
-    "company": "Houlihan Lokey",
-    "location": "Frankfurt am Main, Hessen",
-    "url": "https://www.adzuna.de/details/5766014103?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Business Unit: Corporate Finance Industry: Business Services&xa;&xa; Overview Houlihan Lokey, Inc. (NYSE:HLI) is a leading global investment bank recognized for delivering independent strategic and financial advice to corporations, financial sponsors, and governments. With uniquely deep industry expertise, broad international reach, and a partnership approach rooted in trust, the firm provides innovative, integrated solutions across mergers and acquisitions, capital solutions, financial restruc…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 78,
-    "reason": "Off-cycle internship in Frankfurt with top M&A bank; fits timeline and location preferences, but role is Corporate Finance (IT), not core interest.",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship fits around term dates",
-      "Frankfurt is acceptable location preference",
-      "Houlihan Lokey is tier-1 investment bank"
-    ],
-    "cons": [
-      "Corporate Finance (IT Services) is niche, not your top sectors",
-      "No explicit salary or full details in truncated description",
-      "Frankfurt not London; less preferred location"
-    ],
-    "analysis": "Houlihan Lokey is a world-class independent M&A bank and this is a genuine Q1 2027 off-cycle internship, which suits your term-time constraints perfectly. The Corporate Finance track is solid and will give you M&A exposure and modelling skills you need. However, it's specialized in IT Services—not your stated preference for asset management, trading, or structured finance—and it's in Frankfurt, not London. If you're flexible on sector and location, this is a strong option; otherwise, treat it as a backup. Check the full posting for pay, duration, and visa confirmation.",
-    "found_on": "2026-06-17 00:04 UTC"
   }
 ]
