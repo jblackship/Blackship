@@ -1,5 +1,78 @@
 [
   {
+    "id": "b283d91ac01b6145",
+    "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
+    "company": "JPMorgan Chase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5841926149?se=lpA9w2SZ8RGvbuhE3SkvXQ&utm_medium=api&utm_source=88a1c016&v=7BF364E3F1F28985005456F248A888CABB011FE1",
+    "snippet": "Description The Infrastructure Finance & Advisory group advises clients on financing infrastructure projects and works with coverage, product, and sales teams to develop and execute financing solutions across transportation, energy, utilities, and social infrastructure. The London-based team focuses primarily on Europe, the Middle East, and Africa and includes professionals with expertise in project finance, bonds, loans, structured products, and derivatives. As a first-year Analyst in the Inve…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Top-tier investment bank, structured finance/infrastructure focus, London, strong fit but likely full-time analyst role not internship",
+    "deadline": null,
+    "pros": [
+      "JPM infrastructure advisory aligns with structured finance interest",
+      "London-based team, preferred location",
+      "Project finance, bonds, structured products expertise"
+    ],
+    "cons": [
+      "Titled 'Analyst' not 'Intern'—likely permanent or graduate scheme role",
+      "May require graduation or imminent grad status",
+      "No explicit mention of summer/off-cycle internship structure"
+    ],
+    "analysis": "This is a strong fit in terms of firm pedigree, sector (structured finance), and location. JPMorgan's Infrastructure Finance & Advisory group is exactly the kind of role you'd target. However, the 'Analyst' title and description suggest this is a full-time graduate hire or analyst program rather than a summer internship. You should clarify with JPM whether they have summer internship programs in this team, or if this is entry-level but permanent. If it's a structured graduate program open to penultimate-year students, this could be excellent; if not, it may be too senior for your current stage.",
+    "found_on": "2026-08-16 11:22 UTC"
+  },
+  {
+    "id": "22f3b5f736889623",
+    "title": "Off-Cycle Internship, Technical & Commercial Infrastructure - Macquarie Group",
+    "company": "Macquarie Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5843066791?se=zl5PxGSZ8RGhedCTNeXrbA&utm_medium=api&utm_source=88a1c016&v=D8618FED356A39DE4F90C203A16264E39D350275",
+    "snippet": "Turn complex infrastructure ideas into real-world projects as an Off-Cycle Intern in Macquarie Capital's Infrastructure Projects and Capital team. Working alongside experienced colleagues on live opportunities, gain hands-on experience across project development, commercial analysis and technical due diligence. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Macquarie infrastructure finance, off-cycle internship, London, strong alignment with structured finance interest and internship format",
+    "deadline": null,
+    "pros": [
+      "Off-cycle internship explicitly—fits around term dates",
+      "Infrastructure and capital projects align with structured finance interest",
+      "Hands-on experience in project finance and due diligence"
+    ],
+    "cons": [
+      "Technical & Commercial Infrastructure title is broad; exact role scope unclear",
+      "Postings slightly vague on day-to-day tasks and skill development"
+    ],
+    "analysis": "This is an excellent fit. Macquarie's off-cycle internship model is explicitly designed for students to work around academic calendars, which suits your June 2028 graduation and term-time constraints perfectly. The Infrastructure Projects & Capital team works on structured finance and commercial analysis—directly aligned with your stated interests in structured finance and investment banking. Macquarie is a top-tier firm with strong infrastructure credentials. Apply with confidence; clarify the exact internship dates and whether summer 2027 or 2028 availability matches.",
+    "found_on": "2026-08-16 11:22 UTC"
+  },
+  {
+    "id": "9225e96b03af9ad6",
+    "title": "Off-Cycle Internship, Infrastructure Projects and Capital - Macquarie Group",
+    "company": "Macquarie Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5843066781?se=zl5PxGSZ8RGhedCTNeXrbA&utm_medium=api&utm_source=88a1c016&v=9163E0842DACCE531BF6257F54443C5236203EBF",
+    "snippet": "As an Off-Cycle Intern in our Infrastructure Projects and Capital team, you will gain hands-on experience supporting investment opportunities across a diverse range of infrastructure sectors while learning from experienced professionals in a collaborative and entrepreneurial environment. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates value. You will bring yo…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 83,
+    "reason": "Macquarie off-cycle internship, infrastructure/capital projects, London, excellent fit with strong internship structure",
+    "deadline": null,
+    "pros": [
+      "Off-cycle internship model tailored for students",
+      "Infrastructure Projects and Capital team—structured finance exposure",
+      "Hands-on support for live investment opportunities"
+    ],
+    "cons": [
+      "Description is similar to posting 22f3b5f736889623; unclear if distinct role",
+      "Internship dates/duration not explicitly stated in excerpt"
+    ],
+    "analysis": "This is very similar to the previous Macquarie posting (id 22f3b5f736889623) and is equally strong. Infrastructure Projects and Capital is a core structured finance team at Macquarie, working on live opportunities across diverse sectors—perfect for your background in structured finance internships and your interest in this domain. The off-cycle format means you can flex around your studies. The main action item: confirm with Macquarie whether these are two distinct roles or the same opportunity listed twice, and secure details on internship timing (summer 2027 or 2028).",
+    "found_on": "2026-08-16 11:22 UTC"
+  },
+  {
     "id": "5e65864710ec1382",
     "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
     "company": "JPMorgan Chase",
@@ -7257,78 +7330,5 @@
     ],
     "analysis": "This is a genuine structured finance operations role at JPMorgan Chase in London, your top preference location. Your prior structured finance internship and Python/modelling skills make you a credible candidate. The role supports trade execution and process improvement across origination, onboarding, and settlement—solid exposure. Before applying, confirm this is open to summer interns (not graduate scheme only) and verify it doesn't clash with your exam schedule. The truncated description is a red flag to clarify scope, but the fit is otherwise very strong.",
     "found_on": "2026-06-24 22:56 UTC"
-  },
-  {
-    "id": "953211fac073c0fc",
-    "title": "Structured Investments Operations – Trading Services Analyst",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5774973354?se=xGWMXPhv8RGtKNv-s2st5w&utm_medium=api&utm_source=88a1c016&v=ADD98D929DA08BA5F286CC0AC9DA2ED5EE709635",
-    "snippet": "Description Join our Structured Investment Operations team - support trade execution, improve processes and partner with Sales for clients now! As a Trading Services Analyst within Structured Investments Operations Team, you will support end-to-end execution across origination support, client onboarding, subscriptions, trade booking, confirmations, settlements, lifecycle management, and fee governance. You’ll contribute to standardization and reporting, help maintain tracking tools, and work wi…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Strong fit: structured finance operations role at top bank in London, internship-level, eligible candidate.",
-    "deadline": null,
-    "pros": [
-      "Structured finance & trading operations directly match your internship background",
-      "London-based, top-tier investment bank",
-      "Operations/analyst entry-level ideal for your year"
-    ],
-    "cons": [
-      "Posting is truncated; unclear if formally labelled as internship or summer programme",
-      "No mention of internship duration or salary"
-    ],
-    "analysis": "This is a genuine fit for your profile. JPMorgan's Structured Investments Operations team is exactly the kind of role you've prepared for with prior structured finance experience. The London location and finance sector alignment are spot-on. Before applying, confirm this is an internship/summer analyst programme, not a graduate hire—the seniority level and contract length matter. Check JPM's careers page directly for the official internship scheme details.",
-    "found_on": "2026-06-24 18:13 UTC"
-  },
-  {
-    "id": "5cf44dbd1afcfc0e",
-    "title": "Structured Investments Operations - Trading Services Analyst",
-    "company": "JPMorgan Chase & Co.",
-    "location": "Central London",
-    "url": "https://www.reed.co.uk/jobs/structured-investments-operations-trading-services-analyst/57052519",
-    "snippet": "Structured Investments Operations - Trading Services Analyst 210761791 T08:26:41+00:00 London Trading Services Full time Join our Structured Investment Operations team - support trade execution, improve processes and partner with Sales for clients now! As a Trading Services Analyst within Structured Investments Operations Team, you will support end-to-end execution across origination support, client onboarding, subscriptions, trade booking, conf...",
-    "source": "Reed",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Structured investments operations at JPM; solid finance fit; check if internship vs. graduate",
-    "deadline": null,
-    "pros": [
-      "Structured finance directly matches your interest",
-      "JPMorgan trading operations team, top-tier firm",
-      "Central London location, your strong preference"
-    ],
-    "cons": [
-      "Posting says 'full time' not explicitly internship; unclear if this is internship or graduate hire",
-      "Trading Services Analyst title suggests graduate/analyst level, not intern"
-    ],
-    "analysis": "JPMorgan's Structured Investments Operations team is precisely in your wheelhouse—structured finance is one of your target sectors, and your prior structured finance internship is a strong signal. The location (Central London) is ideal. However, the posting says 'full time' and uses the title 'Trading Services Analyst,' which typically denotes a graduate/analyst hire rather than an internship. Before applying, check JPMorgan's career portal to confirm if this is an internship role or a graduate scheme. If it's a graduate role, it won't be available to you until 2028. If it's part of their internship or off-cycle programme, it's a strong fit.",
-    "found_on": "2026-06-24 10:36 UTC"
-  },
-  {
-    "id": "9e7fd422abbc56f6",
-    "title": "Global Sustainable Finance Products & Solutions",
-    "company": "Morgan Stanley",
-    "location": "London, United Kingdom",
-    "url": "https://www.themuse.com/jobs/morganstanley/global-sustainable-finance-products-solutions",
-    "snippet": "Role - Global Sustainable Finance Products & Solutions Level - AssociateLocation - London  JR039250 Morgan Stanley's Global Sustainability Office (GSO) aims to drive the growth of sustainable investing through ongoing development of products and solutions, economic analysis, thought leadership and capacity building initiatives. Within GSO, the Global Sustainable Finance (GSF) team's work supports the development and creation of financial products and digital applications across Investment Banking, Sales & Trading, Investment Management and Wealth Management divisions globally.The GSF Products ",
-    "source": "The Muse",
-    "trust": "verified",
-    "score": 68,
-    "reason": "Associate-level sustainable finance at Morgan Stanley; London; strong brand; check seniority",
-    "deadline": null,
-    "pros": [
-      "Morgan Stanley Global Sustainability Office, top-tier bank",
-      "London location matches strong preference",
-      "Investment banking / products angle fits your sector interests"
-    ],
-    "cons": [
-      "Associate level implies graduate/analyst seniority, not internship for 2nd year",
-      "Sustainable finance products niche; check if internship variant exists",
-      "Posting vague on actual day-to-day responsibilities"
-    ],
-    "analysis": "Morgan Stanley's Global Sustainable Finance team in London is an excellent fit in terms of firm prestige, location, and sector (investment banking / products). However, the posting lists 'Associate' level, which typically means graduate or post-MBA seniority. You're a 2nd year student not graduating until 2028. Check Morgan Stanley's official careers portal for summer internship or insight internship programmes in sustainable finance or investment banking—they may have intern-level variants of this role. If they do, this is a strong application target.",
-    "found_on": "2026-06-24 10:36 UTC"
   }
 ]
