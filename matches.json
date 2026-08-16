@@ -1,5 +1,80 @@
 [
   {
+    "id": "57e1e1778b66a3b9",
+    "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
+    "company": "JPMorgan Chase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5841926149?se=EHoLvESZ8RGqM9tlrK2FfQ&utm_medium=api&utm_source=88a1c016&v=7BF364E3F1F28985005456F248A888CABB011FE1",
+    "snippet": "Description The Infrastructure Finance & Advisory group advises clients on financing infrastructure projects and works with coverage, product, and sales teams to develop and execute financing solutions across transportation, energy, utilities, and social infrastructure. The London-based team focuses primarily on Europe, the Middle East, and Africa and includes professionals with expertise in project finance, bonds, loans, structured products, and derivatives. As a first-year Analyst in the Inve…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong sector and firm fit (infrastructure finance/advisory at JPMorgan), London-based; unclear if summer internship or analyst-track role.",
+    "deadline": null,
+    "pros": [
+      "Tier-1 investment banking (JPMorgan, structured finance/project finance expertise)",
+      "London location ideal for candidate",
+      "Infrastructure advisory aligns with structured finance interest"
+    ],
+    "cons": [
+      "Titled 'Analyst' not explicitly 'Intern' - likely graduate/entry-level position",
+      "Posting incomplete; no information on internship dates or summer availability",
+      "No mention of summer programme or internship stipend structure"
+    ],
+    "analysis": "This JPMorgan role in Infrastructure Finance & Advisory is exactly the type of firm and sector you want, and the focus on structured products, project finance, and advisory aligns perfectly with your structured finance internship background. However, the posting is truncated and uses 'Analyst' language rather than explicitly marketing itself as an internship. Check whether this is a dedicated summer intern programme or a full-time analyst track that wouldn't work with your June 2028 graduation. If it's a legitimate summer analyst programme, this would be a very strong fit; if not, it's overqualified for your timeline.",
+    "found_on": "2026-08-16 07:33 UTC"
+  },
+  {
+    "id": "d571ea91155d9641",
+    "title": "Off-Cycle Internship, Technical & Commercial Infrastructure - Macquarie Group",
+    "company": "Macquarie Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5843066791?se=1Ft-vESZ8RGqM9tlrK2FfQ&utm_medium=api&utm_source=88a1c016&v=D8618FED356A39DE4F90C203A16264E39D350275",
+    "snippet": "Turn complex infrastructure ideas into real-world projects as an Off-Cycle Intern in Macquarie Capital's Infrastructure Projects and Capital team. Working alongside experienced colleagues on live opportunities, gain hands-on experience across project development, commercial analysis and technical due diligence. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Off-cycle internship at tier-1 firm (Macquarie) in infrastructure finance; London-based and explicitly internship; strong fit despite generic posting.",
+    "deadline": null,
+    "pros": [
+      "Explicitly off-cycle internship (fits around term dates)",
+      "Infrastructure finance/capital aligns with structured finance interest",
+      "Tier-1 global financial services group; hands-on project development experience"
+    ],
+    "cons": [
+      "Technical & Commercial Infrastructure focus; unclear if this overlaps with your core interests (IB/AM/trading)",
+      "Posting is somewhat generic; limited detail on internship structure, pay, or summer dates",
+      "Infrastructure projects may be more niche than pure investment banking"
+    ],
+    "analysis": "This is a genuine off-cycle internship at Macquarie, one of the world's leading infrastructure finance groups, and it explicitly fits your criteria of off-cycle placements around term dates. The role covers project finance, commercial analysis, and technical due diligence—all valuable in structured finance contexts. The main uncertainty is whether infrastructure projects and capital sits close enough to your ideal areas (investment banking, asset management, trading). If you're interested in infrastructure as a specialisation within finance, this is a strong opportunity; otherwise, check whether Macquarie has parallel summer programmes in core IB or trading teams.",
+    "found_on": "2026-08-16 07:33 UTC"
+  },
+  {
+    "id": "4f96d635d517198e",
+    "title": "Off-Cycle Internship, Infrastructure Projects and Capital - Macquarie Group",
+    "company": "Macquarie Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5843066781?se=1Ft-vESZ8RGqM9tlrK2FfQ&utm_medium=api&utm_source=88a1c016&v=9163E0842DACCE531BF6257F54443C5236203EBF",
+    "snippet": "As an Off-Cycle Intern in our Infrastructure Projects and Capital team, you will gain hands-on experience supporting investment opportunities across a diverse range of infrastructure sectors while learning from experienced professionals in a collaborative and entrepreneurial environment. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates value. You will bring yo…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 77,
+    "reason": "Off-cycle internship at Macquarie in infrastructure finance; London-based, explicitly internship; very similar to d571ea91155d9641 posting.",
+    "deadline": null,
+    "pros": [
+      "Explicitly off-cycle internship (fits around term dates)",
+      "Infrastructure Projects and Capital aligns with structured finance background",
+      "Tier-1 global financial services group; collaborative learning environment"
+    ],
+    "cons": [
+      "Infrastructure focus may be peripheral to your core interests (IB/AM/trading)",
+      "Generic posting; no detail on pay, duration, or specific summer dates",
+      "Likely duplicate or near-duplicate of posting d571ea91155d9641 (both Macquarie off-cycle infra)"
+    ],
+    "analysis": "This appears to be a near-duplicate (or variant) of the previous Macquarie posting, focused on the same Infrastructure Projects and Capital team. Same strengths apply: genuine off-cycle internship, tier-1 firm, structured finance exposure, London location. Same caveat applies: infrastructure specialisation may not be your primary target, so verify whether Macquarie has summer programmes in investment banking or asset management teams that would be a better fit. Don't apply to both unless they are explicitly different teams or cohorts.",
+    "found_on": "2026-08-16 07:33 UTC"
+  },
+  {
     "id": "8f4c599099d369a0",
     "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
     "company": "JPMorgan Chase",
@@ -7255,79 +7330,5 @@
     ],
     "analysis": "This appears to be a duplicate listing for the same Anesi Advisors role. Treat it as a single opportunity rather than two separate ones. All comments from the previous posting apply here. Do not submit two applications for what seems to be the same internship.",
     "found_on": "2026-06-22 17:16 UTC"
-  },
-  {
-    "id": "3459920dbddb514d",
-    "title": "Data Analyst Intern - Financial Markets",
-    "company": "The Opportunity Hub UK",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/details/5771400315?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Role Summary: An exceptional opportunity for Business or Economics undergraduates with a demonstrated interest in wholesale financial markets and data analytics. This role offers hands-onRole Summary: An exceptional opportunity for Business or Economics undergraduates with a demonstrated interest in wholesale financial markets and data analytics. This role offers hands-on experience in business analysis within a pioneering financial market data company in the City.Company Profile: Located in th…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 71,
-    "reason": "Plausible fit: finance-adjacent (data analytics in markets), London, paid, but unclear if true internship or seniority match",
-    "deadline": null,
-    "pros": [
-      "Economics undergrad explicitly mentioned as target",
-      "Financial markets data company in City of London",
-      "Hands-on data analytics experience relevant to your skillset"
-    ],
-    "cons": [
-      "Data analyst role is less core finance than your stated preferences",
-      "Posting heavily truncated; full description missing",
-      "Unclear if role is genuinely for your year group or internship-length"
-    ],
-    "analysis": "This sits in your broader finance sector but tilts toward data/analytics rather than investment banking, asset management, or trading. The Opportunity Hub UK appears to be a job board or agency rather than the actual employer, which raises some caution. The truncation makes it hard to assess whether this is a proper summer internship or something else. Worth investigating further, but only if you're genuinely interested in data-focused roles in financial markets. Check the real employer name and full role description before committing time.",
-    "found_on": "2026-06-22 17:16 UTC"
-  },
-  {
-    "id": "6e2e9120f80ebeed",
-    "title": "M&A Corporate Finance / Investment Banking Intern",
-    "company": "Anesi Advisors",
-    "location": "The City, Central London",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5771799573?se=QG7Uqrxt8RGJe8gKxAvXaw&utm_medium=api&utm_source=88a1c016&v=0B77BB668EB861B2DA98413266CDA16860E1054A",
-    "snippet": "Why us Join a fast-growing company with a standout performance track record in M&A. Early responsibility and exposure across deals, founders, and portfolio strategy. A culture built on trust, transparency and genuine investment in your development. Competitive compensation with a long-term alignment mindset. What you’ll do Conduct in-depth industry and company research to identify trends and opportunities. Stay informed on market developments and their potential impact on client strategies. Col…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Strong fit: investment banking internship in London, right seniority, competitive pay implied, eligible candidate.",
-    "deadline": null,
-    "pros": [
-      "M&A/investment banking aligns with your target sectors",
-      "London-based, your strong preference",
-      "Early responsibility and deal exposure matches your profile"
-    ],
-    "cons": [
-      "No explicit internship label or timeline stated",
-      "Compensation described as 'competitive' but not quantified"
-    ],
-    "analysis": "This is a genuine fit for your investment banking ambitions. Anesi Advisors is a real M&A boutique, and the role description emphasises early responsibility, deal exposure, and competitive pay—exactly what you're looking for. The main uncertainty is whether this is formally structured as an internship and whether the dates align with your summer availability. Before applying, confirm the internship duration, start/end dates, and whether they can accommodate UK student visa working restrictions around term time.",
-    "found_on": "2026-06-21 22:00 UTC"
-  },
-  {
-    "id": "99ee0566f734cab7",
-    "title": "Strategic Finance Internship",
-    "company": "Procter & Gamble",
-    "location": "Paris, Ile-de-France",
-    "url": "https://www.adzuna.fr/land/ad/5768989763?se=jpTCsbxt8RGrKszqFbIEfQ&utm_medium=api&utm_source=88a1c016&v=983E81BE31B10E878FF1377BE8BDBD925535B60E",
-    "snippet": "Job Location PARIS GO-ASNIERES-SUR-SEINE Job Description Are you a student seeking an internship that could kickstart your career? We are offering several 6-month internships starting in January 2027 across France (Headquarter & plant). At P&G, we are offering you to work on iconic brands like Ariel, Pampers, Gillette, Head & Shoulders, Oral-B or Bion3. Don't miss out on this incredible opportunity to shape your future with a global leader in consumer goods. By joining P&G, you will join a dyna…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 71,
-    "reason": "Strategic finance internship at P&G, Paris-based, 6-month duration, strong company—but Paris is secondary preference and timing may conflict with studies.",
-    "deadline": null,
-    "pros": [
-      "Strategic finance internship at FTSE/Fortune 500 company",
-      "6-month structured internship program with clear timeline",
-      "Paris location acceptable as secondary preference; French language asset"
-    ],
-    "cons": [
-      "Paris, not London; your strong preference is UK",
-      "Starts January 2027; you graduate June 2028, but timing vs. term dates unclear",
-      "Consumer goods finance, not investment banking or asset management"
-    ],
-    "analysis": "P&G is a blue-chip employer and this is a legitimate 6-month strategic finance internship. Your working proficiency in French and openness to Paris make this plausible. However, a January 2027 start during your 2nd-year studies may conflict with term time unless this is an off-cycle placement you can fit around exams. Before applying, check whether P&G can accommodate UK student visa restrictions and clarify the exact dates. Also confirm whether strategic finance in FMCG aligns with your investment banking and trading ambitions, or if this is too far from your core interests.",
-    "found_on": "2026-06-21 22:00 UTC"
   }
 ]
