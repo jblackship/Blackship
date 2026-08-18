@@ -1,5 +1,30 @@
 [
   {
+    "id": "3f69ad174c51e444",
+    "title": "Quantitative Analyst",
+    "company": "Anson McCade (recruiter) – client is unnamed quant trading firm",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5845141795?se=9IVMt9Ca8RGyIdVC-Du-Yg&utm_medium=api&utm_source=88a1c016&v=EABB0A5F7C77F82E0D8ED4B080E6C6AE1949D35D",
+    "snippet": "£66,000 GBP £9000  £10,000 Onsite WORKING Location: Singapore, Central London, Greater London - United Kingdom Type: Permanent Quantitative Analyst Our client is a leading global quantitative investment firm, developing systematic trading strategies across global financial markets. Technology and data sit at the heart of the business, with proprietary trading platforms, research infrastructure and large-scale compute environments built in-house. They're looking for a Quantitative Analyst to wor…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Quant analyst at top firm, London option, but listing shows permanent role not internship.",
+    "deadline": null,
+    "pros": [
+      "Quant trading aligns with your finance interests",
+      "London and Singapore options; Python skills relevant",
+      "Leading global systematic trading strategy firm"
+    ],
+    "cons": [
+      "Posted as permanent role (£66k salary) not internship",
+      "2nd-year BSc likely overqualified for permanent hire or underqualified for seniority",
+      "Anson McCade is a recruiter; real employer unnamed—vague visibility"
+    ],
+    "analysis": "This looks like a recruiter posting for a permanent quantitative analyst role, not an internship. The salary and description suggest mid-career hire, not summer intern. While quantitative trading is firmly in your interest zone and your Python skills are relevant, you'd need to clarify with the agency whether internship opportunities exist at this firm or if this is genuinely entry-level for 2nd-year graduates. The unnamed client also raises transparency concerns—ask directly who the employer is before investing time.",
+    "found_on": "2026-08-18 06:47 UTC"
+  },
+  {
     "id": "07cb8c34c5e79462",
     "title": "12 Month Internship - Distribution & Asset Rotation",
     "company": "Crédit Agricole CIB",
@@ -7300,31 +7325,6 @@
       "Recruitment agency posting; unclear real employer details"
     ],
     "analysis": "ABL Recruitment is a staffing agency, not the actual employer, and the posting is vague about the hiring company and contract structure. While treasury work is genuinely valuable finance experience and London ticks your box, the 1-year fixed-term contract signals this is more of a junior role than a summer internship—misaligned with your summer-focused search. Automotive finance is also outside your stated preferences (IB, AM, S&T, strategy, structured finance). Before applying, you'd need to identify the real employer and confirm whether they offer summer-specific internship windows.",
-    "found_on": "2026-07-16 07:23 UTC"
-  },
-  {
-    "id": "4a43686780220b98",
-    "title": "Graduate Operations Analyst",
-    "company": "Give a Grad a Go",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5799942128?se=cMbaR-eA8RG9Q6Xm1NH9UQ&utm_medium=api&utm_source=88a1c016&v=27FF6586E522514F7B7833DBC7F37E2825CBF628",
-    "snippet": "Bonus opportunities Clear progression plan Recognition & awards Company profile - Hedge Fund In this Operations Analyst job, you will join a highly profitable London-based credit hedge fund. Founded in 2012, the business focuses on generating outsized returns through investment opportunities across asset classes in both the US and Europe. With backgrounds working for some of the largest banks in the world, their team has years of experience under their belts - and as they continue to grow, they…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Hedge fund operations role; strong finance pedigree but likely grad-level seniority and role is ops not core trading/AM.",
-    "deadline": null,
-    "pros": [
-      "Hedge fund / credit asset class matches your AM + SF background",
-      "Highly profitable, strong team from top banks",
-      "London location, excellent finance credentials"
-    ],
-    "cons": [
-      "Titled 'Graduate Analyst', not explicitly an internship",
-      "Operations focus, not portfolio management or deal origination",
-      "Real employer not named; posted via Give a Grad a Go (recruitment board)"
-    ],
-    "analysis": "The title 'Graduate Operations Analyst' and reference to 'clear progression plan' and 'graduate' schemes suggest this is a post-degree role, not a 2nd-year internship. While the hedge fund setting and credit expertise align well with your Structured Finance internship background, the operations focus means you'd be supporting rather than executing investment decisions. The real employer is obscured—'Give a Grad a Go' is a job board—and there's no mention of internship terms or summer start dates. If you're considering this anyway, contact them to clarify seniority and timeline; it may suit you better post-graduation.",
     "found_on": "2026-07-16 07:23 UTC"
   }
 ]
