@@ -1,5 +1,30 @@
 [
   {
+    "id": "10c8e7713a7a4a87",
+    "title": "Presentations & Sales Support, Associate - Third Party Distribution Agency (Asset Management) - Stephen Bell Associates",
+    "company": "Unknown (Stephen Bell Associates is a recruitment agency)",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5846860703?se=rCdL6Ieb8RG1-r2bSeqFRA&utm_medium=api&utm_source=88a1c016&v=C84D173E521B0D1ECBAC9635CF6492178BD6CEB9",
+    "snippet": "Our client is a successful third party distribution agency. They are hiring a Presentations and Sales Support Associate. This is a varied role combining sales support, presentations, CRM management and sales reporting. You will work closely with the wider team helping to ensure that their sales and marketing activity is well organised, professionally presented and delivered to a high standard. Key responsibilities: Maintain, update and manage relevant information within Salesforce Track sales p…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 62,
+    "reason": "Asset management sales support in London fits sector & location, but role is vague on internship status and seniority level.",
+    "deadline": null,
+    "pros": [
+      "Asset management sector matches your experience",
+      "London-based, strong preference met",
+      "Sales & CRM exposure builds transferable skills"
+    ],
+    "cons": [
+      "Described as 'Associate' role—unclear if internship or entry-level permanent",
+      "Vague job description lacks details on pay, duration, internship structure",
+      "Recruitment agency posting—client identity obscured"
+    ],
+    "analysis": "This posting sits in the right sector and location, and your asset management internship background is relevant. However, the listing is unclear about whether this is an internship, contract, or permanent role, and there's no mention of compensation or term dates. Before applying, confirm directly with Stephen Bell Associates that this is explicitly an internship (not a permanent Associate role) and that it accommodates UK student visa holders during summer breaks. The vagueness and agency-mediated nature raise some caution.",
+    "found_on": "2026-08-19 04:39 UTC"
+  },
+  {
     "id": "ae24bb1281c85668",
     "title": "Internship – M&A Analyst",
     "company": "Euronext",
@@ -7299,30 +7324,5 @@
     ],
     "analysis": "This is a genuine JPMorganChase infrastructure advisory role in your target sector and location. However, the 'first-year Analyst' language suggests a post-graduate hiring stream rather than a summer internship for current students. The description is truncated, so you cannot see visa sponsorship, term-time constraints, or application deadlines. Contact JPM's graduate recruitment team directly to confirm if they run parallel summer internship streams for undergraduates, or check their internship portal separately.",
     "found_on": "2026-07-17 14:44 UTC"
-  },
-  {
-    "id": "98eb6852f75a2773",
-    "title": "Finance Research Intern, AI Evaluation",
-    "company": "Aptura",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/details/5802851549?utm_medium=api&utm_source=88a1c016",
-    "snippet": "About Aptura Aptura is building the reinforcement learning data company that powers frontier model training globally. We combine deep expertise in finance with cutting-edge in-house tech to deliver tailored, domain-specific training data and feedback loops. At work, we're building a high-performance, people-first culture. We move quickly, think ambitiously, and set a high bar for ourselves, all while staying open, collaborative, and genuinely enjoyable to work with. The best ideas here win rega…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 55,
-    "reason": "London fintech research internship in right location, but AI evaluation focus and unclear internship status create uncertainty",
-    "deadline": null,
-    "pros": [
-      "Finance-adjacent role at well-described startup",
-      "London location matches strong preference",
-      "Data & AI skills transferable to modern finance"
-    ],
-    "cons": [
-      "AI/ML evaluation focus, not core finance domain",
-      "Internship status and duration not explicitly confirmed",
-      "Early-stage startup, compensation structure unclear"
-    ],
-    "analysis": "Aptura is a legitimate fintech company working on training data for AI models, with a finance domain focus. The role is in London and touches finance, which aligns with your sector interest. However, it's positioned as research rather than traditional finance work, and the posting doesn't clearly confirm internship status, duration, or pay. Before applying, confirm this is a structured internship with fair compensation and understand whether the work is truly finance-focused or more general ML work that happens to use financial data.",
-    "found_on": "2026-07-16 15:04 UTC"
   }
 ]
