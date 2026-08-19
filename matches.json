@@ -1,5 +1,30 @@
 [
   {
+    "id": "ae24bb1281c85668",
+    "title": "Internship – M&A Analyst",
+    "company": "Euronext",
+    "location": "Paris, Ile-de-France",
+    "url": "https://www.adzuna.fr/details/5847650607?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Are you ready to shape the future of capital markets? We are looking for an M&A Analyst intern to join the M&A team. The position will be based in Paris, and start 4 January 2027. You will report to the Head of M&A. You will primarily be responsible for: Conducting comprehensive company and industry-level research Monitoring sectors and screening for potential acquisition targets Preparing investment memos and presentations for senior management, the Board and strategic committees Developing, m…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Genuine internship in M&A, Paris location acceptable, eligible; start date and seniority fit well",
+    "deadline": "2026-11-30",
+    "pros": [
+      "Explicit M&A internship—right level and format",
+      "Paris is in candidate's approved location list",
+      "Start date (4 Jan 2027) aligns with term schedule post-exam"
+    ],
+    "cons": [
+      "Paris, not London (candidate's strong preference)",
+      "Posting lacks salary or duration clarity (paid status unclear)",
+      "No explicit mention of paid/unpaid or internship classification rules"
+    ],
+    "analysis": "Euronext's M&A internship is a solid match on seniority, function (M&A relates to strategy and deal experience) and geography (Paris is acceptable). The January 2027 start is well-timed if you finish exams in December. However, the posting doesn't state pay, duration, or formal stipend—you must verify it's paid before applying, as unpaid work is a dealbreaker. Also note it's not London; if London is non-negotiable, this drops in priority. The work (research, memos, presentations) plays to your structured finance and asset management experience. Reach out to clarify payment terms and expected hours before committing.",
+    "found_on": "2026-08-19 02:59 UTC"
+  },
+  {
     "id": "5b7160c7e2ee7790",
     "title": "2027 Summer Internship Programme",
     "company": "LionTree",
@@ -7299,30 +7324,5 @@
     ],
     "analysis": "Aptura is a legitimate fintech company working on training data for AI models, with a finance domain focus. The role is in London and touches finance, which aligns with your sector interest. However, it's positioned as research rather than traditional finance work, and the posting doesn't clearly confirm internship status, duration, or pay. Before applying, confirm this is a structured internship with fair compensation and understand whether the work is truly finance-focused or more general ML work that happens to use financial data.",
     "found_on": "2026-07-16 15:04 UTC"
-  },
-  {
-    "id": "2bb5deecda8bde2a",
-    "title": "Operations & Process Improvement Intern - Financial Crime Ops",
-    "company": "Lendable",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5801491965?se=DBoArf6A8RGLzqjg1WXitw&utm_medium=api&utm_source=88a1c016&v=4DBC4AF40E1732AE1C43F386F8F6955DCAA36981",
-    "snippet": "hackajob is collaborating with Lendable to connect them with exceptional professionals for this role. About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start: One of the UK’s newest unicorns with a team of just over 700 people Among the fastest-growing tech companies in the UK Profitable since 2017 Backed by top investors including Balderton Ca…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 62,
-    "reason": "Financial Crime Operations internship in fintech; London-based, paid, internship-level role in finance sector but outside your core preferences.",
-    "deadline": null,
-    "pros": [
-      "Genuine internship role in finance/fintech sector",
-      "London location matches strong preference",
-      "Lendable is profitable unicorn—credible employer"
-    ],
-    "cons": [
-      "Operations/compliance focus, not IB/AM/trading/consulting",
-      "Financial Crime Ops is niche compared to stated interests",
-      "No mention of salary or contract length"
-    ],
-    "analysis": "Lendable is a legitimate, fast-growing fintech unicorn and this is a real internship in their Financial Crime Operations function. You'd be in London and working in a credible finance company. However, this role focuses on compliance and financial crime prevention rather than investment banking, asset management, sales & trading, or strategy consulting—your stated preferences. The posting doesn't specify salary (check it's paid), duration, or eligibility explicitly, but there's no obvious dealbreaker. It's a plausible fall-back if core finance roles don't materialise, but not a strong priority match.",
-    "found_on": "2026-07-16 10:11 UTC"
   }
 ]
