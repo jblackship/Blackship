@@ -1,5 +1,30 @@
 [
   {
+    "id": "0d98f2ea2b5ec15c",
+    "title": "Business Development",
+    "company": "Falconedge",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5849650094?se=7jTk-3Wd8RGpDd3tbhe3pg&utm_medium=api&utm_source=88a1c016&v=ABA322E007DEAFE52456B09BB34788D6CF98AAA5",
+    "snippet": "Business Development Intern Hedge Funds & Digital Assets Falconedge Location: London – On-site Type: Full-time Internship Industry: Financial Services | Hedge Funds | Digital Assets About Falconedge Falconedge is a growing financial services firm working across hedge funds, digital assets, institutional investing and capital markets. We work with hedge fund managers, institutional investors, family offices and private investors, helping them access institutional-grade solutions across digital a…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Right sector and location, but business development focus is tangential to stated finance interests; full posting text needed to confirm internship status and compensation.",
+    "deadline": null,
+    "pros": [
+      "London-based, on-site (strong preference met)",
+      "Financial services & hedge funds align with asset management background",
+      "Full-time internship format (summer viable)"
+    ],
+    "cons": [
+      "Business development is sales-adjacent, not core IB/S&T/strategy",
+      "Digital assets focus is niche; description truncated, details unclear",
+      "No explicit mention of compensation or term dates"
+    ],
+    "analysis": "Falconedge looks like a genuine hedge fund/fintech firm, which fits your sector interest, but the Business Development angle is softer than your stated preferences (IB, S&T, structured finance). The truncated description is a red flag—you'd need to verify this is a paid internship, confirm summer availability aligns with term dates, and understand whether the role involves client-facing sales (which you've flagged as a dealbreaker if commission-based). If it's relationship management or strategy-focused BD, it could work; if it's pure commission sales, pass.",
+    "found_on": "2026-08-21 15:35 UTC"
+  },
+  {
     "id": "817121ead713cb08",
     "title": "Business Development",
     "company": "Falconedge",
@@ -7310,31 +7335,6 @@
       "Highly competitive; typically requires strong quant/CS background"
     ],
     "analysis": "This is a genuine fit for your skill set and interests in trading/quant roles, but the posting targets graduates, not current students. You could still apply if you frame it as an off-cycle opportunity post-graduation or ask if they have a dedicated internship programme. Check their website for summer internship schemes—many quant shops run parallel tracks. Your Python and financial modelling experience is genuinely valuable here, but expect very high bar on technical assessments.",
-    "found_on": "2026-07-22 10:28 UTC"
-  },
-  {
-    "id": "f6d2e58d776c9259",
-    "title": "Graduate Quantitative Developer",
-    "company": "DeepFin Research",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/details/5810688214?utm_medium=api&utm_source=88a1c016",
-    "snippet": "DeepFin is a systematic proprietary trading firm combining deep learning, traditional quantitative research methods, and cutting-edge trading technology, to trade global markets. Founded by engineers and researchers, we build and deploy advanced trading systems that operate across global markets. Our team is lean, highly technical, and impact-driven - every hire plays a direct role in shaping the firm’s technology, strategy, and performance. We value curiosity, precision, and collaboration, and…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 68,
-    "reason": "Excellent sector/skill fit in trading tech, but same graduate-level positioning issue.",
-    "deadline": null,
-    "pros": [
-      "Systematic trading firm fits your structured finance + trading interests",
-      "Python and quantitative foundation directly relevant",
-      "London-based, lean technical culture values impact"
-    ],
-    "cons": [
-      "Positioned as 'graduate' role; unclear if summer internship option exists",
-      "Deep learning focus may require more ML/advanced CS than you have",
-      "No explicit mention of internship or student placement pathways"
-    ],
-    "analysis": "DeepFin is exactly the kind of trading technology firm you should be targeting, and your structured finance internship background plus Python skills are real assets. However, the posting is clearly aimed at postgraduate hires. Before dismissing it, check if they run summer internships or off-cycle schemes—many prop trading firms do. If not, keep them on your radar for 2028 graduate recruitment. Your technical profile is strong enough to warrant direct outreach to their talent team to ask about student programmes.",
     "found_on": "2026-07-22 10:28 UTC"
   }
 ]
