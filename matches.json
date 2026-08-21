@@ -1,5 +1,30 @@
 [
   {
+    "id": "9cc78d8924c7ac99",
+    "title": "Solicitor - Trade Finance",
+    "company": "J&T Business Consulting",
+    "location": "London, KY",
+    "url": "https://jooble.org/jdp/-3308259054753388692",
+    "snippet": "...documentation \r\n Borrowing base and reserve based lending structures \r\n Export credit arrangements \r\n Pre-payment and limited recourse financing \r\n Transfer of receivables and forfaiting \r\n Silent payment guarantees and independent payment undertakings \r\n Oils, gas, metals...",
+    "source": "Jooble",
+    "trust": "verified",
+    "score": 58,
+    "reason": "Trade finance legal role; structured finance fit but requires solicitor qualification; seniority unclear",
+    "deadline": null,
+    "pros": [
+      "Trade finance aligns with structured finance interest",
+      "London location matches preference",
+      "Exposure to receivables, forfaiting, exotic instruments"
+    ],
+    "cons": [
+      "Solicitor title suggests legal qualification required (you're an economics student)",
+      "No indication this is an internship or trainee role",
+      "Job board data incomplete; unclear if entry-level opportunity exists"
+    ],
+    "analysis": "The trade finance technical content (borrowing base lending, receivables transfer, forfaiting) aligns well with your structured finance background and interest. However, the Solicitor title is a red flag—this almost certainly requires a law degree and legal qualification, which you don't have. This posting may be mislabeled or intended for qualified lawyers. Check with J&T directly whether they have junior analyst or internship-track roles in trade finance, but don't assume this posting is for you.",
+    "found_on": "2026-08-21 08:43 UTC"
+  },
+  {
     "id": "a9b1149b9d200136",
     "title": "Quantitative Analyst Intern",
     "company": "Crédit Agricole CIB",
@@ -7310,29 +7335,5 @@
     ],
     "analysis": "This is a strong field and location match, and JPMorgan Chase's Infrastructure Finance group is genuinely relevant to your profile. However, the role is titled 'Analyst' which typically signals a graduate hire rather than a summer internship for a 2nd year student. Before applying, verify with JPMorgan that this posting accepts summer interns – if it's graduate-only, you may be screened out on seniority grounds regardless of your strong technical fit. The truncated description also makes it hard to confirm internship status. If it does accept summer interns, this becomes an 80+ fit.",
     "found_on": "2026-07-19 21:55 UTC"
-  },
-  {
-    "id": "f7e5c1b56e198fc1",
-    "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5804897060?se=bkN5-rOD8RG64bpm-6Bw6w&utm_medium=api&utm_source=88a1c016&v=A90F168A09877E00B120F3A0A1F6C7FF167CA40A",
-    "snippet": "Description The Infrastructure Finance & Advisory group advises clients on financing infrastructure projects and works with coverage, product, and sales teams to develop and execute financing solutions across transportation, energy, utilities, and social infrastructure. The London-based team focuses primarily on Europe, the Middle East, and Africa and includes professionals with expertise in project finance, bonds, loans, structured products, and derivatives. As a first-year Analyst in the Inve…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Strong fit: investment banking internship in London at top-tier firm, right level and field",
-    "deadline": null,
-    "pros": [
-      "Tier-1 investment banking in your target sector",
-      "Infrastructure & project finance aligns with structured finance background",
-      "London-based, EMEA focus suits your geography and language skills"
-    ],
-    "cons": [
-      "Posted as 'Analyst' role—clarify if this is an internship or full-time entry-level",
-      "No explicit mention of internship duration or summer availability"
-    ],
-    "analysis": "This is your strongest match so far. JPMorgan Chase's Infrastructure Finance group in London directly aligns with investment banking and structured finance—both on your wishlist. Your structured finance internship experience and financial modelling skills are relevant. The main caveat is the job title says 'Analyst' rather than explicitly 'Intern'—you need to confirm whether this is a summer internship programme or a full-time graduate role. If it's a full-time Analyst role, you won't be eligible until after graduation in June 2028. Check the posting carefully or contact the recruiter to verify it's a summer or off-cycle internship.",
-    "found_on": "2026-07-19 20:54 UTC"
   }
 ]
