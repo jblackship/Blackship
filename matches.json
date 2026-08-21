@@ -1,5 +1,30 @@
 [
   {
+    "id": "9c7ac673b6e323e9",
+    "title": "Business Development",
+    "company": "Falconedge",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5849650094?se=OGGJ72ad8RG4OrFPIMktbg&utm_medium=api&utm_source=88a1c016&v=ABA322E007DEAFE52456B09BB34788D6CF98AAA5",
+    "snippet": "Business Development Intern Hedge Funds & Digital Assets Falconedge Location: London – On-site Type: Full-time Internship Industry: Financial Services | Hedge Funds | Digital Assets About Falconedge Falconedge is a growing financial services firm working across hedge funds, digital assets, institutional investing and capital markets. We work with hedge fund managers, institutional investors, family offices and private investors, helping them access institutional-grade solutions across digital a…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Finance sector internship in London, but business development is peripheral to your core targets and digital assets focus is niche.",
+    "deadline": null,
+    "pros": [
+      "London location matches strong preference",
+      "Hedge funds & institutional investing align with asset management interest",
+      "Full-time internship format suggests paid role"
+    ],
+    "cons": [
+      "Business development is not IB, S&T, asset management, or consulting",
+      "Digital assets emphasis may not build traditional finance skills",
+      "Minimal detail provided; vague or truncated job description"
+    ],
+    "analysis": "Falconedge is a real hedge fund and digital assets firm, so this is a legitimate posting. The role sits at the periphery of your stated preferences—you're interested in asset management but this is business development within hedge funds, which is different work. The digital assets angle is a modern niche that may or may not excite you. The posting is frustratingly vague (it cuts off mid-description), so you'd need to dig deeper into what the day-to-day actually involves before investing application effort. If you're open to exploring business development in finance, this could be worth exploring; otherwise, keep looking for more clearly defined roles in your core areas.",
+    "found_on": "2026-08-21 13:48 UTC"
+  },
+  {
     "id": "2c85436dee033af2",
     "title": "Business Development",
     "company": "Falconedge",
@@ -7311,30 +7336,5 @@
     ],
     "analysis": "This is a strong opportunity: Morgan Stanley Investment Management is a tier-one firm and the off-cycle internship programme is explicit, which matches your interest in fitting roles around term dates. Your asset management internship experience and economics background make you a credible candidate. Risk management roles in investment management typically blend quantitative analysis with strategic insight—your structured finance and Excel/Python skills are relevant. However, the posting is incomplete and doesn't clarify whether this is trading risk, operational risk, or portfolio risk. Before applying, request the full job description from Morgan Stanley Campus and confirm pay level. Your asset management internship experience is a real differentiator here.",
     "found_on": "2026-07-22 10:28 UTC"
-  },
-  {
-    "id": "14fd8455c7ec40cc",
-    "title": "Intern Accounting (all genders welcome)",
-    "company": "Kia Europe GmbH",
-    "location": "Frankfurt am Main, Hessen",
-    "url": "https://www.adzuna.de/details/5808566024?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Intern Accounting (all genders welcome) Location: Frankfurt am Main, Germany Team: Finance Employment type: Internship Experience level: Intern Published: 2026-07-03T08:22:58.337Z Join the movement and find new inspiration. We have exciting opportunities for you as: Intern Accounting (all genders welcome) Work on real projects and tasks within our Finance department of the Kia Europe Headquarters in Frankfurt/Main, Germany. Minimum of 6 months (possible prolongation for up to 12 months). The Re…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 62,
-    "reason": "Finance internship in preferred location (Frankfurt), but accounting-focused and vague on level/duration expectations",
-    "deadline": null,
-    "pros": [
-      "Frankfurt location matches your preference list",
-      "Genuine finance internship (6–12 months)",
-      "Real projects in established corporate finance team"
-    ],
-    "cons": [
-      "Accounting-focused, not investment banking or asset management",
-      "Posting is sparse on actual responsibilities and skills required",
-      "No mention of salary or whether it's paid (risk)"
-    ],
-    "analysis": "Kia's Frankfurt finance internship ticks the location box and is a legitimate internship opportunity with real work, which is solid. However, accounting is further from your stated interests (IB, asset management, S&T, strategy) than you'd ideally like, and the job description is frustratingly light on detail—you can't tell if it's paid, what the real skill requirements are, or how technical it gets. Before applying, email to confirm it's paid and ask what the role actually entails day-to-day; your Python and modelling skills might be more or less relevant depending on their answer.",
-    "found_on": "2026-07-21 03:34 UTC"
   }
 ]
