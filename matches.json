@@ -1,5 +1,30 @@
 [
   {
+    "id": "5cd1e4a5810855e1",
+    "title": "Business Development",
+    "company": "Falconedge",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5849650094?se=eK8vj36d8RGU6LIjyaRnwA&utm_medium=api&utm_source=88a1c016&v=ABA322E007DEAFE52456B09BB34788D6CF98AAA5",
+    "snippet": "Business Development Intern Hedge Funds & Digital Assets Falconedge Location: London – On-site Type: Full-time Internship Industry: Financial Services | Hedge Funds | Digital Assets About Falconedge Falconedge is a growing financial services firm working across hedge funds, digital assets, institutional investing and capital markets. We work with hedge fund managers, institutional investors, family offices and private investors, helping them access institutional-grade solutions across digital a…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Right sector and location, internship role, but business development is tangential to your core interests and digital assets may not align with traditional finance background.",
+    "deadline": null,
+    "pros": [
+      "London-based, on-site internship",
+      "Hedge funds & institutional investing experience",
+      "Full-time summer internship (flexible timing)"
+    ],
+    "cons": [
+      "Business development is sales-adjacent, not core banking/trading/AM",
+      "Digital assets focus may not match structured finance background",
+      "Posting truncated—unclear on pay, duration, term dates compatibility"
+    ],
+    "analysis": "Falconedge operates in your sector (hedge funds, institutional capital markets) and the London location is ideal. However, business development typically sits between sales and strategy rather than in the core finance roles you've targeted (banking, asset management, S&T). The digital assets angle could be a positive if you're interested in emerging finance, but it's not a natural fit given your structured finance and traditional AM internship experience. Before applying, confirm salary/paid status, exact dates, and whether the role involves client-facing sales (which you want to avoid) versus true strategic BD. The truncated description is a red flag—seek the full posting.",
+    "found_on": "2026-08-21 16:37 UTC"
+  },
+  {
     "id": "0d98f2ea2b5ec15c",
     "title": "Business Development",
     "company": "Falconedge",
@@ -7311,30 +7336,5 @@
     ],
     "analysis": "This is an excellent fit. Morgan Stanley's Investment Banking off-cycle internship matches your target sector, internship stage, and your stated openness to Frankfurt. You're a 2nd-year student, which aligns with their typical intake timing. As an EU citizen on a UK student visa, you should be eligible to work in Frankfurt. The main trade-off is location: Frankfurt is your second choice, not London, but it's explicitly on your acceptable list. Apply immediately—Morgan Stanley's campus programs are highly competitive and this is exactly the role profile you're seeking.",
     "found_on": "2026-07-22 12:26 UTC"
-  },
-  {
-    "id": "eed976de94859408",
-    "title": "Graduate Quant Developer",
-    "company": "Squarepoint Capital",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/details/5810689139?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Please only apply to the one job you feel best fits your skillset and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity. Position Overview: Squarepoint is seeking talented, curious, and self‑driven graduate‑level candidates who are eager to apply strong quantitative and computational foundations in a challenging and innovative environment at the intersection of technology and investment research. As a Graduate Quant Developer…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 65,
-    "reason": "Strong technical fit and location, but graduate-level role when candidate is still a student.",
-    "deadline": null,
-    "pros": [
-      "Quantitative trading aligns with Python and financial modelling skills",
-      "London location matches strong preference",
-      "Innovative fintech environment suits economics + tech background"
-    ],
-    "cons": [
-      "Explicitly 'graduate-level' but candidate graduating June 2028",
-      "No mention of internship pathway or summer flexibility",
-      "Highly competitive; typically requires strong quant/CS background"
-    ],
-    "analysis": "This is a genuine fit for your skill set and interests in trading/quant roles, but the posting targets graduates, not current students. You could still apply if you frame it as an off-cycle opportunity post-graduation or ask if they have a dedicated internship programme. Check their website for summer internship schemes—many quant shops run parallel tracks. Your Python and financial modelling experience is genuinely valuable here, but expect very high bar on technical assessments.",
-    "found_on": "2026-07-22 10:28 UTC"
   }
 ]
