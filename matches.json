@@ -1,5 +1,30 @@
 [
   {
+    "id": "2c85436dee033af2",
+    "title": "Business Development",
+    "company": "Falconedge",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5849650094?se=IBuCOV-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=88a1c016&v=ABA322E007DEAFE52456B09BB34788D6CF98AAA5",
+    "snippet": "Business Development Intern Hedge Funds & Digital Assets Falconedge Location: London – On-site Type: Full-time Internship Industry: Financial Services | Hedge Funds | Digital Assets About Falconedge Falconedge is a growing financial services firm working across hedge funds, digital assets, institutional investing and capital markets. We work with hedge fund managers, institutional investors, family offices and private investors, helping them access institutional-grade solutions across digital a…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Right sector and location, but vague posting and non-core finance role creates uncertainty.",
+    "deadline": null,
+    "pros": [
+      "London-based, full-time internship in finance",
+      "Hedge funds & digital assets align with sector interest",
+      "On-site role with institutional investing exposure"
+    ],
+    "cons": [
+      "Business Development is tangential to IB/AM/S&T/structured finance",
+      "Posting is incomplete and lacks detail on pay, dates, requirements",
+      "Digital assets focus may indicate crypto/alternative focus over traditional finance"
+    ],
+    "analysis": "Falconedge is a real financial services firm, and this ticks basic boxes: London, internship, finance sector, paid. However, Business Development is not on your core wish-list (IB, AM, S&T, strategy consulting, structured finance), and the incomplete posting raises red flags about how seriously they're recruiting. The digital assets angle is a wildcard—could be valuable or tangential depending on your interests. Before applying, verify the internship dates align with your summer availability (non-term time) and clarify the salary/structure. Worth a reach if you're flexible on role type, but not a priority match.",
+    "found_on": "2026-08-21 12:52 UTC"
+  },
+  {
     "id": "e26ae3e3d27b4e68",
     "title": "Business Development",
     "company": "Falconedge",
@@ -7311,29 +7336,5 @@
     ],
     "analysis": "Kia's Frankfurt finance internship ticks the location box and is a legitimate internship opportunity with real work, which is solid. However, accounting is further from your stated interests (IB, asset management, S&T, strategy) than you'd ideally like, and the job description is frustratingly light on detail—you can't tell if it's paid, what the real skill requirements are, or how technical it gets. Before applying, email to confirm it's paid and ask what the role actually entails day-to-day; your Python and modelling skills might be more or less relevant depending on their answer.",
     "found_on": "2026-07-21 03:34 UTC"
-  },
-  {
-    "id": "019515d7093360f3",
-    "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5804897060?se=gnu0G8WD8RGFMa6bWHzthQ&utm_medium=api&utm_source=88a1c016&v=A90F168A09877E00B120F3A0A1F6C7FF167CA40A",
-    "snippet": "Description The Infrastructure Finance & Advisory group advises clients on financing infrastructure projects and works with coverage, product, and sales teams to develop and execute financing solutions across transportation, energy, utilities, and social infrastructure. The London-based team focuses primarily on Europe, the Middle East, and Africa and includes professionals with expertise in project finance, bonds, loans, structured products, and derivatives. As a first-year Analyst in the Inve…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 78,
-    "reason": "Strong fit on field, location, and eligibility, but role is for first-year Analyst (post-graduate) not intern.",
-    "deadline": null,
-    "pros": [
-      "Infrastructure/project finance aligns with structured finance interest",
-      "London-based, covers EMEA including Frankfurt/Paris markets",
-      "Investment banking + advisory matches career goals"
-    ],
-    "cons": [
-      "Posted as 'Analyst' role, typically graduate/post-degree, not internship",
-      "Graduating June 2028 means you'd be applying as 2nd year student, not graduate"
-    ],
-    "analysis": "This is a plausible fit if JPMorgan Chase runs summer internship schemes targeting penultimate-year undergraduates under an 'Analyst' banner—some banks do blur the distinction. The content (infrastructure finance, structured products, project finance) aligns perfectly with your stated interests, you're UK-based and eligible to work, and London is your priority location. Before applying, verify this is genuinely open to current students and not reserved for graduates. If it's a graduate-only role, it's premature for you; if it's their summer analyst/intern program, it's excellent.",
-    "found_on": "2026-07-19 22:56 UTC"
   }
 ]
