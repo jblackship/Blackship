@@ -1,5 +1,55 @@
 [
   {
+    "id": "de81f33a2c0eaab0",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=4lVqClie8RGYCPkgqRwtpg&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 75,
+    "reason": "Strong technical fit and prestigious firm, but Dublin-based with London option; Python skills valuable but role heavily emphasizes computationally intensive work.",
+    "deadline": null,
+    "pros": [
+      "Top-tier trading firm, aligns with S&T interest",
+      "Python and technical modelling directly applicable",
+      "10-week summer program, accessible to term dates"
+    ],
+    "cons": [
+      "Primary base is Dublin, not London preference",
+      "Very technically heavy—may require stronger CS background than candidate signals",
+      "Limited evidence candidate has deep quant/engineering experience"
+    ],
+    "analysis": "This is a solid fit on paper: Susquehanna is an elite firm in the space the candidate targets, the timeframe works for a UK student, and Python + financial modelling skills are directly useful. However, the role is described as computationally intensive and engineering-focused, which suggests it's geared toward stronger technical candidates, possibly with CS backgrounds. The dual Dublin/London setup is a minor concern given your stated London preference, though London is included. Before applying, assess whether your Python experience goes beyond basics and whether you're confident tackling algorithmic problem-solving at interview stage.",
+    "found_on": "2026-08-22 18:33 UTC"
+  },
+  {
+    "id": "c9294237e94adf4a",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=4lVqClie8RGYCPkgqRwtpg&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Excellent strategic fit and prestigious firm, but quant-focused role may exceed technical depth; Dublin primary location is a drawback.",
+    "deadline": null,
+    "pros": [
+      "Strategy and quant align with economics background",
+      "Reputable firm in preferred finance sector",
+      "Summer 2027 timing suits UK student schedule"
+    ],
+    "cons": [
+      "Quant strategy likely requires stronger mathematical/programming foundation",
+      "Dublin-based with London option, not London-first",
+      "Computationally intensive; may be overqualified in some areas, underqualified in others"
+    ],
+    "analysis": "This posting sits between your structured finance experience and pure quantitative research, which is promising strategically. Susquehanna is a top-tier firm and the summer timing works. However, like the trading systems role, this is computationally intensive and quant-focused; your economics degree and basic modelling may not fully prepare you for the technical bar expected. Your structured finance background is a strong signal, but you should honestly evaluate your comfort with advanced mathematics and algorithmic thinking. Reach out to current interns or employees at Susquehanna to understand what the interview process tests before investing application effort.",
+    "found_on": "2026-08-22 18:33 UTC"
+  },
+  {
     "id": "8f9059c95b7347a4",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7304,52 +7354,5 @@
     ],
     "analysis": "This is a genuine off-cycle internship at Houlihan Lokey, a top-tier investment bank, in primary capital advisory (capital solutions/PE fundraising). The sector and role type strongly match your interests. However, the Paris location is your third-choice geography—while you listed it as acceptable, London is your strong preference. The September 2026 timing falls during the academic year, so verify with your university whether you can negotiate term flexibility or if this aligns with a formal internship/placement scheme. Confirm the role is paid before applying. This is worth pursuing if the location and timing work for you.",
     "found_on": "2026-07-26 23:01 UTC"
-  },
-  {
-    "id": "b8bcb8947d4980ef",
-    "title": "NatWest Markets - Frankfurt Leveraged Finance Internship",
-    "company": "NatWest Group",
-    "location": "Frankfurt am Main, Hessen",
-    "url": "https://www.adzuna.de/details/5816415052?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Why NatWest Markets Frankfurt? In Structured Finance, Leveraged Finance, you’ll play a vital role when it comes to our bank’s performance. For NatWest, our main aim is to deliver a wide range of financing solutions to private equity clients, as well as sponsor-owned corporates across Europe. We act as the Centre of Excellence for the origination and delivery of complex and event-driven transactions for European leveraged finance. Our teams help our customers in Europe on raising capital and man…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 88,
-    "reason": "Strong internship in structured finance at a top investment bank, Frankfurt location aligns with preferences, candidate eligible.",
-    "deadline": null,
-    "pros": [
-      "Structured finance—your exact stated interest",
-      "Leveraged finance and deal-driven experience",
-      "Frankfurt is explicitly in your preferred locations"
-    ],
-    "cons": [
-      "Posting description cuts off; full scope and dates unclear",
-      "No explicit mention of internship duration or pay"
-    ],
-    "analysis": "This is a well-targeted opportunity. NatWest Markets' Frankfurt Leveraged Finance team directly matches your stated interest in structured finance and sits within investment banking. Your prior structured finance internship, financial modelling skills, and economics background position you competitively. Frankfurt is in your preferred list, and as an EU citizen on a UK student visa you have right-to-work eligibility. The main risk is the truncated description—you need to verify internship dates align with your term calendar (summer 2025 or 2026?) and confirm it is paid. Reach out to NatWest or check their careers portal for the full posting and application deadline before submitting.",
-    "found_on": "2026-07-26 11:21 UTC"
-  },
-  {
-    "id": "8c735f2b3ca6a671",
-    "title": "NatWest Markets - Amsterdam Sustainable Finance Advisory Internship Programme",
-    "company": "NatWest Group (NatWest Markets)",
-    "location": "Amsterdam, Noord-Holland",
-    "url": "https://www.adzuna.nl/details/5816063283?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Why NatWest Markets Amsterdam? NatWest Markets is the investment banking arm of NatWest, offering debt financing, risk management and trading solutions to our customers. Our Amsterdam office is the head office of NatWest Markets NV, and hence the heart of our Western European operations. We aim to be the partner of choice for NatWest Group customers across Europe, supporting them with their financing and risk management needs. Our world-class front-office internship programme Our NatWest Market…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Investment banking internship in sustainable finance advisory at NatWest Markets; Amsterdam location matches preferences, eligible to work, aligned with target sector.",
-    "deadline": null,
-    "pros": [
-      "Investment banking arm—core target sector",
-      "Structured internship programme, Amsterdam office (preferred location)",
-      "Sustainable finance advisory aligns with structured finance interest"
-    ],
-    "cons": [
-      "Amsterdam, not London (though listed as acceptable alternative)"
-    ],
-    "analysis": "This is a front-office internship at NatWest Markets, the investment banking division of NatWest Group, directly aligned with your target sectors (investment banking and structured finance). Amsterdam is one of your acceptable locations. You're eligible to work in the Netherlands as an EU citizen. The posting is vague on exact dates and salary, so confirm summer timing and that it's paid before applying, but this is a strong match on sector, level, and location. Recommend applying.",
-    "found_on": "2026-07-26 03:17 UTC"
   }
 ]
