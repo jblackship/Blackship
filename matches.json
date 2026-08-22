@@ -1,5 +1,53 @@
 [
   {
+    "id": "83373759f5170147",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=jrvnD1-e8RGB16i3maMf_w&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Strong fit: trading systems role at top firm, London/Dublin locations, right seniority, paid internship, aligns with finance interests.",
+    "deadline": null,
+    "pros": [
+      "Python + technical skills directly applicable",
+      "Trading & technology intersection matches profile",
+      "London/Dublin dual location acceptable"
+    ],
+    "cons": [
+      "Computationally intensive—heavy emphasis on engineering over finance concepts",
+      "No mention of financial modelling or traditional banking experience valued"
+    ],
+    "analysis": "This is a genuine fit for your technical profile and sector interests. Susquehanna is a legitimate, reputable proprietary trading firm, and the 10-week summer window aligns well with UK term dates (typically ends mid-June, internship likely runs July–September). Your Python skills and previous internship experience make you competitive. The main caveat is that this leans heavily into systems engineering rather than pure trading or strategy—check the job spec to confirm you're comfortable with software architecture and data infrastructure as primary deliverables, not just market knowledge.",
+    "found_on": "2026-08-22 19:24 UTC"
+  },
+  {
+    "id": "878c399971a4aa18",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=jrvnD1-e8RGB16i3maMf_w&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 79,
+    "reason": "Good fit: quant strategy role at top firm, London/Dublin acceptable, paid internship, but heavy technical requirements and strategy focus.",
+    "deadline": null,
+    "pros": [
+      "Quant strategy aligns with structured finance + Python skills",
+      "Prestigious firm with strong internship pipeline",
+      "London/Dublin dual location acceptable"
+    ],
+    "cons": [
+      "Very computationally intensive—heavy maths/algorithm focus required",
+      "Limited mention of economics or traditional finance concepts"
+    ],
+    "analysis": "This is a credible posting from the same reputable firm, and quant strategy sits squarely in your stated interests (asset management, trading, strategy). Your economics background and Python skills are assets, but this role appears to demand strong algorithmic problem-solving and likely advanced statistics—well beyond basic financial modelling. Before applying, honestly assess your comfort with competitive programming-style challenges and machine learning / optimisation algorithms. If you've done coursework in numerical methods or have a track record of strong technical competitions, this is worth pursuing; otherwise, the first Susquehanna role may suit you better.",
+    "found_on": "2026-08-22 19:24 UTC"
+  },
+  {
     "id": "de81f33a2c0eaab0",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7304,55 +7352,5 @@
     ],
     "analysis": "Arthur D. Little is a genuine, prestigious consulting house and this Business Analyst internship in their Risk/Resilience practice sits squarely in your target domain (strategy consulting). The London location and performance/risk focus are both strong matches. However, the posting description is incomplete, so you cannot verify the internship format, length, salary, or exact summer availability before applying. Request the full job description or contact them directly to confirm it's a paid summer internship that fits around your term dates (graduating June 2028). If confirmed paid and summer-aligned, this is a strong fit; if not, it drops significantly.",
     "found_on": "2026-07-29 05:55 UTC"
-  },
-  {
-    "id": "aac456617f2bda4f",
-    "title": "Finance Assistant - Internship H/F",
-    "company": "Work With Island",
-    "location": "10ème Arrondissement, Paris",
-    "url": "https://www.adzuna.fr/details/5818082937?utm_medium=api&utm_source=88a1c016",
-    "snippet": "As part of the Finance team, you will join Emilia, our Head of Finance, to actively contribute to the structuring, analysis, and reliability of the company's financial performance. Your mission: Support daily financial and operational management by participating in the preparation of budgets, forecasts, and performance analyses. You will play a key role in cash flow monitoring, variance analysis, and the implementation of management tools to support strategic decision-making. In parallel, you w…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 62,
-    "reason": "Finance internship in Paris with strong suit on fundamentals, but location is secondary preference and role lacks IB/trading/strategy focus.",
-    "deadline": null,
-    "pros": [
-      "Explicitly internship role – matches your programme preference",
-      "Finance operations focus relevant to asset/structured finance background",
-      "Paris is an acceptable location (secondary preference list)"
-    ],
-    "cons": [
-      "Paris, not London – your strong preference is UK",
-      "Finance operations/controls, not investment banking or trading",
-      "H/F notation suggests French fluency may be preferred; you have working proficiency"
-    ],
-    "analysis": "Work With Island is offering a genuine finance internship with budgeting, forecasting, and cash flow analysis responsibilities. Your structured finance background and Python/Excel skills are relevant, and you meet language and eligibility criteria. However, the role is operations-focused (not front-office) and based in Paris rather than London, which reduces alignment with your stated preferences. If London opportunities are thin this cycle, this is a credible fallback, but clarify the role scope and confirm term-date flexibility before applying.",
-    "found_on": "2026-07-28 10:38 UTC"
-  },
-  {
-    "id": "4d45c8bbd1ccb14c",
-    "title": "Off-Cycle Internship, Primary Capital Advisory (Private Equity Fundraising) - September 2026",
-    "company": "Houlihan Lokey",
-    "location": "Paris, Ile-de-France",
-    "url": "https://www.adzuna.fr/details/5816820738?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Business Unit: Capital Solutions Industry: No Industry&xa;&xa; Overview Houlihan Lokey, Inc. (NYSE:HLI) is a leading global investment bank recognized for delivering independent strategic and financial advice to corporations, financial sponsors, and governments. With uniquely deep industry expertise, broad international reach, and a partnership approach rooted in trust, the firm provides innovative, integrated solutions across mergers and acquisitions, capital solutions, financial restructuring…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Off-cycle internship in primary capital/PE fundraising; strong sector fit, right timing. Paris location slightly less preferred than London.",
-    "deadline": "2026-09",
-    "pros": [
-      "Off-cycle internship fits around term dates",
-      "Primary Capital Advisory (PE fundraising) within finance sector",
-      "Tier-1 investment bank; prestigious signal"
-    ],
-    "cons": [
-      "Paris location; you strongly prefer London",
-      "Internship timing in September 2026 requires term-time availability confirmation",
-      "No explicit mention of salary/paid status"
-    ],
-    "analysis": "This is a genuine off-cycle internship at Houlihan Lokey, a top-tier investment bank, in primary capital advisory (capital solutions/PE fundraising). The sector and role type strongly match your interests. However, the Paris location is your third-choice geography—while you listed it as acceptable, London is your strong preference. The September 2026 timing falls during the academic year, so verify with your university whether you can negotiate term flexibility or if this aligns with a formal internship/placement scheme. Confirm the role is paid before applying. This is worth pursuing if the location and timing work for you.",
-    "found_on": "2026-07-26 23:01 UTC"
   }
 ]
