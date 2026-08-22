@@ -1,5 +1,53 @@
 [
   {
+    "id": "30306ea7f83ab3bd",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=DDgueD2e8RGRs_WofmWTvg&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Quant strategy role in your sector; same Dublin-London location trade-off as above",
+    "deadline": null,
+    "pros": [
+      "Quantitative strategy directly overlaps finance goals",
+      "Python and financial modelling skills applicable",
+      "10-week paid summer internship structure"
+    ],
+    "cons": [
+      "Dublin primary location, not London",
+      "High technical bar; may require advanced quant background"
+    ],
+    "analysis": "Similar fit to the trading systems role but focused on strategy rather than engineering. Your structured finance internship and financial modelling skills are relevant, though 'quant developer' roles often expect stronger mathematical/computational depth than a 2nd-year Economics student typically has. The salary and prestige are excellent, but verify the technical prerequisites—reach out to current/past interns if possible to gauge realistic entry-level expectations. Dublin location is again a compromise.",
+    "found_on": "2026-08-22 15:23 UTC"
+  },
+  {
+    "id": "7cc981ce4d08dd18",
+    "title": "2027 Blackstone Private Equity Analyst (London)",
+    "company": "Blackstone",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5852577975?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at www.blackstone.com . Follow @blacks…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 88,
+    "reason": "Elite PE firm, London, right seniority level, excellent brand; strong fit across all dimensions",
+    "deadline": null,
+    "pros": [
+      "Tier-1 alternative asset manager; world-class brand",
+      "London location matches strong preference",
+      "Private equity directly in your sector interests"
+    ],
+    "cons": [
+      "Highly competitive; likely targets target schools more aggressively",
+      "Posted role is 2019-dated; posting may be stale or templated"
+    ],
+    "analysis": "This is a genuinely strong fit—Blackstone is a dream internship for finance candidates, the London location is ideal, and PE aligns with your asset management background. However, the posting date (2019) is a major red flag; it suggests either a stale job board entry or recycled content, which means the role may not actually be open or the details may be outdated. Check Blackstone's official careers page directly and confirm 2027 summer internship availability before investing time in an application. If it's live, your asset management internship and strong academic profile make you competitive.",
+    "found_on": "2026-08-22 15:23 UTC"
+  },
+  {
     "id": "400082f4b2061b5b",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7301,53 +7349,5 @@
     ],
     "analysis": "Macquarie is a credible global financial services firm and this internship sits in your stated sector. The London location and paid structure are strong positives. However, the critical concern is timing: as a 2nd-year student graduating June 2028, you need to verify whether a six-month off-cycle internship fits your academic calendar without clashing with term. The role focuses on infrastructure advisory rather than your core preferences (IB, asset/wealth management, S&T), so it's solid but not optimal. Before applying, clarify the exact start/end dates and confirm Macquarie's visa sponsorship practices for UK student visa holders.",
     "found_on": "2026-07-24 22:07 UTC"
-  },
-  {
-    "id": "11b8ba6f428db7a4",
-    "title": "2027 Off-cycle Internship, Infrastructure Advisory - Macquarie Group",
-    "company": "Macquarie Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5810867059?se=PHtDVp2H8RG3tOkLR0Zx3w&utm_medium=api&utm_source=88a1c016&v=3E1FED0057E22B7AD112A0041B45C55CA1C838A3",
-    "snippet": "This six-month internship gives you the opportunity to work alongside experienced colleagues on meaningful, real-world transactions shaping the infrastructure sector across the UK, Europe and globally. You'll build technical skills, contribute to live deals and gain hands-on experience as you support the team across a range of ongoing projects. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a care…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 75,
-    "reason": "Strong field and location fit, but off-cycle duration (6 months) may conflict with term dates; eligibility confirmed.",
-    "deadline": null,
-    "pros": [
-      "Infrastructure Advisory aligns with structured finance background",
-      "London-based, preferred location",
-      "Real transactions and live deal experience"
-    ],
-    "cons": [
-      "Six-month commitment may overlap with academic term",
-      "Off-cycle timing needs explicit verification against term calendar"
-    ],
-    "analysis": "Macquarie is a credible tier-1 employer and infrastructure advisory is adjacent to your structured finance experience. The role offers genuine deal exposure and skill-building aligned with your finance sector interests. However, a six-month internship is unusually long for a summer window—you need to confirm the exact dates don't clash with your academic calendar before applying. If the timing works, this is a strong fit.",
-    "found_on": "2026-07-24 20:22 UTC"
-  },
-  {
-    "id": "0135fcba8b9b2326",
-    "title": "Commercial and Investment Bank Treasury - Regional Liquidity and Balance Sheet Analytics",
-    "company": "JPMorgan Chase",
-    "location": "London, United Kingdom",
-    "url": "https://www.themuse.com/jobs/jpmorganchase/commercial-and-investment-bank-treasury-regional-liquidity-and-balance-sheet-analytics",
-    "snippet": "Help shape how a global Treasury team monitors, forecasts, and optimizes liquidity across key international legal entities. You will sit at the center of balance sheet and funding discussions-providing independent analytical challenge while partnering closely with CIB business lines, Corporate Treasury, and risk partners to deliver well-governed outcomes. The role balances independent risk-aware challenge with commercial partnership to help optimize liquidity usage and balance sheet efficiency while meeting regulatory and internal stress requirements. This role suits someone who can turn compl",
-    "source": "The Muse",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Strong match: JPMorgan Treasury internship in London; finance sector, right seniority, confirmed eligibility.",
-    "deadline": null,
-    "pros": [
-      "Tier-1 investment bank, strong brand and training",
-      "Balance sheet analytics and liquidity forecasting uses Excel/Python",
-      "London location, paid internship"
-    ],
-    "cons": [
-      "Treasury is more risk/operations-focused than trading or M&A",
-      "Posting lacks explicit internship dates or application deadline"
-    ],
-    "analysis": "This is a genuine JPMorgan internship in London doing quantitative balance sheet work—a natural fit for your Excel and Python skills, and clearly a paid role at a top-tier bank. Treasury is slightly tangential to pure sales & trading or investment banking, but it's highly technical, strategically important work that builds valuable financial modeling credentials. Confirm the internship start/end dates work with your term calendar and apply promptly; JPMorgan likely has a rolling or near-deadline process.",
-    "found_on": "2026-07-24 20:22 UTC"
   }
 ]
