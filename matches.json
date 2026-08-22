@@ -1,5 +1,53 @@
 [
   {
+    "id": "5e43f7a319b1fa47",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=CHeX0hue8RGRs_WofmWTvg&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Strong fit: sales & trading adjacent role, London/Dublin locations match preferences, computationally intensive suits Python skills, 10-week summer program fits timeline",
+    "deadline": null,
+    "pros": [
+      "Trading systems engineering aligns with S&T interest",
+      "Python and technical modelling skills directly applicable",
+      "London + Dublin offices match your geographic preferences"
+    ],
+    "cons": [
+      "Role emphasizes 'computationally intensive' – may require stronger C++/Java than Python alone",
+      "Unclear if role is internship vs. full-time graduate position"
+    ],
+    "analysis": "This is a genuine fit with your quant/trading interests and technical background. The 10-week summer timeframe works around your term dates. However, clarify upfront whether this is open to current undergraduates or targets recent graduates. The heavy computational focus is a positive given your Python skills, but don't oversell basic Python – review their tech stack beforehand to ensure you're competitive. The Dublin/London split could also mean variable location; confirm where you'd actually be based.",
+    "found_on": "2026-08-22 11:22 UTC"
+  },
+  {
+    "id": "8f656ac90d8468f3",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=CHeX0hue8RGRs_WofmWTvg&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 80,
+    "reason": "Strong fit: quantitative strategy aligns with S&T/asset management interests, London/Dublin accessible, computationally intensive matches Python + financial modelling",
+    "deadline": null,
+    "pros": [
+      "Quantitative strategy directly matches your interests and prior internships",
+      "Python and financial modelling skills are core to role",
+      "10-week program fits summer availability and term schedule"
+    ],
+    "cons": [
+      "High technical bar – may require advanced quantitative experience beyond basics",
+      "Internship vs. graduate role distinction unclear from posting"
+    ],
+    "analysis": "This is closely aligned with your asset management and structured finance background, and it's genuinely in the quant space. Your Python and financial modelling experience position you well, though the role likely attracts strong quant competition. Verify that undergraduates in their 2nd year are competitive (some firms prefer final-year or postgraduate candidates). The Dublin/London split is minor but worth clarifying for logistical planning. This is worth a strong application if you're confident in your technical depth.",
+    "found_on": "2026-08-22 11:22 UTC"
+  },
+  {
     "id": "2aaf8d87e8407a70",
     "title": "Business Development",
     "company": "Falconedge",
@@ -7301,54 +7349,5 @@
     ],
     "analysis": "This is a genuine fit. Macquarie's infrastructure advisory sits at the intersection of structured finance and investment banking—you'll build technical modelling skills on real deals, which aligns with your background (prior structured finance internship, Python, modelling). The off-cycle structure and London location are ideal. The six-month length is substantial, so confirm it can run entirely outside term dates, but this is exactly the kind of role you should target. No visa or eligibility issues.",
     "found_on": "2026-07-24 10:21 UTC"
-  },
-  {
-    "id": "c7ed7965a5495ef4",
-    "title": "2026 Risk Management Off-Cycle Internship - Quantitative (Frankfurt)",
-    "company": "Morgan Stanley",
-    "location": "Frankfurt am Main, Hessen",
-    "url": "https://www.adzuna.de/details/5813663789?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Placement and Duration This Internship is an opportunity to experience the culture and atmosphere in the Firm Risk Management Division by taking on some of the responsibilities and functions of a Full-time Analyst for a short period. The internship typically lasts six to twelve months but can vary in length depending on business needs and candidate availability. This is a full time internship. The cornerstone of Morgan Stanley's risk management philosophy is the execution of risk-adjusted retur…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 62,
-    "reason": "Right firm and seniority; quantitative risk is finance; Frankfurt location secondary preference; timing unclear",
-    "deadline": null,
-    "pros": [
-      "Morgan Stanley, tier-1 investment bank",
-      "Quantitative risk management builds modelling skills",
-      "Off-cycle internship, 6–12 months flexible"
-    ],
-    "cons": [
-      "Frankfurt, not London (secondary preference location)",
-      "Risk management outside your core sectors",
-      "Internship timing/start date not specified; may conflict with term"
-    ],
-    "analysis": "Morgan Stanley is a top firm and this is a legitimate internship opportunity in quantitative risk management—a rigorous technical track. Your Python and modelling skills are relevant. However, Frankfurt is your third/fourth choice location, and the posting doesn't specify start dates or how it aligns with UK term schedules, which is crucial for your visa status. Risk management is also tangential to your stated sectors. If you're open to Frankfurt and can confirm the timing doesn't breach your visa restrictions, this merits serious consideration; otherwise prioritize London roles.",
-    "found_on": "2026-07-24 10:21 UTC"
-  },
-  {
-    "id": "b5a5c6070ce95adb",
-    "title": "2027 Off-cycle Internship, Infrastructure Advisory - Macquarie Group",
-    "company": "Macquarie Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5810867059?se=2MqzBjKH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=88a1c016&v=3E1FED0057E22B7AD112A0041B45C55CA1C838A3",
-    "snippet": "This six-month internship gives you the opportunity to work alongside experienced colleagues on meaningful, real-world transactions shaping the infrastructure sector across the UK, Europe and globally. You'll build technical skills, contribute to live deals and gain hands-on experience as you support the team across a range of ongoing projects. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a care…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Off-cycle infrastructure advisory internship at Macquarie; London-based, aligns with finance/investment banking interests, eligible to work.",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship fits around term dates",
-      "Infrastructure advisory in investment banking sphere",
-      "Macquarie is world-class, aligns with target sector"
-    ],
-    "cons": [
-      "Six months may extend beyond summer if start timing unclear",
-      "Infrastructure advisory not explicitly listed as preferred sector"
-    ],
-    "analysis": "This is a strong match for you. Macquarie's infrastructure advisory team offers meaningful transaction experience and sits within the investment banking ecosystem you're targeting. London location, off-cycle structure, and paid internship all tick your boxes. The six-month duration is generous for an intern role—confirm the start/end dates align with your academic calendar before applying. Your previous structured finance internship demonstrates relevant technical grounding. Apply with confidence.",
-    "found_on": "2026-07-24 07:33 UTC"
   }
 ]
