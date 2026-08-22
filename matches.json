@@ -1,5 +1,55 @@
 [
   {
+    "id": "8f9059c95b7347a4",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=aMeZGk6e8RGU6LIjyaRnwA&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong technical fit and right seniority, but Dublin-based with London split raises visa/logistics questions.",
+    "deadline": null,
+    "pros": [
+      "10-week summer internship, computationally intensive matches your Python skills",
+      "Trading systems role aligns with sales & trading interest",
+      "Prestigious firm, EU headquarters in Dublin (visa-friendly)"
+    ],
+    "cons": [
+      "Dublin primary location; you prefer London and visa eligibility there is clearer",
+      "Heavy emphasis on 'strong technical skills'; your Python is basic, not advanced",
+      "No mention of salary or whether Dublin/London split is flexible"
+    ],
+    "analysis": "This is a genuine opportunity from a top trading firm, and your Python + structured finance background are real assets. However, the Dublin-Dublin emphasis creates uncertainty: confirm whether you can work from London for the full 10 weeks on your UK student visa, or whether the Dublin element triggers visa complications. The role itself is well-matched to your finance + tech interests, but you'd be competing against candidates with stronger CS backgrounds. Worth applying if you can clarify the location flexibility.",
+    "found_on": "2026-08-22 17:22 UTC"
+  },
+  {
+    "id": "2b5d9294cb6323b1",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=aMeZGk6e8RGU6LIjyaRnwA&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 74,
+    "reason": "Quantitative strategy role is well-aligned, but technical bar may be high and Dublin location creates visa uncertainty.",
+    "deadline": null,
+    "pros": [
+      "Quant strategy development matches your financial modelling and Python skills",
+      "Top-tier firm with strong internship reputation and clear learning structure",
+      "10-week structure; Dublin/London split keeps you in accessible geography"
+    ],
+    "cons": [
+      "Computationally intensive; likely expects stronger coding than basic Python",
+      "Dublin-based programme; visa eligibility unclear if majority time outside UK",
+      "Vague on compensation and exact location split between Dublin and London"
+    ],
+    "analysis": "This role sits at the intersection of your economics background and technical skills, making it genuinely interesting. The concern is twofold: first, Susquehanna's quant internships typically recruit physics/maths/CS specialists, so you may face stiff competition; second, the Dublin headquarters could complicate your UK student visa status if you're not there on a proper Tier 5 or equivalent. Before applying, confirm with their HR that the role can be based in London, or that Dublin placement doesn't jeopardise your visa. If the logistics work, this is a strong fit.",
+    "found_on": "2026-08-22 17:22 UTC"
+  },
+  {
     "id": "4530d1ce269d6aa0",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7301,53 +7351,5 @@
     ],
     "analysis": "This is a front-office internship at NatWest Markets, the investment banking division of NatWest Group, directly aligned with your target sectors (investment banking and structured finance). Amsterdam is one of your acceptable locations. You're eligible to work in the Netherlands as an EU citizen. The posting is vague on exact dates and salary, so confirm summer timing and that it's paid before applying, but this is a strong match on sector, level, and location. Recommend applying.",
     "found_on": "2026-07-26 03:17 UTC"
-  },
-  {
-    "id": "0242b1356ac7795b",
-    "title": "Credit Research Intern",
-    "company": "Franklin Templeton / Benefit Street Partners",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/details/5815352813?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Benefit Street Partners (BSP) is part of Franklin Templeton, a forward-thinking asset manager that has built its success through powerful partnerships. We leverage cutting-edge strategies and deep insights to unlock opportunities for long-term wealth creation. Our talented, global teams bring expertise that is both broad and unique. Benefit Street Partners operates independently as an investment group. It is an alternative credit pioneer that seeks to deliver attractive returns through its rela…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Strong fit: asset management internship in London, eligible candidate, aligned with background.",
-    "deadline": null,
-    "pros": [
-      "Asset management role matches your prior internship experience",
-      "London location is your strong preference",
-      "Credit research aligns with structured finance interest"
-    ],
-    "cons": [
-      "Description truncated; unclear if paid or internship length",
-      "No mention of language requirements (French useful but not stated as needed)"
-    ],
-    "analysis": "This is a genuine fit for your profile. Franklin Templeton is a credible global asset manager, and Benefit Street Partners (their alternative credit arm) operates in London. Your prior asset management and structured finance internships make you a competitive candidate for credit research. The main risk is the truncated job description—before applying, confirm the role is paid, clarify internship duration and summer availability, and verify it's not a graduate scheme misposted. As an EU citizen with a UK student visa, you're eligible to work in summer outside term dates, so timing is solvable if it aligns with June 2028 graduation.",
-    "found_on": "2026-07-25 13:40 UTC"
-  },
-  {
-    "id": "28b92341b834cef7",
-    "title": "2027 Off-cycle Internship Program - EMEA",
-    "company": "BlackRock",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/details/5814709658?utm_medium=api&utm_source=88a1c016",
-    "snippet": "BlackRock offers six-month Off-Cycle Internships in some of our Continental European offices. This programme is for candidates in their penultimate year of studies who will graduate with an undergraduate or master's degree between July 2027 and 2028. This opportunity gives you a chance to work closely with and add value to a specific team, set and complete objectives, and be exposed to BlackRock's culture and ethos. During the internship, you will develop new skills and gain valuable experience…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Off-cycle internship at tier-1 asset manager, strong location match, perfect graduation/eligibility timing.",
-    "deadline": null,
-    "pros": [
-      "Off-cycle format fits around term dates",
-      "Asset management directly matches your experience and interests",
-      "Six-month duration and 2027–2028 graduation window align perfectly"
-    ],
-    "cons": [
-      "EMEA programme, but unclear if London guaranteed (may include Continental European offices)",
-      "Posting is high-level; check application deadlines and office locations carefully"
-    ],
-    "analysis": "This is a strong match. BlackRock's off-cycle internship is designed for penultimate-year students like you, and asset management is explicitly in your target list. Your prior structured finance and asset management internships are competitive signals. The main caveat: the posting mentions Continental European offices (Frankfurt, Paris, Amsterdam are all possibilities), so confirm the London option is available before applying. Deadline information is missing from the posting; find and prioritise this application.",
-    "found_on": "2026-07-25 04:13 UTC"
   }
 ]
