@@ -1,5 +1,55 @@
 [
   {
+    "id": "4530d1ce269d6aa0",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=jgNmWEae8RGU6LIjyaRnwA&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong technical fit and prestigious firm, but Dublin split and summer 2027 timing needs verification against term dates.",
+    "deadline": null,
+    "pros": [
+      "Computationally intensive role matches Python skills",
+      "Trading/tech intersection aligns with finance sector preference",
+      "10-week structured program, likely paid internship"
+    ],
+    "cons": [
+      "Split between Dublin and London; candidate prefers London primary",
+      "Summer 2027 timing—verify it doesn't overlap with term dates",
+      "Heavy technical focus may require deeper quant background"
+    ],
+    "analysis": "This is a solid opportunity from a top-tier trading firm with strong technical credentials. Your Python skills and prior structured finance internship make you competitive. The main risk is the Dublin split—while you're open to Ireland, the posting emphasizes EU HQ there, so clarify the actual London/Dublin split before applying. Also confirm summer 2027 dates don't clash with your university calendar; given you graduate June 2028, the timing should work, but verify with the firm directly.",
+    "found_on": "2026-08-22 16:27 UTC"
+  },
+  {
+    "id": "acb4bb9d4e25501a",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=jgNmWEae8RGU6LIjyaRnwA&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 68,
+    "reason": "Right firm and sector, but quantitative role demands stronger maths/coding depth than your profile currently signals.",
+    "deadline": null,
+    "pros": [
+      "Susquehanna is elite and offers real quant training",
+      "Combines trading, quant and technology—your interests",
+      "London + Dublin presence matches geographic openness"
+    ],
+    "cons": [
+      "\"Computationally intensive\" and quant focus may exceed current Python level",
+      "No mention of economics background value—primarily tech-driven",
+      "Dublin split again; London primary location unclear"
+    ],
+    "analysis": "This role is from the same firm but leans harder into quantitative development. While your economics degree and Python give you a foundation, true quant strategy roles typically expect stronger maths (e.g., stochastic calculus, numerical methods) and advanced coding. Only apply if you're confident in your quantitative chops; otherwise, the trading systems role above may be a better fit. Again, confirm London vs. Dublin split and summer 2027 availability before investing time in the application.",
+    "found_on": "2026-08-22 16:27 UTC"
+  },
+  {
     "id": "30306ea7f83ab3bd",
     "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7299,55 +7349,5 @@
     ],
     "analysis": "This is a strong match. BlackRock's off-cycle internship is designed for penultimate-year students like you, and asset management is explicitly in your target list. Your prior structured finance and asset management internships are competitive signals. The main caveat: the posting mentions Continental European offices (Frankfurt, Paris, Amsterdam are all possibilities), so confirm the London option is available before applying. Deadline information is missing from the posting; find and prioritise this application.",
     "found_on": "2026-07-25 04:13 UTC"
-  },
-  {
-    "id": "9cedf83c51fd9faa",
-    "title": "Investment Banking Intern",
-    "company": "Oaklins",
-    "location": "Buitenveldert, Amsterdam",
-    "url": "https://www.adzuna.nl/details/5814831028?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Investment Banking Intern Throughout the year, Oaklins offers 4-month internships to ambitious graduate students with an interest in corporate finance. Full-time internship · Amsterdam, Zuidas Join our team of motivated and ambitious colleagues and work on a wide range of national and international financing solutions. Oaklins has offices in more than 45 locations employing more than 850 people worldwide, while still maintaining the culture and benefits of a small team. We offer great opportuni…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 68,
-    "reason": "Investment banking internship with solid fit, but Amsterdam location is secondary preference and 4-month duration timing unclear.",
-    "deadline": null,
-    "pros": [
-      "Investment banking directly matches your target sectors",
-      "4-month full-time internship, not unpaid or commission-based",
-      "Corporate finance and structured deals align with your background"
-    ],
-    "cons": [
-      "Amsterdam is secondary-preference location; London is your strong preference",
-      "Posting says 'throughout the year' and 'graduate students'—unclear if 2nd year undergrads eligible or if timing fits summer availability",
-      "Vague on visa sponsorship and whether on-campus recruitment or open externally"
-    ],
-    "analysis": "Oaklins is a credible mid-market investment banking firm and the role (4-month, full-time, finance-focused) fits your interests. However, two flagged risks: first, you prefer London, and Amsterdam is only your third-choice location—weigh this against the quality of the opportunity. Second, the posting targets 'graduate students' and doesn't explicitly confirm undergraduate eligibility or summer availability; you should contact them to clarify whether this programme is open to you and aligns with UK student visa term-time restrictions. If timing and eligibility check out, this is worth pursuing as a backup to London roles.",
-    "found_on": "2026-07-25 04:13 UTC"
-  },
-  {
-    "id": "6e2d9d0827fd51cc",
-    "title": "2027 Off-cycle Internship, Infrastructure Advisory - Macquarie Group",
-    "company": "Macquarie Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5810867059?se=pHXPA6yH8RGEopbyd0f8Hw&utm_medium=api&utm_source=88a1c016&v=3E1FED0057E22B7AD112A0041B45C55CA1C838A3",
-    "snippet": "This six-month internship gives you the opportunity to work alongside experienced colleagues on meaningful, real-world transactions shaping the infrastructure sector across the UK, Europe and globally. You'll build technical skills, contribute to live deals and gain hands-on experience as you support the team across a range of ongoing projects. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a care…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Strong field and location fit, but off-cycle timing and infrastructure focus create minor misalignment with stated preferences.",
-    "deadline": null,
-    "pros": [
-      "London-based, your preferred location",
-      "Finance sector infrastructure advisory aligns with your interests",
-      "Paid internship with hands-on deal experience"
-    ],
-    "cons": [
-      "Six-month duration may not fit around UK term dates",
-      "Infrastructure advisory less aligned than IB/asset management/S&T preferences",
-      "Vague on specific technical skills required (Excel, Python emphasis unclear)"
-    ],
-    "analysis": "Macquarie is a credible global financial services firm and this internship sits in your stated sector. The London location and paid structure are strong positives. However, the critical concern is timing: as a 2nd-year student graduating June 2028, you need to verify whether a six-month off-cycle internship fits your academic calendar without clashing with term. The role focuses on infrastructure advisory rather than your core preferences (IB, asset/wealth management, S&T), so it's solid but not optimal. Before applying, clarify the exact start/end dates and confirm Macquarie's visa sponsorship practices for UK student visa holders.",
-    "found_on": "2026-07-24 22:07 UTC"
   }
 ]
