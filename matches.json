@@ -1,5 +1,55 @@
 [
   {
+    "id": "e96da278f1f6f0d0",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=jhm7yG-e8RGyyPnAQobVFw&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong technical fit in trading & fintech, but role emphasizes engineering over core finance skills you've built.",
+    "deadline": null,
+    "pros": [
+      "Sales & trading aligned with your interests",
+      "Python skills directly applicable",
+      "Dublin/London locations match your geography"
+    ],
+    "cons": [
+      "Trading systems engineering skews heavily technical/CS",
+      "Role may prioritize software engineering background over finance fundamentals",
+      "10-week duration needs verification against term dates"
+    ],
+    "analysis": "This is a legitimate, paid summer internship at a top proprietary trading firm—excellent credential. However, the emphasis on computational intensity and systems engineering suggests they're recruiting computer scientists and engineers as much as finance candidates. Your Python and structured finance background are assets, but check whether the role expects stronger C++/systems programming skills. Verify the exact 2027 summer dates align with your university calendar before applying, since it spans EU HQ and London.",
+    "found_on": "2026-08-22 21:23 UTC"
+  },
+  {
+    "id": "b0f81d3ec9d0e708",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=jhm7yG-e8RGyyPnAQobVFw&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 68,
+    "reason": "Quant strategy appeals to your modeling skills, but role heavily technical; verify your quant depth matches expectations.",
+    "deadline": null,
+    "pros": [
+      "Quantitative strategy aligns with economics + modeling skills",
+      "Top-tier fintech/trading firm with strong brand",
+      "Dublin/London locations suit your preferences"
+    ],
+    "cons": [
+      "Computationally intensive—likely expects strong math/CS foundation",
+      "Quant roles typically demand advanced statistical/ML knowledge",
+      "Vague posting; request full JD to assess real requirements"
+    ],
+    "analysis": "Susquehanna's quant internships are highly competitive and typically recruit from strong mathematics, physics, or CS backgrounds as much as finance. Your economics degree, Python, and financial modeling are credible, but quant strategy development may require deeper familiarity with machine learning, stochastic calculus, or algorithmic thinking than a second-year economist typically has. This is worth exploring if you have additional quantitative coursework or projects, but be honest about your math/statistical sophistication relative to the cohort.",
+    "found_on": "2026-08-22 21:23 UTC"
+  },
+  {
     "id": "d3e0b9e7c3813eb2",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7302,54 +7352,5 @@
     ],
     "analysis": "Augusta & Co is a real independent advisory firm specializing in renewable energy M&A, and this internship aligns well with your investment banking goals. You meet all eligibility criteria as an EU citizen/visa holder. The main gap is that the posting lacks concrete detail on dates, duration, and compensation—you'll need to contact them directly to confirm summer 2026 availability and that it won't clash with term dates. Worth pursuing if timing works.",
     "found_on": "2026-07-30 12:46 UTC"
-  },
-  {
-    "id": "51ca7061d22fda5e",
-    "title": "Internship - Tikehau Special Opportunities TSO - London - Aug/Sept 2026 - Tikehau Capital",
-    "company": "Tikehau Capital",
-    "location": "London",
-    "url": "https://www.reed.co.uk/jobs/internship-tikehau-special-opportunities-tso-london-aug-sept-2026-tikehau-capital/57177996",
-    "snippet": "Responsibilities : Taking an active supporting role in the entire spectrum of a special opportunities investment, Analysing investment memos, presentations and specific analytical researches, Understanding financial performance and market positioning of selected companies, Researching strategic and financial trends within industries, Undertaking company valuation based on different methodologies (M&A multiples, trading comps, etc.), Having e...",
-    "source": "Reed",
-    "trust": "verified",
-    "score": 78,
-    "reason": "Excellent fit: structured finance/special situations internship in London; strong match to background and goals.",
-    "deadline": null,
-    "pros": [
-      "Special opportunities/structured finance matches your interests",
-      "London location aligns with preference",
-      "August/September 2026 timing fits post-exam schedule"
-    ],
-    "cons": [
-      "Posting cut off mid-description; full details not visible",
-      "No explicit mention of salary/compensation in excerpt"
-    ],
-    "analysis": "This is a strong opportunity at Tikehau Capital, a real European alternative investment firm. The role sits squarely in structured finance and special situations investing—exactly aligned with your previous internship and interests. The Aug/Sept 2026 dates are ideal, fitting around your academic calendar. Your financial modelling skills and structured finance internship experience position you well. The only caveat is that you can't see the full posting or compensation details, so check the full listing before applying to confirm pay is not commission-based or unpaid.",
-    "found_on": "2026-07-30 12:46 UTC"
-  },
-  {
-    "id": "60e38bcfb4955c0d",
-    "title": "12 Month Internship - Global Markets Business Operations - Support to Chief Operating Officer",
-    "company": "Crédit Agricole CIB",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/details/5820094327?utm_medium=api&utm_source=88a1c016",
-    "snippet": "General information Entity About Crédit Agricole Corporate and Investment Bank (Crédit Agricole CIB) Crédit Agricole CIB is the corporate and investment bank of the Crédit Agricole group, the 10th largest banking group in the world *. We support major companies and financial institutions in their development and the financing of their projects. As pioneers in responsible finance, social and environmental commitments are at the heart of our activities. Joining our teams means working in a multic…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Strong firm and location, 12-month internship in banking operations, but COO support role is peripheral to core finance.",
-    "deadline": null,
-    "pros": [
-      "Tier-1 investment bank, prestigious CIB division",
-      "London location, perfect geography",
-      "12-month structured internship program"
-    ],
-    "cons": [
-      "Business operations/COO support, not core front-office banking",
-      "Description truncated—unclear if paid, eligibility confirmed, or summer-compatible",
-      "May be permanent/grad scheme rather than summer internship"
-    ],
-    "analysis": "Crédit Agricole CIB is a genuine top-tier investment bank and a strong employer for your background. London is ideal. However, the posting is truncated and the role—support to the Chief Operating Officer in Global Markets Business Operations—sounds like a back-office operations role rather than sales & trading, structuring, or strategy work you've targeted. Before applying, confirm: is this paid? Does it fit around your June 2028 graduation and term dates? Is it open to 2nd-year students or reserved for penultimate-year cohorts? If it ticks those boxes and involves meaningful finance exposure, it could be excellent; if it's purely administrative operations, it's less compelling than front-office alternatives.",
-    "found_on": "2026-07-29 18:09 UTC"
   }
 ]
