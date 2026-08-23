@@ -1,5 +1,79 @@
 [
   {
+    "id": "4874e004f912d2e7",
+    "title": "Banking Summer Internship Programme 2027 London",
+    "company": "Barclays",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5853947854?utm_medium=api&utm_source=88a1c016",
+    "snippet": "hackajob is collaborating with Barclays to connect them with exceptional professionals for this role. Summer Internship Programme Overview Join us as a summer intern and discover the world of finance and technology. Dive into our culture, engaging in real projects that offer a comprehensive business overview. Select your desired business area for an in-depth introduction, taking on immediate responsibility guided by a mentor and line manager. Forge connections, explore new horizons, and unlock …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Strong fit: top-tier investment banking, London, summer 2027, paid, eligible",
+    "deadline": null,
+    "pros": [
+      "Barclays Investment Banking aligns perfectly with your target sector",
+      "London location matches your strong preference",
+      "Summer 2027 timing works around your graduation (June 2028)"
+    ],
+    "cons": [
+      "Description is truncated; unclear which business area you'd select",
+      "No explicit mention of compensation or visa sponsorship"
+    ],
+    "analysis": "This is a genuine fit across all dimensions: Barclays is a major investment banking employer, the London summer internship aligns with your timeline and location preference, and as an EU citizen with student visa you're eligible to work in summer break. The role description suggests mentorship and real project work typical of tier-1 banking internships. The main uncertainty is the vague description—follow up with Barclays or hackajob to confirm the specific business area and whether they sponsor interns on student visas (most do). Apply with confidence.",
+    "found_on": "2026-08-23 23:23 UTC"
+  },
+  {
+    "id": "9a2a3e7fa261b9dd",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=ZChwpEmf8RGSb8VpDRDiVA&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 68,
+    "reason": "Sales & trading adjacent, strong on tech/Python, but engineering-focused and Dublin-based",
+    "deadline": null,
+    "pros": [
+      "Aligns with your sales & trading / structured finance interest",
+      "Your Python skills are directly relevant to this role",
+      "EU headquarters in Dublin is within your open geography"
+    ],
+    "cons": [
+      "Primary location Dublin, not your London preference",
+      "Computationally intensive trading systems engineering may skew too technical",
+      "Limited clarity on whether this builds finance domain knowledge vs pure engineering"
+    ],
+    "analysis": "Susquehanna is a highly respected trading firm and this is a legitimate paid summer internship. The role leverages your Python skills, which is a genuine strength. However, it's pitched as 'trading systems engineering'—more software engineering than sales & trading strategy—so you'd be solving tech problems rather than learning the market or trade execution. The Dublin location is acceptable under your stated openness but not your strong preference for London. If you're equally passionate about fintech/quant engineering as pure trading, this is worth applying to; if you want to understand markets and trading first, the Barclays role may suit you better.",
+    "found_on": "2026-08-23 23:23 UTC"
+  },
+  {
+    "id": "05e8b7805dc24627",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=ZChwpEmf8RGSb8VpDRDiVA&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 71,
+    "reason": "Quant strategy fits, Python required, but Dublin-based and highly technical bar",
+    "deadline": null,
+    "pros": [
+      "Quantitative strategy directly matches your asset management experience",
+      "Python expertise is core to this role",
+      "Dublin location acceptable under your geographic flexibility"
+    ],
+    "cons": [
+      "Not in London; secondary location on your list",
+      "Computationally intensive; expects strong technical background",
+      "Description truncated; unclear mentorship or structured finance exposure"
+    ],
+    "analysis": "This is a stronger fit than the trading systems role because quantitative strategy aligns more closely with your asset management and structured finance internship experience. Susquehanna is top-tier and the role will teach you markets and quant reasoning. Your Python and expected strong degree are assets. The main trade-off is that it's Dublin-based (not London) and likely quite technically demanding—confirm whether your financial modelling and Python skills meet their bar before applying. If you're keen on quant finance over execution trading, this is worth pursuing despite the location shift.",
+    "found_on": "2026-08-23 23:23 UTC"
+  },
+  {
     "id": "a0255597109e9130",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7303,80 +7377,5 @@
     ],
     "analysis": "This role ticks your sector boxes perfectly—Deutsche Bank, investment banking, Paris—and your working French proficiency is a genuine asset here. However, the posting is frustratingly sparse on whether this is an internship, grad scheme entry point, or mid-level hire. The title 'Analyst' without qualifier could mean anything. Before applying, contact Deutsche Bank's graduate recruitment or internship programme directly to confirm this is an entry-level opportunity; if it's a mid-career posting, look instead for their formal summer analyst or internship schemes, which they run annually.",
     "found_on": "2026-08-08 15:32 UTC"
-  },
-  {
-    "id": "e765e377a3c036ba",
-    "title": "Data Operations Specialist II",
-    "company": "Moody's Corporation",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5830190990?se=jG4IMTaT8RG6L4_B5D25Rg&utm_medium=api&utm_source=88a1c016&v=7209013FB055F5D177B97128C00B997BFBE22A00",
-    "snippet": "hackajob is collaborating with Moody's Corporation to connect them with exceptional professionals for this role. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody’s is transforming how the world sees risk. As a global leader in …",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 62,
-    "reason": "Moody's is a strong finance employer in London, but posting is vague on internship status, level, and actual role scope.",
-    "deadline": null,
-    "pros": [
-      "Moody's is top-tier finance employer",
-      "London location matches preference",
-      "Data/operations exposure relevant to finance career"
-    ],
-    "cons": [
-      "Title says 'Specialist II' suggesting mid-level, not intern",
-      "Description is boilerplate; no mention of internship, duration, or salary",
-      "hackajob is a recruiter; unclear if this is actually live or right level"
-    ],
-    "analysis": "Moody's is a credible employer in your target sector and location. However, the posting is suspiciously vague and the 'Specialist II' title signals this is likely a mid-career role, not an internship. The description is generic corporate copy with no mention of internship status, start date, duration, or compensation. Before applying, verify with Moody's directly or via their careers page whether this is genuinely an internship opportunity and confirm you meet the actual level. The hackajob intermediary adds friction—consider applying direct if possible.",
-    "found_on": "2026-08-08 14:33 UTC"
-  },
-  {
-    "id": "4001015dbd58cb6d",
-    "title": "Werkstudent - Package Consultant - SAP HANA FIN FI (m/w/d) in Frankfurt am Main",
-    "company": "IBM Client Innovation Center Germany GmbH",
-    "location": "Frankfurt am Main, Hessen",
-    "url": "https://www.adzuna.de/details/5831458896?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Introduction A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You’ll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you’ll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You’ll be encouraged to challenge the norm, explore new ideas, and crea…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Working-student role in Frankfurt, finance-adjacent (SAP FI), right geography option, but language and role clarity matter.",
-    "deadline": null,
-    "pros": [
-      "Frankfurt is on your location preference list",
-      "SAP FI (Financial module) is structured finance relevant",
-      "Werkstudent role suits term-time/flexible schedules"
-    ],
-    "cons": [
-      "Role description vague on actual internship vs. permanent track",
-      "German language requirement likely (posting in German/English)",
-      "Consulting / systems implementation, not pure investment banking or asset management"
-    ],
-    "analysis": "This is a working-student (Werkstudent) position in Frankfurt at IBM Consulting, which can flex around your term dates and counts as a legitimate finance-adjacent placement. SAP FI (Financial module) experience is valuable in structured finance and corporate treasury. The main risks are: (1) your German is not mentioned and the role may require it despite English description, and (2) it's systems consulting rather than the investment banking or asset management you prefer. Email IBM CCE Germany to confirm German language requirements and whether the role is open to UK-based students on flexible term-time schedules. If your German is stronger than 'working proficiency', this becomes a strong fit.",
-    "found_on": "2026-08-08 03:35 UTC"
-  },
-  {
-    "id": "e4d9d85f0b527fe3",
-    "title": "Investment Banking Analyst - Infrastructure M&A - Selby Jennings",
-    "company": "eFinancialCareers",
-    "location": "London",
-    "url": "https://www.reed.co.uk/jobs/investment-banking-analyst-infrastructure-m-a-selby-jennings/57211620",
-    "snippet": "Responsibilities Support the execution of M&A and financing mandates across the infrastructure and energy landscape. Build and maintain detailed financial models, valuation analyses and transaction materials. Conduct industry, company and market research to support client engagements. Prepare client presentations, information memoranda and marketing materials. Work closely with senior bankers and clients on live transactions from inception t...",
-    "source": "Reed",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Investment banking analyst role in infrastructure M&A at strong boutique; London-based and aligns with IB/M&A interest, but unclear if true internship or mid-level hire.",
-    "deadline": null,
-    "pros": [
-      "Core investment banking (M&A) in your priority list",
-      "Financial modelling and valuation work matches your skills",
-      "London location; infrastructure focus is niche + prestigious"
-    ],
-    "cons": [
-      "Posted via eFinancialCareers (recruitment board); real employer unclear",
-      "Title says 'Analyst' not 'Intern'; may be grad/experienced hire",
-      "No mention of internship duration, dates, or salary"
-    ],
-    "analysis": "The role sits squarely in your target (investment banking, M&A, London) and the work—financial modelling, transaction support, research—directly matches your background and skillset. However, the job board intermediary and 'Analyst' title raise questions about whether this is truly an internship or a mid-level permanent hire. Contact Selby Jennings or the hiring firm directly to confirm internship eligibility and term/salary details before applying.",
-    "found_on": "2026-08-07 19:01 UTC"
   }
 ]
