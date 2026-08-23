@@ -1,5 +1,55 @@
 [
   {
+    "id": "22f61011ba86370b",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=Rkt6DiGf8RGY1KnyJZrahA&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong role fit and location preference, but Python emphasis and Dublin split may require clarification on actual base.",
+    "deadline": null,
+    "pros": [
+      "10-week summer internship, paid, London/Dublin (preferred locations)",
+      "Sales & trading adjacent: systems engineering at prop trading firm",
+      "Python skills directly applicable to role"
+    ],
+    "cons": [
+      "Role emphasizes 'strong technical skills' - your Python is basic",
+      "Split between Dublin and London - unclear where you'd actually be based",
+      "Computationally intensive; limited evidence of advanced quant/CS background"
+    ],
+    "analysis": "This is a genuine trading firm internship in your preferred geography and sector, but it's positioned as a technical engineering role rather than a traditional trading or strategy track. Your Python experience is noted as basic, and the posting suggests they want strong computational skills—you should verify whether your level meets their bar before investing time in the application. The Dublin/London split is worth clarifying: if it's primarily Dublin, it moves down your preference list, though Dublin is still acceptable to you. The 10-week summer timing should work around your term dates. This is worth pursuing if you're confident in your technical foundation, but manage expectations about competition from CS/Physics students.",
+    "found_on": "2026-08-23 18:32 UTC"
+  },
+  {
+    "id": "7a4342305a3dfaa8",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=Rkt6DiGf8RGY1KnyJZrahA&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 75,
+    "reason": "Excellent sector/location fit and quant strategy is right field; technical bar and Dublin split are moderate concerns.",
+    "deadline": null,
+    "pros": [
+      "Quantitative strategy development aligns with investment banking/trading interests",
+      "London/Dublin base in preferred locations and cities",
+      "10-week paid summer internship, no term conflicts"
+    ],
+    "cons": [
+      "Computationally intensive; basic Python may not be sufficient",
+      "Split base between Dublin and London—clarify primary location",
+      "Likely competes with stronger quant/math candidates"
+    ],
+    "analysis": "This role is closer to your stated interests in sales & trading and structured finance than the previous posting, and Susquehanna is a top-tier prop trading firm where an internship carries real signal. Quantitative strategy is a natural next step from your economics and modelling background. However, the same concern applies: the posting emphasizes computational intensity, and your Python is self-described as basic. Before applying, honestly assess whether your financial modelling and Python foundation will stand out, or whether you need to deepen your quant skills first. The Dublin/London split should be clarified with the recruiter—if you're primarily in Dublin, it's still acceptable but less ideal than London. This is a strong fit if your technical skills are stronger than you've indicated.",
+    "found_on": "2026-08-23 18:32 UTC"
+  },
+  {
     "id": "aac6d7e7f9377ca4",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7326,55 +7376,5 @@
     ],
     "analysis": "This could work if it's structured as a summer internship and location flexibility is genuinely acceptable to you. The role aligns with your financial modelling skills and finance interest, but FP&A is outside your stated priority areas (investment banking, asset management, sales & trading, structured finance). Check whether this is advertised as an internship programme, what the commitment length is, and whether remote working truly suits you given your London preference.",
     "found_on": "2026-08-06 02:47 UTC"
-  },
-  {
-    "id": "6b99f8d6185831f7",
-    "title": "Off-Cycle Intern - Capital Solutions, Debt Advisory (Q1, 2027)",
-    "company": "Houlihan Lokey",
-    "location": "Frankfurt am Main, Hessen",
-    "url": "https://www.adzuna.de/details/5829293553?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Business Unit: Capital Solutions Industry: No Industry&xa;&xa; Overview Houlihan Lokey, Inc. (NYSE:HLI) is a leading global investment bank recognized for delivering independent strategic and financial advice to corporations, financial sponsors, and governments. With uniquely deep industry expertise, broad international reach, and a partnership approach rooted in trust, the firm provides innovative, integrated solutions across mergers and acquisitions, capital solutions, financial restructuring…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 78,
-    "reason": "Strong sector and seniority fit in preferred location; off-cycle timing works around term dates; eligibility confirmed; posting lacks detail on compensation and exact dates.",
-    "deadline": null,
-    "pros": [
-      "Off-cycle Q1 2027 avoids term-time conflict",
-      "Frankfurt is explicitly preferred location",
-      "Debt advisory aligns with structured finance background"
-    ],
-    "cons": [
-      "Description truncated—salary/pay not specified",
-      "Q1 2027 timing vague; confirm exact dates vs. term",
-      "Debt advisory less directly relevant than M&A or capital markets"
-    ],
-    "analysis": "This is a genuine fit for your profile: Houlihan Lokey is a credible, top-tier investment bank, the role sits squarely in your target sectors (investment banking, structured finance), and Frankfurt is one of your preferred locations. Off-cycle internships are explicitly something you want, and Q1 2027 should sit outside UK term time (check your university calendar to be sure). The main gap is that the posting is incomplete—it cuts off mid-description—so you cannot confirm compensation (which must not be unpaid) or the exact dates. Before applying, download the full posting from the source and verify pay is salary-based, not commission, and lock in the exact start/end dates to ensure no term conflicts.",
-    "found_on": "2026-08-05 17:41 UTC"
-  },
-  {
-    "id": "c848cc3bdbdd8a1c",
-    "title": "Data Analyst Intern - Financial Markets",
-    "company": "The Opportunity Hub UK",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/details/5827451101?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Role Summary: An exceptional opportunity for Business or Economics undergraduates with a demonstrated interest in wholesale financial markets and data analytics. This role offers hands-onRole Summary: An exceptional opportunity for Business or Economics undergraduates with a demonstrated interest in wholesale financial markets and data analytics. This role offers hands-on experience in business analysis within a pioneering financial market data company in the City.Company Profile: Located in th…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Strong fit on location, sector, and background; data analytics + financial markets aligns with skills and interests, but posting vague on internship structure and duration.",
-    "deadline": null,
-    "pros": [
-      "London-based financial markets data company",
-      "Economics undergrad explicitly targeted",
-      "Hands-on data analytics with wholesale finance exposure"
-    ],
-    "cons": [
-      "Posting truncated/vague; internship length and term-time fit unclear",
-      "Real employer identity hidden behind job board",
-      "Data analyst role is tangential to banking/trading/AM priorities"
-    ],
-    "analysis": "This is plausible and well-aligned on several fronts: you're an Economics student in London's financial markets, it explicitly welcomes your profile, and data analytics is a genuine skill you've developed. However, the posting is incomplete and doesn't confirm whether this is a structured summer internship or something that might conflict with your term dates. The role is also more quantitative/analytical than the investment banking, trading, or AM positions you've emphasised. Before applying, contact the hiring team directly to confirm internship duration, start/end dates, and whether it's paid—the vagueness is a red flag.",
-    "found_on": "2026-08-04 05:50 UTC"
   }
 ]
