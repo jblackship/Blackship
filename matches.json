@@ -1,5 +1,53 @@
 [
   {
+    "id": "8ccfd14bd83c31b2",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=RLokZZ-e8RGfQpohglHoaw&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Strong technical fit in trading systems; Dublin/London split complicates logistics but both are acceptable locations.",
+    "deadline": null,
+    "pros": [
+      "Python skills directly applicable to systems engineering",
+      "Sales & trading aligned with your interests",
+      "10-week summer program fits your timeline"
+    ],
+    "cons": [
+      "Role emphasises 'computationally intensive' – may require stronger coding than your profile suggests",
+      "Dublin/London split unclear – term dates may conflict if based in Dublin"
+    ],
+    "analysis": "This is a genuine strong candidate fit on paper. Susquehanna is a tier-one prop trading firm and this role sits squarely in your stated interest areas (trading, fintech, strategy). Your Python and financial modelling background are relevant. However, the role description emphasises heavy computational work and you'll want to clarify the Dublin vs London split—if the role is primarily Dublin-based and extends into term time, it becomes problematic. Check the exact dates and whether this truly runs July–September during your summer break.",
+    "found_on": "2026-08-23 03:04 UTC"
+  },
+  {
+    "id": "bb6dcdd81555c0e0",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=RLokZZ-e8RGfQpohglHoaw&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 76,
+    "reason": "Quant strategy role aligns with your interests and skills; similar logistical concerns to trading systems posting.",
+    "deadline": null,
+    "pros": [
+      "Quant strategy fits asset management and strategy consulting interests",
+      "Python and financial modelling directly relevant",
+      "Prestigious firm with strong summer internship reputation"
+    ],
+    "cons": [
+      "Again emphasises computational intensity; unclear how much core finance vs engineering required",
+      "Dublin/London based—need clarity on exact location and dates vs your term"
+    ],
+    "analysis": "Very similar profile to the first Susquehanna role, but tilted slightly more toward quant/strategy rather than systems. Your asset management internship and economics background position you well for this. The main questions are the same: exact dates (must finish before June 2028 graduation and fit summer break only), and whether you meet the 'strong technical skills' bar they're emphasising. If you're confident in your Python and quant methods, this is worth a strong application—but treat the computational requirements seriously.",
+    "found_on": "2026-08-23 03:04 UTC"
+  },
+  {
     "id": "2fe405d746f77640",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7300,54 +7348,5 @@
     ],
     "analysis": "This is your stronger of the two BlackRock postings. Same programme, same eligibility and seniority match, but Paris over Frankfurt gives you a potential language-practice bonus (working proficiency in French) and is a major financial centre. Like the Frankfurt role, confirm the actual internship dates fit cleanly around your term calendar before submitting. Both postings are identical in structure, so if one appeals to you location-wise, reach out to the recruiter to understand whether you can express a preference or apply to both. The six-month duration is the only variable to lock down.",
     "found_on": "2026-08-01 09:07 UTC"
-  },
-  {
-    "id": "89c29ae957e4bc6f",
-    "title": "2027 Off-cycle Internship Program - EMEA",
-    "company": "BlackRock",
-    "location": "Paris, Ile-de-France",
-    "url": "https://www.adzuna.fr/land/ad/5823347976?se=aDy6snKN8RG8JMyxbRrc7Q&utm_medium=api&utm_source=88a1c016&v=07C8128AF524F3415C817901F5FFE31534245DFA",
-    "snippet": "BlackRock offers six-month Off-Cycle Internships in some of our Continental European offices. This programme is for candidates in their penultimate year of studies who will graduate with an undergraduate or master's degree between July 2027 and 2028. This opportunity gives you a chance to work closely with and add value to a specific team, set and complete objectives, and be exposed to BlackRock's culture and ethos. During the internship, you will develop new skills and gain valuable experience…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Strong fit: off-cycle, right seniority, asset management giant, Paris location acceptable, eligible",
-    "deadline": null,
-    "pros": [
-      "Off-cycle format fits around term dates",
-      "Penultimate year matches your profile exactly",
-      "Asset management aligns with your experience"
-    ],
-    "cons": [
-      "Paris not London (though on your acceptable list)",
-      "Six months may be tight depending on term dates"
-    ],
-    "analysis": "This is a genuine strong match. BlackRock's off-cycle internship is designed for 2nd-year undergraduates graduating 2027–2028, which is you. Your asset management internship experience and expected first-class degree are exactly what they're looking for. The Paris location is acceptable per your criteria, though not your top preference. Before applying, confirm the exact dates work around your academic calendar and that EU citizen status qualifies you for Continental European placement (it should, but verify with their visa requirements).",
-    "found_on": "2026-08-01 06:31 UTC"
-  },
-  {
-    "id": "4029dedbeef7b597",
-    "title": "Renewable Energy Investment Banking M&A Intern - Augusta & Co",
-    "company": "Augusta & Co",
-    "location": "London",
-    "url": "https://www.reed.co.uk/jobs/renewable-energy-investment-banking-m-a-intern-augusta-co/57184607",
-    "snippet": "Augusta & Co is a leading independent financial advisory and investment house serving the European renewable energy sector since 2002. Headquartered in London, Augusta has completed 125 transactions across 25GW of renewable energy to an aggregate value in excess of €13bn. Augusta provides capital raising, M&A advice and a growing asset management business helping clients invest in special investment situations in European renewables. The...",
-    "source": "Reed",
-    "trust": "verified",
-    "score": 68,
-    "reason": "Plausible fit: investment banking M&A in London, but vague on internship status and duration",
-    "deadline": null,
-    "pros": [
-      "Investment banking M&A aligns with your goals",
-      "London headquarters matches location preference",
-      "Structured finance exposure relevant to your background"
-    ],
-    "cons": [
-      "Posting unclear if this is internship or entry-level role",
-      "No explicit mention of summer availability or duration",
-      "Posted via eFC; unclear if currently recruiting"
-    ],
-    "analysis": "Augusta & Co is a real boutique with strong renewable energy credentials, which is a plus. However, the posting (sourced via eFC) doesn't clearly state whether this is an internship, when it starts, or the duration. The description reads like a general company overview rather than a specific role posting. Before applying, contact them directly to confirm they have a dedicated summer 2027 internship programme and that it's not a full-time analyst role masquerading as a placement.",
-    "found_on": "2026-08-01 06:31 UTC"
   }
 ]
