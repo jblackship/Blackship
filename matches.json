@@ -1,5 +1,55 @@
 [
   {
+    "id": "9e08a0eba49acdd5",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=LvCg8jif8RGPxum81CjSlg&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong technical fit and prestigious firm, but Dublin-based role conflicts with stated London preference.",
+    "deadline": null,
+    "pros": [
+      "Trading systems engineering aligns with quant/S&T interests",
+      "Python skills directly applicable to role",
+      "Paid, 10-week structured summer internship"
+    ],
+    "cons": [
+      "Dublin primary base conflicts with London preference",
+      "Computationally intensive—heavy emphasis on strong technical skills may require deeper Python/CS than candidate signals",
+      "Vague description truncated; unclear exact skillset required"
+    ],
+    "analysis": "Susquehanna is a legitimate, prestigious trading firm and this is a genuine paid internship at the right level. Your Python and technical background are assets here. However, the role is Dublin-headquartered with London as secondary, and the posting emphasizes \"strong technical skills\" in a way that suggests this may lean harder on CS/software engineering than your current profile signals. You're eligible to work and it's paid, which clears hard constraints. Check carefully whether the technical depth required matches your experience before applying, and confirm London placement likelihood with recruiters.",
+    "found_on": "2026-08-23 21:23 UTC"
+  },
+  {
+    "id": "c1b2b63653d93cf4",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=LvCg8jif8RGPxum81CjSlg&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 75,
+    "reason": "Excellent fit on firm and domain; quant strategy role leverages your modeling and Python skills, but Dublin HQ location a minor drawback.",
+    "deadline": null,
+    "pros": [
+      "Quant strategy aligns perfectly with finance interests",
+      "Excel/Python financial modeling directly transferable",
+      "Paid, 10-week structured internship; prestigious firm"
+    ],
+    "cons": [
+      "Dublin primary location vs. London preference",
+      "Computationally intensive; may demand advanced quant/CS depth",
+      "Truncated description limits visibility of day-to-day work"
+    ],
+    "analysis": "This is the stronger of the two postings for you. Quantitative strategy development is squarely in your target sector (S&T/asset management intersection), and your financial modeling, Python, and structured finance internship experience are directly relevant. Susquehanna is a top-tier firm and the internship is paid and properly structured. The main trade-off is the Dublin headquarters—although London is listed, confirm whether you'd spend significant time in Dublin given your visa and term-date constraints. If London-based placements are standard, this deserves a strong application.",
+    "found_on": "2026-08-23 21:23 UTC"
+  },
+  {
     "id": "88fb26a54c68229b",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7327,54 +7377,5 @@
     ],
     "analysis": "This is a strong match: Tikehau Capital is a major, reputable European alternative asset manager; special opportunities is sophisticated and credible; the internship is explicitly dated and you have prior AM experience. Your asset management internship background and financial modelling skills are directly relevant. Confirm dates fit your 2028 graduation schedule and that compensation is fair before committing. This is a top-tier internship worth pursuing seriously.",
     "found_on": "2026-08-07 19:01 UTC"
-  },
-  {
-    "id": "bacdce66bbe0da43",
-    "title": "FIG M&A Analyst - Goodman Masson",
-    "company": "eFinancialCareers",
-    "location": "London",
-    "url": "https://www.reed.co.uk/jobs/fig-m-a-analyst-goodman-masson/57212443",
-    "snippet": "My client is a boutique with strong global FIG credentials and they are expanding their London FIG team. You will already be a FIG M&A Analyst or have completed FIG investment banking internships with reputable banks/boutiques. You have developed a financial modelling skillset and be building your FIG investment banking skills. Compensation is high and this firm has a track record of very high deal flow (and therefore high exposure to live e...",
-    "source": "Reed",
-    "trust": "verified",
-    "score": 62,
-    "reason": "FIG M&A analyst role; strong firm and sector match, but role is mid-level analyst hire, not internship, and requires prior IB internship experience.",
-    "deadline": null,
-    "pros": [
-      "FIG M&A is strong specialism; boutique with high deal flow",
-      "Financial modelling and investment banking focus align"
-    ],
-    "cons": [
-      "Job explicitly requires prior FIG IB internship or analyst experience",
-      "This is an analyst hire, not an internship role",
-      "Real employer unclear (posted via Goodman Masson recruiter)"
-    ],
-    "analysis": "While the role and sector are absolutely aligned with your interests, this is a mid-level analyst position requiring prior IB internship experience. As a rising 3rd-year student with no formal IB internship yet, you don't meet the stated prerequisites. This is worth noting for future recruitment cycles (post-graduation or after your first IB internship), but it's not the right fit now. Focus on entry-level internship roles instead.",
-    "found_on": "2026-08-07 19:01 UTC"
-  },
-  {
-    "id": "926d7cd18dfae5d8",
-    "title": "Data Operations Specialist II",
-    "company": "Moody's Corporation",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5830190990?se=vkoEm4GS8RGWPoJqQXFPnw&utm_medium=api&utm_source=88a1c016&v=7209013FB055F5D177B97128C00B997BFBE22A00",
-    "snippet": "hackajob is collaborating with Moody's Corporation to connect them with exceptional professionals for this role. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody’s is transforming how the world sees risk. As a global leader in …",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 58,
-    "reason": "Finance-adjacent (Moody's is a major ratings/data firm); London location matches; but role title and vague description suggest operations, not investment banking or core finance.",
-    "deadline": null,
-    "pros": [
-      "Moody's is prestigious, finance-sector employer in London",
-      "Data operations fits with your Python and modelling skills",
-      "Likely paid role at established corporation"
-    ],
-    "cons": [
-      "Title 'Data Operations Specialist II' suggests mid-level, not intern",
-      "Description is vague—no clarity on internship vs. permanent contract",
-      "Operations is tangential to your target areas (IB, AM, S&T, consulting)"
-    ],
-    "analysis": "Moody's is a strong employer and London is your preferred location, but this posting is ambiguous and possibly not an internship. The title 'Specialist II' and hackajob's framing ('connect them with exceptional professionals') suggest it may be a permanent hire rather than a summer internship. The role is also in operations/data rather than the investment banking, asset management, or sales & trading tracks you've prioritized. Before applying, clarify with Moody's or the hackajob platform whether this is an internship programme, what the contract length is, and whether it aligns with your summer availability.",
-    "found_on": "2026-08-07 17:01 UTC"
   }
 ]
