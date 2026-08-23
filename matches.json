@@ -1,5 +1,55 @@
 [
   {
+    "id": "88fb26a54c68229b",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=Ctip4jCf8RGfQpohglHoaw&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong technical fit and relevant sector, but Dublin-based with London split raises visa/location ambiguity.",
+    "deadline": null,
+    "pros": [
+      "Trading systems role aligns with sales & trading interest",
+      "Python skills directly applicable to computationally intensive work",
+      "10-week summer internship matches your availability window"
+    ],
+    "cons": [
+      "Based in Dublin, not your strong London preference",
+      "Visa eligibility unclear: role split between Dublin/London may complicate UK student visa working rights in Ireland",
+      "Heavy emphasis on 'strong technical skills'—Python listed but role may demand advanced comp sci depth"
+    ],
+    "analysis": "This is a legitimate, paid internship from a tier-1 trading firm in a sector you've targeted. The technical fit is good: your Python and financial modelling background position you well for systems engineering. However, the Dublin headquarters location is a constraint. More critically, as a UK student visa holder, you need to verify whether time spent working in Ireland counts against your visa terms or requires separate work authorization. Contact Susquehanna's recruitment team to clarify the split and confirm visa eligibility before investing application effort. If they confirm the role can be fulfilled primarily from London, this rises to 78+.",
+    "found_on": "2026-08-23 20:26 UTC"
+  },
+  {
+    "id": "4610026812caf3ae",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=Ctip4jCf8RGfQpohglHoaw&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 75,
+    "reason": "Quant strategy role matches your interests; Dublin/London split and advanced technical bar add minor friction.",
+    "deadline": null,
+    "pros": [
+      "Quantitative strategy in trading aligns with asset management & S&T interests",
+      "Python and financial modelling skills are core to the role",
+      "Structured finance background gives you domain context"
+    ],
+    "cons": [
+      "Based in Dublin; visa eligibility in Ireland unclear for UK student visa holders",
+      "Likely expects strong quant/maths background; economics+Python may be threshold",
+      "Role emphasizes 'strong technical skills'—competitive bar for 2nd-year entry"
+    ],
+    "analysis": "This posting is a better sector fit than the trading systems role: quantitative strategy sits squarely in the asset management and structured finance space you've already interned in. Your Python and modelling skills are relevant, and the structured finance internship signals you can handle complex analytical work. The same Dublin/London visa question applies here. Before applying, confirm (1) whether the role can be based in London, and (2) that your UK student visa permits work in Ireland. If both are yes, this is a solid 78+. If you're London-only and visa-constrained, the Dublin element becomes a blocker despite strong role fit.",
+    "found_on": "2026-08-23 20:26 UTC"
+  },
+  {
     "id": "17c8ca9f789fc0ce",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7326,55 +7376,5 @@
     ],
     "analysis": "Moody's is a strong employer and London is your preferred location, but this posting is ambiguous and possibly not an internship. The title 'Specialist II' and hackajob's framing ('connect them with exceptional professionals') suggest it may be a permanent hire rather than a summer internship. The role is also in operations/data rather than the investment banking, asset management, or sales & trading tracks you've prioritized. Before applying, clarify with Moody's or the hackajob platform whether this is an internship programme, what the contract length is, and whether it aligns with your summer availability.",
     "found_on": "2026-08-07 17:01 UTC"
-  },
-  {
-    "id": "9a5ebe39b2a338b1",
-    "title": "Data Operations Specialist II",
-    "company": "Moody's Corporation",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5830190990?se=3Avm9W-S8RG9ks23jnlnsA&utm_medium=api&utm_source=88a1c016&v=7209013FB055F5D177B97128C00B997BFBE22A00",
-    "snippet": "hackajob is collaborating with Moody's Corporation to connect them with exceptional professionals for this role. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody’s is transforming how the world sees risk. As a global leader in …",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 62,
-    "reason": "Finance-adjacent data role at major rating agency in London; internship status and seniority level unclear from sparse description.",
-    "deadline": null,
-    "pros": [
-      "Moody's is tier-one finance employer",
-      "London location matches strong preference",
-      "Data operations relevant to financial modelling skills"
-    ],
-    "cons": [
-      "Posting extremely vague; no mention of internship vs. graduate vs. experienced hire",
-      "Title 'Specialist II' suggests mid-level, not entry-level",
-      "Recruitment via hackajob platform; unclear if this is actually available to interns"
-    ],
-    "analysis": "Moody's is a genuinely excellent employer for your finance career goals and the London location is ideal. However, this posting is frustratingly sparse. The role title 'Data Operations Specialist II' and the recruitment via hackajob (a talent platform) suggest this may be aimed at experienced professionals rather than interns. Before investing time, clarify with Moody's directly or check their official careers page for explicit internship or graduate programme roles—they likely have better-articulated opportunities for a 2nd-year student. The posting alone doesn't confirm internship eligibility or visa sponsorship clarity.",
-    "found_on": "2026-08-07 14:54 UTC"
-  },
-  {
-    "id": "69fc27b12a535518",
-    "title": "Business Analyst, Management Consulting, French/Italian, London, COR7644",
-    "company": "Unknown (award-winning international management consultancy with PE focus)",
-    "location": "WC2H9JQ",
-    "url": "https://www.reed.co.uk/jobs/business-analyst-management-consulting-french-italian-london-cor7644/57208434",
-    "snippet": "Business Analyst, Management Consulting, French/Italian, London, COR7644 A Business Analyst opportunity has opened up at an award-winning management consultancy with a genuinely international footprint and a strong reputation in the private equity space. This is a role built for someone who thrives on analytical challenge and wants meaningful client exposure from day one. The Role The Business Analyst will work as part of a close-knit consulting...",
-    "source": "Reed",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Strategy consulting role with French language fit, strong candidate match—but seniority and internship status unclear.",
-    "deadline": null,
-    "pros": [
-      "Strategy consulting, a target sector",
-      "French language required—you have working proficiency",
-      "Private equity exposure aligns with structured finance interest"
-    ],
-    "cons": [
-      "Titled 'Business Analyst,' suggests graduate/entry-level, not internship",
-      "Real employer identity hidden; vague description",
-      "No explicit mention of internship or summer placement structure"
-    ],
-    "analysis": "This posting has real appeal: it's a consulting role at what sounds like a reputable boutique firm with a PE focus, and they specifically want French speakers. Your working proficiency in French is a genuine competitive advantage here. However, the posting doesn't clearly state whether this is a summer internship, off-cycle placement, or entry-level permanent role. The 'Business Analyst' title and language about 'day one' client exposure suggest it may be pitched at graduates, not undergraduates. Before applying, contact the recruiter (Corriculo Ltd) to confirm this is available as a paid summer internship aligned with your term dates—if it is, this becomes a strong 80+ fit.",
-    "found_on": "2026-08-07 10:54 UTC"
   }
 ]
