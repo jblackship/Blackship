@@ -1,5 +1,55 @@
 [
   {
+    "id": "dc024258622860c3",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=8DpC_eSe8RGfQpohglHoaw&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong technical fit and prestigious employer, but Dublin-based role conflicts with London preference.",
+    "deadline": null,
+    "pros": [
+      "Top-tier trading firm, excellent for resume",
+      "Python and technical skills directly valued",
+      "Sales & trading adjacent role matches interests"
+    ],
+    "cons": [
+      "Primary base is Dublin, not London preference",
+      "Computationally intensive; may prioritize CS/physics backgrounds",
+      "Limited detail on trading systems vs. pure engineering focus"
+    ],
+    "analysis": "This is a legitimate, paid summer internship at a world-class proprietary trading firm. Your Python skills and finance internship experience position you well. However, the role is headquartered in Dublin with a London component—check whether you'd be Dublin-based full-time or split your summer. The 'trading systems engineering' focus is slightly more engineering-heavy than pure trading, but still within your stated interests. You're eligible to work in both jurisdictions. Worth applying if Dublin (or a Dublin-London split) is acceptable; otherwise, look for the Quantitative Strategy role as an alternative at the same firm.",
+    "found_on": "2026-08-23 11:22 UTC"
+  },
+  {
+    "id": "fd8df12e32f0be7e",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=8DpC_eSe8RGfQpohglHoaw&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 75,
+    "reason": "Strong match on strategy, quant, and firm prestige; Dublin location is slight compromise on stated London preference.",
+    "deadline": null,
+    "pros": [
+      "Quantitative strategy aligns with S&T and strategy interests",
+      "Python and financial modelling directly applicable",
+      "Prestigious proprietary trading firm with strong talent development"
+    ],
+    "cons": [
+      "Dublin HQ conflicts with strong London preference",
+      "Likely requires stronger quant/math background than stated",
+      "Vague description; unclear day-to-day responsibilities"
+    ],
+    "analysis": "This is a well-regarded summer internship at an elite trading firm, and 'strategy' is closer to your stated interests than pure systems engineering. Your Python and modelling skills are valuable here. The main friction is location: the role is based in Dublin (with possible London secondment), not your preferred London. Clarify the exact base and whether you'd relocate for the summer. The role is computationally intensive and may skew toward candidates with stronger mathematics or physics foundations, but your economics degree and finance internships demonstrate quantitative capability. If you can commit to Dublin or a split arrangement, this is a strong option.",
+    "found_on": "2026-08-23 11:22 UTC"
+  },
+  {
     "id": "52c6e57fc0136bad",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7313,52 +7363,5 @@
     ],
     "analysis": "This is an excellent match for you. BlackRock's off-cycle internship programme is designed for students in your exact position (second year, graduating 2027–2028), and asset management is explicitly on your target list. The six-month duration means you can build real expertise and make a strong case for return offers or full-time roles. You have EU citizenship so work eligibility is straightforward. The only mild caveat is Paris rather than London, but you signalled openness to Paris. Apply immediately—these programmes are competitive and highly prestigious, and your asset management internship background gives you a real edge.",
     "found_on": "2026-08-02 19:14 UTC"
-  },
-  {
-    "id": "e4a87350794f9f1c",
-    "title": "2027 Off-cycle Internship Program - EMEA",
-    "company": "BlackRock",
-    "location": "Paris, Ile-de-France",
-    "url": "https://www.adzuna.fr/land/ad/5823347976?se=6I_E_ZOO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=88a1c016&v=07C8128AF524F3415C817901F5FFE31534245DFA",
-    "snippet": "BlackRock offers six-month Off-Cycle Internships in some of our Continental European offices. This programme is for candidates in their penultimate year of studies who will graduate with an undergraduate or master's degree between July 2027 and 2028. This opportunity gives you a chance to work closely with and add value to a specific team, set and complete objectives, and be exposed to BlackRock's culture and ethos. During the internship, you will develop new skills and gain valuable experience…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Strong fit: asset management leader, off-cycle option, Paris location, eligible graduate timeline.",
-    "deadline": null,
-    "pros": [
-      "Off-cycle aligns with your term-time constraints",
-      "Asset management matches your internship experience",
-      "Paris is in your preferred European locations"
-    ],
-    "cons": [
-      "Six months is lengthy; check if it compresses around summer",
-      "Description vague on team/role specifics; request clarity"
-    ],
-    "analysis": "This is a genuine strong match. BlackRock's off-cycle internship program is well-established and prestigious, and the Paris location fits your geographic preferences. You're in the right cohort (graduating 2028), you have relevant asset management experience, and off-cycle gives you flexibility around term dates—exactly what you need on a student visa. The main action item is to confirm the exact timing: clarify whether the six months can be compressed into summer break or if it runs across term dates. If it's genuinely flexible around your academic calendar, this is a clear apply.",
-    "found_on": "2026-08-02 17:02 UTC"
-  },
-  {
-    "id": "6b221c8c2201a51c",
-    "title": "2027 Off-cycle Internship Program - EMEA",
-    "company": "BlackRock",
-    "location": "Paris, Ile-de-France",
-    "url": "https://www.adzuna.fr/land/ad/5823347976?se=zhgZeIOO8RG8JMyxbRrc7Q&utm_medium=api&utm_source=88a1c016&v=07C8128AF524F3415C817901F5FFE31534245DFA",
-    "snippet": "BlackRock offers six-month Off-Cycle Internships in some of our Continental European offices. This programme is for candidates in their penultimate year of studies who will graduate with an undergraduate or master's degree between July 2027 and 2028. This opportunity gives you a chance to work closely with and add value to a specific team, set and complete objectives, and be exposed to BlackRock's culture and ethos. During the internship, you will develop new skills and gain valuable experience…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 92,
-    "reason": "Strong fit: asset management leader, off-cycle timing, penultimate year eligibility, Paris location acceptable, paid internship.",
-    "deadline": null,
-    "pros": [
-      "Asset management aligns perfectly with your background and interests",
-      "Off-cycle structure fits around UK term dates",
-      "Paris is in your acceptable locations list"
-    ],
-    "cons": [
-      "Paris not your strong preference (London would rank higher)"
-    ],
-    "analysis": "This is a genuine strong match. BlackRock's off-cycle internship is explicitly designed for penultimate-year students graduating 2027–2028, which matches you exactly. The Paris location is within your stated geographic flexibility, and asset management is a core area you've already interned in and explicitly listed as a target sector. The six-month duration and structured internship format (not sales commission-based) align with your preferences. The main trade-off is location: London is your preference, but Paris is clearly acceptable to you. You're eligible to work in France as an EU citizen, and your working French proficiency is relevant. Apply promptly—BlackRock's off-cycle programmes are competitive and deadlines may not be published far in advance.",
-    "found_on": "2026-08-02 15:04 UTC"
   }
 ]
