@@ -1,5 +1,55 @@
 [
   {
+    "id": "d8bb3f3fb736a77d",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=AJ_uCaif8RGuZ4Zz3S8IXQ&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong technical fit and prestige, but Dublin-London split is ambiguous for a London-focused candidate",
+    "deadline": null,
+    "pros": [
+      "Sales & Trading aligned with your sector interests",
+      "Python + financial modelling directly applicable",
+      "Paid 10-week summer internship, reputable firm"
+    ],
+    "cons": [
+      "EU HQ in Dublin—unclear if you'd be based London or split",
+      "Highly technical role may prioritise pure CS/maths over economics background",
+      "Posting truncated; full scope and compensation unclear"
+    ],
+    "analysis": "Susquehanna is a tier-one proprietary trading firm and this is a legitimate, paid internship. Your Python and modelling skills are relevant, and the trading focus aligns with your goals. However, the description says the role spans Dublin and London, which could mean relocation or travel—clarify the actual base before applying. The 'computationally intensive' framing suggests it may weight hard technical skills over your economics degree, but your asset management and structured finance background could still differentiate you. Worth pursuing with a direct question on location.",
+    "found_on": "2026-08-24 10:39 UTC"
+  },
+  {
+    "id": "f0c44aa395f58a57",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=AJ_uCaif8RGuZ4Zz3S8IXQ&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 75,
+    "reason": "Quantitative strategy is core to your interests; Dublin-London split and heavy quant bar are minor risks",
+    "deadline": null,
+    "pros": [
+      "Quantitative strategy directly matches your finance sector goal",
+      "Python + economics background valued in quant roles",
+      "Paid, prestigious 10-week programme"
+    ],
+    "cons": [
+      "Dublin-London split again—location clarity needed",
+      "Likely expects strong pure maths or CS background; economics may be secondary",
+      "High bar; expect to compete against physics/maths PhDs"
+    ],
+    "analysis": "This is a stronger cultural fit than the trading systems role because strategy development often values economics reasoning alongside technical skills. Your asset management and structured finance internships show you understand real-world finance, which quant roles prize. However, this is a competitive position that will attract math/physics specialists, so you'll need to emphasise your Python proficiency and any quantitative coursework. Again, clarify whether the role is Dublin-based, London-based, or genuinely split before applying—it could affect your availability around term dates.",
+    "found_on": "2026-08-24 10:39 UTC"
+  },
+  {
     "id": "94533abb2484cd43",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7314,54 +7364,6 @@
       "No explicit internship duration or summer timing mentioned"
     ],
     "analysis": "This looks like genuine investment banking work (M&A, financial modelling, valuations) in your target sector, and London is ideal. However, the posting is vague on whether this is truly a summer internship or a permanent analyst role masquerading as internship content. Selby Jennings is a recruitment firm, so the real employer isn't named. Before applying, clarify with the recruiter that it's a defined-term summer internship aligned with your June 2028 graduation and academic calendar.",
-    "found_on": "2026-08-12 17:58 UTC"
-  },
-  {
-    "id": "2558a91daac2f3f1",
-    "title": "Renewable Energy Investment Banking M&A Intern - Augusta & Co",
-    "company": "Augusta & Co",
-    "location": "London",
-    "url": "https://www.reed.co.uk/jobs/renewable-energy-investment-banking-m-a-intern-augusta-co/57229809",
-    "snippet": "Augusta & Co is a leading independent financial advisory and investment house serving the European renewable energy sector since 2002. Headquartered in London, Augusta has completed 125 transactions across 25GW of renewable energy to an aggregate value in excess of €13bn. Augusta provides capital raising, M&A advice and a growing asset management business helping clients invest in special investment situations in European renewables. The...",
-    "source": "Reed",
-    "trust": "verified",
-    "score": 80,
-    "reason": "Renewable energy IB internship, strong match across field, location, and level",
-    "deadline": null,
-    "pros": [
-      "Explicitly an internship, M&A advisory work",
-      "Renewable energy sector (growth + credibility)",
-      "London HQ, real independent boutique"
-    ],
-    "cons": [
-      "No explicit summer dates or term-time compatibility mentioned",
-      "No salary/compensation details in excerpt"
-    ],
-    "analysis": "Augusta & Co is a genuine London-based independent investment house with a strong track record in renewable energy M&A—exactly your target field and location. The posting names an actual employer (not just a recruiter), and the work (M&A advice, capital raising, valuations) matches your experience and ambitions. Check the full posting for specific internship dates and confirmation it aligns with summer 2027 or 2028 and your academic calendar before applying.",
-    "found_on": "2026-08-12 17:58 UTC"
-  },
-  {
-    "id": "bf7bb5c51e04e713",
-    "title": "Internship - Tikehau Special Opportunities TSO - London - Aug/Sept 2026 - Tikehau Capital",
-    "company": "Tikehau Capital",
-    "location": "London",
-    "url": "https://www.reed.co.uk/jobs/internship-tikehau-special-opportunities-tso-london-aug-sept-2026-tikehau-capital/57230688",
-    "snippet": "Responsibilities : Taking an active supporting role in the entire spectrum of a special opportunities investment, Analysing investment memos, presentations and specific analytical researches, Understanding financial performance and market positioning of selected companies, Researching strategic and financial trends within industries, Undertaking company valuation based on different methodologies (M&A multiples, trading comps, etc.), Having e...",
-    "source": "Reed",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Asset management internship, strong fit, firm date and structured finance alignment",
-    "deadline": null,
-    "pros": [
-      "Asset management (target sector); special opportunities matches structured finance interest",
-      "Explicit summer dates: Aug/Sept 2026",
-      "Valuation, financial analysis, company research"
-    ],
-    "cons": [
-      "Aug/Sept 2026 is in the past relative to current date; likely archived or reposted",
-      "No salary/compensation mention in excerpt"
-    ],
-    "analysis": "Tikehau Capital is a real, substantial Paris-headquartered alternative asset manager. The work (investment analysis, valuations, sector research) aligns perfectly with your asset management internship experience and interest in structured finance. The posting explicitly mentions summer dates and London location, which is excellent. However, Aug/Sept 2026 appears to have passed; this may be a reposted or recycled listing. Contact Tikehau directly to confirm whether this is an active 2027 or 2028 opportunity, or if they run regular summer intern cohorts.",
     "found_on": "2026-08-12 17:58 UTC"
   }
 ]
