@@ -1,5 +1,55 @@
 [
   {
+    "id": "94533abb2484cd43",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=6FQyTaGf8RGSb8VpDRDiVA&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong technical fit and sector alignment, but Dublin-based role conflicts with London preference and term-time availability unclear.",
+    "deadline": null,
+    "pros": [
+      "Trading systems role aligns with sales & trading interest",
+      "Python skills directly applicable to computationally intensive work",
+      "10-week summer program matches availability window"
+    ],
+    "cons": [
+      "Primary base in Dublin, not London (stated strong preference)",
+      "No explicit confirmation summer 2027 avoids UK term dates",
+      "High bar on 'strong technical skills' may require more depth than stated"
+    ],
+    "analysis": "Susquehanna is a genuine, prestigious quantitative trading firm and this is a legitimate internship in your sector. Your Python and technical background are assets. However, the role is split between Dublin and London, and Dublin is not on your approved location list—you'd need to confirm the split and whether Dublin is acceptable. Verify that the 10-week window falls entirely outside your term dates (likely yes for summer, but confirm). If you can relocate to Dublin or are willing to spend part of the summer there, this is worth pursuing; otherwise, flag it as a location mismatch.",
+    "found_on": "2026-08-24 09:50 UTC"
+  },
+  {
+    "id": "3c9163b673ab4672",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=6FQyTaGf8RGSb8VpDRDiVA&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 75,
+    "reason": "Excellent sector and skill fit for quant/strategy work, but Dublin headquarters location and vague term-time alignment create moderate friction.",
+    "deadline": null,
+    "pros": [
+      "Quant strategy role bridges finance and technical skills well",
+      "Python expertise directly relevant; structured finance background helpful",
+      "Prestige firm with strong market education component"
+    ],
+    "cons": [
+      "Dublin-based despite London office (location preference mismatch)",
+      "Computationally intensive role may demand advanced Python (you have basic modelling)",
+      "Internship timeline vs. term dates not explicitly confirmed"
+    ],
+    "analysis": "This is a strong cultural and sector fit—Susquehanna hires top graduates for quant roles, and your Python, finance internship experience, and Economics background are relevant. The main friction is geography: the role is headquartered in Dublin with a London office, which only partially meets your London preference. Before applying, clarify with the recruiter where you'd physically be based for most of the 10 weeks. Your Python level is listed as a skill, so emphasize any projects or modules; they may be okay with strong fundamentals if your quant reasoning is sharp. Verify the summer 2027 dates don't overlap term.",
+    "found_on": "2026-08-24 09:50 UTC"
+  },
+  {
     "id": "8275064c030c5c3e",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7313,55 +7363,5 @@
     ],
     "analysis": "Tikehau Capital is a real, substantial Paris-headquartered alternative asset manager. The work (investment analysis, valuations, sector research) aligns perfectly with your asset management internship experience and interest in structured finance. The posting explicitly mentions summer dates and London location, which is excellent. However, Aug/Sept 2026 appears to have passed; this may be a reposted or recycled listing. Contact Tikehau directly to confirm whether this is an active 2027 or 2028 opportunity, or if they run regular summer intern cohorts.",
     "found_on": "2026-08-12 17:58 UTC"
-  },
-  {
-    "id": "3f18e2b4e419648e",
-    "title": "Private Equity Investor - Healthcare - Selby Jennings",
-    "company": "Unknown (via Selby Jennings)",
-    "location": "London",
-    "url": "https://www.reed.co.uk/jobs/private-equity-investor-healthcare-selby-jennings/57229641",
-    "snippet": "Responsibilities Support the execution of new investment opportunities from initial assessment through to completion. Conduct detailed financial analysis, valuation work and due diligence. Assist with investment committee materials and transaction documentation. Work closely with management teams, advisers and external stakeholders. Contribute to market mapping, sector research and origination activities. Requirements Candidates must satisfy all...",
-    "source": "Reed",
-    "trust": "verified",
-    "score": 68,
-    "reason": "Private equity healthcare analyst role, right sector but seniority and internship status unclear",
-    "deadline": null,
-    "pros": [
-      "Private equity and asset management overlap your interests",
-      "Financial analysis, due diligence, valuations",
-      "London location"
-    ],
-    "cons": [
-      "Posting says 'Investor' not internship; likely permanent role",
-      "Requirements section truncated ('must satisfy all...'); unclear if open to students",
-      "Real employer hidden behind recruiter"
-    ],
-    "analysis": "The title 'Private Equity Investor' and context ('Candidates must satisfy all...') suggest this is a permanent analyst or associate position, not a defined-term summer internship. Selby Jennings is a recruiter, so you cannot verify the real employer or seniority expectations. Before investing time, contact the recruiter explicitly asking if this is a summer internship for 2nd year students, or a permanent full-time hire; the posting language strongly implies the latter.",
-    "found_on": "2026-08-12 17:58 UTC"
-  },
-  {
-    "id": "ee16ca1e04a28c92",
-    "title": "Trading Intern - Summer 2027 (DV Commodities)",
-    "company": "DV Trading",
-    "location": "London",
-    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005",
-    "snippet": "<p><span style=\"font-size: 12pt;\"><strong>About Us</strong>:</span><br><span style=\"font-size: 12pt;\">Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and",
-    "source": "dvtrading (Greenhouse)",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Trading internship in right sector and location, but posting lacks detail on visa sponsorship and exact dates.",
-    "deadline": null,
-    "pros": [
-      "Sales & trading aligns with candidate interests",
-      "London location, strong preference match",
-      "Summer 2027 timing fits graduation (June 2028)"
-    ],
-    "cons": [
-      "Posting truncated—cannot verify paid vs unpaid or full scope",
-      "No explicit mention of visa sponsorship for UK student visa holders",
-      "Proprietary trading firm, not traditional banking (lower prestige)"
-    ],
-    "analysis": "DV Trading is a legitimate proprietary trading firm with a real presence in London. The summer 2027 timing works well for a 2nd-year student, and trading roles match your stated interests. However, the posting is severely incomplete—you cannot see whether it's paid (critical dealbreaker), what the hours/commitment are, or whether they sponsor non-visa-sponsored candidates. Contact DV Trading directly or find the full posting on their careers page before investing application effort. The lack of transparency is a red flag.",
-    "found_on": "2026-08-12 14:59 UTC"
   }
 ]
