@@ -1,5 +1,53 @@
 [
   {
+    "id": "f55f7f83b0822ece",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=In7_B7uf8RG-hMfJjn-2hA&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong technical fit and right field, but location split between Dublin/London creates uncertainty.",
+    "deadline": null,
+    "pros": [
+      "Trading systems role aligns with S&T interest",
+      "Python skills directly applicable",
+      "10-week summer internship, paid program"
+    ],
+    "cons": [
+      "Split Dublin/London location—unclear primary base",
+      "Computationally intensive; your financial modelling may not be enough technical depth"
+    ],
+    "analysis": "This is a genuine trading technology internship at a respected firm, and your Python and technical background make you a credible candidate. However, the posting emphasizes 'strong technical skills' and 'computationally intensive' work—you'll want to verify whether your current Python level meets their bar, and clarify exactly how much time you'd spend in Dublin vs. London. If you're genuinely based in London for the summer, confirm they can accommodate that. The role sits at the intersection of your S&T interest and technical skills, but it's engineering-heavy rather than pure trading or strategy.",
+    "found_on": "2026-08-24 12:55 UTC"
+  },
+  {
+    "id": "65107297c501bccc",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=In7_B7uf8RG-hMfJjn-2hA&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 74,
+    "reason": "Quantitative strategy fits your interests well; location and timing work, but technical depth unclear.",
+    "deadline": null,
+    "pros": [
+      "Quantitative strategy development matches S&T/strategy interests",
+      "Python skills relevant to role",
+      "Paid 10-week summer internship, Dublin/London"
+    ],
+    "cons": [
+      "Computationally intensive; bar for quant skills may be high",
+      "Dublin/London split could complicate logistics from London preference"
+    ],
+    "analysis": "This role is closer to your strategy consulting and S&T interests than the engineering posting, and your economics background is a genuine asset for quant strategy work. Again, the emphasis on 'computationally intensive' and strong technical skills is a flag—make sure your financial modelling and Python experience genuinely match what Susquehanna expects at internship level. The Dublin/London split is less of a blocker if you're flexible, but confirm upfront. This is worth applying to if you're confident in your technical foundations; your asset management and structured finance internships show you can learn complex financial concepts quickly.",
+    "found_on": "2026-08-24 12:55 UTC"
+  },
+  {
     "id": "8c30ac90a2bfa481",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7313,55 +7361,5 @@
     ],
     "analysis": "This is a genuine JPMorgan Chase posting in your core sector and preferred location. However, the title 'Analyst' typically signals a full-time graduate hire rather than a summer internship. Before applying, verify that JPMorgan has a summer analyst or internship stream for this team—they often do, but you need to confirm the programme type and whether it runs during your summer break (not term time). The structured finance and project finance focus is a strong match for your previous internship experience.",
     "found_on": "2026-08-14 16:56 UTC"
-  },
-  {
-    "id": "d01420ae5ca6535e",
-    "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5841926149?se=WMDBdPiX8RGqM9tlrK2FfQ&utm_medium=api&utm_source=88a1c016&v=7BF364E3F1F28985005456F248A888CABB011FE1",
-    "snippet": "Description The Infrastructure Finance & Advisory group advises clients on financing infrastructure projects and works with coverage, product, and sales teams to develop and execute financing solutions across transportation, energy, utilities, and social infrastructure. The London-based team focuses primarily on Europe, the Middle East, and Africa and includes professionals with expertise in project finance, bonds, loans, structured products, and derivatives. As a first-year Analyst in the Inve…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 78,
-    "reason": "Strong field and location match; analyst role at top bank; eligibility clear; but analyst vs. internship ambiguity and timing unclear.",
-    "deadline": null,
-    "pros": [
-      "Infrastructure finance aligns with structured finance interest",
-      "London-based, European focus matches geography preference",
-      "Top-tier investment bank with strong economics placement record"
-    ],
-    "cons": [
-      "Posted as 'Analyst' not explicit internship; may be graduate entry",
-      "No clear summer or term-time availability stated in snippet",
-      "Project finance/bonds focus—check if structured products angle strong enough"
-    ],
-    "analysis": "This is a credible JPMorganChase role in your sweet spot (London, infrastructure advisory, structured finance flavour). However, the title says 'Analyst' with no mention of internship, apprenticeship, or summer placement. For a 2nd-year student, this could be a graduate scheme masquerading as analyst, or it could be an internship with a different title. Before applying, clarify the actual programme type, contract length, and start date. If it is a true internship aligned to your summer availability (post-June exam), this moves to 82+. Your structured finance internship experience is a genuine differentiator here.",
-    "found_on": "2026-08-14 15:54 UTC"
-  },
-  {
-    "id": "c3ca81bb9d01cc75",
-    "title": "Trading Services Associate - Prime Finance (Equities)",
-    "company": "JPMorgan Chase",
-    "location": "London, United Kingdom",
-    "url": "https://www.themuse.com/jobs/jpmorganchase/trading-services-associate-prime-finance-equities",
-    "snippet": "Join a fast-paced Prime Finance trading support team where accuracy, controls, and partnership with the Front Office are critical to daily outcomes. In this role, you will help ensure trades are reflected correctly in risk management systems, manage key controls, and resolve exceptions across the trade lifecycle. You will work closely with trading, product partners, and global operations teams while contributing to process improvements and automation. If you enjoy problem-solving and thrive under pressure, this role offers strong visibility and impact.As a Trading Services Associate in Prime F",
-    "source": "The Muse",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Strong finance firm and location, but trading support role rather than core trading or IB internship.",
-    "deadline": null,
-    "pros": [
-      "JPMorgan Chase—tier-1 investment bank, excellent signal",
-      "London location, perfect geography",
-      "Sales & Trading exposure via Prime Finance operations"
-    ],
-    "cons": [
-      "Trading Services Associate is operations/middle-office, not front-office trading",
-      "Role focuses on controls and exceptions, not trading strategy or execution",
-      "Unclear if this is an internship or permanent entry-level position"
-    ],
-    "analysis": "JPMorgan's Prime Finance trading support team is a solid opportunity at a world-leading bank in your preferred location. The role involves working with trading teams and front office, which gives you genuine sales & trading exposure. However, this is a middle-office operations role (trade lifecycle, risk systems, controls) rather than core trading or investment banking. It could be valuable for networking and understanding trading operations, but clarify whether it's an internship or permanent role before applying. If it's an internship, this is worth pursuing; if permanent only, less ideal.",
-    "found_on": "2026-08-14 02:09 UTC"
   }
 ]
