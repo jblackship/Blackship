@@ -1,5 +1,80 @@
 [
   {
+    "id": "bd5e77e98b3cbd7f",
+    "title": "Business Development Intern",
+    "company": "Falconedge",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5854373115?se=tq1GcPKf8RGLZZiuaUCfOw&utm_medium=api&utm_source=88a1c016&v=95EB2C585D4110DBC491E5119677DA2649080A1E",
+    "snippet": "Business Development Intern Hedge Funds & Digital Assets Falconedge Location: London – On-site Type: Full-time Internship Industry: Financial Services | Hedge Funds | Digital Assets About Falconedge Falconedge is a growing financial services firm working across hedge funds, digital assets, institutional investing and capital markets. We work with hedge fund managers, institutional investors, family offices and private investors, helping them access institutional-grade solutions across digital a…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 62,
+    "reason": "Asset management fit in London, but vague posting and digital assets focus is tangential to your stated interests.",
+    "deadline": null,
+    "pros": [
+      "Asset management sector aligns with your experience",
+      "London-based, on-site internship",
+      "Hedge fund exposure relevant to finance career"
+    ],
+    "cons": [
+      "Posting is sparse and lacks detail on role structure",
+      "Digital assets angle not core to traditional banking/trading",
+      "No clarity on compensation or full-time internship duration"
+    ],
+    "analysis": "Falconedge operates in hedge funds and digital assets, which touches your asset management background, but the posting is frustratingly vague about what you'd actually do day-to-day and whether it's a proper 8-10 week summer programme. The 'business development' title suggests client-facing work, which could be valuable but may skew towards sales rather than the core trading or strategy roles you're targeting. Before applying, you need clarity on: the exact dates (is it summer term-time?), compensation structure, and whether this is truly an internship programme or a more junior BD role. If it's paid and runs July-August, it's worth pursuing, but the lack of detail is a yellow flag.",
+    "found_on": "2026-08-24 19:31 UTC"
+  },
+  {
+    "id": "3f7dee4f158ce857",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=tq1GcPKf8RGLZZiuaUCfOw&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 73,
+    "reason": "Strong fit: trading systems, quantitative work, prestigious firm, but Dublin-London split and heavy engineering focus require technical confirmation.",
+    "deadline": null,
+    "pros": [
+      "10-week summer internship, ideal timing",
+      "Top-tier trading firm with quantitative edge",
+      "Combines your Python skills with trading/markets exposure"
+    ],
+    "cons": [
+      "Dual Dublin/London location; primary base unclear",
+      "Systems engineering role may require deeper coding than your profile suggests",
+      "Highly competitive; expect rigorous technical screening"
+    ],
+    "analysis": "Susquehanna is a world-class trading firm and this role bridges your Python skills with real trading and market systems—exactly the kind of 'intersection of trading, data, and technology' you should be excited about. The 10-week full-time summer slot fits your timeline perfectly, and you're eligible to work. However, the role is described as 'computationally intensive' and systems-focused, which implies they want someone very strong in engineering and low-latency systems, not just basic financial modelling. Your Python is a plus, but if they're testing for algorithmic problem-solving and system design, you'll need to prepare hard. The Dublin/London split is also worth clarifying—check whether you'd be based mainly in Dublin (still accessible, but less your preference than London). This is a strong reach; apply, but be realistic about the bar.",
+    "found_on": "2026-08-24 19:31 UTC"
+  },
+  {
+    "id": "4b7f9915a89afe29",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=tq1GcPKf8RGLZZiuaUCfOw&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 75,
+    "reason": "Excellent sector and firm fit; quantitative strategy appeals to economics background, but heavy technical bar and Dublin-London split create some friction.",
+    "deadline": null,
+    "pros": [
+      "Quantitative strategy role suits your economics degree",
+      "Susquehanna is tier-1 trading and structured finance player",
+      "10-week summer internship with clear technical upside"
+    ],
+    "cons": [
+      "Dual Dublin/London base; primary location ambiguous",
+      "Computationally intensive role—deeper technical bar than your current profile",
+      "Highly competitive; expect advanced quantitative screening"
+    ],
+    "analysis": "This is a better match than the systems role for your background. Quantitative strategy development leans more towards economics, financial modelling, and problem-solving than pure systems engineering, and your first-class trajectory in economics and structured finance internship are real strengths here. Susquehanna is exactly the kind of top-tier firm in sales & trading and structured finance you're aiming for. The 10-week summer timing is perfect. However, it's still 'computationally intensive' and will demand strong statistical, coding, and modelling chops—you'll need to show fluency in Python and quantitative analysis beyond basics. Again, clarify the Dublin/London split before applying; if Dublin is primary, it's still worth doing but less aligned with your London preference. This is a strong fit with a high bar. Apply, but prepare your quantitative examples carefully and be ready for a technical interview.",
+    "found_on": "2026-08-24 19:31 UTC"
+  },
+  {
     "id": "2b68f3b7cee5b22e",
     "title": "Business Development Intern",
     "company": "Falconedge",
@@ -7298,80 +7373,5 @@
     ],
     "analysis": "This is an excellent fit on paper: JPMorgan's Infrastructure Finance & Advisory group is within investment banking, based in London, and your structured finance internship directly prepares you for this work. The description mentions project finance, bonds, and structured products—all aligned with your experience. However, the posting mentions 'first-year Analyst,' which typically means post-graduation hires. Before applying, confirm whether JPMorgan is recruiting summer interns at your level or if this is a graduate scheme. If it's a summer internship track, this is a strong 85+; if grad-only, you may still apply if they have a separate internship program.",
     "found_on": "2026-08-15 12:41 UTC"
-  },
-  {
-    "id": "56c369886660a8d3",
-    "title": "Off-Cycle Internship, Technical & Commercial Infrastructure - Macquarie Group",
-    "company": "Macquarie Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/details/5843066791?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Turn complex infrastructure ideas into real-world projects as an Off-Cycle Intern in Macquarie Capital's Infrastructure Projects and Capital team. Working alongside experienced colleagues on live opportunities, gain hands-on experience across project development, commercial analysis and technical due diligence. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates …",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 71,
-    "reason": "Off-cycle internship, structured finance/infrastructure fit, but posting vague on details and eligibility",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship—explicitly matches your interest",
-      "Infrastructure capital aligns with structured finance background",
-      "Macquarie: well-regarded global investment bank, London-based"
-    ],
-    "cons": [
-      "Posting is vague on internship length, pay, and exact responsibilities",
-      "No mention of visa sponsorship or eligibility confirmation",
-      "Technical & Commercial Infrastructure—commercial due diligence may differ from core finance roles"
-    ],
-    "analysis": "Macquarie's off-cycle internship programme is attractive because you flagged off-cycle as interesting if they fit term dates. Infrastructure Projects and Capital at Macquarie is a legitimate finance role with structured finance elements, and Macquarie is a top-tier global bank. However, this posting is light on specifics: no salary range, internship duration, or eligibility statement. Before applying, check Macquarie's main careers page for full program details, visa sponsorship terms, and exact dates. If they confirm paid internship status and visa support for EU citizens, this could be 75+.",
-    "found_on": "2026-08-15 12:41 UTC"
-  },
-  {
-    "id": "8218420339fd354e",
-    "title": "Off-Cycle Internship, Infrastructure Projects and Capital - Macquarie Group",
-    "company": "Macquarie Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/details/5843066781?utm_medium=api&utm_source=88a1c016",
-    "snippet": "As an Off-Cycle Intern in our Infrastructure Projects and Capital team, you will gain hands-on experience supporting investment opportunities across a diverse range of infrastructure sectors while learning from experienced professionals in a collaborative and entrepreneurial environment. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates value. You will bring yo…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 70,
-    "reason": "Off-cycle internship, infrastructure finance sector, but lacks clarity on pay and eligibility",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship format matches your preferences",
-      "Infrastructure / project finance in structured products wheelhouse",
-      "Macquarie: elite tier-1 global financial services, 57 years profitability"
-    ],
-    "cons": [
-      "Vague posting: no salary, duration, or start date specified",
-      "No explicit visa sponsorship or eligibility statement",
-      "Competitive role—may require higher modelling skills or prior banking experience"
-    ],
-    "analysis": "This is Macquarie's core Infrastructure Projects and Capital off-cycle internship—slightly different from the Technical & Commercial variant above, but similar pros and cons. The role offers hands-on experience in infrastructure investment opportunities, which fits your structured finance background well. The main issue is lack of transparency: no salary, no internship length, no eligibility or visa sponsorship details. Your asset management and structured finance internships put you in contention, but check Macquarie's official program terms before investing time in an application. If they confirm it's paid and visa-eligible, bump this to 75.",
-    "found_on": "2026-08-15 12:41 UTC"
-  },
-  {
-    "id": "6a2624d7fb5818c7",
-    "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5841926149?se=5GKsj5uY8RGA6K5hE8VA1w&utm_medium=api&utm_source=88a1c016&v=7BF364E3F1F28985005456F248A888CABB011FE1",
-    "snippet": "Description The Infrastructure Finance & Advisory group advises clients on financing infrastructure projects and works with coverage, product, and sales teams to develop and execute financing solutions across transportation, energy, utilities, and social infrastructure. The London-based team focuses primarily on Europe, the Middle East, and Africa and includes professionals with expertise in project finance, bonds, loans, structured products, and derivatives. As a first-year Analyst in the Inve…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 78,
-    "reason": "Strong fit: JPM investment banking in London, right seniority, but listed as Analyst role not internship.",
-    "deadline": null,
-    "pros": [
-      "Investment banking in target sector",
-      "Infrastructure/project finance aligns with structured finance experience",
-      "London-based, strong prestige and learning opportunity"
-    ],
-    "cons": [
-      "Listed as 'Analyst' not internship—may be graduate/permanent role",
-      "Unclear if open to current students or post-graduation only",
-      "No mention of salary or internship timeline in snippet"
-    ],
-    "analysis": "This posting sits at the border of what you're looking for. JPMorgan's Infrastructure Finance & Advisory group is exactly your target sector—structured finance, project finance, bonds, and loans all match your background. However, the title says 'first-year Analyst', which typically means a post-graduation role, not a summer internship. Before applying, clarify with JPM whether this is an internship programme or graduate hire. If they have an internship version of this role, pursue it aggressively; if not, bookmark it for post-graduation applications.",
-    "found_on": "2026-08-15 11:22 UTC"
   }
 ]
