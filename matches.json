@@ -1,5 +1,53 @@
 [
   {
+    "id": "8c30ac90a2bfa481",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=gniGS6-f8RG9Ho4QOArOpg&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Strong fit: trading systems engineering role at tier-1 firm, summer 2027 timing works, London/Dublin location acceptable, paid internship, technical skills match.",
+    "deadline": null,
+    "pros": [
+      "Top-tier trading firm, excellent for CV",
+      "Python skills directly applicable",
+      "London + Dublin option suits your location preferences"
+    ],
+    "cons": [
+      "Role emphasises 'computationally intensive' — ensure your Python level is strong enough",
+      "10-week duration must fit around your term dates (verify exact summer window)"
+    ],
+    "analysis": "This is a genuinely strong opportunity. Susquehanna is a major systematic trading firm and this internship sits squarely in sales & trading / strategy territory you're targeting. Your Python and financial modelling background are relevant, and the pay/prestige are excellent. The key question is whether the summer 2027 dates align with your university calendar — contact them early to confirm the exact weeks, as some internships run May-July while your terms may extend later. EU citizenship + UK visa status is fine for London/Dublin work.",
+    "found_on": "2026-08-24 11:31 UTC"
+  },
+  {
+    "id": "1ce7d137f29ff482",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=gniGS6-f8RG9Ho4QOArOpg&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 79,
+    "reason": "Strong candidate for quant strategy role, same firm/location, but more technical depth required than trading systems variant.",
+    "deadline": null,
+    "pros": [
+      "Quant strategy aligns with your finance interests",
+      "Same prestigious employer and London/Dublin base",
+      "10-week summer programme, paid"
+    ],
+    "cons": [
+      "Likely expects stronger quantitative/maths background than trading systems role",
+      "Term date alignment must be confirmed (10-week duration critical)"
+    ],
+    "analysis": "This is the quant variant of the first posting — equally legitimate, but arguably slightly more technical. If you're comfortable with statistical modelling and your economics background includes strong quantitative work, this could be a better fit than the systems engineering role. However, it's worth assessing honestly whether you have the depth in probability, statistics, or numerical methods they'll expect. As with the trading systems role, lock down the exact dates early and ensure they don't overlap with your term. Both Susquehanna internships are strong; apply to the one that better matches your technical comfort zone.",
+    "found_on": "2026-08-24 11:31 UTC"
+  },
+  {
     "id": "d8bb3f3fb736a77d",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7315,55 +7363,5 @@
     ],
     "analysis": "JPMorgan's Prime Finance trading support team is a solid opportunity at a world-leading bank in your preferred location. The role involves working with trading teams and front office, which gives you genuine sales & trading exposure. However, this is a middle-office operations role (trade lifecycle, risk systems, controls) rather than core trading or investment banking. It could be valuable for networking and understanding trading operations, but clarify whether it's an internship or permanent role before applying. If it's an internship, this is worth pursuing; if permanent only, less ideal.",
     "found_on": "2026-08-14 02:09 UTC"
-  },
-  {
-    "id": "d4d63c60c61c061e",
-    "title": "Internship – M&A Analyst",
-    "company": "Euronext",
-    "location": "Paris, Ile-de-France",
-    "url": "https://www.adzuna.fr/details/5840369372?utm_medium=api&utm_source=88a1c016",
-    "snippet": "Are you ready to shape the future of capital markets? We are looking for an M&A Analyst intern to join the M&A team. The position will be based in Paris, and start 4 January 2027. You will report to the Head of M&A. You will primarily be responsible for: Conducting comprehensive company and industry-level research Monitoring sectors and screening for potential acquisition targets Preparing investment memos and presentations for senior management, the Board and strategic committees Developing, m…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Strong field and location fit, but off-cycle timing creates uncertainty around term dates and visa availability.",
-    "deadline": null,
-    "pros": [
-      "Paris location matches your open preference",
-      "M&A research aligns with finance sector interests",
-      "Structured Finance background relevant to deal analysis"
-    ],
-    "cons": [
-      "January 2027 start date may conflict with term time (verify exact UK term dates)",
-      "No explicit mention of paid compensation in excerpt",
-      "Off-cycle timing requires confirming visa/student status compatibility"
-    ],
-    "analysis": "This is a genuine finance internship at a major European exchange in a preferred location. The M&A Analyst role sits squarely in your interest area and your structured finance experience is a clear asset. However, the 4 January 2027 start date is your critical blocker—UK universities typically don't finish winter term until mid-January, and your visa may restrict working during term time. Before applying, confirm with your university and UK Visas & Immigration whether this date falls within an approved break. Also verify that Euronext explicitly confirms this is a paid internship, since the excerpt doesn't state compensation.",
-    "found_on": "2026-08-13 16:05 UTC"
-  },
-  {
-    "id": "dfd0d842f8acf886",
-    "title": "Investment Banking Analyst - Infrastructure M&A - Selby Jennings",
-    "company": "Selby Jennings",
-    "location": "London",
-    "url": "https://www.reed.co.uk/jobs/investment-banking-analyst-infrastructure-m-a-selby-jennings/57229853",
-    "snippet": "Responsibilities Support the execution of M&A and financing mandates across the infrastructure and energy landscape. Build and maintain detailed financial models, valuation analyses and transaction materials. Conduct industry, company and market research to support client engagements. Prepare client presentations, information memoranda and marketing materials. Work closely with senior bankers and clients on live transactions from inception t...",
-    "source": "Reed",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Investment banking internship, strong fit but seniority and tenure unclear",
-    "deadline": null,
-    "pros": [
-      "Infrastructure M&A aligns with IB goals",
-      "Financial modelling, valuations, live transactions",
-      "London location"
-    ],
-    "cons": [
-      "Posted via eFC, unclear if true internship or analyst role",
-      "Selby Jennings is recruiter—may list analyst/permanent roles",
-      "No explicit internship duration or summer timing mentioned"
-    ],
-    "analysis": "This looks like genuine investment banking work (M&A, financial modelling, valuations) in your target sector, and London is ideal. However, the posting is vague on whether this is truly a summer internship or a permanent analyst role masquerading as internship content. Selby Jennings is a recruitment firm, so the real employer isn't named. Before applying, clarify with the recruiter that it's a defined-term summer internship aligned with your June 2028 graduation and academic calendar.",
-    "found_on": "2026-08-12 17:58 UTC"
   }
 ]
