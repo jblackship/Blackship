@@ -1,5 +1,53 @@
 [
   {
+    "id": "103d6a20e732b777",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=AlpHQX6f8RGU6LIjyaRnwA&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Strong fit in trading/tech with Python skills; Dublin-London split slightly dilutes London preference but acceptable.",
+    "deadline": null,
+    "pros": [
+      "Trading systems engineering aligns with S&T interest",
+      "Python expertise directly applicable and valued",
+      "10-week summer program fits term dates well"
+    ],
+    "cons": [
+      "EU HQ in Dublin, not primary London preference",
+      "Role is heavily engineering-focused, not traditional finance"
+    ],
+    "analysis": "This is a genuine opportunity from a tier-one trading firm. You have the technical foundation (Python, modelling) they're seeking, and the program structure works around your academic calendar. The slight drawback is that while the role is based partly in London, the program appears centred in Dublin—clarify the exact split with them before applying. The work sits at the intersection of trading and technology, which matches your S&T / structured finance interests well. Eligibility is clear: EU citizen, work visa valid, summer timing works. Worth applying if you're genuinely interested in the quantitative/systems side of trading.",
+    "found_on": "2026-08-24 05:40 UTC"
+  },
+  {
+    "id": "2702745bb9ecaeb5",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=AlpHQX6f8RGU6LIjyaRnwA&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 76,
+    "reason": "Quantitative strategy role fits quant/S&T goals; Python and modelling skills relevant; Dublin-London split is minor drawback.",
+    "deadline": null,
+    "pros": [
+      "Quant strategy aligns directly with S&T and asset management background",
+      "Python and financial modelling skills core to role",
+      "10-week summer internship structure"
+    ],
+    "cons": [
+      "Dublin-based EU HQ, not London-only",
+      "Very competitive; likely filters for strong quant backgrounds"
+    ],
+    "analysis": "This is a strong cultural and skill fit—quantitative strategy sits at the intersection of trading, asset management, and structured finance, all areas you've explored. Your Python, modelling skills, and prior internship experience give you a solid foundation. Like the trading systems role, this is a Susquehanna summer program (10 weeks, paid, term-time friendly), but based partly in Dublin. The role is more analytical than the other posting, so if you're more economics-focused than pure engineering, this may suit you better. Eligibility is straightforward. The main check is location: if Dublin time is a dealbreaker, deprioritise. Otherwise, a high-quality application to both Susquehanna roles is warranted.",
+    "found_on": "2026-08-24 05:40 UTC"
+  },
+  {
     "id": "44cdec395326b8dd",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7318,53 +7366,5 @@
     ],
     "analysis": "This is a strong match. Real estate investing sits comfortably within asset management, your proven area, and the off-cycle structure removes visa timing friction. Morgan Stanley's scale and MSIM's $1.9Tn AUM make this a valuable signal for your CV. Your structured finance background and expected first-class degree make you competitive. The main question is whether real estate investing genuinely interests you or if you'd prefer broader equity/fixed income exposure—if the former, this is worth pursuing immediately.",
     "found_on": "2026-08-09 16:38 UTC"
-  },
-  {
-    "id": "d8dae9a5fa2955c8",
-    "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
-    "company": "Morgan Stanley",
-    "location": "Paris, Ile-de-France",
-    "url": "https://www.adzuna.fr/details/5834756519?utm_medium=api&utm_source=88a1c016",
-    "snippet": "The Transactional Management Group (“TMG”) oversees the legal documentation in respect of structured products from Base prospectus to Final Terms (including distribution agreements, liquidity letters, etc). The Institutional Equity Division (IED) is a global leader in the origination, distribution and trading of equity, equity-linked and equity-derivative securities. The Firm’s equity Sales & Trading operations provide liquidity, distribute content, and create product solutions to help our clie…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Structured finance role at tier-1 investment bank; off-cycle internship fits term dates; Paris location acceptable; strong eligibility match.",
-    "deadline": null,
-    "pros": [
-      "Structured finance experience directly matches your background",
-      "Off-cycle internship aligns with your academic calendar",
-      "Morgan Stanley is top-tier; Institutional Equities highly relevant"
-    ],
-    "cons": [
-      "Paris rather than London (secondary preference, not disqualifier)"
-    ],
-    "analysis": "This is a strong fit. You have explicit structured finance internship experience already, and this role in Morgan Stanley's Transactional Management Group within Institutional Equities is exactly the kind of role you're targeting. The off-cycle timing is ideal for fitting around term dates, and Paris is on your acceptable location list even if London is preferred. French working proficiency is a bonus in Paris. Your financial modelling and economics background position you well for the legal documentation and product structuring work. Verify the exact application deadline and that off-cycle scheduling genuinely accommodates UK term dates, but this deserves a strong application.",
-    "found_on": "2026-08-09 15:34 UTC"
-  },
-  {
-    "id": "febcd108836b49a1",
-    "title": "Data Operations Specialist II",
-    "company": "Moody's Corporation",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5830190990?se=fIkI93iT8RGYrdXs-hgf2g&utm_medium=api&utm_source=88a1c016&v=7209013FB055F5D177B97128C00B997BFBE22A00",
-    "snippet": "hackajob is collaborating with Moody's Corporation to connect them with exceptional professionals for this role. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody’s is transforming how the world sees risk. As a global leader in …",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 62,
-    "reason": "Finance-adjacent firm in London, but posting is vague, seniority unclear, and role (Data Operations) is not core target areas.",
-    "deadline": null,
-    "pros": [
-      "Moody's is a top-tier financial services firm",
-      "London location matches strong preference",
-      "Data operations touches risk/analytics relevant to finance"
-    ],
-    "cons": [
-      "Posting is extremely vague; no mention of internship or summer role",
-      "Data Operations Specialist II sounds like mid-level, not intern",
-      "Not investment banking, asset management, or S&T—your stated priorities"
-    ],
-    "analysis": "Moody's is a heavyweight in finance and the London location is ideal. However, this posting raises red flags: it's posted via hackajob (a job board), the title says Specialist II which implies seniority, and there's no explicit mention that this is an internship or summer role. The description is also boilerplate corporate messaging, offering no detail on actual responsibilities, level, or duration. Before investing time, contact the hackajob coordinator or Moody's careers directly to confirm this is open to undergraduates and is indeed an internship, not a permanent hire or graduate-only role.",
-    "found_on": "2026-08-08 22:31 UTC"
   }
 ]
