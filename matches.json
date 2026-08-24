@@ -1,5 +1,52 @@
 [
   {
+    "id": "44cdec395326b8dd",
+    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=AGMgDnef8RGSb8VpDRDiVA&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Strong technical fit in trading systems; location flexibility (London/Dublin) works; eligibility clear; 10-week summer timing ideal.",
+    "deadline": null,
+    "pros": [
+      "Python skills directly applicable to systems engineering role",
+      "Trading Systems Engineering aligns with sales & trading interest",
+      "Reputable firm; paid internship with structured 10-week program"
+    ],
+    "cons": [
+      "Computationally intensive role may prioritize CS/engineering background over economics",
+      "Dublin split could complicate logistics vs. London-only preference"
+    ],
+    "analysis": "This is a plausible fit if you have strong enough Python/technical depth. Susquehanna is a tier-1 trading firm and the role sits at the intersection of trading and technology that matches your interests. However, the job description emphasizes computational intensity and systems engineering, which may favour candidates with a stronger computer science background than your BSc Economics provides. The Dublin-London split is workable but not ideal given your strong London preference. Check the technical requirements carefully before applying and be prepared to demonstrate serious coding capability beyond basics.",
+    "found_on": "2026-08-24 04:48 UTC"
+  },
+  {
+    "id": "9c6bea329ab075e3",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=AGMgDnef8RGSb8VpDRDiVA&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 81,
+    "reason": "Excellent fit: quant strategy + trading interest, Python + financial modelling valued, London/Dublin location acceptable, paid summer internship.",
+    "deadline": null,
+    "pros": [
+      "Quantitative strategy development aligns with economics + quant interests",
+      "Python and financial modelling skills directly valued",
+      "Paid 10-week summer program at top-tier trading firm"
+    ],
+    "cons": [
+      "Dublin/London split slightly deviates from strong London preference"
+    ],
+    "analysis": "This is a strong match for your profile. The quantitative strategy role bridges economics, modelling, and technology in a way that leverages your existing skills (Python, financial modelling, economics background) and prior internship experience. Susquehanna is an excellent firm for this stage of your career, and the 10-week summer timing works around term dates. The Dublin-London dual-office structure is a minor friction point given your location preference, but Dublin is still within your stated openness to other European hubs. This deserves a strong application.",
+    "found_on": "2026-08-24 04:48 UTC"
+  },
+  {
     "id": "6fd6b2c660fd1a87",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7319,55 +7366,5 @@
     ],
     "analysis": "Moody's is a heavyweight in finance and the London location is ideal. However, this posting raises red flags: it's posted via hackajob (a job board), the title says Specialist II which implies seniority, and there's no explicit mention that this is an internship or summer role. The description is also boilerplate corporate messaging, offering no detail on actual responsibilities, level, or duration. Before investing time, contact the hackajob coordinator or Moody's careers directly to confirm this is open to undergraduates and is indeed an internship, not a permanent hire or graduate-only role.",
     "found_on": "2026-08-08 22:31 UTC"
-  },
-  {
-    "id": "1a1670a1b8d7f6a4",
-    "title": "Data Operations Specialist II",
-    "company": "Moody's Corporation",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5830190990?se=UCRjx3CT8RGS6r_2sYaoYg&utm_medium=api&utm_source=88a1c016&v=7209013FB055F5D177B97128C00B997BFBE22A00",
-    "snippet": "hackajob is collaborating with Moody's Corporation to connect them with exceptional professionals for this role. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody’s is transforming how the world sees risk. As a global leader in …",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 62,
-    "reason": "Finance sector employer in London with relevant ops/data exposure, but role seniority and internship status unclear.",
-    "deadline": null,
-    "pros": [
-      "Moody's is a leading financial services firm",
-      "London location matches your preference",
-      "Data/operations skills relevant to finance tech"
-    ],
-    "cons": [
-      "Title says 'Specialist II' – suggests mid-level, not internship entry",
-      "Posted via hackajob job board; internship status ambiguous",
-      "Description is vague boilerplate; no salary, duration, or internship confirmation"
-    ],
-    "analysis": "Moody's is a genuine, respected player in risk and ratings—very much in your sector. However, the 'Specialist II' title signals this is likely a mid-level hire rather than an internship role, and the posting is too vague to confirm. The fact it's on hackajob (a jobs platform) rather than Moody's careers page, combined with generic corporate language and no mention of internship duration or salary, is a red flag. Before applying, you'd need to verify whether this is actually an internship programme or a permanent role misclassified. If it is an internship, it could be a plausible fit given Moody's finance credentials and London location.",
-    "found_on": "2026-08-08 21:33 UTC"
-  },
-  {
-    "id": "0928fe39e733c2bc",
-    "title": "Data Operations Specialist II",
-    "company": "Moody's Corporation",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5830190990?se=ZMA_SGiT8RGyVa_9J1BBNQ&utm_medium=api&utm_source=88a1c016&v=7209013FB055F5D177B97128C00B997BFBE22A00",
-    "snippet": "hackajob is collaborating with Moody's Corporation to connect them with exceptional professionals for this role. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody’s is transforming how the world sees risk. As a global leader in …",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 62,
-    "reason": "Finance-adjacent role at reputable firm in London, but posting is vague on level, contract type, and internship status.",
-    "deadline": null,
-    "pros": [
-      "Moody's is a major financial data/analytics firm",
-      "London location matches your preference",
-      "Credit ratings exposure relevant to structured finance background"
-    ],
-    "cons": [
-      "Title suggests data operations, not core finance internship",
-      "No clarity on whether this is internship vs. full-time vs. contract",
-      "Vague job description; posting via hackajob suggests possible generic match"
-    ],
-    "analysis": "Moody's is a serious financial institution and London is ideal, but the Data Operations Specialist II role is ambiguous. The title and sketchy description suggest this may be a full-time or mid-level hire, not an internship. Before applying, clarify directly whether this is internship-eligible and whether the role involves substantive financial analysis or is pure data administration. If it's clerical data ops, it won't build your banking/AM/trading credentials.",
-    "found_on": "2026-08-08 20:32 UTC"
   }
 ]
