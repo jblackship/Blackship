@@ -1,5 +1,55 @@
 [
   {
+    "id": "787dca9903efa67d",
+    "title": "Business Development Intern",
+    "company": "Falconedge",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5854373115?se=YG0WNMOf8RG-hMfJjn-2hA&utm_medium=api&utm_source=88a1c016&v=95EB2C585D4110DBC491E5119677DA2649080A1E",
+    "snippet": "Business Development Intern Hedge Funds & Digital Assets Falconedge Location: London – On-site Type: Full-time Internship Industry: Financial Services | Hedge Funds | Digital Assets About Falconedge Falconedge is a growing financial services firm working across hedge funds, digital assets, institutional investing and capital markets. We work with hedge fund managers, institutional investors, family offices and private investors, helping them access institutional-grade solutions across digital a…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 62,
+    "reason": "Asset management fit in London, but vague posting and unclear pay/structure raise concerns",
+    "deadline": null,
+    "pros": [
+      "Asset management role matches your sector preference",
+      "London location is your top choice",
+      "Hedge funds and digital assets align with finance interests"
+    ],
+    "cons": [
+      "Posting is heavily truncated; full details missing",
+      "Business Development track record unclear for economics/finance analyst",
+      "No explicit mention of internship pay or structure"
+    ],
+    "analysis": "Falconedge looks like a genuine hedge fund firm, and the asset management exposure suits your background. However, the posting is suspiciously incomplete—it cuts off mid-sentence in the description. Before applying, verify this is a real internship role with clear compensation and that Business Development aligns with your finance career goals, as it can sometimes skew toward sales rather than analytical work you've done before.",
+    "found_on": "2026-08-24 13:53 UTC"
+  },
+  {
+    "id": "9bd5811b1b275029",
+    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
+    "company": "Susquehanna International Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=YG0WNMOf8RG-hMfJjn-2hA&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
+    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 55,
+    "reason": "Susquehanna prestige and S&T alignment tempered by quant rigour likely beyond current technical depth",
+    "deadline": null,
+    "pros": [
+      "Sales & trading sector perfectly matches your interests",
+      "Susquehanna is top-tier firm with strong graduate pipeline",
+      "10-week summer internship; London/Dublin locations ideal"
+    ],
+    "cons": [
+      "Quantitative strategy development requires strong mathematical maturity",
+      "Role is computationally intensive; your Python flagged as basic",
+      "Economics degree alone unlikely sufficient without advanced quant coursework shown"
+    ],
+    "analysis": "This role is more aligned with your interest in trading/strategy than the systems engineering posting, but it still demands quant chops beyond what your profile signals. Quantitative strategy means building statistical models, derivatives pricing, or algorithmic logic—not financial modelling in Excel. If you've excelled in econometrics, statistics, or mathematical economics, make that explicit in your application. Otherwise, this is a reach unless you can credibly demonstrate advanced technical depth.",
+    "found_on": "2026-08-24 13:53 UTC"
+  },
+  {
     "id": "f55f7f83b0822ece",
     "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
     "company": "Susquehanna International Group",
@@ -7313,53 +7363,5 @@
     ],
     "analysis": "JPMorgan's Infrastructure Finance & Advisory group is squarely in your wheelhouse: investment banking plus structured finance exposure across project finance and derivatives. The London team, focus on EMEA, and technical skill demands (financial modelling, structured products) align well with your profile and experience. However, the 'first-year Analyst' framing typically implies either a graduate or post-internship hire; you should confirm whether JPM runs a summer internship version of this role or if this is geared toward 2025 graduates. If it's an internship pathway, this is a strong apply.",
     "found_on": "2026-08-14 18:59 UTC"
-  },
-  {
-    "id": "bf58d91e91474d42",
-    "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5841926149?se=QP8RYAmY8RGqM9tlrK2FfQ&utm_medium=api&utm_source=88a1c016&v=7BF364E3F1F28985005456F248A888CABB011FE1",
-    "snippet": "Description The Infrastructure Finance & Advisory group advises clients on financing infrastructure projects and works with coverage, product, and sales teams to develop and execute financing solutions across transportation, energy, utilities, and social infrastructure. The London-based team focuses primarily on Europe, the Middle East, and Africa and includes professionals with expertise in project finance, bonds, loans, structured products, and derivatives. As a first-year Analyst in the Inve…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Strong field and location fit, but Analyst role suggests post-graduate hiring; eligibility unclear without explicit internship confirmation.",
-    "deadline": null,
-    "pros": [
-      "Infrastructure finance aligns with structured finance interest",
-      "London-based, ideal location preference",
-      "Project finance and structured products directly relevant"
-    ],
-    "cons": [
-      "Posted as 'Analyst' not 'Intern' – likely entry-level full-time, not summer internship",
-      "Graduation June 2028 suggests you're still 2nd year; timing may not match typical analyst intake"
-    ],
-    "analysis": "This is a strong sector and location match, and JPMorgan Chase is a world-class firm. However, the title 'first-year Analyst' is a red flag. JPM's analyst programme typically targets graduates, not undergraduates on summer break. Before applying, clarify with the recruiter whether this posting accepts undergrad interns or if you should wait for their dedicated summer internship scheme. If it's truly open to rising 3rd-years, your structured finance experience makes you competitive.",
-    "found_on": "2026-08-14 17:55 UTC"
-  },
-  {
-    "id": "db7fe786e60b2176",
-    "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5841926149?se=ci24DAGY8RGJftUyzQ0_4w&utm_medium=api&utm_source=88a1c016&v=7BF364E3F1F28985005456F248A888CABB011FE1",
-    "snippet": "Description The Infrastructure Finance & Advisory group advises clients on financing infrastructure projects and works with coverage, product, and sales teams to develop and execute financing solutions across transportation, energy, utilities, and social infrastructure. The London-based team focuses primarily on Europe, the Middle East, and Africa and includes professionals with expertise in project finance, bonds, loans, structured products, and derivatives. As a first-year Analyst in the Inve…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Strong fit: investment banking role in London, right seniority level, candidate eligible, relevant to stated interests.",
-    "deadline": null,
-    "pros": [
-      "Investment banking in stated target sector",
-      "London-based, your strong preference",
-      "Infrastructure & structured finance aligns with your background"
-    ],
-    "cons": [
-      "Analyst role may be post-grad; confirm internship/summer programme eligibility",
-      "EMEA focus requires clarification on UK summer availability"
-    ],
-    "analysis": "This is a genuine JPMorgan Chase posting in your core sector and preferred location. However, the title 'Analyst' typically signals a full-time graduate hire rather than a summer internship. Before applying, verify that JPMorgan has a summer analyst or internship stream for this team—they often do, but you need to confirm the programme type and whether it runs during your summer break (not term time). The structured finance and project finance focus is a strong match for your previous internship experience.",
-    "found_on": "2026-08-14 16:56 UTC"
   }
 ]
