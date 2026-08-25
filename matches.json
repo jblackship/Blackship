@@ -1,5 +1,55 @@
 [
   {
+    "id": "6a692138f1e279f1",
+    "title": "Data Operations Specialist II",
+    "company": "Moody's Corporation",
+    "location": "Charing Cross, Central London",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5855112465?se=btZhYXig8RG9fPhhRXCYyA&utm_medium=api&utm_source=88a1c016&v=854512E2929E806149DF2E73701BB817953B2E32",
+    "snippet": "hackajob is partnering directly with Moody's Corporation to hire for this role. At Moody's, we unite the brightest minds to turn today's risks into tomorrow's opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are-with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody's is transforming how the world sees risk. As a global leader in ratings and integrated risk asses…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Finance sector role in London with strong employer, but seniority and ops focus create uncertainty.",
+    "deadline": null,
+    "pros": [
+      "Moody's is tier-one financial services employer",
+      "Central London location matches preference",
+      "Risk assessment aligns with structured finance background"
+    ],
+    "cons": [
+      "Title suggests operations specialist, not typical internship track",
+      "Data operations focus less aligned than IB/AM/S&T",
+      "Description truncated—unclear if internship or entry grad role"
+    ],
+    "analysis": "This is a real Moody's role via Hackajob recruitment, which is legitimate. However, the seniority signal is mixed: 'Specialist II' typically indicates mid-level hire, not intern, though it could be a trainee programme. Your structured finance background and Python skills fit data operations work, but this isn't your stated priority sector (IB/consulting/AM). The posting is too vague to confirm internship status, duration, or pay. Before applying, clarify with Hackajob whether this is a summer internship or graduate role, and confirm it's paid.",
+    "found_on": "2026-08-25 11:30 UTC"
+  },
+  {
+    "id": "60d7586cbe6dc3f8",
+    "title": "Business Development Intern",
+    "company": "Falconedge",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5854373115?se=btZhYXig8RG9fPhhRXCYyA&utm_medium=api&utm_source=88a1c016&v=95EB2C585D4110DBC491E5119677DA2649080A1E",
+    "snippet": "Business Development Intern Hedge Funds & Digital Assets Falconedge Location: London – On-site Type: Full-time Internship Industry: Financial Services | Hedge Funds | Digital Assets About Falconedge Falconedge is a growing financial services firm working across hedge funds, digital assets, institutional investing and capital markets. We work with hedge fund managers, institutional investors, family offices and private investors, helping them access institutional-grade solutions across digital a…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 68,
+    "reason": "Internship in asset management at London firm, but digital assets and hedge fund focus are niche.",
+    "deadline": null,
+    "pros": [
+      "Explicitly labelled full-time internship—right role type",
+      "London on-site matches location preference",
+      "Asset management firm matches candidate interest"
+    ],
+    "cons": [
+      "Digital assets / crypto angle not mentioned in candidate goals",
+      "Business development less aligned than portfolio/trading roles",
+      "Description truncated—unclear pay, dates, or mentorship"
+    ],
+    "analysis": "Falconedge is a genuine (smaller) financial services firm offering a properly structured internship in London. Asset management aligns with your previous internship and interests. However, business development in hedge funds and digital assets is a narrower fit than core AM or S&T work—it's more client-facing and less likely to build the technical modelling skills you've flagged. The truncated description makes it hard to assess pay, summer availability, or whether it fits around term dates. Research Falconedge's reputation and confirm explicit summer dates and compensation before applying.",
+    "found_on": "2026-08-25 11:30 UTC"
+  },
+  {
     "id": "2ab667137d9294e8",
     "title": "Data Operations Specialist II",
     "company": "Moody's Corporation",
@@ -7337,54 +7387,5 @@
     ],
     "analysis": "This is a legitimate off-cycle internship at Macquarie, a Tier-1 global investment bank, which ticks your location and format boxes. Infrastructure Projects and Capital involves project finance, commercial analysis, and due diligence—areas that overlap with structured finance but lean more operational and technical than traditional investment banking or sales & trading. Your structured finance internship background is relevant here. The role is paid and aligns with your interest in infrastructure and structured products. It's a solid fit if you're willing to explore the infrastructure side of finance; if you're set on pure IB or trading, this is slightly tangential but still worth considering.",
     "found_on": "2026-08-16 06:43 UTC"
-  },
-  {
-    "id": "b44052cd99fd66c5",
-    "title": "Off-Cycle Internship, Infrastructure Projects and Capital - Macquarie Group",
-    "company": "Macquarie Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5843066781?se=sMb3vD2Z8RGXlua0wi23rg&utm_medium=api&utm_source=88a1c016&v=9163E0842DACCE531BF6257F54443C5236203EBF",
-    "snippet": "As an Off-Cycle Intern in our Infrastructure Projects and Capital team, you will gain hands-on experience supporting investment opportunities across a diverse range of infrastructure sectors while learning from experienced professionals in a collaborative and entrepreneurial environment. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates value. You will bring yo…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 76,
-    "reason": "Off-cycle internship at Macquarie in infrastructure; nearly identical to b0e8d8129dc1d460, strong on format and bank but infrastructure is specialized.",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship—explicitly fits your availability around term",
-      "London-based at top-tier investment banking group",
-      "Infrastructure capital and projects closely tied to structured finance"
-    ],
-    "cons": [
-      "Infrastructure projects focus—narrower than pure IB, asset management, or trading",
-      "Emphasis on project development and technical skills over markets/trading"
-    ],
-    "analysis": "This is effectively a duplicate of the previous Macquarie posting (b0e8d8129dc1d460) and ranks similarly. It's a paid off-cycle internship at a world-class investment bank in London, which hits your location, format, and visa eligibility criteria. The Infrastructure Projects and Capital team works on live investment opportunities across multiple sectors, which provides real deal exposure and analytical depth. Your structured finance background and financial modeling skills are directly applicable. The main caveat remains that infrastructure is more specialist than core investment banking, sales & trading, or traditional asset management—but it's a strong internship at a top firm, so it warrants serious consideration if your schedule permits.",
-    "found_on": "2026-08-16 06:43 UTC"
-  },
-  {
-    "id": "5d51c1dc09ad7015",
-    "title": "Investment Banking - Infrastructure Advisory – Analyst – London",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5841926149?se=gpSonjOZ8RGXlua0wi23rg&utm_medium=api&utm_source=88a1c016&v=7BF364E3F1F28985005456F248A888CABB011FE1",
-    "snippet": "Description The Infrastructure Finance & Advisory group advises clients on financing infrastructure projects and works with coverage, product, and sales teams to develop and execute financing solutions across transportation, energy, utilities, and social infrastructure. The London-based team focuses primarily on Europe, the Middle East, and Africa and includes professionals with expertise in project finance, bonds, loans, structured products, and derivatives. As a first-year Analyst in the Inve…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 78,
-    "reason": "JPMorgan infrastructure advisory analyst role in London; strong fit but appears to be permanent role not internship.",
-    "deadline": null,
-    "pros": [
-      "Tier-1 investment banking firm, exact sector fit",
-      "Infrastructure finance & advisory expertise valuable",
-      "London location, strong EMEA focus"
-    ],
-    "cons": [
-      "Described as 'first-year Analyst', not internship/graduate program",
-      "Title and level suggest permanent hire or graduate scheme entry",
-      "Eligibility unclear: may require relevant prior experience"
-    ],
-    "analysis": "This JPMorgan infrastructure advisory role ticks many boxes: top-tier investment bank, London-based, structured finance and project finance expertise directly match your background and interests. However, the 'first-year Analyst' language suggests this is a permanent graduate hire or analyst role, not a summer internship. If you're eligible as a 2nd year student, clarify with them whether they accept current undergraduates or require graduation. Worth investigating if they run internship programs, but this posting may be targeting post-graduates.",
-    "found_on": "2026-08-16 05:30 UTC"
   }
 ]
