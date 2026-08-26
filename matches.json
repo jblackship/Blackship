@@ -1,5 +1,80 @@
 [
   {
+    "id": "55d92a88af36491e",
+    "title": "Data Operations Specialist II",
+    "company": "Moody's Corporation",
+    "location": "Charing Cross, Central London",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5856593765?se=9D8jIlah8RGZzYEQhDc4LA&utm_medium=api&utm_source=88a1c016&v=3E03D28BE0987418C681B3444494B154CE1ED1F5",
+    "snippet": "hackajob is partnering directly with Moody's Corporation to hire for this role. At Moody's, we unite the brightest minds to turn today's risks into tomorrow's opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are-with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody's is transforming how the world sees risk. As a global leader in ratings and integrated risk asses…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 62,
+    "reason": "Finance sector and London location fit, but Data Operations role is tangential to target areas and seniority level unclear.",
+    "deadline": null,
+    "pros": [
+      "Moody's is prestigious financial services firm",
+      "London-based, meets location preference",
+      "Risk assessment exposure relevant to finance"
+    ],
+    "cons": [
+      "Data Operations is not banking, S&T, or asset management",
+      "Role title suggests back-office rather than front-office",
+      "Job description truncated; unclear if true internship vs. entry-level"
+    ],
+    "analysis": "This is a real role at a top-tier firm, which is a plus. However, Data Operations Specialist II doesn't align with your stated targets of investment banking, asset management, or S&T. The 'Specialist II' designation also hints at a more experienced hire than a summer intern, and the truncated description makes it hard to assess whether this is genuinely an internship programme or a junior permanent role. Only pursue if the full posting confirms it's an internship and you're genuinely interested in risk data infrastructure.",
+    "found_on": "2026-08-26 13:57 UTC"
+  },
+  {
+    "id": "0d615c65259915c8",
+    "title": "Risk Data Analyst Intern - Lorien Impellam",
+    "company": "Lorien Impellam",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5855696664?se=9D8jIlah8RGZzYEQhDc4LA&utm_medium=api&utm_source=88a1c016&v=4C291E571694B10561DDCDF24A63092F6B89B3E7",
+    "snippet": "Risk Data Analyst Intern Investment Banking | London | 6 Month Contract | We're working with a leading global Investment Bank seeking a Risk Data Analyst Intern to join a high-performing Risk Technology team in London. This is an excellent opportunity for to gain hands-on experience within a front-office risk environment, working closely with Risk Analysts, Product Owners and Engineering teams. You will support the development and enhancement of risk data integration solutions, helping to inges…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Investment banking, risk technology, London internship with strong fit to your background, but 6-month duration may conflict with term dates.",
+    "deadline": null,
+    "pros": [
+      "Investment banking front-office risk aligns with your targets",
+      "6-month paid internship through recruiter guarantee",
+      "Hands-on technical experience with risk systems and analytics"
+    ],
+    "cons": [
+      "6-month contract may clash with university term dates",
+      "Posted via recruiter (Lorien Impellam); verify actual bank identity",
+      "Risk Data Analyst is support function, not core banking track"
+    ],
+    "analysis": "This is a solid opportunity at a global investment bank with exposure to risk technology and front-office operations—directly relevant to your finance sector ambitions. The 6-month duration and hands-on technical work in risk data integration are genuine strengths that leverage your Python and modelling skills. The critical question is timing: confirm with the recruiter that the contract can be structured around your summer break and doesn't extend into term. Also push Lorien Impellam to name the hiring bank so you can research it properly. This could easily be a 75+ if the dates align.",
+    "found_on": "2026-08-26 13:57 UTC"
+  },
+  {
+    "id": "5a1db1caef0047e9",
+    "title": "Business Development Intern",
+    "company": "Falconedge (or Falcon Investment Management)",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5854373115?se=9D8jIlah8RGZzYEQhDc4LA&utm_medium=api&utm_source=88a1c016&v=95EB2C585D4110DBC491E5119677DA2649080A1E",
+    "snippet": "Business Development Intern Hedge Funds & Digital Assets Falconedge Location: London – On-site Type: Full-time Internship Industry: Financial Services | Hedge Funds | Digital Assets About Falconedge Falconedge is a growing financial services firm working across hedge funds, digital assets, institutional investing and capital markets. We work with hedge fund managers, institutional investors, family offices and private investors, helping them access institutional-grade solutions across digital a…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 55,
+    "reason": "Finance sector and London fit, but hedge fund/digital assets is niche; full-time structure and vague role scope raise concerns.",
+    "deadline": null,
+    "pros": [
+      "Asset management exposure in hedge funds",
+      "London-based, on-site and full-time paid internship",
+      "Institutional investing and capital markets exposure"
+    ],
+    "cons": [
+      "Digital assets focus is speculative; not aligned with your core targets",
+      "Business Development is sales-adjacent; risk of commission-based comp",
+      "Vague description; role scope and structure unclear"
+    ],
+    "analysis": "Falconedge operates in hedge funds and digital assets, which touches your asset management interest, but the positioning around digital assets and the Business Development title are red flags. BD roles often blur into sales, and you explicitly excluded commission-based roles—you need to clarify compensation and whether this is truly a salaried internship or has variable/commission components. The description is also quite vague about day-to-day work. If you're genuinely interested in hedge fund operations or investor relations (non-sales), ask directly about the role structure before applying. Otherwise, your target list (IB, S&T, structured finance) is better served elsewhere.",
+    "found_on": "2026-08-26 13:57 UTC"
+  },
+  {
     "id": "5eba73c08e80bdca",
     "title": "Risk Data Analyst Intern - Lorien Impellam",
     "company": "Lorien Impellam",
@@ -7358,80 +7433,5 @@
     ],
     "analysis": "Macquarie is a serious global financial institution and this off-cycle internship structure suits your availability well. However, the technical and commercial infrastructure focus is a step away from your stated preferences in investment banking, asset management, and trading. Your financial modelling and economics background could be relevant to the commercial analysis side, but the infrastructure specialisation and likely infrastructure-engineering hiring preference may work against you. Worth applying if you have genuine infrastructure interest, otherwise check the other Macquarie posting first.",
     "found_on": "2026-08-17 07:00 UTC"
-  },
-  {
-    "id": "a0823f1cf6d67803",
-    "title": "Off-Cycle Internship, Infrastructure Projects and Capital - Macquarie Group",
-    "company": "Macquarie Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5843066781?se=quOCWAma8RGOUIcJ4rUxCA&utm_medium=api&utm_source=88a1c016&v=9163E0842DACCE531BF6257F54443C5236203EBF",
-    "snippet": "As an Off-Cycle Intern in our Infrastructure Projects and Capital team, you will gain hands-on experience supporting investment opportunities across a diverse range of infrastructure sectors while learning from experienced professionals in a collaborative and entrepreneurial environment. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates value. You will bring yo…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 75,
-    "reason": "Off-cycle finance internship at Macquarie in London; infrastructure-focused but strong firm and structure",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship, fits term schedule",
-      "Macquarie Capital tier-one finance firm",
-      "London-based, collaborative environment highlighted"
-    ],
-    "cons": [
-      "Infrastructure sector, not core banking/trading/management",
-      "Project development focus differs from modelling-heavy IB roles",
-      "Vague on technical/financial modelling intensity"
-    ],
-    "analysis": "This is a near-identical opportunity to the previous Macquarie posting, with slightly broader framing around investment opportunities and commercial analysis rather than technical infrastructure specifics. Again, Macquarie's pedigree and the off-cycle internship structure work in your favour, and your structured finance background is relevant to capital-focused project work. The main caveat remains that infrastructure is not your core target (IB, asset management, sales & trading), but it's credible finance exposure. Check Macquarie's graduate recruitment page to understand their internship conversion rates and whether infrastructure teams feed into your target divisions.",
-    "found_on": "2026-08-17 07:00 UTC"
-  },
-  {
-    "id": "d68608ae706c7dff",
-    "title": "Off-Cycle Internship, Technical & Commercial Infrastructure - Macquarie Group",
-    "company": "Macquarie Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5843066791?se=nM6Mpf2Z8RG9TcAFdyg_YQ&utm_medium=api&utm_source=88a1c016&v=D8618FED356A39DE4F90C203A16264E39D350275",
-    "snippet": "Turn complex infrastructure ideas into real-world projects as an Off-Cycle Intern in Macquarie Capital's Infrastructure Projects and Capital team. Working alongside experienced colleagues on live opportunities, gain hands-on experience across project development, commercial analysis and technical due diligence. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates …",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Off-cycle internship at top-tier global bank, London; infrastructure finance fits strategy, but vague posting",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship explicitly mentioned; fits around term dates",
-      "Macquarie is tier-1 investment bank with strong infrastructure finance credentials",
-      "London location; hands-on commercial analysis and due diligence exposure"
-    ],
-    "cons": [
-      "Infrastructure focus (not traditional IB/S&T); narrower than ideal",
-      "Very brief description; lacks detail on internship structure, pay, eligibility requirements",
-      "No confirmation of paid internship or visa sponsorship policy"
-    ],
-    "analysis": "Macquarie is a serious, profitable global investment bank and this is a genuine off-cycle internship in London—your preferred location. Infrastructure projects and capital work involves real commercial and analytical skills you'd use. However, the posting is quite vague and infrastructure is a more specialised finance path than traditional investment banking or asset management. Before applying, check Macquarie's internship page directly for pay grade, exact dates, and visa/sponsorship support. The lack of detail is a minor red flag; don't rely solely on this description.",
-    "found_on": "2026-08-17 05:36 UTC"
-  },
-  {
-    "id": "5d91710474817b92",
-    "title": "Off-Cycle Internship, Infrastructure Projects and Capital - Macquarie Group",
-    "company": "Macquarie Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5843066781?se=nM6Mpf2Z8RG9TcAFdyg_YQ&utm_medium=api&utm_source=88a1c016&v=9163E0842DACCE531BF6257F54443C5236203EBF",
-    "snippet": "As an Off-Cycle Intern in our Infrastructure Projects and Capital team, you will gain hands-on experience supporting investment opportunities across a diverse range of infrastructure sectors while learning from experienced professionals in a collaborative and entrepreneurial environment. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates value. You will bring yo…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 73,
-    "reason": "Off-cycle internship at top-tier global bank, London; infrastructure finance fits strategy, but minimal detail",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship; explicitly designed to fit around academic calendar",
-      "Macquarie Group; 57-year track record, global tier-1 investment bank",
-      "London location; collaborative, entrepreneurial environment with live deal exposure"
-    ],
-    "cons": [
-      "Infrastructure-focused, not traditional IB, S&T, or asset management",
-      "Extremely sparse posting; no specifics on duration, pay, visa support, or exact responsibilities",
-      "Repetitive with posting d68608ae706c7dff; unclear if separate or duplicate"
-    ],
-    "analysis": "This is nearly identical to the previous Macquarie posting and represents a legitimate off-cycle internship at a top-tier firm in your target location. Macquarie's infrastructure business is selective and intellectually demanding, but it's not the mainstream investment banking, trading, or asset management path you listed as primary interests. The description is extremely thin—you'll need to dig into Macquarie's careers portal to confirm internship structure, remuneration (critical given your no-unpaid-roles rule), and whether they sponsor or accommodate EU citizen visa holders. Apply only if you're genuinely interested in infrastructure finance and can verify pay and eligibility.",
-    "found_on": "2026-08-17 05:36 UTC"
   }
 ]
