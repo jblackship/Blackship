@@ -1,5 +1,102 @@
 [
   {
+    "id": "1c8970f60ddabef1",
+    "title": "Risk & Performance Analyst",
+    "company": "Man Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5858107904?utm_medium=api&utm_source=88a1c016",
+    "snippet": "About Man Group Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group takes a partnership approach to working with clients, …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Asset management firm, London, but seniority and internship status unclear from vague posting.",
+    "deadline": null,
+    "pros": [
+      "Tier-1 alternative asset manager, strong fit sector",
+      "London location",
+      "Risk/performance analytics aligns with your quant skills"
+    ],
+    "cons": [
+      "Posting is vague—no internship badge or contract length",
+      "Unclear if entry-level or graduate role",
+      "No salary/deadline information provided"
+    ],
+    "analysis": "Man Group is a genuinely prestigious alternative asset manager and this analyst role is in your wheelhouse. However, the posting is frustratingly light on detail—it doesn't explicitly say 'internship' or state contract length, salary, or start date. Before applying, confirm this is actually an internship programme suitable for a 2nd-year student, not a graduate analyst role. If it is, this is a solid opportunity.",
+    "found_on": "2026-08-27 16:13 UTC"
+  },
+  {
+    "id": "07b2c494be1d2d0d",
+    "title": "2027 UK Investment Management Summer Internship",
+    "company": "Barings",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5856983119?utm_medium=api&utm_source=88a1c016",
+    "snippet": "At Barings, we are as invested in our associates as we are in our clients. We recognize those who work diligently for us and reward them for personal and professional integrity, communication skills, distinct competencies and expertise in specific strategies, ability to collaborate as a team member and true dedication to the interests of our clients. We thank you for your interest in joining the Barings team, and invite you to explore our current employment opportunities. Barings is seeking can…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 85,
+    "reason": "Barings summer internship in investment management; London; strong fit across location, seniority, sector.",
+    "deadline": null,
+    "pros": [
+      "Explicit 2027 summer internship for your cohort",
+      "Investment management aligns directly with your background",
+      "Tier-1 asset manager; London"
+    ],
+    "cons": [
+      "Description truncated in posting"
+    ],
+    "analysis": "This is a strong match on paper: Barings is a globally recognised asset manager, the posting explicitly targets 2027 summer interns (your cohort), it's in London, and matches your investment management experience. The description cuts off so you'll need to read the full posting, but the fundamentals are there. Apply if the full role details align with your interests.",
+    "found_on": "2026-08-27 16:13 UTC"
+  },
+  {
+    "id": "127d090f1544d146",
+    "title": "Risk Data Analyst Intern - Lorien Impellam",
+    "company": "Lorien Impellam",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5855696664?se=HHytPTKi8RGp-uxyYiufiw&utm_medium=api&utm_source=88a1c016&v=4C291E571694B10561DDCDF24A63092F6B89B3E7",
+    "snippet": "Risk Data Analyst Intern Investment Banking | London | 6 Month Contract | We're working with a leading global Investment Bank seeking a Risk Data Analyst Intern to join a high-performing Risk Technology team in London. This is an excellent opportunity for to gain hands-on experience within a front-office risk environment, working closely with Risk Analysts, Product Owners and Engineering teams. You will support the development and enhancement of risk data integration solutions, helping to inges…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 68,
+    "reason": "Investment banking risk internship, London, but 6-month contract and recruitment agency posting create ambiguity.",
+    "deadline": null,
+    "pros": [
+      "Investment banking sector experience",
+      "Risk technology/data focus complements your Python skills",
+      "London-based, paid internship"
+    ],
+    "cons": [
+      "6-month contract may not fit UK student term dates",
+      "Posted via Lorien Impellam (recruitment agency), not direct employer",
+      "Real hiring bank not named; contract details vague"
+    ],
+    "analysis": "This is a risk analytics internship at an investment bank (likely a major one, but the agency posting obscures the name). The role itself is relevant and it's paid and London-based, which ticks boxes. However, the 6-month duration is a red flag: as a UK student, you need summer availability that doesn't overlap term time, and you'll need to clarify exact dates with the recruiter. Also, because it's agency-posted, confirm the true employer and terms before committing time to application.",
+    "found_on": "2026-08-27 16:13 UTC"
+  },
+  {
+    "id": "115305147a074fcd",
+    "title": "2026 Blackstone Credit and Insurance, Quant and Portfolio Analytics Off Cycle Intern (London)",
+    "company": "Blackstone",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5856988748?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at www.blackstone.com . Follow @blacks…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Blackstone off-cycle internship, asset management, London; strong match except 2026 cohort label (likely typo).",
+    "deadline": null,
+    "pros": [
+      "Tier-1 alternative asset manager; off-cycle flexibility suits your term-time constraints",
+      "Credit and quant analytics directly relevant to your skill set",
+      "London location; paid internship"
+    ],
+    "cons": [
+      "Posted as '2026 Intern' but you graduate 2028—likely 2027 posting mislabelled",
+      "Description truncated; full details not visible"
+    ],
+    "analysis": "Blackstone is world-class and this off-cycle internship in Credit/Quant is genuinely appealing given your structured finance background and Python skills. The 'off-cycle' label is excellent for your needs since you can fit it around term dates. However, the posting is labelled '2026' which doesn't match your 2028 graduation—this is likely a copy-paste error or site date confusion. Follow up directly to confirm they have 2027 or 2028 cohort roles. If timing aligns, definitely pursue this.",
+    "found_on": "2026-08-27 16:13 UTC"
+  },
+  {
     "id": "0393ffa162e51f04",
     "title": "Risk Data Analyst Intern - Lorien Impellam",
     "company": "Leading global Investment Bank (unnamed)",
@@ -7331,105 +7428,5 @@
     ],
     "analysis": "This is the companion posting to the previous Macquarie off-cycle internship, likely covering the same Infrastructure Projects and Capital team but emphasizing the broader investment opportunity experience rather than the technical infrastructure angle. Both postings are strong fits given your structured finance internship background and preference for off-cycle opportunities around term dates. Apply to both if you're interested in infrastructure/project capital—Macquarie's scale and track record make this a genuine internship opportunity. Confirm visa sponsorship eligibility before submitting.",
     "found_on": "2026-08-17 14:30 UTC"
-  },
-  {
-    "id": "4515e824ed5474c1",
-    "title": "Off-Cycle Internship, Technical & Commercial Infrastructure - Macquarie Group",
-    "company": "Macquarie Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5843066791?se=MiGASUGa8RG7zt0Y6Ss4iw&utm_medium=api&utm_source=88a1c016&v=D8618FED356A39DE4F90C203A16264E39D350275",
-    "snippet": "Turn complex infrastructure ideas into real-world projects as an Off-Cycle Intern in Macquarie Capital's Infrastructure Projects and Capital team. Working alongside experienced colleagues on live opportunities, gain hands-on experience across project development, commercial analysis and technical due diligence. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates …",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 68,
-    "reason": "Off-cycle internship at tier-1 firm in London; infrastructure/capital focus fits structured finance interest; eligibility and pay clear.",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship explicitly matches candidate availability",
-      "Macquarie Capital—leading global financial services firm",
-      "Infrastructure projects/capital aligns with structured finance experience"
-    ],
-    "cons": [
-      "Infrastructure focus slightly different from pure investment banking/trading",
-      "Description vague on compensation and exact role scope",
-      "Posting truncated—full details unclear"
-    ],
-    "analysis": "This is a legitimate off-cycle internship at Macquarie Group, a top-tier financial services firm, in London. The infrastructure capital projects angle aligns well with your structured finance background and interest in complex deal work. Macquarie is reputable and will pay (Tier 1 firm). The off-cycle timing is ideal for fitting around your term dates. The main uncertainty is the exact scope and whether it's as directly relevant to IB/S&T as you'd prefer, but structured finance/infrastructure is a strong adjacent fit. This is worth applying to.",
-    "found_on": "2026-08-17 13:40 UTC"
-  },
-  {
-    "id": "aeabc0b580469df1",
-    "title": "Off-Cycle Internship, Infrastructure Projects and Capital - Macquarie Group",
-    "company": "Macquarie Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5843066781?se=MiGASUGa8RG7zt0Y6Ss4iw&utm_medium=api&utm_source=88a1c016&v=9163E0842DACCE531BF6257F54443C5236203EBF",
-    "snippet": "As an Off-Cycle Intern in our Infrastructure Projects and Capital team, you will gain hands-on experience supporting investment opportunities across a diverse range of infrastructure sectors while learning from experienced professionals in a collaborative and entrepreneurial environment. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates value. You will bring yo…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 70,
-    "reason": "Off-cycle internship at Macquarie; infrastructure/capital; London; tier-1 firm; well-aligned timing and sector.",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship—flexible timing around your studies",
-      "Macquarie Group—top-tier global financial services",
-      "Infrastructure projects/capital aligns with your structured finance background"
-    ],
-    "cons": [
-      "Infrastructure niche slightly removed from core IB/sales & trading",
-      "Posting lacks detail on hours, compensation, final placement odds",
-      "Truncated description—full role scope unclear"
-    ],
-    "analysis": "This is effectively the same or very similar role as posting 4515e824ed5474c1 (both Macquarie off-cycle internships in Infrastructure Projects and Capital in London). It is a legitimate, paid, off-cycle internship at a world-leading financial services firm where you can work around your academic calendar. Your structured finance internship experience is directly relevant. Infrastructure capital is slightly more niche than pure IB or S&T, but still falls comfortably within 'finance sector.' Compensation is not stated but Macquarie is top-tier and will offer a professional internship stipend. Strong candidate for you.",
-    "found_on": "2026-08-17 13:40 UTC"
-  },
-  {
-    "id": "ffa1cf08757e9617",
-    "title": "Off-Cycle Internship, Technical & Commercial Infrastructure - Macquarie Group",
-    "company": "Macquarie Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5843066791?se=5mJ6EDqa8RGDVaSpxtR2Jg&utm_medium=api&utm_source=88a1c016&v=D8618FED356A39DE4F90C203A16264E39D350275",
-    "snippet": "Turn complex infrastructure ideas into real-world projects as an Off-Cycle Intern in Macquarie Capital's Infrastructure Projects and Capital team. Working alongside experienced colleagues on live opportunities, gain hands-on experience across project development, commercial analysis and technical due diligence. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates …",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 62,
-    "reason": "Finance sector, London, off-cycle internship, but infrastructure focus and technical seniority unclear.",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship explicitly—fits around term dates",
-      "Macquarie is tier-1 investment bank; structured finance & capital projects relevant",
-      "London location matches strong preference"
-    ],
-    "cons": [
-      "Infrastructure projects niche; less core IB/S&T/AM than stated interests",
-      "Technical & Commercial Infrastructure role—heavy infrastructure/engineering focus may not align",
-      "Seniority/eligibility for 2nd year not explicitly stated in posting"
-    ],
-    "analysis": "This is a genuine off-cycle internship at Macquarie, a world-class financial institution, in London—both huge positives. Macquarie does structured finance and capital projects, which touches your interests. However, the Infrastructure Projects focus is somewhat peripheral to your stated core targets (IB, asset management, S&T). The role emphasizes technical and commercial infrastructure analysis rather than traditional trading or core investment banking. Before applying, confirm that a 2nd year student is eligible, and assess whether infrastructure project capital is genuinely interesting to you or if you'd prefer a more core finance rotation.",
-    "found_on": "2026-08-17 12:49 UTC"
-  },
-  {
-    "id": "b75275aff55c3608",
-    "title": "Off-Cycle Internship, Infrastructure Projects and Capital - Macquarie Group",
-    "company": "Macquarie Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5843066781?se=5mJ6EDqa8RGDVaSpxtR2Jg&utm_medium=api&utm_source=88a1c016&v=9163E0842DACCE531BF6257F54443C5236203EBF",
-    "snippet": "As an Off-Cycle Intern in our Infrastructure Projects and Capital team, you will gain hands-on experience supporting investment opportunities across a diverse range of infrastructure sectors while learning from experienced professionals in a collaborative and entrepreneurial environment. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates value. You will bring yo…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 68,
-    "reason": "Off-cycle internship at top finance firm, London location, but infrastructure-heavy specialization.",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship format—flexibility around term dates",
-      "Macquarie Capital: tier-1 firm with structured finance credentials",
-      "London location matches preference; hands-on experience mentioned"
-    ],
-    "cons": [
-      "Infrastructure sector focus, not core IB/S&T/AM",
-      "Project finance & capital—niche vs. traditional investment banking",
-      "2nd year eligibility not explicitly confirmed"
-    ],
-    "analysis": "This is the Infrastructure Projects and Capital off-cycle internship at Macquarie—very similar to the previous posting. It's a legitimate, paid internship at an elite firm in your preferred location, and the off-cycle structure suits your term-time constraints. Your structured finance internship experience is relevant here. The main caveat is that infrastructure projects and capital are a specialized segment of finance, not the core IB, S&T, or asset management you've emphasized. If you're genuinely interested in project finance, capital structures, and infrastructure investment, this is a strong fit. If you're more keen on equity/debt trading or M&A, clarify whether Macquarie's infrastructure focus appeals before investing application effort.",
-    "found_on": "2026-08-17 12:49 UTC"
   }
 ]
