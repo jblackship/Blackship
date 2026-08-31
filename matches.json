@@ -1,5 +1,30 @@
 [
   {
+    "id": "ce53b23df1f2a7dc",
+    "title": "Strategic Finance Internship",
+    "company": "Procter & Gamble",
+    "location": "Paris, Ile-de-France",
+    "url": "https://www.adzuna.fr/land/ad/5861936788?se=tNCvpRSl8RGmWLSJ9NNeiw&utm_medium=api&utm_source=88a1c016&v=6E3BA287F00B6457294ACA00ED6DB9B006745737",
+    "snippet": "PARIS GO-ASNIERES-SUR-SEINE AMIENS PLANT Full time R000153716 Job Location PARIS GO-ASNIERES-SUR-SEINE Job Description Are you a student seeking an internship that could kickstart your career? We are offering several 6-month internships starting in January 2027 across France (Headquarter & plant). At P&G, we are offering you to work on iconic brands like Ariel, Pampers, Gillette, Head & Shoulders, Oral-B or Bion3. Don't miss out on this incredible opportunity to shape your future with a global …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 68,
+    "reason": "Strategic Finance at P&G in Paris; good sector fit but 6-month duration, Jan 2027 start may conflict with term dates",
+    "deadline": null,
+    "pros": [
+      "Strategic Finance internship (aligned with finance goal)",
+      "Paris location (acceptable per preferences)",
+      "Global FMCG corporate finance exposure"
+    ],
+    "cons": [
+      "6-month duration starting Jan 2027 (during term?)",
+      "Unclear if summer-focused or academic-year internship",
+      "No mention of visa sponsorship or EU/UK eligibility"
+    ],
+    "analysis": "P&G's Strategic Finance internship in Paris is in the right sector and an acceptable location. However, the posting is ambiguous about whether the January 2027 start overlaps with your term dates—you mentioned interest in summer internships around term dates, and a 6-month commitment beginning mid-academic year is risky. Check the exact dates and confirm it doesn't clash with your coursework before applying. Also verify they'll hire a UK-based student visa holder.",
+    "found_on": "2026-08-31 08:19 UTC"
+  },
+  {
     "id": "2200dbb19e8a8ee9",
     "title": "Investment Banking 1st Year Analyst, London - Summer 2027",
     "company": "Harris Williams & Co",
@@ -7401,30 +7426,5 @@
     ],
     "analysis": "This is nearly identical to the prior Macquarie posting and equally strong. It explicitly frames as an off-cycle internship working on live infrastructure investment opportunities, which is closer to asset management and structured finance than pure infrastructure project management. Your existing structured finance internship is directly relevant. The same caveat applies: confirm Macquarie's visa sponsorship policy for UK student visa holders on off-cycle internships, then apply to both roles if eligible. Both are solid fits.",
     "found_on": "2026-08-17 18:42 UTC"
-  },
-  {
-    "id": "b143f452e91b1109",
-    "title": "Off-Cycle Internship, Technical & Commercial Infrastructure - Macquarie Group",
-    "company": "Macquarie Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5843066791?se=QNq_E2Ga8RGIKNJtpXTMyQ&utm_medium=api&utm_source=88a1c016&v=D8618FED356A39DE4F90C203A16264E39D350275",
-    "snippet": "Turn complex infrastructure ideas into real-world projects as an Off-Cycle Intern in Macquarie Capital's Infrastructure Projects and Capital team. Working alongside experienced colleagues on live opportunities, gain hands-on experience across project development, commercial analysis and technical due diligence. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates …",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 62,
-    "reason": "Off-cycle internship, finance-adjacent, London; but infrastructure not core banking/AM.",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship fits around term dates",
-      "Macquarie is tier-1 global financial services firm",
-      "London location matches preference"
-    ],
-    "cons": [
-      "Infrastructure projects not your stated priority (banking/AM/S&T preferred)",
-      "Commercial analysis role less quant-heavy than candidate's background suggests",
-      "Vague on pay/duration specifics in description"
-    ],
-    "analysis": "Macquarie is a legitimate and prestigious employer, and off-cycle internships are exactly what you're open to. London ticks the box, and you'll gain real finance experience. However, Infrastructure Projects and Capital sits outside your core stated interests—you're targeting investment banking, asset management, sales and trading, or strategy consulting, not project finance. It's still finance and worth applying to, but not a perfect alignment. Confirm the internship is paid and the dates work around your academic calendar before submitting.",
-    "found_on": "2026-08-17 17:28 UTC"
   }
 ]
