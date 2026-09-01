@@ -1,5 +1,30 @@
 [
   {
+    "id": "e3cc749f496e87af",
+    "title": "Strategic Finance Internship",
+    "company": "Procter & Gamble",
+    "location": "Paris, Ile-de-France",
+    "url": "https://www.adzuna.fr/land/ad/5861936788?se=VPB2GaGl8RGSd5IB5RSTXw&utm_medium=api&utm_source=88a1c016&v=6E3BA287F00B6457294ACA00ED6DB9B006745737",
+    "snippet": "PARIS GO-ASNIERES-SUR-SEINE AMIENS PLANT Full time R000153716 Job Location PARIS GO-ASNIERES-SUR-SEINE Job Description Are you a student seeking an internship that could kickstart your career? We are offering several 6-month internships starting in January 2027 across France (Headquarter & plant). At P&G, we are offering you to work on iconic brands like Ariel, Pampers, Gillette, Head & Shoulders, Oral-B or Bion3. Don't miss out on this incredible opportunity to shape your future with a global …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Relevant Strategic Finance internship at major multinational; strong fit on role and location, but 6-month duration and January 2027 start raises term-time conflict.",
+    "deadline": null,
+    "pros": [
+      "Strategic Finance internship directly matches your interests",
+      "Paris is in your approved location list",
+      "Prestigious global FMCG company with real learning value"
+    ],
+    "cons": [
+      "6-month duration (Jan–Jun 2027) likely overlaps term dates",
+      "January start before summer break may conflict with studies",
+      "Posted as 'full time' rather than explicitly internship structure"
+    ],
+    "analysis": "P&G's Strategic Finance internship is genuinely interesting and in your target sector. However, the January 2027 start and 6-month full-time duration are red flags: you're a 2nd-year student, so January overlaps with spring term, and a 6-month commitment may not fit around your academic schedule. Contact P&G directly to confirm whether they offer summer-only variants or can flex the dates around your term calendar. If you can negotiate timing, this is a strong opportunity; if not, it's a pass.",
+    "found_on": "2026-09-01 01:04 UTC"
+  },
+  {
     "id": "ce53b23df1f2a7dc",
     "title": "Strategic Finance Internship",
     "company": "Procter & Gamble",
@@ -7400,31 +7425,6 @@
       "Eligibility not confirmed in posting (verify visa sponsorship)"
     ],
     "analysis": "This is a legitimate off-cycle internship at a world-class firm in your preferred location and format. Macquarie Capital's infrastructure team does real deal work (commercial analysis, technical due diligence) that overlaps with structured finance and investment banking. The role fits your timeline if it sits outside term dates. The main caveat is that infrastructure is somewhat specialized versus your broader finance interests, and you should confirm Macquarie accepts UK student visa holders for off-cycle internships before applying. Worth pursuing.",
-    "found_on": "2026-08-17 18:42 UTC"
-  },
-  {
-    "id": "b86b21c24133cc51",
-    "title": "Off-Cycle Internship, Infrastructure Projects and Capital - Macquarie Group",
-    "company": "Macquarie Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5843066781?se=yChCZWua8RGB8rnM-OiTpQ&utm_medium=api&utm_source=88a1c016&v=9163E0842DACCE531BF6257F54443C5236203EBF",
-    "snippet": "As an Off-Cycle Intern in our Infrastructure Projects and Capital team, you will gain hands-on experience supporting investment opportunities across a diverse range of infrastructure sectors while learning from experienced professionals in a collaborative and entrepreneurial environment. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you're empowered to shape a career that is fulfilling and creates value. You will bring yo…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 73,
-    "reason": "Off-cycle internship, London, investment-focused; infrastructure sector slightly narrow",
-    "deadline": null,
-    "pros": [
-      "Off-cycle internship explicitly matches your preference",
-      "Macquarie Group; tier-1 global financial institution",
-      "London-based, hands-on investment opportunities"
-    ],
-    "cons": [
-      "Infrastructure focus is narrower than broad finance interests",
-      "Visa/sponsorship eligibility not stated; verify before applying",
-      "Vague on technical skills (Python, modelling) required"
-    ],
-    "analysis": "This is nearly identical to the prior Macquarie posting and equally strong. It explicitly frames as an off-cycle internship working on live infrastructure investment opportunities, which is closer to asset management and structured finance than pure infrastructure project management. Your existing structured finance internship is directly relevant. The same caveat applies: confirm Macquarie's visa sponsorship policy for UK student visa holders on off-cycle internships, then apply to both roles if eligible. Both are solid fits.",
     "found_on": "2026-08-17 18:42 UTC"
   }
 ]
