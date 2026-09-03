@@ -1,5 +1,651 @@
 [
   {
+    "id": "07822dda83e202af",
+    "title": "2027 Summer Internship (London)",
+    "company": "Eastdil Secured",
+    "location": "St James's, South West London",
+    "url": "https://www.adzuna.co.uk/jobs/details/5869205834?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Overview Eastdil Secured Savills is the global real estate investment bank that uniquely combines commercial real estate and capital markets expertise. We provide truly independent advice with the mission to drive value for our clients through creative, actionable ideas and flawless execution. Our knowledge-driven team is comprised of remarkable people who are seamlessly connected across all levels and geographies, merging experience, expertise, and resources to deliver the best strategies from…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Real estate investment banking internship in London; strong fit on sector and location but real estate focus less aligned than pure IB/S&T.",
+    "deadline": null,
+    "pros": [
+      "Investment banking experience in preferred London location",
+      "Structured finance-adjacent (real estate finance)",
+      "Combines capital markets and advisory work"
+    ],
+    "cons": [
+      "Real estate focus, not core IB/S&T/AM",
+      "Job description truncated; full role scope unclear"
+    ],
+    "analysis": "Eastdil is a legitimate tier-1 real estate investment bank and this is a proper summer internship role. You meet all eligibility requirements (EU citizen, summer availability). The role sits at the edge of your stated interests—real estate finance has structured finance elements and strong modeling skill requirements that match your background. However, it's narrower than the pure M&A or capital markets banking you may prefer. Worth exploring if you're open to specialised banking, but apply to JPMorgan IB roles first as they're closer to your core interests.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "c4cef8636cc3638f",
+    "title": "2027 Global Corporate Banking Analyst Program - Summer Internship - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5869186827?se=TA2BSb6n8RG-dJ56spP8aw&utm_medium=api&utm_source=88a1c016&v=A06C68A12582F7B8C190D41AD96D99CD55C26B2B",
+    "snippet": "Description As a 2027 Global Corporate Banking Summer Intern, you will start with an orientation and training led by our top professionals and expert instructors which will arm you with the technical and practical knowledge you'll need to make your mark in Global Corporate Banking. Our team members and mentors will help you navigate the firm and continue to learn about our businesses. Access to senior management and a strong network of peers will promote ongoing professional development through…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 88,
+    "reason": "JPMorgan Global Corporate Banking summer internship in London; excellent fit across sector, seniority, location and eligibility.",
+    "deadline": null,
+    "pros": [
+      "Tier-1 investment bank, structured training program",
+      "London location with strong networking access",
+      "Direct path to full-time analyst role for top performers"
+    ],
+    "cons": [],
+    "analysis": "This is a flagship JPMorgan internship in your preferred location and sector. You clearly meet all criteria: EU citizen, summer availability, strong economics background, prior structured finance experience. The program offers exactly what you're looking for—handson banking work, mentorship from senior professionals, and clear conversion potential. Apply immediately and prepare financial modeling cases thoroughly.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "ba09ae5894ecb566",
+    "title": "EMEA 2026 Intern Conversion - Investment Banking Programme Analyst",
+    "company": "Wells Fargo Bank",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5869169890?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Wells Fargo Corporate & Investment Banking (CIB) delivers a comprehensive suite of banking and financial solutions to over 15,000 corporate and institutional clients, including over 70% of the S&P 500. A trusted partner to our clients, we provide corporate and transaction banking, commercial real estate lending and servicing, investment banking, equity and fixed income solutions including sales, trading, and research capabilities to corporate, commercial real estate, government, and institution…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Wells Fargo Investment Banking conversion internship (2026 cohort); strong fit but title suggests prior year entry point.",
+    "deadline": null,
+    "pros": [
+      "Core investment banking in London",
+      "Tier-1 bank with global M&A and capital markets",
+      "Conversion pathway suggests serious commitment"
+    ],
+    "cons": [
+      "Listed as '2026 Intern Conversion'—suggests prior 2026 internship required",
+      "Eligibility unclear if you haven't done their 2026 program"
+    ],
+    "analysis": "This looks like a conversion role for interns who already completed Wells Fargo's 2026 program. Unless you interned with Wells Fargo in 2026, you likely aren't eligible. However, check with their recruitment team—some banks use this language loosely and may open it to new applicants. If you're eligible, it's strong (tier-1 IB in London). If not, apply to their standard 2027 summer program instead.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "2fe0999e802db2d0",
+    "title": "EMEA 2026 Intern Conversion - Corporate Banking Program Analyst",
+    "company": "Wells Fargo Bank",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5869169906?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Wells Fargo Corporate & Investment Banking (CIB) delivers a comprehensive suite of banking and financial solutions to over 15,000 corporate and institutional clients, including over 70% of the S&P 500. A trusted partner to our clients, we provide corporate and transaction banking, commercial real estate lending and servicing, investment banking, equity and fixed income solutions including sales, trading, and research capabilities to corporate, commercial real estate, government, and institution…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 75,
+    "reason": "Wells Fargo Corporate Banking conversion internship (2026 cohort); strong bank and relevant sector but likely requires prior participation.",
+    "deadline": null,
+    "pros": [
+      "Tier-1 global bank in London",
+      "Corporate and transaction banking (structured finance adjacent)",
+      "Full CIB platform exposure"
+    ],
+    "cons": [
+      "Listed as '2026 Intern Conversion'—prior program participation likely required",
+      "Corporate banking slightly less aligned than IB/S&T"
+    ],
+    "analysis": "Same caveat as the investment banking conversion role above—check eligibility first. Corporate banking (treasury, lending, transaction services) is solid experience and related to structured finance you've already done. If you can apply as a new 2027 candidate, it's worth considering alongside pure IB roles; if it requires prior Wells Fargo experience, follow up with recruitment to clarify.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "46fde661e70ff9da",
+    "title": "2027 Commercial & Investment Banking - Risk Management Program - Summer Internship - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867248755?se=TA2BSb6n8RG-dJ56spP8aw&utm_medium=api&utm_source=88a1c016&v=66DEE4755EDF3A24F4A2D524C4A87A0F5F9E284C",
+    "snippet": "Description Description As an intern in the Commercial & Investment Banking Risk Management Program in London, you will work with industry experts to identify, assess and manage risk for our global businesses. You’ll collaborate with colleagues at all levels, gain broad product knowledge, build your network, and develop expertise in a diverse, supportive environment. We value your unique perspective to help us innovate for our clients and we will provide the tools to succeed with training and m…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 85,
+    "reason": "JPMorgan Commercial & Investment Banking Risk Management summer internship in London; excellent fit on all axes.",
+    "deadline": null,
+    "pros": [
+      "Tier-1 bank in London with structured program",
+      "Risk management is quantitative, modeling-heavy (matches your skills)",
+      "CIB exposure across banking and markets"
+    ],
+    "cons": [],
+    "analysis": "This is an excellent match. Risk management internships at tier-1 banks are intellectually rigorous and highly valued by buy-side recruiters. Your Python and financial modeling skills are directly applicable. This role sits perfectly between your IB interests and the quantitative/analytical angle suggested by your economics background. Strong alternative to pure IB if you want breadth across asset classes and risk frameworks.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "eaa39874229406d7",
+    "title": "2027 – Research – Summer Internship - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867248517?se=TA2BSb6n8RG-dJ56spP8aw&utm_medium=api&utm_source=88a1c016&v=1D85CAF2048D9F6294BEAF462AFED42A9F69F49E",
+    "snippet": "Description If you're ambitious and eager to apply your knowledge to real-world financial scenarios, this role is for you. You'll support your team with research, analysis, and preparatory work, while monitoring markets and developing trade ideas. This program offers hands-on experience, skills training, and professional networking, with the potential for full-time employment based on your achievements. What You Can Expect J.P. Morgan Global Research is one of the world’s most highly respected …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 83,
+    "reason": "JPMorgan Research summer internship in London; strong fit for economics background and asset management interest.",
+    "deadline": null,
+    "pros": [
+      "Leverages economics expertise and analytical skills",
+      "Equities/macro research bridges to asset management",
+      "Tier-1 bank in London with clear skill-building focus"
+    ],
+    "cons": [
+      "Research is more analyst-focused than deal-side banking"
+    ],
+    "analysis": "JPMorgan Research is a highly respected team and internship here is a strong credential. The role emphasizes analysis, market monitoring, and trade idea generation—all skills that translate directly to asset management and S&T roles. Given your economics degree and asset management internship background, this is an excellent fit. It may be slightly less transactional than IB, but many candidates move from research into S&T or AM. Worth applying strongly.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "a13cb2397405f7b4",
+    "title": "2027 Global Investment Banking Analyst Program - Summer Internship - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867246653?se=TA2BSb6n8RG-dJ56spP8aw&utm_medium=api&utm_source=88a1c016&v=AD2BF16EADD745A960258ED4174245921516C33B",
+    "snippet": "Description Work alongside top professionals in the industry to develop solutions that shape the global economy. Investment Banking teams partner with corporate clients to achieve strategic goals through long-term relationships and strategies that foster growth and innovation. We provide sound advice, access to funds, and connections, while managing risk in today's complex environment. You’ll join one of our Coverage, Advisory or Capital Markets teams, spanning sectors such as Consumer & Retail…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 88,
+    "reason": "JPMorgan Global Investment Banking summer internship in London; tier-1 core role, excellent alignment with all candidate criteria.",
+    "deadline": null,
+    "pros": [
+      "Pure investment banking (M&A, advisory, capital markets)",
+      "Coverage and sector teams; clear skill progression",
+      "Tier-1 London platform with conversion potential"
+    ],
+    "cons": [],
+    "analysis": "This is the gold-standard internship for your profile. Global IB at JPMorgan in London ticks every box: right sector, right location, right prestige level. You have the technical skills (modeling), the sector knowledge (economics), and relevant prior experience (structured finance). This should be at the top of your target list. Prepare hard on case studies, valuation methods, and recent M&A deals.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "1ffa54ddbfb76dcf",
+    "title": "2027 Global Corporate Banking Analyst Program - International ABL - Summer Internship - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867241885?se=TA2BSb6n8RG-dJ56spP8aw&utm_medium=api&utm_source=88a1c016&v=8886046B5524E0822CC60379B7BB6522FE0226CD",
+    "snippet": "Description As a 2026 International ABL - Global Banking Analyst Program - Summer Intern – London , you will start with an orientation and training led by our top professionals and expert instructors which will arm you with the technical and practical knowledge you'll need to make your mark in Global Banking. Our team members and mentors will help you navigate the firm and continue to learn about our businesses. Access to senior management and a strong network of peers will promote ongoing prof…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "JPMorgan Global Corporate Banking (International ABL) summer internship in London; strong fit with structured finance bent.",
+    "deadline": null,
+    "pros": [
+      "Asset-based lending aligns with structured finance background",
+      "Global banking platform in London",
+      "Combines credit and working capital strategy"
+    ],
+    "cons": [
+      "Slightly narrower than broad corporate or IB coverage"
+    ],
+    "analysis": "ABL (asset-based lending) is a structured finance specialty—directly relevant to your prior internship. This role offers deep technical credit work alongside relationship management. If pure IB roles are competitive, ABL is a strong alternative that plays to your existing expertise. The JPMorgan platform and London location remain excellent, and conversion odds are strong for performers.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "25c42519f34c072b",
+    "title": "2027 Global Corporate Banking Analyst Program - Public Sector - Summer Internship - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867240159?se=TA2BSb6n8RG-dJ56spP8aw&utm_medium=api&utm_source=88a1c016&v=23254E4D9E0D23E2526ECFADFE45D072ECCA3E73",
+    "snippet": "Description As a 2027 Corporate & Investment Bank - Global Corporate Banking Analyst Program – Public Sector - Summer Intern – London , you will start with an orientation and training led by our top professionals and expert instructors which will arm you with the technical and practical knowledge you'll need to make your mark in Global Corporate Banking. Our team members and mentors will help you navigate the firm and continue to learn about our businesses. Access to senior management and a str…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 81,
+    "reason": "JPMorgan Global Corporate Banking (Public Sector) summer internship in London; solid fit but sector-specific focus.",
+    "deadline": null,
+    "pros": [
+      "Tier-1 bank, London location, structured training",
+      "Public sector finance is growing and specialized",
+      "Strong modeling and deal exposure"
+    ],
+    "cons": [
+      "Public sector focus; narrower than broad banking coverage",
+      "May less directly support AM/S&T pivot later"
+    ],
+    "analysis": "Solid JPMorgan summer program in a specialized vertical (public sector finance—infrastructure, government lending, etc.). You meet all eligibility criteria. This is lower-risk than pure IB but may pigeonhole you into a sector. Apply if your other JPMorgan targets are rejected, or if you're genuinely interested in public/infrastructure finance.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "0e20cda737a8ad21",
+    "title": "2027 - Corporate Functions - Global Finance & Business Management - Summer Internship - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867238877?se=TA2BSb6n8RG-dJ56spP8aw&utm_medium=api&utm_source=88a1c016&v=BA11BB4434C86B86AAAF18462E6E114981BD1446",
+    "snippet": "Description The Global Finance and Business Management (GF&BM) 9-week Summer Internship serves as a gateway to our 3-year GF&BM Analyst Program. Top performing Interns will be offered a position to join in September 2028. This program provides comprehensive industry training, mentorship, and practical experience. Additionally, participants will have the opportunity to pursue and complete the optional Association of Chartered Certified Accountants (ACCA) qualification. Job summary As a Global Fi…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 70,
+    "reason": "JPMorgan Global Finance & Business Management summer internship; strong bank and structured program but outside core finance interests.",
+    "deadline": null,
+    "pros": [
+      "Tier-1 bank with rigorous training and mentorship",
+      "ACCA qualification pathway (accounting credential)",
+      "3-year analyst program conversion opportunity"
+    ],
+    "cons": [
+      "Corporate finance/operations, not IB/S&T/AM",
+      "Finance function (planning, FP&A, treasury) vs. client-facing roles"
+    ],
+    "analysis": "This is JPMorgan's corporate finance track—solid and structured, but oriented toward back-office financial management (FP&A, reporting, treasury) rather than the client-facing or trading roles you prioritize. It's prestigious and offers the ACCA qualification, but doesn't match your stated sector preferences as closely. Consider only if you want to explore operations-side finance or if IB/S&T roles don't materialize.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "75a92a26e3bb4daf",
+    "title": "2027 – Sales – Summer Internship - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867238760?se=TA2BSb6n8RG-dJ56spP8aw&utm_medium=api&utm_source=88a1c016&v=8B38D18319D6824BF000894DFD95FDA1766EF902",
+    "snippet": "Description If you are ambitious and eager to apply your knowledge to real-world financial scenarios, this internship offers the opportunity to work with sophisticated financial solutions across asset classes in dynamic global markets. As a Summer Intern in Sales, you will engage in a stimulating environment, exploring our sophisticated financial solutions across asset classes. What You Can Expect Our Sales teams help corporate and institutional clients navigate the breadth of J.P. Morgan’s pro…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 84,
+    "reason": "JPMorgan Sales summer internship in London; strong fit for asset classes and client-facing strategy work.",
+    "deadline": null,
+    "pros": [
+      "Client-facing sales across asset classes (directly aligns with S&T interest)",
+      "Tier-1 bank in London with strong platform",
+      "Builds relationships and market understanding"
+    ],
+    "cons": [
+      "Sales role may have light compensation/commission elements (confirm structure)"
+    ],
+    "analysis": "JPMorgan Sales (FICC, equities, derivatives) is a strong alternative to pure S&T. You're engaging with sophisticated clients and selling solutions across asset classes—excellent foundation for trading or AM roles. Confirm the internship is salaried (not commission-based) before applying, but if it is, this is a top-tier fit. Your economics background and prior asset management experience are clear assets for relationship-building and product knowledge.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "36e61b56f58b2cb8",
+    "title": "2027 – Global Markets – Summer Internship - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867238143?se=TA2BSb6n8RG-dJ56spP8aw&utm_medium=api&utm_source=88a1c016&v=E78961C91A1AEDB39BBA5BD53914C29B160508BE",
+    "snippet": "Description If you are ambitious and eager to apply your knowledge to real-world financial scenarios, this internship offers the opportunity to work with sophisticated financial solutions across asset classes in dynamic global markets. Our global Markets teams help clients manage risk, increase returns, and solve complex financial problems while tackling challenging business issues. What You Can Expect As a Summer Intern in Global Markets, you will engage in a stimulating environment, exploring…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 86,
+    "reason": "JPMorgan Global Markets summer internship in London; excellent fit for S&T interests and quantitative skills.",
+    "deadline": null,
+    "pros": [
+      "Sales & Trading/Markets role directly matches your sector goals",
+      "Python and modeling skills are core to global markets work",
+      "Tier-1 platform in London; strong conversion pathway"
+    ],
+    "cons": [],
+    "analysis": "This is a flagship S&T internship. Global Markets at JPMorgan covers FICC, equities, commodities, and derivatives—all high-value specialisms. Your Python skills and structured finance background make you a strong candidate. This role is slightly less hierarchical than pure IB and offers daily exposure to live markets. If S&T is your true passion, prioritize this alongside the core IB roles. The modeling and coding work will keep you sharp.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "76dc517aac081b36",
+    "title": "2027 Commercial & Investment Bank - Global Payments Analyst Program - Summer Internship - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867222382?se=TA2BSb6n8RG-dJ56spP8aw&utm_medium=api&utm_source=88a1c016&v=719F437480B10FB97C26D166CC9743F4220EFBB6",
+    "snippet": "Description As a Global Payments Analyst in the Global Payments Program, you will gain hands-on experience in the innovative landscape of global payments, learning what it takes to “make money move” and promote innovation across financial technology. The Global Payments Program at JPMorganChase offers the opportunity to build a career in the world of payments and financial technology—helping clients manage and move money locally, regionally and globally. Our Global Payments business brings toge…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "JPMorgan Global Payments Analyst summer internship in London; fintech/payments specialist role, aligned with strategy and banking.",
+    "deadline": null,
+    "pros": [
+      "Growing payments and fintech sector with strategy bent",
+      "Tier-1 bank, London, structured program",
+      "\"Making money move\" involves complex financial engineering"
+    ],
+    "cons": [
+      "Payments specialist track; narrower than broad IB or markets"
+    ],
+    "analysis": "Global Payments at JPMorgan is a fast-growing business spanning blockchain, FX, trade finance, and payment rails. It's intellectually rigorous and sits between banking and fintech. If you're interested in strategy consulting or the intersection of banking and tech, this is worth exploring. However, it's more niche than IB/S&T and may be harder to pivot from later. Apply if you're interested in payments specifically; otherwise, prioritize markets or IB roles.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "74f492c9646c3d27",
+    "title": "2027 Global Private Bank - Investment Solutions Summer Internship Program - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867221792?se=TA2BSb6n8RG-dJ56spP8aw&utm_medium=api&utm_source=88a1c016&v=FFE4760B93DA1C496766EC6E92BE7650CD36722F",
+    "snippet": "Description If you enjoy building relationships and helping develop innovative solutions while working in a fast-paced environment, then we have the role for you. Our advisors help clients achieve their financial goals by delivering the right solutions and services across our industry leading investments, credit, banking and Trust & Estates practices. This individualized attention supports our clients' unique goals and helps build, preserve and manage their wealth over time. As an Advisor Summe…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 73,
+    "reason": "JPMorgan Global Private Bank summer internship in London; wealth/relationship management focus, aligned with asset management interest.",
+    "deadline": null,
+    "pros": [
+      "Client-facing advisory aligns with relationship-building skills",
+      "Investment solutions and wealth strategy overlap with AM",
+      "Tier-1 bank, London, strong networking"
+    ],
+    "cons": [
+      "Private banking is relationship/operations-heavy vs. trading/strategy",
+      "Less relevant to pure IB or S&T career paths"
+    ],
+    "analysis": "JPMorgan Private Bank focuses on ultra-high-net-worth clients and investment solutions. It's less quantitative than markets or IB and more relationship-driven. That said, if you're interested in asset management and wealth strategy, this offers portfolio construction and client engagement experience. However, it's a niche track and may not be the fastest path to AM roles. Apply only if AM is your priority over IB/S&T.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "2546f33069c3a956",
+    "title": "2027 Summer Intern - Portfolio Management - Private Strategies Analyst, London - PIMCO",
+    "company": "PIMCO",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867108940?se=TA2BSb6n8RG-dJ56spP8aw&utm_medium=api&utm_source=88a1c016&v=25E076C7F70280321696119B8DEACE0E4763122C",
+    "snippet": "PIMCO is a global leader in active fixed income with deep expertise across public and private markets. We invest our clients' capital across a range of fixed income and credit opportunities, leveraging our decades of experience navigating complex debt markets. Our flexible capital base and deep relationships with issuers have helped us become one of the world's largest providers of traditional and nontraditional solutions for companies that need financing and investors who seek strong risk-adju…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "PIMCO Portfolio Management summer internship in London; strong asset management fit but limited detail on role scope.",
+    "deadline": null,
+    "pros": [
+      "World-leading fixed income asset manager (tier-1 credentials)",
+      "Portfolio management and private markets overlap structured finance",
+      "Quantitative research and credit analysis value your modeling skills"
+    ],
+    "cons": [
+      "Fixed income specialist (not equities/multi-asset); narrower scope",
+      "Job description truncated; full role detail unclear"
+    ],
+    "analysis": "PIMCO is a gold-standard AM employer, especially in fixed income. Your structured finance internship and economics background are directly relevant to credit analysis and portfolio strategy work. However, the posting is vague and doesn't specify day-to-day responsibilities or whether this is research, trading support, or client-facing. Follow up with PIMCO recruitment to clarify role scope. If it's substantive portfolio/credit work, this is an excellent AM internship; if it's administrative, reconsider.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "66bc63c474fa2ffb",
+    "title": "2027 Finance People & Engagement Graduate Programme - Macquarie Group",
+    "company": "Macquarie Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5864677405?se=TA2BSb6n8RG-dJ56spP8aw&utm_medium=api&utm_source=88a1c016&v=CB45F8C059EE7C8720C003D72959439424A4F919",
+    "snippet": "Join Macquarie's Financial Management, People and Engagement (FPE) division and help enable the success of our global businesses. Working across Finance & Tax or Group Treasury, you'll gain exposure to financial management , reporting, treasury operations and strategic decision making while developing the technical expertise , commercial acumen and professional skills needed to build a successful career in financial services We are a global financial services group operating in 30 markets with …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 55,
+    "reason": "Macquarie Group Finance/Treasury Graduate Programme; structured but labeled as graduate programme, not internship.",
+    "deadline": null,
+    "pros": [
+      "Macquarie is prestigious tier-1 financial services group",
+      "Finance & Treasury exposure; strategy and operations blend",
+      "Multiple market exposure (30 markets)"
+    ],
+    "cons": [
+      "Labeled 'Graduate Programme,' not clear if summer internship eligible",
+      "Finance/Treasury track is operations-focused, not IB/AM/S&T",
+      "May require degree completion; timing mismatch (you graduate June 2028)"
+    ],
+    "analysis": "Macquarie is an excellent employer, but this posting is ambiguous. It's listed as a 'Graduate Programme' which typically means full-time post-graduation roles, not summer internships. You're still a 2nd year student, so eligibility is uncertain. If it does accept summer interns, the Finance & Treasury track is solid but leans operational (FP&A, treasury management) rather than client-facing roles. Clarify with Macquarie whether summer internships are available before investing time.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "15f9bab2af43891f",
+    "title": "2027 Global Investment Banking Analyst Program - Summer Internship - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867246653?se=4i33Sb6n8RGFQ8r7cmJIsQ&utm_medium=api&utm_source=88a1c016&v=AD2BF16EADD745A960258ED4174245921516C33B",
+    "snippet": "Description Work alongside top professionals in the industry to develop solutions that shape the global economy. Investment Banking teams partner with corporate clients to achieve strategic goals through long-term relationships and strategies that foster growth and innovation. We provide sound advice, access to funds, and connections, while managing risk in today's complex environment. You’ll join one of our Coverage, Advisory or Capital Markets teams, spanning sectors such as Consumer & Retail…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 88,
+    "reason": "JPMorgan Global Investment Banking summer internship in London; duplicate of posting c4cef8636cc3638f, excellent core fit.",
+    "deadline": null,
+    "pros": [
+      "Tier-1 investment banking in London (core interest)",
+      "Coverage and Capital Markets teams span key sectors",
+      "Strong pathway to full-time analyst role"
+    ],
+    "cons": [],
+    "analysis": "This is a duplicate or near-duplicate of the earlier JPMorgan Global IB posting. Both are flagship programs. Treat them as the same opportunity—apply once with one strong application.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "58509f0dbb039442",
+    "title": "2027 Commercial & Investment Bank - Global Payments Analyst Program - Summer Internship - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867222382?se=4i33Sb6n8RGFQ8r7cmJIsQ&utm_medium=api&utm_source=88a1c016&v=719F437480B10FB97C26D166CC9743F4220EFBB6",
+    "snippet": "Description As a Global Payments Analyst in the Global Payments Program, you will gain hands-on experience in the innovative landscape of global payments, learning what it takes to “make money move” and promote innovation across financial technology. The Global Payments Program at JPMorganChase offers the opportunity to build a career in the world of payments and financial technology—helping clients manage and move money locally, regionally and globally. Our Global Payments business brings toge…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "JPMorgan Global Payments summer internship in London; duplicate of posting 76dc517aac081b36.",
+    "deadline": null,
+    "pros": [
+      "Growing fintech and payments strategy focus",
+      "Tier-1 bank in London",
+      "Exposure to financial engineering and innovation"
+    ],
+    "cons": [
+      "Payments is specialized; narrower than IB or markets"
+    ],
+    "analysis": "This is a duplicate of the earlier Global Payments posting. Treat as the same opportunity; apply once with a strong application focused on your interest in payments strategy or fintech innovation.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "3a70f222f7c2b391",
+    "title": "2027 Quantitative Research – Asset Management - Off-Cycle - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867248986?se=9t5oSr6n8RGAquma5vUeHg&utm_medium=api&utm_source=88a1c016&v=942E2232E6773797200B8C919B049FC96FCD3D24",
+    "snippet": "Description Job Description At JPMorganChase, we champion your innovative ideas through a supportive culture that helps you every step of the way as you build your career. If you are passionate, curious and ready to make an impact, we are looking for you. Job Summary: As a Quantitative Research – Asset Management Off-Cycle Intern in the Asset Management Product Program, you will sit at the intersection of investment science and technology—working directly with portfolio managers and research te…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 79,
+    "reason": "JPMorgan Quantitative Research (Asset Management) off-cycle internship in London; excellent technical fit but off-cycle timing needs confirmation.",
+    "deadline": null,
+    "pros": [
+      "Off-cycle allows flexibility around term dates (as you noted interest)",
+      "Quantitative research + asset management (direct match to interests)",
+      "Python and modeling skills are core; tier-1 JPM platform"
+    ],
+    "cons": [
+      "Off-cycle timing may conflict with exams/coursework; confirm start/end dates",
+      "Research is analytical vs. client-facing; narrower than IB"
+    ],
+    "analysis": "This is a rare opportunity—an off-cycle (i.e., flexible-timing) internship in quant research at JPMorgan. Perfect if you want to do an internship around term dates without a full summer commitment. Your Python skills and asset management experience are exactly what they want. However, confirm the exact start and end dates with recruitment to ensure it truly fits around your coursework. If it does, this is a strong play for AM.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "6c1fd53a1c6d6548",
+    "title": "2027 Asset Management Investments - Summer Internship Program - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867232046?se=9t5oSr6n8RGAquma5vUeHg&utm_medium=api&utm_source=88a1c016&v=C7C2AC182E0BC746FA80F9FB10983229D279AB6B",
+    "snippet": "Description Are you curious about portfolio management and investment strategies? We're looking for energetic, creative talent to join our global team of experts to develop innovative investment strategies for our clients. You'll have what you need to succeed – from training and mentorship from senior executives to projects that engage your skills. Working here means joining a collaborative, supportive team. We want your diverse perspective to help us innovate the next wave of products and solu…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 87,
+    "reason": "JPMorgan Asset Management Investments summer internship in London; excellent fit for AM interests and analytical skills.",
+    "deadline": null,
+    "pros": [
+      "Core asset management internship (direct career goal)",
+      "Portfolio strategy and innovation focus match your background",
+      "Tier-1 JPM platform in London; strong conversion potential"
+    ],
+    "cons": [],
+    "analysis": "This is an excellent match. JPMorgan Asset Management internships expose you to investment strategies, portfolio construction, and client solutions across equities, fixed income, and alternatives. Your economics degree, prior AM internship, and modeling skills make you a strong candidate. The role emphasizes creative thinking and innovation, which aligns with your profile. This should be high on your target list, especially if AM is your primary goal over pure IB. Prepare to discuss investment theses and client solutions.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "727d7394838c26cf",
+    "title": "2027 Asset Management - Risk Summer Internship Program - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867226932?se=9t5oSr6n8RGAquma5vUeHg&utm_medium=api&utm_source=88a1c016&v=D52F68EE2CDCC14BAA817D815BC6D7FE27B77683",
+    "snippet": "Description Collaborate with our industry experts to identify, assess and manage risk. You'll make meaningful professional contributions while developing your expertise in a dynamic team environment. Working here means joining a collaborative, supportive team. We want your diverse perspective to help us innovate the next wave of products and solutions for our clients. You'll have what you need to succeed – from training and mentorship from senior leaders to projects that engage your skills. As …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 84,
+    "reason": "JPMorgan Asset Management Risk summer internship in London; strong fit for risk/quantitative work and AM interest.",
+    "deadline": null,
+    "pros": [
+      "Combines risk management and asset management (both interests)",
+      "Quantitative and analytical work suited to Python/modeling skills",
+      "Tier-1 JPM platform in London"
+    ],
+    "cons": [
+      "Risk focus is more specialized than broad AM portfolio work"
+    ],
+    "analysis": "JPMorgan AM Risk is a solid role if you're interested in the analytical/quantitative side of asset management. Risk management at an AM firm involves portfolio risk modeling, stress testing, and regulatory compliance—all highly valued in the industry. Your structured finance background and Python skills are assets. This is slightly narrower than a pure investments role, but excellent if you want technical depth. Apply if AM is your priority.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "37d15cf0d65aa492",
+    "title": "2027 Macquarie Asset Management Summer Internship Programme - Macquarie Group",
+    "company": "Macquarie Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5864677410?se=9t5oSr6n8RGAquma5vUeHg&utm_medium=api&utm_source=88a1c016&v=E70A021FE0B5DC9A4EB457E3EAA510B21F9B6655",
+    "snippet": "Our Macquarie Asset Management (MAM) teams focus on generating positive outcomes and seek to deliver superior results over the long term for our clients, portfolio companies, and communities. We provide access to specialist investment expertise across a range of capabilities including fixed income, equities, multi-asset solutions, private credit, infrastructure, green investments, natural assets, real estate, and asset finance. We are a global financial services group operating in 30 markets wi…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 88,
+    "reason": "Strong fit: asset management internship at top-tier firm in London, aligns with career interests and prior experience.",
+    "deadline": null,
+    "pros": [
+      "Asset management expertise matches your structured finance background",
+      "London location, prime tier-1 firm",
+      "Paid summer internship, 2027 cohort"
+    ],
+    "cons": [
+      "Posting lacks specific dates/term-time compatibility info"
+    ],
+    "analysis": "This is a strong match. Macquarie's MAM division covers fixed income, equities, and private credit—directly aligned with your stated interests and prior internship experience. You're at the right stage (2nd year, 2027 grad) and meet all eligibility requirements. The main unknown is whether the programme dates fit around your term schedule; contact the recruiter early to confirm summer 2027 timing.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "de9d2e6dbb19753f",
+    "title": "2027 Quantitative Research Markets Associate Program – Off-Cycle Internship – London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867253454?se=Wr7jSr6n8RGxWp4A46G3QA&utm_medium=api&utm_source=88a1c016&v=A6E95DC7AF1769E3695194BFC9AB1119E9088A58",
+    "snippet": "Description As an off-cycle associate in the Quantitative Trading & Research Markets team at JPMorganChase, you will join a leading quantitative modeling group focused on systematic trading, financial engineering, data analytics, statistical modeling, and portfolio optimization. You will work closely with traders, sales, marketing, technologists, and risk managers across products and regions. You will support research and strategy deployment, client and sales engagement, product innovation, val…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 85,
+    "reason": "Excellent fit: quantitative trading in London, off-cycle, aligns with Python skills and sales & trading interest.",
+    "deadline": null,
+    "pros": [
+      "Off-cycle internship fits your term-date flexibility needs",
+      "Quantitative trading & research, matches Python and modelling skills",
+      "London location, tier-1 investment bank"
+    ],
+    "cons": [
+      "Highly competitive; requires strong quant background"
+    ],
+    "analysis": "This is an excellent opportunity. JPMorgan's Quantitative Trading & Research team is a natural fit given your Python skills, financial modelling background, and interest in sales & trading. The off-cycle format is ideal for fitting around your university term dates. Expect a rigorous technical assessment; ensure your Python and Excel skills are sharp before applying.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "a9d09e917b3e9498",
+    "title": "2027 Quantitative Research – Asset Management - Off-Cycle - London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867248986?se=Wr7jSr6n8RGxWp4A46G3QA&utm_medium=api&utm_source=88a1c016&v=942E2232E6773797200B8C919B049FC96FCD3D24",
+    "snippet": "Description Job Description At JPMorganChase, we champion your innovative ideas through a supportive culture that helps you every step of the way as you build your career. If you are passionate, curious and ready to make an impact, we are looking for you. Job Summary: As a Quantitative Research – Asset Management Off-Cycle Intern in the Asset Management Product Program, you will sit at the intersection of investment science and technology—working directly with portfolio managers and research te…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 86,
+    "reason": "Strong fit: quantitative research in asset management, off-cycle, London, matches background and interests.",
+    "deadline": null,
+    "pros": [
+      "Asset management + quant research aligns with your prior internship",
+      "Off-cycle structure fits around university term dates",
+      "Portfolio optimization work suits your modelling skills"
+    ],
+    "cons": [
+      "Highly competitive; strong quantitative foundation needed"
+    ],
+    "analysis": "This combines your two primary interests—asset management and quantitative work—at a tier-1 bank in London. Your previous asset management and structured finance internships make this a natural step up. The off-cycle format is a major plus for term-time compatibility. Competition will be fierce; demonstrate both your technical skills (Python, financial modelling) and domain knowledge from prior internships.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "e03b01a3d30786b6",
+    "title": "2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867240968?se=Wr7jSr6n8RGxWp4A46G3QA&utm_medium=api&utm_source=88a1c016&v=ADF2FA00C6F417A79331BDBD7511752C7EFCC971",
+    "snippet": "Description As an off-cycle analyst in the Quantitative Trading & Research Markets team at JPMorganChase, you will join a leading quantitative modeling group focused on systematic trading, financial engineering, data analytics, statistical modeling, and portfolio optimization. Job Summary You will work closely with traders, sales, marketing, technologists, and risk managers across products and regions. You will support research and strategy deployment, client and sales engagement, product innov…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Good fit: quantitative markets analyst, off-cycle, London, strong for your modelling and coding skills.",
+    "deadline": null,
+    "pros": [
+      "Off-cycle internship works around your term schedule",
+      "Markets & trading aligns with stated career interests",
+      "Analyst-level role appropriate for 2nd-year student"
+    ],
+    "cons": [
+      "Analyst vs. Associate—slightly lower seniority than sister posting de9d2e6dbb19753f",
+      "Highly competitive quant programme"
+    ],
+    "analysis": "A solid opportunity in systematic trading and financial engineering. This is positioned at analyst rather than associate level, making it slightly more accessible than the sister posting (de9d2e6dbb19753f). Your Python and modelling skills are directly relevant. The off-cycle timing is ideal. This is a strong backup choice if you're equally interested in markets and asset management.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "12a8c95d3332b5a4",
+    "title": "2027 Quantitative Research - Risk and Treasury - Off-Cycle - Associate – London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867228962?se=Wr7jSr6n8RGxWp4A46G3QA&utm_medium=api&utm_source=88a1c016&v=9BFEAFB8C7EFF0925BA9F479C1E9F619206E7F55",
+    "snippet": "Description Job Description At JPMorganChase, we champion your innovative ideas through a supportive culture that helps you every step of the way as you build your career. If you are passionate, curious and ready to make an impact, we are looking for you. Job Summary: As a Quantitative Research – Risk and Treasury off-cycle intern in the Quantitative Modeling Program, you will work alongside top-tier professionals in a dynamic environment. You’ll apply academic knowledge to real-world financial…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Plausible fit: quantitative research in risk/treasury, off-cycle London, but less aligned with your stated interests.",
+    "deadline": null,
+    "pros": [
+      "Off-cycle format fits term-date constraints",
+      "Quantitative modelling role uses your Python and Excel skills",
+      "Prestigious tier-1 bank in London"
+    ],
+    "cons": [
+      "Risk & treasury less aligned with your stated finance interests (IB, AM, S&T)",
+      "More technical/backend-focused than client-facing roles"
+    ],
+    "analysis": "This is a quantitatively rigorous role, but it sits in risk and treasury rather than the investment banking, asset management, or sales & trading tracks you prioritized. If you're interested in learning risk modelling and have strong quantitative foundations, it's worth considering—but it's likely lower on your preference list than the Markets or Asset Management postings. Apply only if you have genuine curiosity about risk management.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "b5cc0c7236a68dc2",
+    "title": "Q2 2027 Off-Cycle Internship - Corporate Finance (Technology)",
+    "company": "Houlihan Lokey",
+    "location": "Frankfurt am Main, Hessen",
+    "url": "https://www.adzuna.de/details/5869282749?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Business Unit: Corporate Finance Industry: Technology&xa;&xa; Overview Houlihan Lokey, Inc. (NYSE:HLI) is a leading global investment bank recognized for delivering independent strategic and financial advice to corporations, financial sponsors, and governments. With uniquely deep industry expertise, broad international reach, and a partnership approach rooted in trust, the firm provides innovative, integrated solutions across mergers and acquisitions, capital solutions, financial restructuring,…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Good fit: investment banking M&A internship off-cycle, but location is Frankfurt not London.",
+    "deadline": null,
+    "pros": [
+      "Corporate Finance M&A internship, matches investment banking interests",
+      "Off-cycle timing fits around university schedule",
+      "Tier-2 investment bank with strong deal flow"
+    ],
+    "cons": [
+      "Frankfurt location; you listed it as acceptable but London is strong preference",
+      "Technology sector—timing and market volatility may vary"
+    ],
+    "analysis": "Houlihan Lokey is a respected independent investment bank, and this role is squarely in investment banking (M&A), which is your primary interest. The off-cycle format is convenient. However, the location is Frankfurt, not your preferred London. If you're genuinely open to Frankfurt and interested in tech sector deals, this is worth pursuing; otherwise, prioritize London postings. Check whether Houlihan has a London office with summer roles.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
+    "id": "813b8e1270181477",
+    "title": "Q2 2027 Off-Cycle Internship - Corporate Finance (IT Services)",
+    "company": "Houlihan Lokey",
+    "location": "Frankfurt am Main, Hessen",
+    "url": "https://www.adzuna.de/details/5869245568?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Business Unit: Corporate Finance Industry: Business Services&xa;&xa; Overview Houlihan Lokey, Inc. (NYSE:HLI) is a leading global investment bank recognized for delivering independent strategic and financial advice to corporations, financial sponsors, and governments. With uniquely deep industry expertise, broad international reach, and a partnership approach rooted in trust, the firm provides innovative, integrated solutions across mergers and acquisitions, capital solutions, financial restruc…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 77,
+    "reason": "Good fit: investment banking internship off-cycle, Frankfurt location, but slightly less aligned sector.",
+    "deadline": null,
+    "pros": [
+      "Investment banking M&A role matches your IB interests",
+      "Off-cycle flexibility suits term-time constraints",
+      "Houlihan Lokey is well-respected in middle-market M&A"
+    ],
+    "cons": [
+      "Frankfurt location, not London",
+      "IT Services/Business Services sector less exciting than tech or finance"
+    ],
+    "analysis": "Similar to the Technology posting (b5cc0c7236a68dc2), this is a solid investment banking opportunity at Houlihan Lokey, but in IT Services rather than tech. The off-cycle timing works well. The main drawback remains location (Frankfurt vs. your London preference). Only pursue if you're willing to relocate to Frankfurt for the summer and interested in services sector M&A.",
+    "found_on": "2026-09-03 17:38 UTC"
+  },
+  {
     "id": "ce930ada134e257d",
     "title": "2027 Commercial & Investment Banking - Risk Management Program - Summer Internship - London",
     "company": "JPMorganChase",
@@ -6549,687 +7195,5 @@
     ],
     "analysis": "This is a strong cultural and sector fit—Susquehanna hires top graduates for quant roles, and your Python, finance internship experience, and Economics background are relevant. The main friction is geography: the role is headquartered in Dublin with a London office, which only partially meets your London preference. Before applying, clarify with the recruiter where you'd physically be based for most of the 10 weeks. Your Python level is listed as a skill, so emphasize any projects or modules; they may be okay with strong fundamentals if your quant reasoning is sharp. Verify the summer 2027 dates don't overlap term.",
     "found_on": "2026-08-24 09:50 UTC"
-  },
-  {
-    "id": "8275064c030c5c3e",
-    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=sgYx9Jif8RG1IK3FZ4TrCw&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 78,
-    "reason": "Strong fit for quant/trading role; eligible to work; slight concern on dual Dublin/London split",
-    "deadline": null,
-    "pros": [
-      "Trading systems role aligns with sales & trading interest",
-      "Python skills directly applicable to computationally intensive role",
-      "10-week summer internship matches your availability window"
-    ],
-    "cons": [
-      "Dual Dublin/London location; you prefer London specifically",
-      "Heavy emphasis on 'strong technical skills' suggests high bar for non-CS background"
-    ],
-    "analysis": "Susquehanna is a legitimate, reputable proprietary trading firm and this is a genuine internship role. Your Python and structured finance background position you well for trading systems work. However, the posting emphasizes Dublin as EU HQ with London as secondary, which doesn't fully match your strong London preference. Before applying, confirm whether you'd spend most time in London and assess whether your technical depth (relative to computer science peers) is sufficient for what sounds like an engineering-heavy role. Worth applying if you're comfortable with Dublin contingency.",
-    "found_on": "2026-08-24 08:51 UTC"
-  },
-  {
-    "id": "ece9722791e3ad46",
-    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=sgYx9Jif8RG1IK3FZ4TrCw&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 80,
-    "reason": "Excellent fit: quant strategy, strong technical bar, London/Dublin base, paid summer internship",
-    "deadline": null,
-    "pros": [
-      "Quant strategy aligns closely with structured finance + asset management background",
-      "Python and financial modelling skills directly valued",
-      "Prestigious firm; paid 10-week program within your summer window"
-    ],
-    "cons": [
-      "Dual Dublin/London location; London not guaranteed as primary base"
-    ],
-    "analysis": "This is a strong match for your profile. Susquehanna's quant strategy internship sits at the intersection of trading, quantitative work, and technology—all areas you've signalled interest in and built relevant experience. Your Excel/financial modelling, Python, and structured finance internship give you credible grounding. The main caveat is the Dublin/London split; confirm the posting or recruiter on where the bulk of the internship would be based, since London is your strong preference. If London is confirmed or prominent, this moves to 85+. Definitely pursue this.",
-    "found_on": "2026-08-24 08:51 UTC"
-  },
-  {
-    "id": "98f1cca4654f7bfd",
-    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=nvT52Imf8RGlI_no73ReZg&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Strong technical fit and relevant field, but role heavily emphasizes engineering/coding over trading fundamentals; Dublin/London split adds logistical uncertainty.",
-    "deadline": null,
-    "pros": [
-      "Python skills directly applicable to trading systems",
-      "Sales & trading sector matches your interests",
-      "London-based with 10-week structured summer program"
-    ],
-    "cons": [
-      "Trading systems engineering is backend-heavy; your finance modeling background may be underutilized",
-      "Dublin/London split unclear—confirm London placement before applying",
-      "Computationally intensive role requires strong software engineering, not just financial knowledge"
-    ],
-    "analysis": "This is a plausible fit because Susquehanna is a legitimate, well-known trading firm and your Python skills are a genuine asset. However, the role description emphasizes 'trading systems engineering' and 'computationally intensive' work, which suggests this is more of a quant engineering internship than a trading or strategy role. You have the technical foundation to succeed, but verify whether the day-to-day work aligns with your interest in trading/strategy rather than pure backend engineering. The Dublin/London split is also worth clarifying—the posting says the program runs 'between' both offices, so confirm you'd be based primarily in London.",
-    "found_on": "2026-08-24 07:03 UTC"
-  },
-  {
-    "id": "c4b1d112e20fa527",
-    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=nvT52Imf8RGlI_no73ReZg&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 76,
-    "reason": "Excellent fit: quant strategy aligns with your interests, strong technical and finance background, London location preferred; Dublin split and role specificity are minor caveats.",
-    "deadline": null,
-    "pros": [
-      "Quantitative strategy directly matches your background in asset/structured finance",
-      "Python and financial modeling skills highly valued in quant roles",
-      "London-based; Susquehanna is tier-one trading firm with strong internship reputation"
-    ],
-    "cons": [
-      "Dublin/London split—clarify primary location before committing",
-      "Computationally intensive; ensure you're comfortable with heavy technical depth"
-    ],
-    "analysis": "This is a strong fit and worth prioritizing. Quantitative strategy development sits squarely in the intersection of your economics background, prior internships, and coding skills. Susquehanna is a legitimate, prestigious employer with a rigorous but rewarding internship program. The main risk is the Dublin/London split: the posting says the program runs 'between' both offices, so contact the recruiter to confirm you'd spend most or all of your time in London (your strong preference). If the role is split significantly, it may not meet your location requirement. Assuming London placement, this scores higher than the trading systems role because strategy is closer to your stated interests than backend engineering.",
-    "found_on": "2026-08-24 07:03 UTC"
-  },
-  {
-    "id": "103d6a20e732b777",
-    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=AlpHQX6f8RGU6LIjyaRnwA&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 78,
-    "reason": "Strong fit in trading/tech with Python skills; Dublin-London split slightly dilutes London preference but acceptable.",
-    "deadline": null,
-    "pros": [
-      "Trading systems engineering aligns with S&T interest",
-      "Python expertise directly applicable and valued",
-      "10-week summer program fits term dates well"
-    ],
-    "cons": [
-      "EU HQ in Dublin, not primary London preference",
-      "Role is heavily engineering-focused, not traditional finance"
-    ],
-    "analysis": "This is a genuine opportunity from a tier-one trading firm. You have the technical foundation (Python, modelling) they're seeking, and the program structure works around your academic calendar. The slight drawback is that while the role is based partly in London, the program appears centred in Dublin—clarify the exact split with them before applying. The work sits at the intersection of trading and technology, which matches your S&T / structured finance interests well. Eligibility is clear: EU citizen, work visa valid, summer timing works. Worth applying if you're genuinely interested in the quantitative/systems side of trading.",
-    "found_on": "2026-08-24 05:40 UTC"
-  },
-  {
-    "id": "2702745bb9ecaeb5",
-    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=AlpHQX6f8RGU6LIjyaRnwA&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 76,
-    "reason": "Quantitative strategy role fits quant/S&T goals; Python and modelling skills relevant; Dublin-London split is minor drawback.",
-    "deadline": null,
-    "pros": [
-      "Quant strategy aligns directly with S&T and asset management background",
-      "Python and financial modelling skills core to role",
-      "10-week summer internship structure"
-    ],
-    "cons": [
-      "Dublin-based EU HQ, not London-only",
-      "Very competitive; likely filters for strong quant backgrounds"
-    ],
-    "analysis": "This is a strong cultural and skill fit—quantitative strategy sits at the intersection of trading, asset management, and structured finance, all areas you've explored. Your Python, modelling skills, and prior internship experience give you a solid foundation. Like the trading systems role, this is a Susquehanna summer program (10 weeks, paid, term-time friendly), but based partly in Dublin. The role is more analytical than the other posting, so if you're more economics-focused than pure engineering, this may suit you better. Eligibility is straightforward. The main check is location: if Dublin time is a dealbreaker, deprioritise. Otherwise, a high-quality application to both Susquehanna roles is warranted.",
-    "found_on": "2026-08-24 05:40 UTC"
-  },
-  {
-    "id": "44cdec395326b8dd",
-    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=AGMgDnef8RGSb8VpDRDiVA&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 78,
-    "reason": "Strong technical fit in trading systems; location flexibility (London/Dublin) works; eligibility clear; 10-week summer timing ideal.",
-    "deadline": null,
-    "pros": [
-      "Python skills directly applicable to systems engineering role",
-      "Trading Systems Engineering aligns with sales & trading interest",
-      "Reputable firm; paid internship with structured 10-week program"
-    ],
-    "cons": [
-      "Computationally intensive role may prioritize CS/engineering background over economics",
-      "Dublin split could complicate logistics vs. London-only preference"
-    ],
-    "analysis": "This is a plausible fit if you have strong enough Python/technical depth. Susquehanna is a tier-1 trading firm and the role sits at the intersection of trading and technology that matches your interests. However, the job description emphasizes computational intensity and systems engineering, which may favour candidates with a stronger computer science background than your BSc Economics provides. The Dublin-London split is workable but not ideal given your strong London preference. Check the technical requirements carefully before applying and be prepared to demonstrate serious coding capability beyond basics.",
-    "found_on": "2026-08-24 04:48 UTC"
-  },
-  {
-    "id": "9c6bea329ab075e3",
-    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=AGMgDnef8RGSb8VpDRDiVA&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 81,
-    "reason": "Excellent fit: quant strategy + trading interest, Python + financial modelling valued, London/Dublin location acceptable, paid summer internship.",
-    "deadline": null,
-    "pros": [
-      "Quantitative strategy development aligns with economics + quant interests",
-      "Python and financial modelling skills directly valued",
-      "Paid 10-week summer program at top-tier trading firm"
-    ],
-    "cons": [
-      "Dublin/London split slightly deviates from strong London preference"
-    ],
-    "analysis": "This is a strong match for your profile. The quantitative strategy role bridges economics, modelling, and technology in a way that leverages your existing skills (Python, financial modelling, economics background) and prior internship experience. Susquehanna is an excellent firm for this stage of your career, and the 10-week summer timing works around term dates. The Dublin-London dual-office structure is a minor friction point given your location preference, but Dublin is still within your stated openness to other European hubs. This deserves a strong application.",
-    "found_on": "2026-08-24 04:48 UTC"
-  },
-  {
-    "id": "6fd6b2c660fd1a87",
-    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=rHJyqmif8RGSb8VpDRDiVA&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 78,
-    "reason": "Strong fit on role and eligibility, but Dublin-based with London option adds location uncertainty.",
-    "deadline": null,
-    "pros": [
-      "Trading systems role aligns with S&T interest",
-      "Python skills directly applicable",
-      "10-week summer program fits your timeline"
-    ],
-    "cons": [
-      "Primary base is Dublin, not London preference",
-      "Computationally intensive—unclear if coding depth required exceeds your Python level"
-    ],
-    "analysis": "This is a legitimate, paid internship at a serious quant trading firm. The role sits at the intersection of your technical skills (Python) and finance interests (sales & trading). The posting confirms you'd split time between Dublin HQ and London, so London presence is real, though Dublin is the primary location. This slightly undercuts your stated strong London preference, but the firm's caliber and role fit may make it worth applying. Before you do, check whether the coding bar is senior—if it requires advanced algorithmic work beyond your current level, you may be underqualified. The trading systems angle is excellent for your profile.",
-    "found_on": "2026-08-24 03:05 UTC"
-  },
-  {
-    "id": "09cee0649b1857ee",
-    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=rHJyqmif8RGSb8VpDRDiVA&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 75,
-    "reason": "Strong role fit (quant strategy, finance sector), but Dublin-based with location uncertainty.",
-    "deadline": null,
-    "pros": [
-      "Quantitative strategy directly matches your interests",
-      "Finance modelling and Python skills are core",
-      "Structured finance background is relevant"
-    ],
-    "cons": [
-      "Primary base is Dublin, not your stated London preference",
-      "Computationally intensive; bar on quant depth unclear"
-    ],
-    "analysis": "Another strong Susquehanna program with genuine fit to your profile. Quantitative strategy development is squarely in the asset management / trading space you're targeting, and your financial modelling and Python experience are valuable. Like the trading systems role, this splits Dublin and London, which is a partial location match at best. The main risk is that quant roles often require stronger mathematical/statistical foundations than a second-year Economics student may have; check the job spec carefully for required background. If you're comfortable with the quant bar and the Dublin element doesn't rule it out for you, this is a compelling application.",
-    "found_on": "2026-08-24 03:05 UTC"
-  },
-  {
-    "id": "3a78d30cb9b96dcf",
-    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=rB2S1Fqf8RGSb8VpDRDiVA&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Strong fit: trading systems role in London/Dublin, right seniority, you have Python and trading background",
-    "deadline": null,
-    "pros": [
-      "Python + technical skills directly leveraged",
-      "London/Dublin split aligns with location preferences",
-      "Paid 10-week summer internship, right level"
-    ],
-    "cons": [
-      "Heavy emphasis on 'computationally intensive' - check if engineering-heavy enough for your interests"
-    ],
-    "analysis": "This is a genuine fit. You have the Python chops and trading exposure (structured finance internship), and Susquehanna is a serious prop trading firm offering paid internships in your preferred locations. The role sits at the intersection of trading and engineering, which suits your mixed skill set. The only mild caveat is whether you want deep systems engineering work or prefer a more business-focused trading role - review the full description to confirm it's not pure backend engineering before applying.",
-    "found_on": "2026-08-24 01:26 UTC"
-  },
-  {
-    "id": "96803b97593b722c",
-    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=rB2S1Fqf8RGSb8VpDRDiVA&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 85,
-    "reason": "Excellent fit: quant strategy in London/Dublin, aligned with your finance interests and Python skills",
-    "deadline": null,
-    "pros": [
-      "Quant strategy ideal for economics + Python background",
-      "London/Dublin matches location preferences precisely",
-      "Paid 10-week summer role at your level"
-    ],
-    "cons": [],
-    "analysis": "This is a stronger match than the systems role for your profile. Quant strategy development directly combines your economics training, Python ability, and structured finance experience. Susquehanna is a top-tier trading firm, and this internship bridges strategy, markets, and quantitative work—exactly the kind of finance role you're seeking. Your expected first-class degree and previous structured finance internship make you competitive. Apply with confidence, and ensure your CV highlights your modelling and analytical work.",
-    "found_on": "2026-08-24 01:26 UTC"
-  },
-  {
-    "id": "4874e004f912d2e7",
-    "title": "Banking Summer Internship Programme 2027 London",
-    "company": "Barclays",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/details/5853947854?utm_medium=api&utm_source=88a1c016",
-    "snippet": "hackajob is collaborating with Barclays to connect them with exceptional professionals for this role. Summer Internship Programme Overview Join us as a summer intern and discover the world of finance and technology. Dive into our culture, engaging in real projects that offer a comprehensive business overview. Select your desired business area for an in-depth introduction, taking on immediate responsibility guided by a mentor and line manager. Forge connections, explore new horizons, and unlock …",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Strong fit: top-tier investment banking, London, summer 2027, paid, eligible",
-    "deadline": null,
-    "pros": [
-      "Barclays Investment Banking aligns perfectly with your target sector",
-      "London location matches your strong preference",
-      "Summer 2027 timing works around your graduation (June 2028)"
-    ],
-    "cons": [
-      "Description is truncated; unclear which business area you'd select",
-      "No explicit mention of compensation or visa sponsorship"
-    ],
-    "analysis": "This is a genuine fit across all dimensions: Barclays is a major investment banking employer, the London summer internship aligns with your timeline and location preference, and as an EU citizen with student visa you're eligible to work in summer break. The role description suggests mentorship and real project work typical of tier-1 banking internships. The main uncertainty is the vague description—follow up with Barclays or hackajob to confirm the specific business area and whether they sponsor interns on student visas (most do). Apply with confidence.",
-    "found_on": "2026-08-23 23:23 UTC"
-  },
-  {
-    "id": "9a2a3e7fa261b9dd",
-    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=ZChwpEmf8RGSb8VpDRDiVA&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 68,
-    "reason": "Sales & trading adjacent, strong on tech/Python, but engineering-focused and Dublin-based",
-    "deadline": null,
-    "pros": [
-      "Aligns with your sales & trading / structured finance interest",
-      "Your Python skills are directly relevant to this role",
-      "EU headquarters in Dublin is within your open geography"
-    ],
-    "cons": [
-      "Primary location Dublin, not your London preference",
-      "Computationally intensive trading systems engineering may skew too technical",
-      "Limited clarity on whether this builds finance domain knowledge vs pure engineering"
-    ],
-    "analysis": "Susquehanna is a highly respected trading firm and this is a legitimate paid summer internship. The role leverages your Python skills, which is a genuine strength. However, it's pitched as 'trading systems engineering'—more software engineering than sales & trading strategy—so you'd be solving tech problems rather than learning the market or trade execution. The Dublin location is acceptable under your stated openness but not your strong preference for London. If you're equally passionate about fintech/quant engineering as pure trading, this is worth applying to; if you want to understand markets and trading first, the Barclays role may suit you better.",
-    "found_on": "2026-08-23 23:23 UTC"
-  },
-  {
-    "id": "05e8b7805dc24627",
-    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=ZChwpEmf8RGSb8VpDRDiVA&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 71,
-    "reason": "Quant strategy fits, Python required, but Dublin-based and highly technical bar",
-    "deadline": null,
-    "pros": [
-      "Quantitative strategy directly matches your asset management experience",
-      "Python expertise is core to this role",
-      "Dublin location acceptable under your geographic flexibility"
-    ],
-    "cons": [
-      "Not in London; secondary location on your list",
-      "Computationally intensive; expects strong technical background",
-      "Description truncated; unclear mentorship or structured finance exposure"
-    ],
-    "analysis": "This is a stronger fit than the trading systems role because quantitative strategy aligns more closely with your asset management and structured finance internship experience. Susquehanna is top-tier and the role will teach you markets and quant reasoning. Your Python and expected strong degree are assets. The main trade-off is that it's Dublin-based (not London) and likely quite technically demanding—confirm whether your financial modelling and Python skills meet their bar before applying. If you're keen on quant finance over execution trading, this is worth pursuing despite the location shift.",
-    "found_on": "2026-08-23 23:23 UTC"
-  },
-  {
-    "id": "a0255597109e9130",
-    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=pP-AdUGf8RGfQpohglHoaw&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Strong technical fit and relevant field, but Dublin-based role conflicts with stated London preference.",
-    "deadline": null,
-    "pros": [
-      "Trading systems engineering aligns with sales & trading interest",
-      "Python skills directly applicable to computationally intensive role",
-      "10-week summer internship matches your availability window"
-    ],
-    "cons": [
-      "Primary location Dublin, not your stated strong preference for London",
-      "Heavily technical/engineering-focused; may prioritise computer science over economics background",
-      "Limited detail on compensation/structure in excerpt"
-    ],
-    "analysis": "This is a genuine opportunity from a reputable prop trading firm, and the technical skills requirement suits your Python experience well. However, the role is based in Dublin with London involvement, which is the reverse of your preference—you'd want to clarify how much time is spent in each location before investing application effort. The role sits comfortably within finance/trading, fits your 2028 graduation timeline, and you're clearly eligible to work in Ireland as an EU citizen. Check the full JD for explicit compensation confirmation and clarify the Dublin/London split with the recruiter.",
-    "found_on": "2026-08-23 22:24 UTC"
-  },
-  {
-    "id": "3504ee386405ffa2",
-    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=pP-AdUGf8RGfQpohglHoaw&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 75,
-    "reason": "Quant strategy role matches interests, but Dublin base and heavy technical weighting slightly offset strong fit.",
-    "deadline": null,
-    "pros": [
-      "Quantitative strategy developer aligns with structured finance and trading interests",
-      "Python and financial modelling skills directly relevant",
-      "10-week summer 2027 timing fits your graduation date and availability"
-    ],
-    "cons": [
-      "Primary location Dublin, not your strong London preference",
-      "Likely skews towards hard quant/CS skills over economics depth",
-      "Excerpt vague on exact responsibilities and compensation"
-    ],
-    "analysis": "Similar fit to the Trading Systems role but potentially better-aligned with your structured finance background and strategy focus. Again, the Dublin-based structure is a material caveat against your stated London preference, though the firm does mention a London office presence. Your economics degree, Python skills, and prior structured finance internship make you a credible candidate. Before applying, confirm the location split, check full compensation details, and consider whether a Dublin summer is workable or whether you should prioritise pure London opportunities. Both Susquehanna roles are legitimate and paid; neither is a dealbreaker, just a geographic compromise.",
-    "found_on": "2026-08-23 22:24 UTC"
-  },
-  {
-    "id": "9e08a0eba49acdd5",
-    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=LvCg8jif8RGPxum81CjSlg&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Strong technical fit and prestigious firm, but Dublin-based role conflicts with stated London preference.",
-    "deadline": null,
-    "pros": [
-      "Trading systems engineering aligns with quant/S&T interests",
-      "Python skills directly applicable to role",
-      "Paid, 10-week structured summer internship"
-    ],
-    "cons": [
-      "Dublin primary base conflicts with London preference",
-      "Computationally intensive—heavy emphasis on strong technical skills may require deeper Python/CS than candidate signals",
-      "Vague description truncated; unclear exact skillset required"
-    ],
-    "analysis": "Susquehanna is a legitimate, prestigious trading firm and this is a genuine paid internship at the right level. Your Python and technical background are assets here. However, the role is Dublin-headquartered with London as secondary, and the posting emphasizes \"strong technical skills\" in a way that suggests this may lean harder on CS/software engineering than your current profile signals. You're eligible to work and it's paid, which clears hard constraints. Check carefully whether the technical depth required matches your experience before applying, and confirm London placement likelihood with recruiters.",
-    "found_on": "2026-08-23 21:23 UTC"
-  },
-  {
-    "id": "c1b2b63653d93cf4",
-    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=LvCg8jif8RGPxum81CjSlg&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 75,
-    "reason": "Excellent fit on firm and domain; quant strategy role leverages your modeling and Python skills, but Dublin HQ location a minor drawback.",
-    "deadline": null,
-    "pros": [
-      "Quant strategy aligns perfectly with finance interests",
-      "Excel/Python financial modeling directly transferable",
-      "Paid, 10-week structured internship; prestigious firm"
-    ],
-    "cons": [
-      "Dublin primary location vs. London preference",
-      "Computationally intensive; may demand advanced quant/CS depth",
-      "Truncated description limits visibility of day-to-day work"
-    ],
-    "analysis": "This is the stronger of the two postings for you. Quantitative strategy development is squarely in your target sector (S&T/asset management intersection), and your financial modeling, Python, and structured finance internship experience are directly relevant. Susquehanna is a top-tier firm and the internship is paid and properly structured. The main trade-off is the Dublin headquarters—although London is listed, confirm whether you'd spend significant time in Dublin given your visa and term-date constraints. If London-based placements are standard, this deserves a strong application.",
-    "found_on": "2026-08-23 21:23 UTC"
-  },
-  {
-    "id": "88fb26a54c68229b",
-    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=Ctip4jCf8RGfQpohglHoaw&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Strong technical fit and relevant sector, but Dublin-based with London split raises visa/location ambiguity.",
-    "deadline": null,
-    "pros": [
-      "Trading systems role aligns with sales & trading interest",
-      "Python skills directly applicable to computationally intensive work",
-      "10-week summer internship matches your availability window"
-    ],
-    "cons": [
-      "Based in Dublin, not your strong London preference",
-      "Visa eligibility unclear: role split between Dublin/London may complicate UK student visa working rights in Ireland",
-      "Heavy emphasis on 'strong technical skills'—Python listed but role may demand advanced comp sci depth"
-    ],
-    "analysis": "This is a legitimate, paid internship from a tier-1 trading firm in a sector you've targeted. The technical fit is good: your Python and financial modelling background position you well for systems engineering. However, the Dublin headquarters location is a constraint. More critically, as a UK student visa holder, you need to verify whether time spent working in Ireland counts against your visa terms or requires separate work authorization. Contact Susquehanna's recruitment team to clarify the split and confirm visa eligibility before investing application effort. If they confirm the role can be fulfilled primarily from London, this rises to 78+.",
-    "found_on": "2026-08-23 20:26 UTC"
-  },
-  {
-    "id": "4610026812caf3ae",
-    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=Ctip4jCf8RGfQpohglHoaw&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 75,
-    "reason": "Quant strategy role matches your interests; Dublin/London split and advanced technical bar add minor friction.",
-    "deadline": null,
-    "pros": [
-      "Quantitative strategy in trading aligns with asset management & S&T interests",
-      "Python and financial modelling skills are core to the role",
-      "Structured finance background gives you domain context"
-    ],
-    "cons": [
-      "Based in Dublin; visa eligibility in Ireland unclear for UK student visa holders",
-      "Likely expects strong quant/maths background; economics+Python may be threshold",
-      "Role emphasizes 'strong technical skills'—competitive bar for 2nd-year entry"
-    ],
-    "analysis": "This posting is a better sector fit than the trading systems role: quantitative strategy sits squarely in the asset management and structured finance space you've already interned in. Your Python and modelling skills are relevant, and the structured finance internship signals you can handle complex analytical work. The same Dublin/London visa question applies here. Before applying, confirm (1) whether the role can be based in London, and (2) that your UK student visa permits work in Ireland. If both are yes, this is a solid 78+. If you're London-only and visa-constrained, the Dublin element becomes a blocker despite strong role fit.",
-    "found_on": "2026-08-23 20:26 UTC"
-  },
-  {
-    "id": "17c8ca9f789fc0ce",
-    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=9oyjLSif8RGkw7aNMMxh3Q&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Strong technical fit and prestigious employer, but dual Dublin-London split creates logistical complexity for a London-focused candidate.",
-    "deadline": null,
-    "pros": [
-      "Trading systems role aligns with S&T / quant interests",
-      "Python skills directly applicable to computationally intensive work",
-      "Reputable global trading firm with strong graduate pipeline"
-    ],
-    "cons": [
-      "Based between Dublin and London, not purely London",
-      "Computationally intensive—may favour stronger CS background over economics",
-      "No explicit mention of paid internship or salary"
-    ],
-    "analysis": "This is a plausible fit for your trading and technology interests, and Susquehanna is an excellent firm. However, the posting emphasises that the role is split between Dublin (their EU HQ) and London, which introduces uncertainty about your actual location for the summer. You have Python and structured finance experience, which helps, but the emphasis on 'computationally intensive' and 'strong technical skills' suggests they may prioritise hard engineering talent over economics backgrounds. Before applying, clarify whether you'd be based in London only or split, and confirm it's a paid internship at market rates. Your work eligibility is not in doubt. Worth pursuing, but go in with eyes open about the Dublin element.",
-    "found_on": "2026-08-23 19:23 UTC"
-  },
-  {
-    "id": "d6c60081e8aba0af",
-    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=9oyjLSif8RGkw7aNMMxh3Q&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 75,
-    "reason": "Quantitative strategy role matches your interests and technical skills, but dual location and Python-heavy focus create mild uncertainty.",
-    "deadline": null,
-    "pros": [
-      "Quantitative strategy appeals directly to your finance career goals",
-      "Python and financial modelling skills are directly relevant",
-      "Prestigious employer; 10-week summer program suits timeline"
-    ],
-    "cons": [
-      "Dublin-London split again—clarify actual base location",
-      "Heavy computational focus may slightly favour quant PhDs or CS specialists",
-      "Salary and paid status not explicitly stated in excerpt"
-    ],
-    "analysis": "This posting is slightly more aligned with your economics and strategy consulting interests than the trading systems role, since quant strategy sits at the intersection of maths, economics, and trading logic. Your financial modelling, Python, and structured finance internship all position you reasonably well. However, the same caveats apply: the Dublin-London split needs clarification, and the emphasis on 'computationally intensive' work means you should be prepared to articulate your technical depth. Check the full job description for salary details and location certainty before investing effort in your application. Your visa status and graduation date are both fine.",
-    "found_on": "2026-08-23 19:23 UTC"
-  },
-  {
-    "id": "22f61011ba86370b",
-    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=Rkt6DiGf8RGY1KnyJZrahA&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Strong role fit and location preference, but Python emphasis and Dublin split may require clarification on actual base.",
-    "deadline": null,
-    "pros": [
-      "10-week summer internship, paid, London/Dublin (preferred locations)",
-      "Sales & trading adjacent: systems engineering at prop trading firm",
-      "Python skills directly applicable to role"
-    ],
-    "cons": [
-      "Role emphasizes 'strong technical skills' - your Python is basic",
-      "Split between Dublin and London - unclear where you'd actually be based",
-      "Computationally intensive; limited evidence of advanced quant/CS background"
-    ],
-    "analysis": "This is a genuine trading firm internship in your preferred geography and sector, but it's positioned as a technical engineering role rather than a traditional trading or strategy track. Your Python experience is noted as basic, and the posting suggests they want strong computational skills—you should verify whether your level meets their bar before investing time in the application. The Dublin/London split is worth clarifying: if it's primarily Dublin, it moves down your preference list, though Dublin is still acceptable to you. The 10-week summer timing should work around your term dates. This is worth pursuing if you're confident in your technical foundation, but manage expectations about competition from CS/Physics students.",
-    "found_on": "2026-08-23 18:32 UTC"
-  },
-  {
-    "id": "7a4342305a3dfaa8",
-    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=Rkt6DiGf8RGY1KnyJZrahA&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 75,
-    "reason": "Excellent sector/location fit and quant strategy is right field; technical bar and Dublin split are moderate concerns.",
-    "deadline": null,
-    "pros": [
-      "Quantitative strategy development aligns with investment banking/trading interests",
-      "London/Dublin base in preferred locations and cities",
-      "10-week paid summer internship, no term conflicts"
-    ],
-    "cons": [
-      "Computationally intensive; basic Python may not be sufficient",
-      "Split base between Dublin and London—clarify primary location",
-      "Likely competes with stronger quant/math candidates"
-    ],
-    "analysis": "This role is closer to your stated interests in sales & trading and structured finance than the previous posting, and Susquehanna is a top-tier prop trading firm where an internship carries real signal. Quantitative strategy is a natural next step from your economics and modelling background. However, the same concern applies: the posting emphasizes computational intensity, and your Python is self-described as basic. Before applying, honestly assess whether your financial modelling and Python foundation will stand out, or whether you need to deepen your quant skills first. The Dublin/London split should be clarified with the recruiter—if you're primarily in Dublin, it's still acceptable but less ideal than London. This is a strong fit if your technical skills are stronger than you've indicated.",
-    "found_on": "2026-08-23 18:32 UTC"
-  },
-  {
-    "id": "aac6d7e7f9377ca4",
-    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=HLdCLBef8RGjSetbKNRR7Q&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Strong technical fit and prestigious firm, but Dublin-based role conflicts with stated London preference.",
-    "deadline": null,
-    "pros": [
-      "Trading systems engineering aligns with your quantitative background and Python skills",
-      "Susquehanna is a tier-1 trading firm, highly respected in finance",
-      "10-week summer internship matches your availability window"
-    ],
-    "cons": [
-      "Primary location is Dublin, not London (though London office mentioned)",
-      "Computationally intensive role may require deeper CS/engineering specialization than your profile shows",
-      "Unclear if this is a traditional summer internship or requires extended placement"
-    ],
-    "analysis": "This is a genuinely strong opportunity from a world-class proprietary trading firm, and your Python skills plus structured finance background give you a real edge. However, the role is anchored in Dublin with only partial London exposure, which contradicts your strong London preference. Before applying, clarify the exact split between Dublin and London, and confirm whether your current visa status permits work in Ireland (it may not). The technical bar is also high—make sure you can speak credibly to algorithmic problem-solving and systems design, not just Excel models.",
-    "found_on": "2026-08-23 17:22 UTC"
-  },
-  {
-    "id": "9ce86dca9689ce12",
-    "title": "Quantitative Strategy Developer Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447825?se=HLdCLBef8RGjSetbKNRR7Q&utm_medium=api&utm_source=88a1c016&v=24EAF02A2B613A4578AB23EE9C3430160EEDAC0B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive int…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 74,
-    "reason": "Quant strategy role at top firm is ideal fit, but Dublin location and technical depth requirement slightly reduce score.",
-    "deadline": null,
-    "pros": [
-      "Quantitative strategy directly matches your economics and structured finance experience",
-      "Python and modelling skills are immediately applicable and valued",
-      "Susquehanna is a top employer; strong signal for future finance roles"
-    ],
-    "cons": [
-      "Dublin-based with only London office mentioned; misaligns with stated location preference",
-      "Computationally intensive role may expect stronger quant/CS foundation than current profile reflects",
-      "Limited description makes it hard to assess true seniority fit"
-    ],
-    "analysis": "This is marginally stronger than the trading systems role because quantitative strategy sits closer to your economics degree and prior asset management experience. Your financial modelling and Python foundations are relevant. However, you face the same Dublin location issue and an elevated technical bar—quant roles at Susquehanna typically recruit PhD candidates or very strong engineers. Clarify the London versus Dublin split and check whether they expect advanced mathematics or research experience. Only apply if you're genuinely open to Dublin and can demonstrate solid quant problem-solving chops beyond standard financial modelling.",
-    "found_on": "2026-08-23 17:22 UTC"
-  },
-  {
-    "id": "20e344befeaea025",
-    "title": "Trading Systems Engineering Internship: Summer 2027 (London) - Susquehanna International Group",
-    "company": "Susquehanna International Group",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5852447828?se=Lhqcug-f8RGftbC-rj-wUg&utm_medium=api&utm_source=88a1c016&v=405BBCDF2FDFB6307F7FE742DC17BEC5997C906B",
-    "snippet": "Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into finan…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 78,
-    "reason": "Strong technical fit and prestigious employer, but Dublin/London split requires clarification on visa eligibility and term-time conflict.",
-    "deadline": null,
-    "pros": [
-      "Trading systems role aligns with sales & trading interest",
-      "Python skills directly applicable to computationally intensive work",
-      "Prestigious tier-1 trading firm with strong reputation"
-    ],
-    "cons": [
-      "Dublin-based: requires EU right-to-work clarity beyond UK student visa",
-      "10-week duration may overlap with term dates for 2nd year student",
-      "Heavy emphasis on 'strong technical skills' — Python noted but depth unclear"
-    ],
-    "analysis": "Susquehanna is an excellent match for your trading and tech interests, and the role sits squarely in your target sector. However, there are two critical blockers to investigate before applying. First, while you have UK student visa status, the posting emphasizes the Dublin headquarters—you need to confirm whether EU work rights or a separate visa sponsorship would be required for any Dublin-based portion, or if the role can be fulfilled entirely from London. Second, verify the exact summer dates: as a 2nd year student, a 10-week commitment may clash with your term schedule. If both can be resolved, this is a genuine 80+ opportunity; if not, it drops significantly.",
-    "found_on": "2026-08-23 16:28 UTC"
   }
 ]
