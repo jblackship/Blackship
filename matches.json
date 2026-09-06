@@ -1,5 +1,30 @@
 [
   {
+    "id": "882d3cc2d5ea94ce",
+    "title": "Europe Finance Leaders of Tomorrow - Recruitment Event",
+    "company": "Procter & Gamble",
+    "location": "Paris, Ile-de-France",
+    "url": "https://www.adzuna.fr/land/ad/5870111378?se=Or4MUt6p8RGogquEo3zAlQ&utm_medium=api&utm_source=88a1c016&v=C97C20153E0A08EB8084C12B60CD510E5D4A4D54",
+    "snippet": "GENEVA BUSINESS CENTER Prague 1 Paris Schwalbach Am Taunus Budapest Rotterdam Rome Brussels Madrid Bucharest Warsaw Full time R000158277 Job Location GENEVA BUSINESS CENTER Job Description Exclusive Recruiting Event on February 3-4th, 2027 in Paris, France Join us on February 3-4th, 2027 in Paris, France for an exclusive Finance Internship Recruiting Event. Are you a student seeking a Finance Internship in one of our European locations? This is your chance to gain valuable insights into the wor…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 62,
+    "reason": "Recruitment event (not a job posting), Paris location is secondary preference, unclear internship terms and timing.",
+    "deadline": "2027-02-04",
+    "pros": [
+      "P&G is reputable, finance internships explicitly mentioned",
+      "Paris is in your acceptable location list",
+      "Open to students (recruiting event format)"
+    ],
+    "cons": [
+      "This is an event invite, not a live internship posting—unclear roles/terms",
+      "Multiple European hubs listed; no guarantee London or your preferred locations featured",
+      "No detail on internship duration, pay, or which divisions hiring"
+    ],
+    "analysis": "This is a recruitment event rather than a concrete internship posting, so it's harder to evaluate fit. P&G is a solid company and they explicitly mention finance internships across European locations, which could work for you. However, the listing is vague—you don't know which roles are available, whether they're paid, or if any are in London or your secondary cities. The event date is February 2027, which may be too early or too late depending on your summer availability. Attend if you're genuinely interested in P&G's finance rotational program, but treat this as a networking/exploration opportunity, not a confirmed internship match.",
+    "found_on": "2026-09-06 10:32 UTC"
+  },
+  {
     "id": "eb48a2d67cab7408",
     "title": "Europe Finance Leaders of Tomorrow - Recruitment Event",
     "company": "Procter & Gamble",
@@ -6938,29 +6963,6 @@
     ],
     "cons": [],
     "analysis": "Excellent match. JPM Global Markets offers exposure to trading, client engagement, and sophisticated risk management—all core to your S&T ambitions. Your prior structured finance internship and modelling skills position you well. The role involves exploring multiple asset classes, which aligns with your broad finance curiosity. This should be high on your target list alongside the Markets Research and Global IB roles.",
-    "found_on": "2026-09-02 23:06 UTC"
-  },
-  {
-    "id": "707c720295b2b466",
-    "title": "2027 Global Private Bank - Investment Solutions Summer Internship Program - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867221792?se=lH3J3yKn8RGVXraSihnW_w&utm_medium=api&utm_source=88a1c016&v=FFE4760B93DA1C496766EC6E92BE7650CD36722F",
-    "snippet": "Description If you enjoy building relationships and helping develop innovative solutions while working in a fast-paced environment, then we have the role for you. Our advisors help clients achieve their financial goals by delivering the right solutions and services across our industry leading investments, credit, banking and Trust & Estates practices. This individualized attention supports our clients' unique goals and helps build, preserve and manage their wealth over time. As an Advisor Summe…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 65,
-    "reason": "Moderate fit: Private banking/wealth management, London, JPM; asset management adjacent but not core target",
-    "deadline": null,
-    "pros": [
-      "London, JPM prestige, relationship-building focus",
-      "Investment solutions advisory relevant to asset management interest"
-    ],
-    "cons": [
-      "Private banking focuses on ultra-high-net-worth individuals, not core IB or S&T",
-      "Advisor role less analytical than your stated preference for structured finance"
-    ],
-    "analysis": "JPM Private Bank Investment Solutions is a legitimate internship but veers toward wealth management rather than investment banking or trading. You'd be advising private clients on portfolio construction rather than executing trades or working on corporate transactions. It's not a bad option if you want to explore client-facing investment work, but it's further from your core stated targets. Consider it only if you're genuinely curious about alternatives to front-office finance.",
     "found_on": "2026-09-02 23:06 UTC"
   }
 ]
