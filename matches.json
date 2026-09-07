@@ -1,5 +1,54 @@
 [
   {
+    "id": "d5fdb744a7694922",
+    "title": "Global Banking and Advisory 2027 Summer Internship (8 Weeks)",
+    "company": "Societe Generale",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5874162238?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Job Description Roles and Responsibilities Eight-week internship scheme which will include various face to face interactions within roles across the department which aims to build necessary experience and expertise to help you develop a career in the industry. Provide administrative support within front office revenue generating divisions. Involvement with ad-hoc projects the team are currently working on to maximise project deliverables as well as hit the required timelines. Shadow colleagues …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Strong fit: investment banking internship in London, right level, paid 8-week scheme, candidate eligible.",
+    "deadline": null,
+    "pros": [
+      "Investment banking aligns with your stated preferences",
+      "8-week summer scheme fits your availability",
+      "London location is your strong preference"
+    ],
+    "cons": [
+      "Administrative support emphasis may be junior relative to your experience",
+      "Description vague on specific technical skill development"
+    ],
+    "analysis": "This is a solid match. Societe Generale's structured 8-week internship in their banking division directly aligns with your sector preferences and London location. As a 2nd year at a top UK university with prior structured finance and asset management internship experience, you're well-positioned to stand out. The role emphasizes front office exposure and project work, which should develop your financial modelling skills further. Apply promptly as these schemes fill quickly.",
+    "found_on": "2026-09-07 17:37 UTC"
+  },
+  {
+    "id": "74902a2e03345157",
+    "title": "Markets - Sales and Trading, Off-Cycle Internship, Paris - France, 2027",
+    "company": "Citigroup",
+    "location": "Paris, Ile-de-France",
+    "url": "https://www.adzuna.fr/land/ad/5873760686?se=SnZsz-Kq8RGsJNkd9qy0NQ&utm_medium=api&utm_source=88a1c016&v=4B57CA147A7EF4FD395E27D33D0E9E38A5CDC504",
+    "snippet": "You're the brains behind our work. Are you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it's honing your skills or building your network, we know that success can't come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth; it is not a question of if, but when. Citi is look…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Plausible fit: sales & trading off-cycle internship, your interest, but Paris location is secondary preference.",
+    "deadline": null,
+    "pros": [
+      "Sales & trading matches your stated interests",
+      "Off-cycle internship fits around term dates",
+      "Citi is top-tier, strong career signal"
+    ],
+    "cons": [
+      "Paris is secondary preference; London stronger",
+      "Posting lacks detail on compensation and duration",
+      "No explicit confirmation of internship vs. graduate role"
+    ],
+    "analysis": "Citigroup's trading internship is exactly the type of role you're seeking, and the off-cycle structure is ideal for fitting around your term dates. Your economics background and Python skills should be valuable on a trading floor. However, Paris is your secondary European preference after London. The posting is somewhat vague on specifics—confirm duration, salary, and that this is genuinely an internship before investing time. This deserves application, but prioritize London opportunities if they emerge.",
+    "found_on": "2026-09-07 17:37 UTC"
+  },
+  {
     "id": "66957f5e02677007",
     "title": "Markets - Sales and Trading, Off-Cycle Internship, Paris - France, 2027",
     "company": "Citigroup",
@@ -6927,54 +6976,5 @@
     ],
     "analysis": "This is the markets-side version of the quant research role. It's pitched at Analyst level (vs. Associate in id a07697a3931d7794), which may be more appropriate for a 2nd-year student. The focus is systematic trading, financial engineering, and portfolio optimization—heavier quant than your prior roles. Only pursue if you're genuinely strong in statistics and data science, and want to explore quantitative trading rather than AM. The off-cycle structure is convenient.",
     "found_on": "2026-09-03 03:35 UTC"
-  },
-  {
-    "id": "9a4a6cfb130035b0",
-    "title": "2027 Quantitative Research - Risk and Treasury - Off-Cycle - Associate – London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867228962?se=EEsWjUin8RG1TLE4tw1AEA&utm_medium=api&utm_source=88a1c016&v=9BFEAFB8C7EFF0925BA9F479C1E9F619206E7F55",
-    "snippet": "Description Job Description At JPMorganChase, we champion your innovative ideas through a supportive culture that helps you every step of the way as you build your career. If you are passionate, curious and ready to make an impact, we are looking for you. Job Summary: As a Quantitative Research – Risk and Treasury off-cycle intern in the Quantitative Modeling Program, you will work alongside top-tier professionals in a dynamic environment. You’ll apply academic knowledge to real-world financial…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 68,
-    "reason": "Quant research in risk/treasury off-cycle, less aligned with your focus.",
-    "deadline": null,
-    "pros": [
-      "Off-cycle timing fits around term dates",
-      "Quantitative modelling and analytical skills valued",
-      "Risk management blends with structured finance background"
-    ],
-    "cons": [
-      "Risk and treasury quant is internal-facing, not client/market-driven",
-      "Less aligned than AM or markets quant",
-      "Associate level may signal high bar"
-    ],
-    "analysis": "This is the risk/treasury quant variant. It's interesting if you're curious about quantitative risk modeling and internal JPMorgan infrastructure, but it's the least aligned with your stated priorities (IB, AM, S&T). Risk and treasury quant is valuable but tends to be behind-the-scenes rather than client-facing. Pursue only if you've exhausted the AM and markets quant routes and want to explore risk careers.",
-    "found_on": "2026-09-03 03:35 UTC"
-  },
-  {
-    "id": "a661da744c1f6ff2",
-    "title": "2027 Commercial & Investment Banking - Risk Management Program - Summer Internship - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867248755?se=lH3J3yKn8RGVXraSihnW_w&utm_medium=api&utm_source=88a1c016&v=66DEE4755EDF3A24F4A2D524C4A87A0F5F9E284C",
-    "snippet": "Description Description As an intern in the Commercial & Investment Banking Risk Management Program in London, you will work with industry experts to identify, assess and manage risk for our global businesses. You’ll collaborate with colleagues at all levels, gain broad product knowledge, build your network, and develop expertise in a diverse, supportive environment. We value your unique perspective to help us innovate for our clients and we will provide the tools to succeed with training and m…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 78,
-    "reason": "Strong fit: Investment banking, risk management, London summer internship; JPM prestigious; minor concern on risk vs. trading focus",
-    "deadline": null,
-    "pros": [
-      "Investment banking as stated preference",
-      "London location",
-      "Structured finance experience translates to risk"
-    ],
-    "cons": [
-      "Risk management niche, not core IB/S&T",
-      "No explicit mention of quant/modelling emphasis"
-    ],
-    "analysis": "This is a credible summer internship at a top-tier bank in your target location and broadly within investment banking. Risk Management at JPM is well-regarded and your structured finance background is relevant. However, it's somewhat tangential to your stated S&T and advisory interests—risk is important but not the same as trading or deal execution. Apply if you're genuinely curious about risk culture; otherwise prioritise pure IB or Markets roles.",
-    "found_on": "2026-09-02 23:06 UTC"
   }
 ]
