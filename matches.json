@@ -1,5 +1,29 @@
 [
   {
+    "id": "20fc3cb0fc1d4584",
+    "title": "Markets - Sales and Trading, Off-Cycle Internship, Paris - France, 2027",
+    "company": "Citigroup",
+    "location": "Paris, Ile-de-France",
+    "url": "https://www.adzuna.fr/land/ad/5873760686?se=1JlBeQGr8RGoE9oKHnKTsA&utm_medium=api&utm_source=88a1c016&v=4B57CA147A7EF4FD395E27D33D0E9E38A5CDC504",
+    "snippet": "You're the brains behind our work. Are you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it's honing your skills or building your network, we know that success can't come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth; it is not a question of if, but when. Citi is look…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Strong fit: sales & trading internship in preferred location, eligible, off-cycle timing suits term dates.",
+    "deadline": null,
+    "pros": [
+      "Sales & trading directly matches your stated interests",
+      "Off-cycle format aligns with UK term schedule",
+      "Paris is in your acceptable locations list"
+    ],
+    "cons": [
+      "Job description truncated—verify full details before applying",
+      "No explicit mention of paid vs unpaid (check terms)"
+    ],
+    "analysis": "This is a genuine fit on paper. Citigroup's Markets S&T off-cycle program is a credible offering for your profile—you have relevant internship experience (structured finance, asset management), strong academics, and the timing works around your degree. Paris is one of your named acceptable hubs. The main risk is that the posting is cut off mid-sentence; make sure you read the full job description to confirm it's paid, confirms your visa eligibility, and details the actual dates. Your French working proficiency is a bonus for a Paris role. Apply with confidence if the full terms check out.",
+    "found_on": "2026-09-07 21:16 UTC"
+  },
+  {
     "id": "d5fdb744a7694922",
     "title": "Global Banking and Advisory 2027 Summer Internship (8 Weeks)",
     "company": "Societe Generale",
@@ -6950,31 +6974,6 @@
       "Quant-heavy; verify comfort with advanced math/CS"
     ],
     "analysis": "This appears to be a duplicate of id a84784ad29d99e24 or a related posting in the same programme. Same feedback applies: excellent fit for your profile, off-cycle timing suits 2nd-year study, Python and AM background directly valuable. If this and the earlier posting are separate application windows, apply to both.",
-    "found_on": "2026-09-03 03:35 UTC"
-  },
-  {
-    "id": "fa2f8a6b3da71ce8",
-    "title": "2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867240968?se=EEsWjUin8RG1TLE4tw1AEA&utm_medium=api&utm_source=88a1c016&v=ADF2FA00C6F417A79331BDBD7511752C7EFCC971",
-    "snippet": "Description As an off-cycle analyst in the Quantitative Trading & Research Markets team at JPMorganChase, you will join a leading quantitative modeling group focused on systematic trading, financial engineering, data analytics, statistical modeling, and portfolio optimization. Job Summary You will work closely with traders, sales, marketing, technologists, and risk managers across products and regions. You will support research and strategy deployment, client and sales engagement, product innov…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 72,
-    "reason": "Quant research markets off-cycle, high technical bar, London.",
-    "deadline": null,
-    "pros": [
-      "Sales & trading (markets) quant research angle",
-      "Off-cycle structure suits term dates",
-      "Systematic trading and financial engineering focus"
-    ],
-    "cons": [
-      "Analyst level; verify seniority expectations",
-      "High quant barrier to entry; Python/stats depth required",
-      "Markets-focused quant distinct from AM quant"
-    ],
-    "analysis": "This is the markets-side version of the quant research role. It's pitched at Analyst level (vs. Associate in id a07697a3931d7794), which may be more appropriate for a 2nd-year student. The focus is systematic trading, financial engineering, and portfolio optimization—heavier quant than your prior roles. Only pursue if you're genuinely strong in statistics and data science, and want to explore quantitative trading rather than AM. The off-cycle structure is convenient.",
     "found_on": "2026-09-03 03:35 UTC"
   }
 ]
