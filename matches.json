@@ -1,5 +1,30 @@
 [
   {
+    "id": "cb7be6afcc415702",
+    "title": "Markets - Sales and Trading, Off-Cycle Internship, Paris - France, 2027",
+    "company": "Citigroup",
+    "location": "Paris, Ile-de-France",
+    "url": "https://www.adzuna.fr/land/ad/5873760686?se=tGS2F0ir8RGH8OtBJeYZ3A&utm_medium=api&utm_source=88a1c016&v=4B57CA147A7EF4FD395E27D33D0E9E38A5CDC504",
+    "snippet": "You're the brains behind our work. Are you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it's honing your skills or building your network, we know that success can't come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth; it is not a question of if, but when. Citi is look…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Strong field and company fit; off-cycle timing ideal; Paris location acceptable; minor concerns on visa eligibility confirmation and role vagueness.",
+    "deadline": null,
+    "pros": [
+      "Sales & Trading matches stated target exactly",
+      "Off-cycle internship fits around term dates",
+      "Paris is within acceptable location list"
+    ],
+    "cons": [
+      "UK visa status may require specific sponsorship confirmation for France",
+      "Description lacks concrete role detail or required skills",
+      "No explicit confirmation of paid internship (though Citi standard practice suggests paid)"
+    ],
+    "analysis": "This is a genuine fit on paper: Citigroup is a top-tier employer, Sales & Trading is your stated preference, and off-cycle timing works around your studies. Paris is your third-choice location but still acceptable. The main friction point is visa eligibility—you'll need to verify that your UK student visa permits work in the EU under the post-Brexit rules, or whether Citi can sponsor you. The posting is also quite vague on responsibilities and required skills, so reach out to confirm the role substance and paid status before investing application effort. If visa eligibility checks out, this deserves a strong application.",
+    "found_on": "2026-09-08 05:42 UTC"
+  },
+  {
     "id": "e597aa989eae744e",
     "title": "Markets - Sales and Trading, Off-Cycle Internship, Paris - France, 2027",
     "company": "Citigroup",
@@ -6951,30 +6976,6 @@
       "Macquarie less prominent in some AM sub-sectors"
     ],
     "analysis": "Macquarie Asset Management is a credible, global team with exposure to fixed income, equities, alternatives, and green investments. This is a legitimate option if you want to diversify beyond JPMorgan. The breadth of MAM's mandate is appealing. However, the posting is light on specifics about the internship structure and projects. Request a conversation with the recruiter to clarify your team and scope before committing.",
-    "found_on": "2026-09-03 03:35 UTC"
-  },
-  {
-    "id": "a07697a3931d7794",
-    "title": "2027 Quantitative Research Markets Associate Program – Off-Cycle Internship – London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867253454?se=EEsWjUin8RG1TLE4tw1AEA&utm_medium=api&utm_source=88a1c016&v=A6E95DC7AF1769E3695194BFC9AB1119E9088A58",
-    "snippet": "Description As an off-cycle associate in the Quantitative Trading & Research Markets team at JPMorganChase, you will join a leading quantitative modeling group focused on systematic trading, financial engineering, data analytics, statistical modeling, and portfolio optimization. You will work closely with traders, sales, marketing, technologists, and risk managers across products and regions. You will support research and strategy deployment, client and sales engagement, product innovation, val…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 73,
-    "reason": "Quant trading research off-cycle, London, but heavy quant slant.",
-    "deadline": null,
-    "pros": [
-      "Quantitative trading & research, S&T angle you want",
-      "Off-cycle flexibility around term dates",
-      "Systematic trading and financial engineering exposure"
-    ],
-    "cons": [
-      "Heavy quant/data science focus; verify skillset depth needed",
-      "Associate-level framing suggests senior positioning"
-    ],
-    "analysis": "This is a strong opportunity if you're confident in your quantitative abilities. The role combines trading research with data science and statistical modeling—skills that matter increasingly in modern markets. Your Python background helps. The off-cycle structure is convenient for your term dates. However, assess whether your quant comfort level is strong enough; the posting suggests this is pitched at a high technical bar. If you're unsure, the AM Quant Research role (id a84784ad29d99e24) may be more accessible.",
     "found_on": "2026-09-03 03:35 UTC"
   }
 ]
