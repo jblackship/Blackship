@@ -1,5 +1,29 @@
 [
   {
+    "id": "e597aa989eae744e",
+    "title": "Markets - Sales and Trading, Off-Cycle Internship, Paris - France, 2027",
+    "company": "Citigroup",
+    "location": "Paris, Ile-de-France",
+    "url": "https://www.adzuna.fr/land/ad/5873760686?se=ZvBmuBir8RGsJNkd9qy0NQ&utm_medium=api&utm_source=88a1c016&v=4B57CA147A7EF4FD395E27D33D0E9E38A5CDC504",
+    "snippet": "You're the brains behind our work. Are you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it's honing your skills or building your network, we know that success can't come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth; it is not a question of if, but when. Citi is look…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Strong fit: right field, right level, right location, candidate eligible, off-cycle timing",
+    "deadline": null,
+    "pros": [
+      "Sales & Trading aligns with your stated interests",
+      "Off-cycle internship fits around term dates",
+      "Paris is in your acceptable location list"
+    ],
+    "cons": [
+      "Listing is truncated/incomplete; full role details unclear",
+      "No explicit mention of visa sponsorship or EU/UK student eligibility confirmation"
+    ],
+    "analysis": "This is a genuine Citi off-cycle internship in a market you want (Paris), in a field you're targeting (S&T), timed to work around your academic calendar. Your EU citizenship and UK student visa should satisfy eligibility, and your Asset Management and Structured Finance internships plus Python skills are relevant signals. The main risk is the truncated job description—you'll need to access the full posting to confirm role scope, exact dates, and any visa/eligibility blockers before applying. Citigroup's scale and reputation make this credible; this is worth pursuing.",
+    "found_on": "2026-09-08 00:03 UTC"
+  },
+  {
     "id": "20fc3cb0fc1d4584",
     "title": "Markets - Sales and Trading, Off-Cycle Internship, Paris - France, 2027",
     "company": "Citigroup",
@@ -6951,29 +6975,6 @@
       "Associate-level framing suggests senior positioning"
     ],
     "analysis": "This is a strong opportunity if you're confident in your quantitative abilities. The role combines trading research with data science and statistical modeling—skills that matter increasingly in modern markets. Your Python background helps. The off-cycle structure is convenient for your term dates. However, assess whether your quant comfort level is strong enough; the posting suggests this is pitched at a high technical bar. If you're unsure, the AM Quant Research role (id a84784ad29d99e24) may be more accessible.",
-    "found_on": "2026-09-03 03:35 UTC"
-  },
-  {
-    "id": "4e82cc4a73326996",
-    "title": "2027 Quantitative Research – Asset Management - Off-Cycle - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867248986?se=EEsWjUin8RG1TLE4tw1AEA&utm_medium=api&utm_source=88a1c016&v=942E2232E6773797200B8C919B049FC96FCD3D24",
-    "snippet": "Description Job Description At JPMorganChase, we champion your innovative ideas through a supportive culture that helps you every step of the way as you build your career. If you are passionate, curious and ready to make an impact, we are looking for you. Job Summary: As a Quantitative Research – Asset Management Off-Cycle Intern in the Asset Management Product Program, you will sit at the intersection of investment science and technology—working directly with portfolio managers and research te…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 79,
-    "reason": "Duplicate: Quant research asset management off-cycle, strong fit.",
-    "deadline": null,
-    "pros": [
-      "Asset management and quant research intersection",
-      "Off-cycle fits around term dates",
-      "Python and modelling skills directly applicable"
-    ],
-    "cons": [
-      "Quant-heavy; verify comfort with advanced math/CS"
-    ],
-    "analysis": "This appears to be a duplicate of id a84784ad29d99e24 or a related posting in the same programme. Same feedback applies: excellent fit for your profile, off-cycle timing suits 2nd-year study, Python and AM background directly valuable. If this and the earlier posting are separate application windows, apply to both.",
     "found_on": "2026-09-03 03:35 UTC"
   }
 ]
