@@ -1,5 +1,76 @@
 [
   {
+    "id": "7376f7c27e8d3014",
+    "title": "2027 UK Investment Management Summer Internship - Barings",
+    "company": "Barings",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5881011820?se=5AaLZdyu8RG-FLx_YfIXKQ&utm_medium=api&utm_source=88a1c016&v=B8CC626B8AC3C02E4E40471DCE5A74793C9B873F",
+    "snippet": "At Barings, we are as invested in our associates as we are in our clients. We recognize those who work diligently for us and reward them for personal and professional integrity, communication skills, distinct competencies and expertise in specific strategies, ability to collaborate as a team member and true dedication to the interests of our clients. We thank you for your interest in joining the Barings team, and invite you to explore our current employment opportunities. Barings is seeking can…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Strong fit: asset management role in London, right seniority, candidate eligible and well-matched to firm expertise",
+    "deadline": null,
+    "pros": [
+      "Asset management internship aligns directly with candidate's prior SF & AM experience",
+      "London location matches strong preference",
+      "2027 summer timing fits graduation date and visa availability"
+    ],
+    "cons": [
+      "Posting is truncated/incomplete (cuts off mid-description); unclear if paid or what specific team"
+    ],
+    "analysis": "This is a legitimate, well-known asset manager hiring for their 2027 summer program in London. Your prior asset management internship and economics background make you a competitive candidate. The main caveat is that the posting appears incomplete—before applying, confirm this is a paid internship (not work-experience) and clarify which investment strategy or team you'd join. Barings' reputation and your existing track record here suggest a strong mutual fit.",
+    "found_on": "2026-09-12 19:01 UTC"
+  },
+  {
+    "id": "d568ba72e7947645",
+    "title": "2027 Summer Intern - Portfolio Management - Private Strategies Analyst, London - PIMCO",
+    "company": "PIMCO",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5879838818?se=5AaLZdyu8RG-FLx_YfIXKQ&utm_medium=api&utm_source=88a1c016&v=01CE1382A310A8D64A614EED10B3724FCA6DCA2A",
+    "snippet": "PIMCO is a global leader in active fixed income with deep expertise across public and private markets. We invest our clients' capital across a range of fixed income and credit opportunities, leveraging our decades of experience navigating complex debt markets. Our flexible capital base and deep relationships with issuers have helped us become one of the world's largest providers of traditional and nontraditional solutions for companies that need financing and investors who seek strong risk-adju…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 85,
+    "reason": "Excellent fit: tier-1 asset manager, portfolio/fixed income role in London, strong candidate profile for PM track",
+    "deadline": null,
+    "pros": [
+      "Leading fixed income asset manager; highly relevant to your career goals",
+      "Private strategies analyst role builds on your SF and economics background",
+      "London office and 2027 summer internship timeline match your constraints"
+    ],
+    "cons": [
+      "Posting is truncated; confirm compensation/internship status before applying"
+    ],
+    "analysis": "PIMCO is a world-class fixed income and structured credit specialist, and a Private Strategies Analyst role on their PM team is exactly the kind of high-caliber internship you're targeting. Your structured finance background and quantitative skills (Python, modelling) are valuable here. The role sits at the intersection of portfolio management and structured products, which fits your profile well. Verify the internship is paid and clarify start/end dates to confirm summer availability.",
+    "found_on": "2026-09-12 19:01 UTC"
+  },
+  {
+    "id": "03eb5fd5e2f40392",
+    "title": "Off-Cycle Internship, Infrastructure Principal, 2027 - Macquarie Group",
+    "company": "Macquarie Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5879749973?se=sul4Z9yu8RGw3foOHxJxCQ&utm_medium=api&utm_source=88a1c016&v=3110CF1BF0D622C3545B88FBF9DD3467AAB94090",
+    "snippet": "Help shape the future of infrastructure and energy investment. Joining Macquarie Capital's Infrastructure Principal team, you will gain exposure to opportunities across energy transition, digital infrastructure and economic and social infrastructure, supporting investments that drive long-term impact. This internship offers the opportunity to work on live transactions while developing your commercial and analytical skills alongside experienced professionals. We are a global financial services g…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Plausible fit: off-cycle internship at tier-1 bank, London, infrastructure finance role; some execution risk on timing and seniority",
+    "deadline": null,
+    "pros": [
+      "Off-cycle internship; candidate explicitly interested in this format",
+      "Macquarie Capital is a leading structured finance and infrastructure investor; aligns with SF background",
+      "London location and 2027 date fit candidate constraints"
+    ],
+    "cons": [
+      "Infrastructure Principal team may target slightly more senior interns (post-1st year); you are 2nd year",
+      "Off-cycle timing requires confirmation it works around term dates (candidate has UK student visa)",
+      "Posting lacks detail on internship duration, compensation, and exact start/end dates"
+    ],
+    "analysis": "Macquarie is an excellent fit for your structured finance interests and has a strong off-cycle internship culture. However, a Principal-level team internship may be pitched at penultimate-year or postgraduate interns, so you should check whether 2nd-year candidates are genuinely welcome. Before applying, confirm the internship is paid, how long it runs, and whether it can be scheduled during a university vacation (not term time). If those details align, this is a high-value opportunity to demonstrate depth in infrastructure and energy transition finance.",
+    "found_on": "2026-09-12 19:01 UTC"
+  },
+  {
     "id": "c598ead21e6d76e8",
     "title": "Financial Analyst, Real Estate Capital Solutions, London",
     "company": "Houlihan Lokey",
@@ -6933,68 +7004,5 @@
     ],
     "analysis": "JPMorganChase Quantitative Research – Risk and Treasury is a quant role focused on risk frameworks and treasury management. Your modeling and Python strengths fit, and off-cycle timing is flexible. However, risk and treasury are more internal control functions than client-facing business. Consider this if you're interested in risk frameworks; otherwise, prioritize the Quantitative Markets or AM roles for higher prestige and trading exposure.",
     "found_on": "2026-09-04 08:37 UTC"
-  },
-  {
-    "id": "207d3d73f951dfa6",
-    "title": "2027 Global Corporate Banking Analyst Program - Summer Internship - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5869186827?se=hk6iwhGo8RGqAs3qVTGB8g&utm_medium=api&utm_source=88a1c016&v=A06C68A12582F7B8C190D41AD96D99CD55C26B2B",
-    "snippet": "Description As a 2027 Global Corporate Banking Summer Intern, you will start with an orientation and training led by our top professionals and expert instructors which will arm you with the technical and practical knowledge you'll need to make your mark in Global Corporate Banking. Our team members and mentors will help you navigate the firm and continue to learn about our businesses. Access to senior management and a strong network of peers will promote ongoing professional development through…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 88,
-    "reason": "Strong fit: investment banking summer internship in London, right level and timing.",
-    "deadline": null,
-    "pros": [
-      "Investment banking on your target list",
-      "Summer internship for 2027 graduates",
-      "London location, structured analyst program"
-    ],
-    "cons": [],
-    "analysis": "This is a straightforward match. JPMorgan's Global Corporate Banking Summer Intern program is exactly the type of role you're seeking—investment banking in London, summer timing that should fit around your academic calendar (you graduate June 2028, so summer 2027 works), and it's a formal paid internship with training and mentorship. Your economics background, financial modelling skills, and prior internship experience in asset management and structured finance make you a credible applicant. Apply with confidence.",
-    "found_on": "2026-09-04 03:36 UTC"
-  },
-  {
-    "id": "275fd41ef7d71850",
-    "title": "2027 Commercial & Investment Banking - Risk Management Program - Summer Internship - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867248755?se=hk6iwhGo8RGqAs3qVTGB8g&utm_medium=api&utm_source=88a1c016&v=66DEE4755EDF3A24F4A2D524C4A87A0F5F9E284C",
-    "snippet": "Description Description As an intern in the Commercial & Investment Banking Risk Management Program in London, you will work with industry experts to identify, assess and manage risk for our global businesses. You’ll collaborate with colleagues at all levels, gain broad product knowledge, build your network, and develop expertise in a diverse, supportive environment. We value your unique perspective to help us innovate for our clients and we will provide the tools to succeed with training and m…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Risk management summer internship at JPMorgan, London, strong alignment with finance goals.",
-    "deadline": null,
-    "pros": [
-      "Investment banking/risk management aligns with finance interests",
-      "Summer internship for 2027, London location",
-      "Hands-on experience with real global businesses"
-    ],
-    "cons": [],
-    "analysis": "JPMorgan's Commercial & Investment Banking Risk Management summer internship is an excellent fit for you. Risk management is a core finance discipline and complements your structured finance background. The program offers training, mentorship, and networking in a London-based role timed for summer 2027 (perfect for your graduation timeline). Your economics degree and prior internship experience position you well. This is a genuinely strong opportunity—apply.",
-    "found_on": "2026-09-04 03:36 UTC"
-  },
-  {
-    "id": "78af58b7bc727bd6",
-    "title": "2027 – Research – Summer Internship - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867248517?se=hk6iwhGo8RGqAs3qVTGB8g&utm_medium=api&utm_source=88a1c016&v=1D85CAF2048D9F6294BEAF462AFED42A9F69F49E",
-    "snippet": "Description If you're ambitious and eager to apply your knowledge to real-world financial scenarios, this role is for you. You'll support your team with research, analysis, and preparatory work, while monitoring markets and developing trade ideas. This program offers hands-on experience, skills training, and professional networking, with the potential for full-time employment based on your achievements. What You Can Expect J.P. Morgan Global Research is one of the world’s most highly respected …",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 85,
-    "reason": "Research summer internship at JPMorgan in London; fits sales & trading and finance goals.",
-    "deadline": null,
-    "pros": [
-      "Sales & trading research role matches stated interests",
-      "Summer internship, London, 2027 timing",
-      "Real-world trade ideas and market monitoring"
-    ],
-    "cons": [],
-    "analysis": "JPMorgan Global Research is a prestigious internship that blends your finance interests with analytical depth. You'll apply your economics and modelling skills to real market scenarios, develop trade ideas, and gain exposure to sales & trading—which is explicitly on your target list. The program structure, location, and timing are all aligned. This is another strong candidate for your applications.",
-    "found_on": "2026-09-04 03:36 UTC"
   }
 ]
