@@ -1,5 +1,103 @@
 [
   {
+    "id": "dbc0d8ad806eada8",
+    "title": "Data Analyst Intern - Financial Markets",
+    "company": "Financial market data company",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5882088955?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Role Summary: An exceptional opportunity for Business or Economics undergraduates with a demonstrated interest in wholesale financial markets and data analytics. This role offers hands-on experience in business analysis within a pioneering financial market data company in the City. Company Profile: Located in the heart of London's financial district, our client is at the forefront of building the future of data and reporting for financial markets. They work collaboratively with all industry sta…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong location, relevant skills (data/financial markets), but role emphasis is software/analytics over traditional finance.",
+    "deadline": null,
+    "pros": [
+      "City of London, excellent location",
+      "Economics background + Python aligns well",
+      "Financial markets exposure"
+    ],
+    "cons": [
+      "Data analyst / engineering-focused, not core IB or S&T",
+      "No salary or internship duration mentioned",
+      "Posting is vague on dates and pay"
+    ],
+    "analysis": "This is a legitimate opportunity in financial services with strong technical demand for your Python skills and economics background. The City location is ideal. However, it's data/analytics-led rather than the investment banking or sales & trading you prioritize. If you're open to fintech or market infrastructure roles, worth exploring—but check the internship length, pay, and whether it fits your summer availability before investing time.",
+    "found_on": "2026-09-13 05:44 UTC"
+  },
+  {
+    "id": "58d96d7394fb0d0a",
+    "title": "2027 UK Investment Management Summer Internship - Barings",
+    "company": "Barings",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5881011820?se=BJqRODav8RG-FLx_YfIXKQ&utm_medium=api&utm_source=88a1c016&v=B8CC626B8AC3C02E4E40471DCE5A74793C9B873F",
+    "snippet": "At Barings, we are as invested in our associates as we are in our clients. We recognize those who work diligently for us and reward them for personal and professional integrity, communication skills, distinct competencies and expertise in specific strategies, ability to collaborate as a team member and true dedication to the interests of our clients. We thank you for your interest in joining the Barings team, and invite you to explore our current employment opportunities. Barings is seeking can…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 88,
+    "reason": "Barings, top-tier asset manager, 2027 summer internship, London. Flagship programme matching your profile precisely.",
+    "deadline": null,
+    "pros": [
+      "Premier asset management firm, directly on your target list",
+      "2027 summer internship—timing aligns perfectly",
+      "London HQ, established graduate hiring pipeline"
+    ],
+    "cons": [
+      "Description snippet incomplete in posting",
+      "Highly competitive (top-tier firm)"
+    ],
+    "analysis": "This is exactly what you're looking for: a major, reputable asset manager running a formal summer internship programme timed for 2027 (your 3rd summer). Barings is a heavyweight in global asset management with strong UK operations. Your asset management internship experience, economics background, and Excel/Python skills are exactly what they seek. The incomplete posting here is just a formatting issue from the job board. Apply as soon as the full listing opens and prioritize this one—it's a genuine strong match.",
+    "found_on": "2026-09-13 05:44 UTC"
+  },
+  {
+    "id": "764294db6429116c",
+    "title": "2027 Summer Intern - Portfolio Management - Private Strategies Analyst, London - PIMCO",
+    "company": "PIMCO",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5879838818?se=BJqRODav8RG-FLx_YfIXKQ&utm_medium=api&utm_source=88a1c016&v=01CE1382A310A8D64A614EED10B3724FCA6DCA2A",
+    "snippet": "PIMCO is a global leader in active fixed income with deep expertise across public and private markets. We invest our clients' capital across a range of fixed income and credit opportunities, leveraging our decades of experience navigating complex debt markets. Our flexible capital base and deep relationships with issuers have helped us become one of the world's largest providers of traditional and nontraditional solutions for companies that need financing and investors who seek strong risk-adju…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 86,
+    "reason": "PIMCO portfolio management summer internship, London, 2027. World-leading fixed income manager, directly on your wishlist.",
+    "deadline": null,
+    "pros": [
+      "Tier-1 asset manager (fixed income specialist)",
+      "Portfolio management analyst track aligns with your goals",
+      "London office, summer 2027 timing"
+    ],
+    "cons": [
+      "Highly competitive (elite firm)",
+      "Fixed income focus; check if you have relevant exposure"
+    ],
+    "analysis": "PIMCO is one of the world's premier fixed income asset managers and a gold-standard employer. A summer internship in portfolio management is an excellent fit for your asset management goal and economics background. London location is perfect. Your structured finance internship experience should position you well. This is genuinely competitive but absolutely worth pursuing—PIMCO is well-known for running professional internship programmes with strong conversion rates. Apply early.",
+    "found_on": "2026-09-13 05:44 UTC"
+  },
+  {
+    "id": "5537698332034efe",
+    "title": "Off-Cycle Internship, Infrastructure Principal, 2027 - Macquarie Group",
+    "company": "Macquarie Group",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5879749973?se=lptcOTav8RG-FLx_YfIXKQ&utm_medium=api&utm_source=88a1c016&v=3110CF1BF0D622C3545B88FBF9DD3467AAB94090",
+    "snippet": "Help shape the future of infrastructure and energy investment. Joining Macquarie Capital's Infrastructure Principal team, you will gain exposure to opportunities across energy transition, digital infrastructure and economic and social infrastructure, supporting investments that drive long-term impact. This internship offers the opportunity to work on live transactions while developing your commercial and analytical skills alongside experienced professionals. We are a global financial services g…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 79,
+    "reason": "Macquarie infrastructure finance off-cycle internship, London. Strong fit but check term-time compatibility and programme structure.",
+    "deadline": null,
+    "pros": [
+      "Tier-1 financial services firm, investment-grade",
+      "Infrastructure finance aligns with your finance sector interest",
+      "Off-cycle flexibility—may fit your term dates"
+    ],
+    "cons": [
+      "Off-cycle timing requires confirmation it doesn't clash with terms",
+      "Infrastructure sector is narrower than your stated IB/S&T/asset management focus",
+      "Duration and pay not specified in snippet"
+    ],
+    "analysis": "Macquarie is a heavyweight global financial services group and this infrastructure principal internship is genuine and prestigious. The appeal of off-cycle timing is that it could potentially fit around your term dates—but you must verify exact dates before applying. Your economics and structured finance background should resonate well. Infrastructure is slightly outside your core stated preferences (IB, S&T, strategy) but it's high-quality finance work. Get the full posting details, confirm the dates work, then strongly consider applying.",
+    "found_on": "2026-09-13 05:44 UTC"
+  },
+  {
     "id": "df77f66ec1c90e88",
     "title": "2027 UK Investment Management Summer Internship - Barings",
     "company": "Barings",
@@ -6912,98 +7010,6 @@
       "Client-facing sales emphasis over market analysis"
     ],
     "analysis": "Private Bank Investment Solutions is relationship-driven advisory, positioning wealth/credit products to high-net-worth clients. It's finance-sector and London-based, but it's closer to sales and wealth advising than portfolio management or trading. Given your asset management background, this could interest you if you enjoy client interaction; otherwise, pursue the Asset Management Investments or Global Markets programs which are more analytical.",
-    "found_on": "2026-09-04 08:37 UTC"
-  },
-  {
-    "id": "2c2dd206c3b120e0",
-    "title": "2027 Summer Intern - Portfolio Management - Private Strategies Analyst, London - PIMCO",
-    "company": "PIMCO",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867108940?se=AMqz3Duo8RG5EMkOnuyoTA&utm_medium=api&utm_source=88a1c016&v=25E076C7F70280321696119B8DEACE0E4763122C",
-    "snippet": "PIMCO is a global leader in active fixed income with deep expertise across public and private markets. We invest our clients' capital across a range of fixed income and credit opportunities, leveraging our decades of experience navigating complex debt markets. Our flexible capital base and deep relationships with issuers have helped us become one of the world's largest providers of traditional and nontraditional solutions for companies that need financing and investors who seek strong risk-adju…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 83,
-    "reason": "PIMCO asset management summer internship in London; directly matches asset management goal, paid, eligible.",
-    "deadline": null,
-    "pros": [
-      "Asset management (fixed income, private credit focus)",
-      "London-based, summer 2027 internship, paid program",
-      "Tier-1 AM firm, portfolio management exposure"
-    ],
-    "cons": [
-      "Fixed income/credit specialization; equity AM not mentioned"
-    ],
-    "analysis": "PIMCO is one of the world's premier fixed income asset managers. This Private Strategies role offers portfolio management and analysis in credit and alternative investments—directly aligned with your asset management internship background and stated goals. Fixed income is a substantial skill set in AM; your economics background and financial modeling will help you contribute immediately. This is a strong fit if you're open to credit/fixed income; reach out to confirm the exact mandate and internship structure.",
-    "found_on": "2026-09-04 08:37 UTC"
-  },
-  {
-    "id": "5272167a3c412728",
-    "title": "2027 Global Investment Banking Analyst Program - Summer Internship - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867246653?se=PlwL3Tuo8RG5EMkOnuyoTA&utm_medium=api&utm_source=88a1c016&v=AD2BF16EADD745A960258ED4174245921516C33B",
-    "snippet": "Description Work alongside top professionals in the industry to develop solutions that shape the global economy. Investment Banking teams partner with corporate clients to achieve strategic goals through long-term relationships and strategies that foster growth and innovation. We provide sound advice, access to funds, and connections, while managing risk in today's complex environment. You’ll join one of our Coverage, Advisory or Capital Markets teams, spanning sectors such as Consumer & Retail…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 85,
-    "reason": "JPMorganChase investment banking summer analyst program in London; core IB fit, paid, eligible.",
-    "deadline": null,
-    "pros": [
-      "Investment banking analyst program, core M&A/advisory/capital markets",
-      "London, summer internship, paid, tier-1 bank",
-      "Multiple sector coverage teams, strong exit opps"
-    ],
-    "cons": [],
-    "analysis": "This is a duplicate or variant of the earlier 0db2c24f3a849bac posting—same IB Analyst Program. It's one of the most prestigious summer programs in banking. Your structured finance and asset management background makes you stand out; focus on articulating why you want to move from analysis roles into deal execution. Strong fit across all dimensions.",
-    "found_on": "2026-09-04 08:37 UTC"
-  },
-  {
-    "id": "2d1e5b662a6164bc",
-    "title": "2027 Commercial & Investment Bank - Global Payments Analyst Program - Summer Internship - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867222382?se=PlwL3Tuo8RG5EMkOnuyoTA&utm_medium=api&utm_source=88a1c016&v=719F437480B10FB97C26D166CC9743F4220EFBB6",
-    "snippet": "Description As a Global Payments Analyst in the Global Payments Program, you will gain hands-on experience in the innovative landscape of global payments, learning what it takes to “make money move” and promote innovation across financial technology. The Global Payments Program at JPMorganChase offers the opportunity to build a career in the world of payments and financial technology—helping clients manage and move money locally, regionally and globally. Our Global Payments business brings toge…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 75,
-    "reason": "JPMorganChase Global Payments fintech summer internship in London; finance/fintech, paid, eligible.",
-    "deadline": null,
-    "pros": [
-      "Fintech and payments innovation in finance",
-      "London, summer, paid, JPMorganChase training",
-      "Product and technology exposure"
-    ],
-    "cons": [
-      "Payments/fintech niche vs. core investment banking/trading",
-      "Less traditional financial modeling and client advisory"
-    ],
-    "analysis": "This is a duplicate or variant of the earlier 9173b0bfd6d4c6cd posting. Same assessment applies: interesting fintech/fintech angle but narrower than core IB, AM, or trading. Prioritize flagship programs unless fintech genuinely motivates you.",
-    "found_on": "2026-09-04 08:37 UTC"
-  },
-  {
-    "id": "6f92a7884c92b07b",
-    "title": "2027 Quantitative Research – Asset Management - Off-Cycle - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867248986?se=Zk543Tuo8RGAquma5vUeHg&utm_medium=api&utm_source=88a1c016&v=942E2232E6773797200B8C919B049FC96FCD3D24",
-    "snippet": "Description Job Description At JPMorganChase, we champion your innovative ideas through a supportive culture that helps you every step of the way as you build your career. If you are passionate, curious and ready to make an impact, we are looking for you. Job Summary: As a Quantitative Research – Asset Management Off-Cycle Intern in the Asset Management Product Program, you will sit at the intersection of investment science and technology—working directly with portfolio managers and research te…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 79,
-    "reason": "Quantitative research asset management off-cycle internship at JPMorganChase in London; AM fit, paid, eligible.",
-    "deadline": null,
-    "pros": [
-      "Quantitative research in asset management matches your Python/modeling skills",
-      "London, off-cycle fits around term dates",
-      "Direct collaboration with portfolio managers"
-    ],
-    "cons": [
-      "Off-cycle timing requires coordination with university calendar",
-      "Quant research is specialist track, narrower than broad AM"
-    ],
-    "analysis": "JPMorganChase Asset Management Quant Research is ideal if you want to blend Python, financial modeling, and portfolio optimization. Off-cycle internships are valuable for fitting around term dates, and this one's in London. Your Python and modeling background make you competitive. The challenge is confirming the exact off-cycle schedule fits your university term—verify dates with the recruiter before committing.",
     "found_on": "2026-09-04 08:37 UTC"
   }
 ]
