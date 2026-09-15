@@ -1,5 +1,30 @@
 [
   {
+    "id": "acee8963e0529857",
+    "title": "Campus - Internship Programme - Undergraduate Finance Analyst - 2027 (UK)",
+    "company": "American Express",
+    "location": "Victoria, South West London",
+    "url": "https://www.adzuna.co.uk/jobs/details/5884492086?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Description The Finance Team drives performance while upholding the company's commitment to regulatory compliance and financial integrity through strategic collaboration with internal business partners and external constituents, including the investment community and regulators. By leveraging its unique view across the Blue Box, Finance supports innovation and transformation by helping identify and prioritize the most impactful growth opportunities for the company. Our well-established Summer I…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Right sector and level, strong location, but vague posting and 2027 timing creates uncertainty.",
+    "deadline": null,
+    "pros": [
+      "Finance analyst role aligns with your economics background",
+      "London location, preferred geography",
+      "Established corporate internship programme suggests paid, structured role"
+    ],
+    "cons": [
+      "Posted as 2027 programme—verify if summer 2025/2026 cohorts still open",
+      "Description truncated; cannot confirm investment banking/structured finance focus",
+      "Eligibility (UK visa status) not explicitly stated in posting"
+    ],
+    "analysis": "This is a credible posting from a major US bank with a London office. American Express Finance teams do hire interns, and the Victoria location is central. However, the posting is light on detail and the '2027' label is confusing—check whether this is for summer 2025 (your target) or if 2027 refers to graduation year. Your visa status should not be an issue for AmEx. Worth applying if timelines align, but clarify urgently before investing time.",
+    "found_on": "2026-09-15 14:41 UTC"
+  },
+  {
     "id": "8ba7d8967183e8ea",
     "title": "Tech Finance Analyst Intern - January 2027 H/F",
     "company": "Pernod Ricard SA",
@@ -6999,26 +7024,5 @@
     ],
     "analysis": "This is a strong opportunity. Man Group's Quant Researcher internship directly leverages your Python, modelling, and analytics background, and systematic trading is a core focus area of the firm. However, like the IDI posting above, the description is truncated so you cannot see the full role scope, required seniority, or timeline. Visit Man Group's careers portal directly to access the full posting. Given your asset management and structured finance internship experience, you are a plausible candidate, but quant roles can be highly technical – check whether they expect advanced machine learning or statistical expertise you may not yet have. Apply if the full description confirms a good fit.",
     "found_on": "2026-09-04 17:26 UTC"
-  },
-  {
-    "id": "27dcaab6f4a41c80",
-    "title": "2027 Global Corporate Banking Analyst Program - Summer Internship - London",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5869186827?se=lB9ozGKo8RG_s8Es2Z7ngQ&utm_medium=api&utm_source=88a1c016&v=A06C68A12582F7B8C190D41AD96D99CD55C26B2B",
-    "snippet": "Description As a 2027 Global Corporate Banking Summer Intern, you will start with an orientation and training led by our top professionals and expert instructors which will arm you with the technical and practical knowledge you'll need to make your mark in Global Corporate Banking. Our team members and mentors will help you navigate the firm and continue to learn about our businesses. Access to senior management and a strong network of peers will promote ongoing professional development through…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 92,
-    "reason": "JPMorgan summer internship in corporate banking; perfect role, location, timing and eligibility.",
-    "deadline": null,
-    "pros": [
-      "Tier-1 investment bank, highly prestigious",
-      "Summer internship aligns with term dates",
-      "Corporate banking directly relevant to your goals"
-    ],
-    "cons": [],
-    "analysis": "This is an excellent match. JPMorgan's 2027 Global Corporate Banking Summer Internship is exactly what you're looking for—a paid, structured summer program at a leading investment bank in London during your university break. Your prior structured finance internship and economics background make you a strong candidate. The program includes training, mentorship, and networking. This should be a priority application.",
-    "found_on": "2026-09-04 13:16 UTC"
   }
 ]
