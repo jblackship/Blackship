@@ -1,5 +1,30 @@
 [
   {
+    "id": "6c3a095b91eb331d",
+    "title": "Banking, Commercial Banking, Summer Analyst, London - United Kingdom 2027 - Citi",
+    "company": "Citi",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5886261018?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Discover your future at Citi Working at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around the globe. At Citi, you'll have the opportunity to grow your career, give back to your community and make a real impact. Job Overview You're the brains behind our work. Citi's Commercial Bank (\"CCB\") is looking for Summer Analysts to join our team. Our Commercial Banking division works with businesses with annual sales ranging from…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Commercial banking at Citi; adjacent to target IB sector, London, summer analyst role, right level.",
+    "deadline": null,
+    "pros": [
+      "Citi is tier-1 global investment bank",
+      "London location, summer analyst 2027 timing",
+      "Commercial banking bridges to corporate finance exposure"
+    ],
+    "cons": [
+      "Commercial Banking, not core Investment Banking division",
+      "May focus on lending/credit rather than M&A or capital markets",
+      "Truncated description; unclear if analyst-level work or placement type"
+    ],
+    "analysis": "Citi's Commercial Banking division is a credible posting from a world-class financial institution in your preferred location and timeframe. However, Commercial Banking sits outside the core Investment Banking division—it typically focuses on lending, cash management, and corporate services rather than M&A, capital markets, or trading. For a 2nd-year student with your profile, this could still be valuable, but it's less directly aligned than IB, AM, or trading roles. Before applying, confirm whether this involves any structured finance, advisory work, or capital markets exposure, as that would strengthen the fit.",
+    "found_on": "2026-09-16 16:25 UTC"
+  },
+  {
     "id": "f81e79d404ecb766",
     "title": "Off-Cycle Intern, Financial and Valuation Advisory - London",
     "company": "Houlihan Lokey",
@@ -7000,30 +7025,6 @@
       "Highly quantitative—requires strong math/stats comfort"
     ],
     "analysis": "This is an excellent fit if you're serious about quantitative trading. JPM's quant trading team is world-class, and your Python, Excel, and financial modeling background position you well. Off-cycle means flexibility around university term dates. However, verify the duration and ensure you're genuinely interested in the quant side of markets rather than pure client-facing trading. Strong contender if you're mathematically inclined.",
-    "found_on": "2026-09-04 17:26 UTC"
-  },
-  {
-    "id": "40d62b88c96d2bcb",
-    "title": "2027 Quantitative Research – Asset Management - Off-Cycle - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867248986?se=uMAl1oWo8RGogquEo3zAlQ&utm_medium=api&utm_source=88a1c016&v=942E2232E6773797200B8C919B049FC96FCD3D24",
-    "snippet": "Description Job Description At JPMorganChase, we champion your innovative ideas through a supportive culture that helps you every step of the way as you build your career. If you are passionate, curious and ready to make an impact, we are looking for you. Job Summary: As a Quantitative Research – Asset Management Off-Cycle Intern in the Asset Management Product Program, you will sit at the intersection of investment science and technology—working directly with portfolio managers and research te…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 79,
-    "reason": "JPM Quantitative Research (Asset Management) off-cycle, London—duplicate of 2b789f22228fb18a",
-    "deadline": null,
-    "pros": [
-      "Quantitative research in AM, direct fit to interests",
-      "Off-cycle timing aligns with term flexibility",
-      "Python skills highly valued"
-    ],
-    "cons": [
-      "Off-cycle length and scheduling require verification",
-      "Specialized quant role—ensure mathematical interest"
-    ],
-    "analysis": "This is a duplicate of the earlier quant research AM posting (2b789f22228fb18a). It's a strong opportunity combining your AM interest with quantitative skills. Off-cycle internships are less constrained by summer term dates, which may work better for your academic schedule. Apply once, and discuss timing with the recruiter during the interview process.",
     "found_on": "2026-09-04 17:26 UTC"
   }
 ]
