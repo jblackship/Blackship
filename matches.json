@@ -1,5 +1,29 @@
 [
   {
+    "id": "1d7b4fdd7e5a3e15",
+    "title": "2027 DMFI Quant Developer Intern",
+    "company": "Schonfeld Strategic Advisors (Schonfeld)",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5889016557?utm_medium=api&utm_source=88a1c016",
+    "snippet": "The Role We are seeking an exceptional intern to join our Discretionary Macro Fixed Income (DMFI) Quant team in London where you will have an opportunity to meaningfully contribute to building and enhancing our derivatives pricing and risk infrastructure, delivering solutions that directly impact our trading operations across multiple asset classes. What You’ll Do Reporting to our Quant Services and Applications Lead, you will help expand the services infrastructure supporting the DMFI-QR analy…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Strong fit: quant internship at tier-1 hedge fund, London, paid, aligned with your skills and interests.",
+    "deadline": null,
+    "pros": [
+      "Prestigious macro/discretionary trading firm",
+      "Quant development aligns with your Python skills",
+      "London-based, summer internship fits your timeline"
+    ],
+    "cons": [
+      "Role emphasises quant development over traditional finance modelling",
+      "Derivatives pricing may require deeper quant background"
+    ],
+    "analysis": "Schonfeld is a well-respected multi-billion-dollar discretionary macro fund, and this internship sits well within your sales & trading and asset management interests. Your Python background is a genuine asset here. The role requires strong technical chops, so make sure you can speak confidently to quantitative problem-solving. Apply early—these roles are competitive.",
+    "found_on": "2026-09-18 10:48 UTC"
+  },
+  {
     "id": "9b89f2658146c32c",
     "title": "Banking, Commercial Banking, Summer Analyst, London - United Kingdom 2027",
     "company": "Citigroup",
@@ -7026,30 +7050,6 @@
     ],
     "cons": [],
     "analysis": "This is a best-in-class fit for your stated goals. JPM's IBD program is highly competitive and prestigious, covering the exact sectors and advisory work you want. The multiple team options mean you can tailor your interests. Apply with strong priority. Confirm summer 2027 dates align with your term calendar.",
-    "found_on": "2026-09-04 17:26 UTC"
-  },
-  {
-    "id": "e837afba0fb8e0f1",
-    "title": "2027 Global Corporate Banking Analyst Program - International ABL - Summer Internship - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867241885?se=CBoU1YWo8RGogquEo3zAlQ&utm_medium=api&utm_source=88a1c016&v=8886046B5524E0822CC60379B7BB6522FE0226CD",
-    "snippet": "Description As a 2026 International ABL - Global Banking Analyst Program - Summer Intern – London , you will start with an orientation and training led by our top professionals and expert instructors which will arm you with the technical and practical knowledge you'll need to make your mark in Global Banking. Our team members and mentors will help you navigate the firm and continue to learn about our businesses. Access to senior management and a strong network of peers will promote ongoing prof…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 70,
-    "reason": "JPM Corporate Banking (ABL focus), summer internship London; banking rather than IBD",
-    "deadline": null,
-    "pros": [
-      "Tier-1 bank, London, paid summer program",
-      "Asset-based lending relevant to structured finance interest",
-      "Mentorship and industry training included"
-    ],
-    "cons": [
-      "Corporate/Commercial banking, not IBD (your stated priority)",
-      "ABL is niche; less broad transactional exposure than IBD"
-    ],
-    "analysis": "This role combines corporate banking with asset-based lending, which touches on structured finance. However, your primary interest is IBD, and this is a different team at JPM. It's a solid backup option given your structured finance background, but prioritize the IBD posting (c92d3c467c7ec133) instead. The program quality and mentorship are strong.",
     "found_on": "2026-09-04 17:26 UTC"
   }
 ]
