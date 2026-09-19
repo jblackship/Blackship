@@ -1,5 +1,29 @@
 [
   {
+    "id": "293af0513974c14f",
+    "title": "Off-Cycle Internship - Corporate Banking & Financial Institutions Group",
+    "company": "Wells Fargo",
+    "location": "Frankfurt am Main, Hessen",
+    "url": "https://www.adzuna.de/details/5890301526?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Wells Fargo's Corporate and Investment Banking division is seeking an Off-Cycle Intern to join its Frankfurt office. This opportunity will provide exposure and support to two coverage groups: the Corporate Banking Group (CBG) and the Financial Institutions Group (FIG). As an Off-Cycle Intern, you will work closely with both junior and senior bankers, requiring high levels of adaptability, communication, and time management. You will function as a full member of both teams, contributing to strat…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Off-cycle internship in investment banking; Frankfurt location acceptable; Wells Fargo is legitimate; eligibility clear.",
+    "deadline": null,
+    "pros": [
+      "Off-cycle internship fits your schedule around term dates",
+      "Corporate banking & FIG aligns with investment banking interest",
+      "Frankfurt is on your acceptable location list"
+    ],
+    "cons": [
+      "Description truncated; confirm internship length and compensation",
+      "Frankfurt office rather than London (though acceptable to you)"
+    ],
+    "analysis": "This is a strong fit. Wells Fargo is a genuine major bank, the role is explicitly an off-cycle internship (fitting your availability around term dates), and Frankfurt is explicitly on your acceptable location list. The exposure to corporate banking and financial institutions aligns well with your investment banking interest. Before applying, verify the internship duration, confirm it's paid (not stated but Wells Fargo internships are), and check whether the role runs during term or during summer break. The truncated description is minor; this is worth pursuing.",
+    "found_on": "2026-09-19 09:15 UTC"
+  },
+  {
     "id": "ebb892ed01f9b3fd",
     "title": "Investment Banking Summer Analyst Internship 2027",
     "company": "Howden",
@@ -7037,30 +7061,6 @@
       "Vague posting; no salary or detailed logistics mentioned"
     ],
     "analysis": "Inverto is a BCG subsidiary focused on procurement and supply chain consulting—interesting but not finance. Strategy consulting is mentioned in your interests, but you specifically listed investment banking, asset management, and S&T as priorities. This role offers consulting skills (analytical thinking, client work, modeling) but sidesteps finance entirely. Only consider if you're genuinely flexible on finance vs. operations consulting; otherwise, prioritize banking/markets roles.",
-    "found_on": "2026-09-04 20:28 UTC"
-  },
-  {
-    "id": "0b0fa5bad2c393d1",
-    "title": "2027 Quantitative Research Markets Associate Program – Off-Cycle Internship – London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867253454?se=HmgiP5-o8RGEn7Fo5Hom-w&utm_medium=api&utm_source=88a1c016&v=A6E95DC7AF1769E3695194BFC9AB1119E9088A58",
-    "snippet": "Description As an off-cycle associate in the Quantitative Trading & Research Markets team at JPMorganChase, you will join a leading quantitative modeling group focused on systematic trading, financial engineering, data analytics, statistical modeling, and portfolio optimization. You will work closely with traders, sales, marketing, technologists, and risk managers across products and regions. You will support research and strategy deployment, client and sales engagement, product innovation, val…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 73,
-    "reason": "JPMorgan 2027 Quantitative Research Markets Off-Cycle Associate internship; S&T quant role, London, paid, flexibility.",
-    "deadline": null,
-    "pros": [
-      "Quantitative trading & research aligns with S&T interest",
-      "Off-cycle flexibility for term-time availability",
-      "Systematic trading and financial engineering apply Python/modeling skills"
-    ],
-    "cons": [
-      "Associate-level naming may signal seniority relative to 2nd-year student",
-      "Heavy quant expectations; strong mathematical/programming foundation required"
-    ],
-    "analysis": "This is a quant-focused S&T role offering exposure to systematic trading, modeling, and research. Off-cycle timing is ideal if you want to avoid summer conflicts. However, 'Associate Program' language suggests mid-career hiring, and JPMorgan quant roles are highly selective—typically favoring strong undergraduate math/physics or PhDs. As a 2nd-year economics student with Python experience, you're in scope but competitive. Emphasize any quantitative research, statistical modeling, or backtesting projects in your CV.",
     "found_on": "2026-09-04 20:28 UTC"
   }
 ]
