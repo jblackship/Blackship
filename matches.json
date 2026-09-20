@@ -1,5 +1,52 @@
 [
   {
+    "id": "b97abe691a7adc0e",
+    "title": "2027 Summer Internship Programme",
+    "company": "Panmure Liberum",
+    "location": "Barbican, Central London",
+    "url": "https://www.adzuna.co.uk/jobs/details/5891556432?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Who we are Panmure Liberum is the UK's largest independent Investment Bank. We provide a full-service Investment Banking offering including capital raising and advisory, as well as distribution, research and execution services. We deliver excellence and foster real and lasting relationships with our clients – priding ourselves on being straight-talking, loyal and innovative in addressing their needs. What we offer Our programme offers an exciting development opportunity for both penultimate and…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 85,
+    "reason": "Strong fit: 2nd-year summer internship at top UK investment bank in London, matches all criteria.",
+    "deadline": null,
+    "pros": [
+      "Penultimate year internship explicitly welcomed",
+      "Investment banking—your stated top preference",
+      "Central London location, perfect geography"
+    ],
+    "cons": [
+      "Competitive programme; no salary detail yet in excerpt"
+    ],
+    "analysis": "This is a textbook match. Panmure Liberum explicitly targets penultimate-year students, you graduate June 2028 (perfect timing), and they offer the investment banking exposure you're seeking. The Barbican location is central London as preferred. Your Excel, financial modelling, and prior structured finance experience position you well. Check the full posting for summer dates to confirm they align with your term end, and apply early—these programmes are competitive but this is exactly your lane.",
+    "found_on": "2026-09-20 10:54 UTC"
+  },
+  {
+    "id": "1d766100aa52edac",
+    "title": "Summer 2027 Asset Management Intern - London",
+    "company": "Harrison Street",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5891553413?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Harrison Street is one of the leading investment management firms exclusively focused on alternative real assets. Since inception in 2005, the firm has created a series of differentiated investment solutions focused on demographic-driven, needs-based assets. The firm has invested across senior housing, student housing, healthcare delivery, life sciences and storage real estate as well as social and utility infrastructure. HSAM Europe is a specialist alternative investment manager with more than…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 78,
+    "reason": "Asset management summer internship in London; strong fit but limited detail in excerpt.",
+    "deadline": null,
+    "pros": [
+      "Asset management—one of your target sectors",
+      "Summer 2027 timing matches your availability",
+      "London-based, meets location preference"
+    ],
+    "cons": [
+      "Excerpt very short; unclear if internship or entry-level role",
+      "Focus on real assets/alternative investments (less standard AM experience)"
+    ],
+    "analysis": "Harrison Street is a legitimate, well-regarded alternative asset manager, and the 'Summer 2027 Asset Management Intern' title suggests this is a genuine internship programme. You've done a structured finance internship before, and AM is in your target list, so this aligns well. However, their speciality in real assets and infrastructure differs from traditional equity/fixed income AM—check the full posting to confirm the role matches your interests and offers the financial modelling and trading exposure you may be seeking. The excerpt lacks salary and detailed responsibilities, so dig deeper.",
+    "found_on": "2026-09-20 10:54 UTC"
+  },
+  {
     "id": "10f4b0a3ff64d7c7",
     "title": "Strategy Consultant",
     "company": "Eendigo",
@@ -7018,51 +7065,6 @@
       "PIMCO hiring is highly competitive, particularly for non-PhD quant roles"
     ],
     "analysis": "PIMCO is an elite asset manager, and this portfolio management role offers deep insights into fixed income and private credit investing. Your structured finance background is relevant. However, PIMCO is extremely selective and often favors advanced quantitative backgrounds (PhDs, strong math/CS credentials). As a 2nd-year economics student, you're capable but should have strong financial modeling and analytical projects in your CV. If you have quantitative depth (Python, data analysis), apply; otherwise, larger asset managers with broader AM programs may be more accessible.",
-    "found_on": "2026-09-04 20:28 UTC"
-  },
-  {
-    "id": "92d3640c53a46577",
-    "title": "2027 Global Investment Banking Analyst Program - Summer Internship - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867246653?se=DvhNPp-o8RGS9tX3gPU9Ng&utm_medium=api&utm_source=88a1c016&v=AD2BF16EADD745A960258ED4174245921516C33B",
-    "snippet": "Description Work alongside top professionals in the industry to develop solutions that shape the global economy. Investment Banking teams partner with corporate clients to achieve strategic goals through long-term relationships and strategies that foster growth and innovation. We provide sound advice, access to funds, and connections, while managing risk in today's complex environment. You’ll join one of our Coverage, Advisory or Capital Markets teams, spanning sectors such as Consumer & Retail…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 88,
-    "reason": "JPMorgan 2027 Global IB Summer internship (duplicate); top-tier fit—target sector, London, eligible, paid.",
-    "deadline": null,
-    "pros": [
-      "Pure investment banking: your primary stated interest",
-      "Coverage, Advisory, or Capital Markets teams—specialization choice",
-      "London, summer internship, paid, world-class training program"
-    ],
-    "cons": [],
-    "analysis": "Identical to posting 2471b1ddd76c5252. This is a duplicate JPMorgan IB program posting. Tier-1 fit. Apply this if you haven't already; some job boards list the same role multiple times. Prepare LBO models, DCF, and M&A mechanics. Your structured finance and economics background positions you competitively.",
-    "found_on": "2026-09-04 20:28 UTC"
-  },
-  {
-    "id": "ef70c643ae375eb3",
-    "title": "2027 Commercial & Investment Bank - Global Payments Analyst Program - Summer Internship - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867222382?se=DvhNPp-o8RGS9tX3gPU9Ng&utm_medium=api&utm_source=88a1c016&v=719F437480B10FB97C26D166CC9743F4220EFBB6",
-    "snippet": "Description As a Global Payments Analyst in the Global Payments Program, you will gain hands-on experience in the innovative landscape of global payments, learning what it takes to “make money move” and promote innovation across financial technology. The Global Payments Program at JPMorganChase offers the opportunity to build a career in the world of payments and financial technology—helping clients manage and move money locally, regionally and globally. Our Global Payments business brings toge…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 76,
-    "reason": "JPMorgan 2027 Global Payments Summer internship (duplicate); FinTech/payments, London, paid, specialist role.",
-    "deadline": null,
-    "pros": [
-      "Payments and FinTech are growth sectors within banking",
-      "Summer internship, London, paid, JPMorgan structure",
-      "Product innovation and tech exposure valuable"
-    ],
-    "cons": [
-      "Payments is specialist, not investment banking or S&T",
-      "Tech-heavy, less focus on traditional asset classes or advisory"
-    ],
-    "analysis": "Duplicate of posting 737a5144ac1eb68d. Specialist JPMorgan payments role. Rank this lower than IB, Global Markets, and Sales unless you have genuine fintech interest.",
     "found_on": "2026-09-04 20:28 UTC"
   }
 ]
