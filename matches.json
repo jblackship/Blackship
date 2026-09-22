@@ -1,5 +1,30 @@
 [
   {
+    "id": "3db987077739f952",
+    "title": "FIG M&A Analyst - Goodman Masson",
+    "company": "eFinancialCareers",
+    "location": "London",
+    "url": "https://www.reed.co.uk/jobs/fig-m-a-analyst-goodman-masson/57379334",
+    "snippet": "My client is a boutique with strong global FIG credentials and they are expanding their London FIG team. You will already be a FIG M&A Analyst or have completed FIG investment banking internships with reputable banks/boutiques. You have developed a financial modelling skillset and be building your FIG investment banking skills. Compensation is high and this firm has a track record of very high deal flow (and therefore high exposure to live e...",
+    "source": "Reed",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Right sector and location, but positioned as analyst role requiring prior IB internship experience—likely too senior.",
+    "deadline": null,
+    "pros": [
+      "FIG M&A directly relevant to your interests and background",
+      "London location matches your strong preference",
+      "High compensation, strong deal flow signals quality firm"
+    ],
+    "cons": [
+      "Requires prior FIG IB internship or analyst experience (you don't have IB internship yet)",
+      "Posting is from recruiter (eFinancialCareers), real boutique firm not named",
+      "Positioned as analyst, not intern—seniority mismatch"
+    ],
+    "analysis": "This is a real finance role in the right sector (FIG M&A) and location, but there's a seniority gap. The posting explicitly says 'You will already be a FIG M&A Analyst or have completed FIG investment banking internships'—your background is structured finance and asset management, not IB. You could be competitive if you apply and frame your structured finance experience as relevant, but you're likely a weaker candidate than the posting expects. Contact the recruiter to clarify whether they'd consider strong candidates with adjacent finance internship experience rather than straight IB.",
+    "found_on": "2026-09-22 14:28 UTC"
+  },
+  {
     "id": "3128a426e466bdb1",
     "title": "Renewable Energy Investment Banking M&A Intern - Augusta & Co",
     "company": "Augusta & Co",
@@ -7044,29 +7069,6 @@
       "FP&A and planning roles more back-office than stated interests"
     ],
     "analysis": "This is a well-run program, but it's internal corporate finance (FP&A, business planning, accounting) rather than client-facing banking or markets. If you're interested in the financial operations and control side of a major bank, it's excellent. If your goal is external-facing investment banking, asset management, or trading, prioritize the front-office programs instead. The ACCA option is valuable if you want accounting credentials.",
-    "found_on": "2026-09-04 20:28 UTC"
-  },
-  {
-    "id": "f1d6e319987d9dd9",
-    "title": "2027 – Sales – Summer Internship - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867238760?se=KKfkPZ-o8RGikbOdqLjlXw&utm_medium=api&utm_source=88a1c016&v=8B38D18319D6824BF000894DFD95FDA1766EF902",
-    "snippet": "Description If you are ambitious and eager to apply your knowledge to real-world financial scenarios, this internship offers the opportunity to work with sophisticated financial solutions across asset classes in dynamic global markets. As a Summer Intern in Sales, you will engage in a stimulating environment, exploring our sophisticated financial solutions across asset classes. What You Can Expect Our Sales teams help corporate and institutional clients navigate the breadth of J.P. Morgan’s pro…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 84,
-    "reason": "JPMorgan 2027 Sales Summer internship; target sector (S&T adjacent), London, eligible, paid, strong fit.",
-    "deadline": null,
-    "pros": [
-      "Sales & Trading interest explicitly stated",
-      "Exposure to multiple asset classes and client dynamics",
-      "Summer internship, London, paid, rigorous program"
-    ],
-    "cons": [
-      "Sales is client-facing service, not trading execution"
-    ],
-    "analysis": "JPMorgan Sales is an excellent entry point to markets. You'll work with sophisticated clients across fixed income, equities, derivatives, and other products—building product knowledge and relationship skills. Sales is often the gateway to trading, structuring, or client strategy roles, so it pairs well with your structured finance background. If you want hands-on trading, look at Global Markets instead; if you want client-facing market expertise, Sales is ideal. Competitive but achievable for your profile.",
     "found_on": "2026-09-04 20:28 UTC"
   }
 ]
