@@ -1,5 +1,55 @@
 [
   {
+    "id": "301cbb220dd8a2ec",
+    "title": "Internship - Financial Restructuring I Consulting",
+    "company": "Interpath Advisory",
+    "location": "Frankfurt am Main, Hessen",
+    "url": "https://www.adzuna.de/details/5895804682?utm_medium=api&utm_source=88a1c016",
+    "snippet": "The minimum duration of this internship is 5 months. About Interpath Interpath is an international and fast-growing advisory business with deep expertise across Deals, Advisory, and Restructuring. We support investors, lenders, and management teams in complex situations where critical decisions are required and value creation is central. Our culture is agile, independent, and conflict-free, enabling us to deliver pragmatic, results-driven advice. Interpath's Restructuring practice advises compa…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong sector fit (restructuring/advisory), Frankfurt location approved, but 5-month minimum may not fit term dates",
+    "deadline": null,
+    "pros": [
+      "Financial restructuring & advisory aligns with candidate's structured finance background",
+      "Frankfurt is an approved location",
+      "International advisory firm with deal experience"
+    ],
+    "cons": [
+      "5-month minimum duration may conflict with UK term dates",
+      "No explicit mention of summer internship or flexible timing",
+      "Posting doesn't confirm salary or internship classification"
+    ],
+    "analysis": "Interpath Advisory is a strong match on sector—restructuring and advisory are close to your structured finance interests—and Frankfurt is one of your approved locations. However, the 5-month minimum is a red flag: you need to confirm this can fit around UK term dates (which typically run Sept–Dec and Jan–May). Before applying, contact them directly about summer-only or off-cycle flexibility. If they can accommodate June–August, this is a serious candidate; if not, the duration mismatch disqualifies it.",
+    "found_on": "2026-09-24 07:24 UTC"
+  },
+  {
+    "id": "5ae63d9c109f1c59",
+    "title": "Finance Trainee",
+    "company": "Team EIFFEL",
+    "location": "Amsterdam, Noord-Holland",
+    "url": "https://www.adzuna.nl/details/5896127603?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Je carrière starten betekent meteen weten waar je eindigt. Toch? Bij Team EIFFEL begint het juist met ontdekken. Als Finance Trainee werk je via ons Accelerator Program aan echte opdrachten bij organisaties zoals AHOLD, BASF en NS . Je doet direct praktijkervaring op én ontwikkelt jezelf in de richting die bij jou past. Want hoe je groeit, bepaal jij. Dit ga je doen Als Finance Trainee werk je aan uiteenlopende financeprojecten en ontwikkel je jezelf inhoudelijk én persoonlijk. Je leert on the …",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 55,
+    "reason": "Finance trainee program in Amsterdam (approved location), but vague on internship structure and compensation",
+    "deadline": null,
+    "pros": [
+      "Amsterdam location is approved",
+      "Real-world project experience at major corporates (Ahold, BASF, NS)",
+      "Finance focus matches candidate's interests"
+    ],
+    "cons": [
+      "Posting is in Dutch; language barrier unclear",
+      "Described as 'Finance Trainee' not 'Internship'; may be a grad programme or paid placement",
+      "No mention of duration, dates, salary, or explicit summer availability"
+    ],
+    "analysis": "Team EIFFEL's Accelerator Program is in Amsterdam, an approved location, and involves real finance work at recognizable companies. However, the posting is vague on critical details: is this a summer internship or a longer trainee programme? What are the dates and salary? The posting is also in Dutch, which may signal they prefer Dutch speakers (you have working French, not Dutch). Before applying, clarify the program length, summer dates, and pay. If it's a proper summer internship with clear dates and salary, pursue it; otherwise, the ambiguity makes it risky.",
+    "found_on": "2026-09-24 07:24 UTC"
+  },
+  {
     "id": "2e6eec78cd5e7ee8",
     "title": "Summer 2027 - Investment Internship LDN",
     "company": "Capstone Investment Advisors",
@@ -7025,51 +7075,6 @@
       "Less direct M&A/advisory exposure than IB division"
     ],
     "analysis": "This is a strong JPMorgan program with genuine intellectual rigor, especially for someone with your structured finance background. Risk management in CIB is a rigorous, analytics-heavy discipline that'll deepen your financial modeling skills. The main trade-off is that it's back-office relative to front-office trading or M&A coverage, so consider whether you want to explore risk careers or if you're looking purely for sales/trading/IB exposure. If you're open to risk, this is excellent.",
-    "found_on": "2026-09-04 20:28 UTC"
-  },
-  {
-    "id": "2e1baa50e640eda3",
-    "title": "2027 – Research – Summer Internship - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867248517?se=KKfkPZ-o8RGikbOdqLjlXw&utm_medium=api&utm_source=88a1c016&v=1D85CAF2048D9F6294BEAF462AFED42A9F69F49E",
-    "snippet": "Description If you're ambitious and eager to apply your knowledge to real-world financial scenarios, this role is for you. You'll support your team with research, analysis, and preparatory work, while monitoring markets and developing trade ideas. This program offers hands-on experience, skills training, and professional networking, with the potential for full-time employment based on your achievements. What You Can Expect J.P. Morgan Global Research is one of the world’s most highly respected …",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 75,
-    "reason": "JPMorgan 2027 Research Summer internship; London, paid, finance sector, but narrower than IB/trading focus.",
-    "deadline": null,
-    "pros": [
-      "Equity research is finance core, strong for analytics skills",
-      "Summer internship, London, paid, structured program",
-      "Market monitoring and trade idea development valued skill"
-    ],
-    "cons": [
-      "Research/analysis role, not trading or IB advisory",
-      "Less client interaction than sales or M&A"
-    ],
-    "analysis": "JPMorgan Research is a prestigious program, ideal if you want to develop deep market and company analysis skills. However, it's more analytical than transactional compared to IB or S&T. If you're interested in a buy-side transition (asset management) or building expertise in markets, research is an excellent feeder. If your heart is set on M&A or client-facing sales, prioritize the IB or Sales programs instead.",
-    "found_on": "2026-09-04 20:28 UTC"
-  },
-  {
-    "id": "2471b1ddd76c5252",
-    "title": "2027 Global Investment Banking Analyst Program - Summer Internship - London",
-    "company": "JPMorganChase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867246653?se=KKfkPZ-o8RGikbOdqLjlXw&utm_medium=api&utm_source=88a1c016&v=AD2BF16EADD745A960258ED4174245921516C33B",
-    "snippet": "Description Work alongside top professionals in the industry to develop solutions that shape the global economy. Investment Banking teams partner with corporate clients to achieve strategic goals through long-term relationships and strategies that foster growth and innovation. We provide sound advice, access to funds, and connections, while managing risk in today's complex environment. You’ll join one of our Coverage, Advisory or Capital Markets teams, spanning sectors such as Consumer & Retail…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 88,
-    "reason": "JPMorgan 2027 Global IB Summer internship; top-tier fit—target sector, London, eligible, paid, competitive.",
-    "deadline": null,
-    "pros": [
-      "Pure investment banking: your primary stated interest",
-      "Coverage, Advisory, or Capital Markets teams—choice of specialisms",
-      "London, summer internship, paid, world-class training program"
-    ],
-    "cons": [],
-    "analysis": "This is as good as it gets for your stated preferences. JPMorgan IB is a top-tier program offering genuine deal exposure, sector coverage, and client-facing work across M&A, capital raising, and advisory. You'll develop financial modeling, valuation, and relationship skills directly aligned with your career goals. Highly competitive, but your economics background, structured finance internship, and expected first-class grades position you well. Apply early and prepare for technicals (LBO modeling, DCF, M&A mechanics).",
     "found_on": "2026-09-04 20:28 UTC"
   }
 ]
