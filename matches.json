@@ -1,5 +1,126 @@
 [
   {
+    "id": "0e42fc8e448d8ce3",
+    "title": "2027 M&A Internship - Copenhagen",
+    "company": "Lazard",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5896915889?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Description Lazard is one of the world’s leading financial advisory and asset management firms. Our people make the difference. With just over 3,000 employees, our tight-knit community allows for professionals eager to learn and willing to teach to connect and grow together. We believe that diversity, equity, inclusion, and allyship are not just business imperatives — they are central pillars of our employee experience. Our entrepreneurial culture and flat structure allow creative ideas and ori…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 85,
+    "reason": "Strong fit: M&A at Lazard, London, right seniority, eligible",
+    "deadline": null,
+    "pros": [
+      "M&A aligns with investment banking target",
+      "Lazard is tier-1 prestige firm",
+      "London location, summer timing fits"
+    ],
+    "cons": [
+      "Description cut off – verify full role details"
+    ],
+    "analysis": "This is a strong match on paper. Lazard is a world-class M&A advisor, and the role sits squarely in your target sector. You're eligible to work in the UK, and the 2027 timeline aligns with your graduation date. The main caveat is that the posting description appears truncated, so before applying verify this is genuinely a summer internship (not a graduate role or longer commitment) and confirm the exact dates fit around your term.",
+    "found_on": "2026-09-24 18:19 UTC"
+  },
+  {
+    "id": "25f21c93c548a12e",
+    "title": "12 Month Internship - Middle Office",
+    "company": "Crédit Agricole CIB",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5896913410?utm_medium=api&utm_source=88a1c016",
+    "snippet": "General information Entity About Crédit Agricole Corporate and Investment Bank (Crédit Agricole CIB) Crédit Agricole CIB is the corporate and investment bank of the Crédit Agricole group, the 10th largest banking group in the world *. We support major companies and financial institutions in their development and the financing of their projects. As pioneers in responsible finance, social and environmental commitments are at the heart of our activities. Joining our teams means working in a multic…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 55,
+    "reason": "Strong bank and structured finance fit, but 12-month duration is a mismatch",
+    "deadline": null,
+    "pros": [
+      "Tier-1 CIB, strong on structured finance",
+      "London-based, your target location",
+      "Middle office exposure to finance operations"
+    ],
+    "cons": [
+      "12-month commitment doesn't fit summer internship or term-time availability",
+      "Middle office (support) vs. trading/analysis exposure",
+      "Lengthy posting description cut off – unclear on exact role depth"
+    ],
+    "analysis": "Crédit Agricole CIB is an excellent bank and structured finance is your sector, but the 12-month internship duration is a hard constraint given you're a 2nd-year student with term dates. You're looking for summer internships or term-time compatible roles. Contact them to ask if they offer shorter summer programmes, but as posted this doesn't fit your availability. The middle office focus also suggests operational/admin support rather than the client-facing or research roles you've targeted before.",
+    "found_on": "2026-09-24 18:19 UTC"
+  },
+  {
+    "id": "d2ec6e0519f7faff",
+    "title": "Business Analyst Intern, London or Munich (2027 start)",
+    "company": "Humatica",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5896924165?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Humatica is a unique place to start and build your consulting career. We offer fast-track learning and career development from day one through working side by side with clients and senior team members in a diverse range of PE owned companies. Humatica is a multi-award-winning, specialist management consultancy focused on increasing organisational effectiveness. We help Private Equity funds and their portfolio company leaders to build strong organisations that deliver value growth. Our purpose i…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 65,
+    "reason": "PE-focused consulting, London option, decent fit with minor caveats",
+    "deadline": null,
+    "pros": [
+      "Strategy consulting aligned with your targets",
+      "PE exposure and operating model focus relevant",
+      "London option available, fast-track learning environment"
+    ],
+    "cons": [
+      "Boutique/niche firm, smaller profile than Tier-1 consulting",
+      "Limited detail on internship length and exact summer dates",
+      "Business analyst focus vs. investment banking or trading"
+    ],
+    "analysis": "Humatica is a credible specialist consulting firm focused on PE portfolio companies and operational strategy, which sits in your finance/strategy remit. You can choose London, and it's a paid internship. However, it's not a household name in banking/trading circles, and the role emphasizes business analysis and org effectiveness rather than capital markets or investment processes. It's a plausible option if you're committed to strategy consulting, but verify summer internship dates and length fit your availability.",
+    "found_on": "2026-09-24 18:19 UTC"
+  },
+  {
+    "id": "d73292ffc97d20f9",
+    "title": "Alpha FMC | Insurance Consulting Summer Internship",
+    "company": "Alpha Financial Markets",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5896919170?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Who We Are Founded in London in 2003, Alpha FMC is the leading global consultancy to the asset management, wealth management and insurance industries, with over 1,000 consultants across 17 offices and 970 clients worldwide. From strategy and operating model design to data, digital, and technology implementation, we partner with many of the world's largest asset managers, wealth managers and insurers. At Alpha, you'll work directly with industry leaders, gain exposure to a wide variety of projec…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 70,
+    "reason": "Consulting to asset management/insurance, London, good sector fit",
+    "deadline": null,
+    "pros": [
+      "Specialist in asset management and wealth management",
+      "London-based, Tier-2 consulting with strong industry reach",
+      "Strategy and digital work relevant to finance sector"
+    ],
+    "cons": [
+      "Consulting to AM rather than working in AM directly",
+      "Posting emphasizes strategy/operations, less on trading or research",
+      "Unclear exact internship length and summer date commitment"
+    ],
+    "analysis": "Alpha FMC is a well-regarded consulting firm focused precisely on your target sector (asset management and insurance). This is a meaningful option if you're open to consulting *within* finance rather than pure banking. You'd gain exposure to major asset managers and their challenges, which is valuable for transition to AM roles later. Verify that the summer internship is a defined 6-8 week block and aligns with your term dates before applying.",
+    "found_on": "2026-09-24 18:19 UTC"
+  },
+  {
+    "id": "c6d90699edffb3d3",
+    "title": "2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London",
+    "company": "JPMorganChase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5896917161?se=SHuHfkS48RGCPJhmN82Vmg&utm_medium=api&utm_source=88a1c016&v=FD2A4029262E193A8070C1392AF64A56ED0A31E7",
+    "snippet": "Description As an off-cycle analyst in the Quantitative Trading & Research Markets team at JPMorganChase, you will join a leading quantitative modeling group focused on systematic trading, financial engineering, data analytics, statistical modeling, and portfolio optimization. Job Summary You will work closely with traders, sales, marketing, technologists, and risk managers across products and regions. You will support research and strategy deployment, client and sales engagement, product innov…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 88,
+    "reason": "JPM quantitative trading, off-cycle, London, strong match to goals",
+    "deadline": null,
+    "pros": [
+      "Quantitative trading and research – core target sector",
+      "Off-cycle internship fits around term dates perfectly",
+      "JPM prestige, systematic trading and financial engineering exposure"
+    ],
+    "cons": [
+      "Quant focus may require deeper Python/statistical skills – verify fit"
+    ],
+    "analysis": "This is an excellent match. JPMorganChase's off-cycle Quantitative Research Markets Analyst program is precisely aligned with your sales & trading and strategy interests. Off-cycle means you can negotiate dates around your term, which is ideal for a 2nd-year student. You have Python and financial modelling skills, which are core to quant roles. The only flag is ensuring your quantitative depth (stats, programming, stochastic models) is sufficient; check the job spec carefully and reach out to their recruiters if you're uncertain. This is a strong apply.",
+    "found_on": "2026-09-24 18:19 UTC"
+  },
+  {
     "id": "dc14432402aff7cf",
     "title": "S&P Global Ratings Analytical Internship Program, London",
     "company": "S&P Global",
@@ -6957,126 +7078,6 @@
       "Less directly relevant than portfolio management or IB roles"
     ],
     "analysis": "This JPMorgan Chase Asset Management internship focuses on the risk and compliance side of AM operations. While the division is aligned with your interests, the role itself is in risk/control rather than portfolio management or investment strategy. It's still a credible entry point and offers rigorous analytical work, but it's less exciting than the Asset Management Investments program (posting 2e2eeb49b4db2f7f). Apply if you're open to risk careers or see it as a way in; otherwise, prioritize the portfolio management and front-office asset management roles.",
-    "found_on": "2026-09-04 22:51 UTC"
-  },
-  {
-    "id": "d3bc1d21661b3eda",
-    "title": "2027 Quantitative Research Markets Associate Program – Off-Cycle Internship – London",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867253454?se=VsnKNLOo8RGw9cHssXbcIw&utm_medium=api&utm_source=88a1c016&v=A6E95DC7AF1769E3695194BFC9AB1119E9088A58",
-    "snippet": "Description As an off-cycle associate in the Quantitative Trading & Research Markets team at JPMorganChase, you will join a leading quantitative modeling group focused on systematic trading, financial engineering, data analytics, statistical modeling, and portfolio optimization. You will work closely with traders, sales, marketing, technologists, and risk managers across products and regions. You will support research and strategy deployment, client and sales engagement, product innovation, val…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 83,
-    "reason": "Strong fit: JPM Quant Research Markets off-cycle internship, London, aligns with S&T interest and timing.",
-    "deadline": null,
-    "pros": [
-      "Quantitative trading and research aligns with S&T interest",
-      "Off-cycle format allows flexibility around term dates",
-      "Systematic trading, financial engineering, data analytics directly use Python skills"
-    ],
-    "cons": [
-      "Off-cycle requires coordinating with academic calendar",
-      "Highly technical; may require deeper quant modeling experience"
-    ],
-    "analysis": "This is an excellent off-cycle internship in JPMorgan Chase's Quantitative Trading & Research Markets team. The role sits at the intersection of systematic trading, financial engineering, and data analytics—perfectly aligned with your sales & trading interest and your Python skills. The team focuses on systematic trading strategies, portfolio optimization, and risk modeling. Off-cycle timing gives you flexibility to work outside term dates. Your economics background and structured finance internship are relevant. This is a strong option if you're comfortable with quantitative modeling and want to optimize your schedule around academics. Apply if you have depth in Python and financial modeling.",
-    "found_on": "2026-09-04 22:51 UTC"
-  },
-  {
-    "id": "25b46c7f63a5f2fd",
-    "title": "2027 Quantitative Research – Asset Management - Off-Cycle - London",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867248986?se=VsnKNLOo8RGw9cHssXbcIw&utm_medium=api&utm_source=88a1c016&v=942E2232E6773797200B8C919B049FC96FCD3D24",
-    "snippet": "Description Job Description At JPMorganChase, we champion your innovative ideas through a supportive culture that helps you every step of the way as you build your career. If you are passionate, curious and ready to make an impact, we are looking for you. Job Summary: As a Quantitative Research – Asset Management Off-Cycle Intern in the Asset Management Product Program, you will sit at the intersection of investment science and technology—working directly with portfolio managers and research te…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 80,
-    "reason": "Duplicate posting of JPM Quant Research Asset Management off-cycle internship (c8a900bff31900eb).",
-    "deadline": null,
-    "pros": [
-      "Asset Management Quantitative Research, off-cycle, London",
-      "Python and modeling skills directly applied",
-      "Flexibility around term dates"
-    ],
-    "cons": [
-      "Duplicate of posting c8a900bff31900eb; see earlier analysis"
-    ],
-    "analysis": "This is a duplicate of posting c8a900bff31900eb (JPM Quantitative Research Asset Management Off-Cycle, London). The earlier analysis applies: this is a strong fit for your profile if you're comfortable with quantitative modeling and want off-cycle timing flexibility. Your Python skills, economics background, and asset management interest make you competitive. Apply if you haven't already to the first instance.",
-    "found_on": "2026-09-04 22:51 UTC"
-  },
-  {
-    "id": "c4de451041ada552",
-    "title": "2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867240968?se=VsnKNLOo8RGw9cHssXbcIw&utm_medium=api&utm_source=88a1c016&v=ADF2FA00C6F417A79331BDBD7511752C7EFCC971",
-    "snippet": "Description As an off-cycle analyst in the Quantitative Trading & Research Markets team at JPMorganChase, you will join a leading quantitative modeling group focused on systematic trading, financial engineering, data analytics, statistical modeling, and portfolio optimization. Job Summary You will work closely with traders, sales, marketing, technologists, and risk managers across products and regions. You will support research and strategy deployment, client and sales engagement, product innov…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 82,
-    "reason": "Strong fit: JPM Quant Research Markets off-cycle analyst program, London, matches S&T and technical skills.",
-    "deadline": null,
-    "pros": [
-      "Quantitative Trading & Research Markets aligns with S&T interest",
-      "Off-cycle internship allows term-time flexibility",
-      "Systematic trading, financial engineering, portfolio optimization use Python/modeling"
-    ],
-    "cons": [
-      "Off-cycle requires careful academic scheduling",
-      "Highly technical; requires solid quant modeling foundation"
-    ],
-    "analysis": "This appears to be a near-duplicate of posting d3bc1d21661b3eda (JPM Quant Research Markets off-cycle, London), with the only difference being 'Associate' vs. 'Analyst' in the title. Both refer to the same Quantitative Trading & Research team. This is an excellent fit if you're pursuing sales & trading and have quantitative strengths. The off-cycle format offers scheduling flexibility. Your Python skills and structured finance background are relevant. Apply to this program if you're comfortable with quantitative modeling and want to balance the internship with your academic commitments.",
-    "found_on": "2026-09-04 22:51 UTC"
-  },
-  {
-    "id": "0433ecd3da8c4454",
-    "title": "2027 Quantitative Research - Risk and Treasury - Off-Cycle - Associate – London",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867228962?se=VsnKNLOo8RGw9cHssXbcIw&utm_medium=api&utm_source=88a1c016&v=9BFEAFB8C7EFF0925BA9F479C1E9F619206E7F55",
-    "snippet": "Description Job Description At JPMorganChase, we champion your innovative ideas through a supportive culture that helps you every step of the way as you build your career. If you are passionate, curious and ready to make an impact, we are looking for you. Job Summary: As a Quantitative Research – Risk and Treasury off-cycle intern in the Quantitative Modeling Program, you will work alongside top-tier professionals in a dynamic environment. You’ll apply academic knowledge to real-world financial…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 76,
-    "reason": "JPM Quant Research Risk & Treasury off-cycle internship, London, technical fit but risk/control focus.",
-    "deadline": null,
-    "pros": [
-      "JPM off-cycle program, London, offers scheduling flexibility",
-      "Quantitative modeling directly uses your Python skills",
-      "Risk and Treasury are core banking functions"
-    ],
-    "cons": [
-      "Risk & Treasury is support/control, not front-office trading/IB",
-      "Less aligned to your stated S&T, IB, and asset management interests",
-      "Highly technical; requires solid quant foundation"
-    ],
-    "analysis": "This JPMorgan Chase off-cycle internship focuses on Quantitative Modeling in Risk and Treasury—the firm's internal risk and liquidity management. While it's technically rigorous and uses Python and financial modeling, it's a back-office function rather than front-office S&T or asset management. The off-cycle format is flexible. However, unless you have genuine interest in risk/treasury careers, prioritize the Quant Research Markets program (d3bc1d21661b3eda or c4de451041ada552) or the Asset Management Quant Research program (c8a900bff31900eb or 25b46c7f63a5f2fd), both of which are more aligned to your core interests.",
-    "found_on": "2026-09-04 22:51 UTC"
-  },
-  {
-    "id": "30015aa242767cd9",
-    "title": "2027 Risk Analyst (DMFI) Intern",
-    "company": "Schonfeld",
-    "location": "London, England, United Kingdom",
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172053",
-    "snippet": "<p><strong><span data-contrast=\"auto\">The Role</span></strong><span data-contrast=\"auto\">&nbsp;</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">We are seeking a highly qualified DMFI Risk Analyst Summer Intern to join our DMFI Risk team in London. This team is responsible for helping management and portfolio managers within DMFI (Discretionary Macro Fixed Income) think about different dimensions of risk.&nbsp;</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><strong><span data-contrast=\"auto\">What You’ll Do&nbsp;</span></strong><span data-ccp-props=\"{}\">&nbs",
-    "source": "schonfeld (Greenhouse)",
-    "trust": "verified",
-    "score": 78,
-    "reason": "Strong sector/location/level fit (Risk Analyst internship, London, asset management-adjacent), but posting is truncated and incomplete so verify details.",
-    "deadline": null,
-    "pros": [
-      "London location matches your strong preference",
-      "Summer internship for 2027 aligns with your graduation timeline",
-      "Discretionary Macro Fixed Income overlaps with your structured finance background"
-    ],
-    "cons": [
-      "Posting is truncated/incomplete—cannot verify full scope, compensation, hours, or requirements",
-      "Risk analyst role is somewhat tangential to your core interests (IB, AM, S&T); not deal-focused"
-    ],
-    "analysis": "This is a legitimate summer internship in London at a well-known multi-strategy hedge fund, and your structured finance internship experience is directly relevant to DMFI work. However, the job posting cuts off mid-description, so you're missing critical details about compensation (must verify it's paid), team scope, and exact responsibilities. Before applying, request the full posting or contact Schonfeld directly to confirm this is a paid internship and to understand whether the role involves investment decision-making or pure risk analytics. If it's paid and substantive, this is one of your strongest matches.",
     "found_on": "2026-09-04 22:51 UTC"
   }
 ]
