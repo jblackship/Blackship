@@ -1,5 +1,54 @@
 [
   {
+    "id": "8ca4d210f00969b8",
+    "title": "S&P Global Ratings Analytical Internship Program, London",
+    "company": "S&P Global",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/details/5897709237?utm_medium=api&utm_source=88a1c016",
+    "snippet": "About the Role: Grade Level (for internal use): 05 The Impact: At S&P Global, our values - Discovery, Integrity, and Partnership - shape how we work, how we collaborate, and how we earn trust with our customers and each other. We embrace AI as an enabler, guided by rigorous governance and risk management, to enhance what has always defined us: the intelligence of our people, deep relationships, and trusted insights. By leveraging technology with human expertise, we help our teams navigate compl…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 72,
+    "reason": "Strong location and field fit; analytical role aligns with economics background, but rating agency work is adjacent to core finance preferences.",
+    "deadline": null,
+    "pros": [
+      "London-based, ideal location match",
+      "Analytical internship in finance sector",
+      "Clear career development pathway at tier-1 firm"
+    ],
+    "cons": [
+      "Rating agency less central than IB/AM/S&T preferences",
+      "Description truncated, hard to assess exact seniority fit",
+      "No explicit mention of summer/off-cycle timing"
+    ],
+    "analysis": "This is a legitimate internship at a respected global firm in your target location. The analytical focus suits your economics background and financial modelling skills. However, credit ratings analysis sits outside your stated core preferences (investment banking, asset management, sales & trading, structured finance). Before applying, clarify whether this is a summer internship aligned with your term dates, and assess whether ratings work genuinely interests you or is a backup option. The truncated description is a minor red flag—request the full posting to understand day-to-day work.",
+    "found_on": "2026-09-25 07:19 UTC"
+  },
+  {
+    "id": "7afc1937a2c9a2d0",
+    "title": "2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London",
+    "company": "JPMorgan Chase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5896917161?se=ZsTUdbG48RGj3rbruZk4CQ&utm_medium=api&utm_source=88a1c016&v=FD2A4029262E193A8070C1392AF64A56ED0A31E7",
+    "snippet": "Description As an off-cycle analyst in the Quantitative Trading & Research Markets team at JPMorganChase, you will join a leading quantitative modeling group focused on systematic trading, financial engineering, data analytics, statistical modeling, and portfolio optimization. Job Summary You will work closely with traders, sales, marketing, technologists, and risk managers across products and regions. You will support research and strategy deployment, client and sales engagement, product innov…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Off-cycle internship in quant trading at JPMorgan; London; eligible; strong technical and strategic fit.",
+    "deadline": null,
+    "pros": [
+      "Off-cycle internship explicitly mentioned, fits around term dates",
+      "Quant research aligns with Python skills and modelling background",
+      "Tier-1 investment bank, S&T adjacent role"
+    ],
+    "cons": [
+      "Quantitative focus demands strong Python—verify your level meets bar",
+      "Competitive programme; no salary/visa sponsorship details in snippet"
+    ],
+    "analysis": "This is a strong match. JPMorgan's off-cycle analyst programme is explicitly designed to fit around term dates, removing the scheduling constraint. The Quantitative Trading & Research team combines systematic modelling, financial engineering, and portfolio optimization—all areas where your Python experience and structured finance background are valuable. As an EU citizen on a UK student visa, confirm that off-cycle internships are covered under your visa terms (they typically are). The main risk is competition and technical depth—ensure your Python skills are solid enough for a quant shop. Prioritise this posting and apply early.",
+    "found_on": "2026-09-25 07:19 UTC"
+  },
+  {
     "id": "af30e45fd06a5eca",
     "title": "2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London",
     "company": "JPMorganChase",
@@ -7039,50 +7088,6 @@
     ],
     "cons": [],
     "analysis": "This is an outstanding match for your profile. PIMCO is one of the world's leading active fixed income managers with expertise in complex debt and credit markets—directly aligned with your interest in asset management and structured finance. The Private Strategies Analyst role focuses on portfolio management, investment analysis, and client solutions. Your structured finance internship experience and economics background make you highly relevant. PIMCO's London office is world-class and offers genuine mentorship. This should be a top priority application. Reach out to any network contacts you have and apply early.",
-    "found_on": "2026-09-04 22:51 UTC"
-  },
-  {
-    "id": "951f3d8644b96cbd",
-    "title": "2027 Global Investment Banking Analyst Program - Summer Internship - London",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867246653?se=LrveM7Oo8RGw9cHssXbcIw&utm_medium=api&utm_source=88a1c016&v=AD2BF16EADD745A960258ED4174245921516C33B",
-    "snippet": "Description Work alongside top professionals in the industry to develop solutions that shape the global economy. Investment Banking teams partner with corporate clients to achieve strategic goals through long-term relationships and strategies that foster growth and innovation. We provide sound advice, access to funds, and connections, while managing risk in today's complex environment. You’ll join one of our Coverage, Advisory or Capital Markets teams, spanning sectors such as Consumer & Retail…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 88,
-    "reason": "Excellent fit: JPM Global IB summer analyst program, London, matches top priority perfectly.",
-    "deadline": null,
-    "pros": [
-      "Investment Banking is your stated priority",
-      "London location, 2027 timing, JPM prestige",
-      "Coverage/Advisory/Capital Markets teams align with all your interests"
-    ],
-    "cons": [],
-    "analysis": "This is a duplicate or near-duplicate of posting 146eb2ad90d08049 (also JPM Global IB Analyst Program, London, 2027). Both are essentially the same program. This is an exceptional fit—JPMorgan Chase's Investment Banking Analyst Program is one of the most competitive and prestigious finance internships globally, and your profile (economics degree, first-class trajectory, structured finance/asset management experience, expected to graduate 2028) is exactly what they target. Apply to this with confidence. If there are slight variations between the two listings (e.g., different coverage sectors), read carefully and tailor your application accordingly.",
-    "found_on": "2026-09-04 22:51 UTC"
-  },
-  {
-    "id": "5038f173790ba0b9",
-    "title": "2027 Commercial & Investment Bank - Global Payments Analyst Program - Summer Internship - London",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867222382?se=LrveM7Oo8RGw9cHssXbcIw&utm_medium=api&utm_source=88a1c016&v=719F437480B10FB97C26D166CC9743F4220EFBB6",
-    "snippet": "Description As a Global Payments Analyst in the Global Payments Program, you will gain hands-on experience in the innovative landscape of global payments, learning what it takes to “make money move” and promote innovation across financial technology. The Global Payments Program at JPMorganChase offers the opportunity to build a career in the world of payments and financial technology—helping clients manage and move money locally, regionally and globally. Our Global Payments business brings toge…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 77,
-    "reason": "JPM Global Payments summer internship, London, duplicate posting, fintech angle but specialized.",
-    "deadline": null,
-    "pros": [
-      "JPM formal program, London, 2027 timing",
-      "Payments and financial technology are growth areas"
-    ],
-    "cons": [
-      "Duplicate of posting 270bb73d7cd28cf5",
-      "Payments/fintech not core to your stated finance interests"
-    ],
-    "analysis": "This appears to be a duplicate of posting 270bb73d7cd28cf5 (JPM Global Payments 2027). The earlier analysis applies: it's a legitimate JPM internship but specialized in payments/fintech rather than core investment banking, sales/trading, or asset management. Unless you have a specific interest in payments infrastructure, apply to the Global Markets, IB, or PIMCO roles instead.",
     "found_on": "2026-09-04 22:51 UTC"
   }
 ]
