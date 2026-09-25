@@ -1,5 +1,53 @@
 [
   {
+    "id": "91c7961c153ecdbb",
+    "title": "2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London",
+    "company": "JPMorgan Chase",
+    "location": "London, UK",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5896917161?se=QBeeYOS48RGBrORrHNYWQg&utm_medium=api&utm_source=88a1c016&v=FD2A4029262E193A8070C1392AF64A56ED0A31E7",
+    "snippet": "Description As an off-cycle analyst in the Quantitative Trading & Research Markets team at JPMorganChase, you will join a leading quantitative modeling group focused on systematic trading, financial engineering, data analytics, statistical modeling, and portfolio optimization. Job Summary You will work closely with traders, sales, marketing, technologists, and risk managers across products and regions. You will support research and strategy deployment, client and sales engagement, product innov…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 82,
+    "reason": "Perfect fit: quant trading aligns with skillset; off-cycle internship; London; JPM is tier-one; eligible.",
+    "deadline": null,
+    "pros": [
+      "Quantitative research and trading fit your Python and modelling skills",
+      "Off-cycle internship suits UK student visa constraints",
+      "Tier-one investment bank; prestigious quant programme"
+    ],
+    "cons": [
+      "High bar for quant roles; competitive selection process"
+    ],
+    "analysis": "This is an excellent match. JPMorgan's off-cycle Quantitative Research Markets Analyst program sits squarely in your target space (sales & trading, systematic trading, financial engineering) and the off-cycle timing is perfect for working around term dates. Your Python, financial modelling background, and economics degree are exactly what quant teams want. The role emphasises portfolio optimization and statistical modelling—your sweet spot. You're eligible on visa grounds. The main risk is competition; ensure you can articulate why systematic trading excites you, not just that it's prestigious.",
+    "found_on": "2026-09-25 13:24 UTC"
+  },
+  {
+    "id": "ec5aceb9a4049704",
+    "title": "Off-Cycle Intern - Capital Solutions, Debt Advisory (Q1, 2027)",
+    "company": "Houlihan Lokey",
+    "location": "Frankfurt am Main, Hessen",
+    "url": "https://www.adzuna.de/details/5897126071?utm_medium=api&utm_source=88a1c016",
+    "snippet": "Business Unit: Capital Solutions Industry: No Industry&xa;&xa; Overview Houlihan Lokey, Inc. (NYSE:HLI) is a leading global investment bank recognized for delivering independent strategic and financial advice to corporations, financial sponsors, and governments. With uniquely deep industry expertise, broad international reach, and a partnership approach rooted in trust, the firm provides innovative, integrated solutions across mergers and acquisitions, capital solutions, financial restructuring…",
+    "source": "Adzuna",
+    "trust": "verified",
+    "score": 68,
+    "reason": "Strong sector fit (investment banking, debt advisory) and off-cycle; Frankfurt location acceptable; eligibility OK.",
+    "deadline": null,
+    "pros": [
+      "Debt advisory and capital solutions align with structured finance interest",
+      "Off-cycle Q1 2027 fits around academic term",
+      "Boutique investment bank; strategic advisory exposure"
+    ],
+    "cons": [
+      "Frankfurt, not London—your strong preference",
+      "Vague role description; unclear focus (M&A vs restructuring vs debt)",
+      "EU citizen advantage may weaken post-Brexit in Frankfurt"
+    ],
+    "analysis": "Houlihan Lokey is a genuine, reputable investment bank with strong structured finance and M&A credentials, and debt advisory sits within your target sectors. The off-cycle Q1 2027 timing works well with UK term dates. However, the role is based in Frankfurt, which contradicts your strong London preference, and the posting is unusually vague about what you'd actually do—'Capital Solutions' spans M&A, restructuring, and debt, but there's no specificity. You're eligible to work (EU citizen), but Frankfurt is a weaker sell. Only pursue this if London roles aren't forthcoming and you're genuinely interested in continental Europe and Houlihan Lokey's platform.",
+    "found_on": "2026-09-25 13:24 UTC"
+  },
+  {
     "id": "8ca4d210f00969b8",
     "title": "S&P Global Ratings Analytical Internship Program, London",
     "company": "S&P Global",
@@ -7043,51 +7091,6 @@
       "Less relevant to your structured finance background"
     ],
     "analysis": "This is a legitimate JPMorgan Chase summer internship in the Global Payments business, which is increasingly important in the modern financial system. The role offers exposure to financial technology and innovation. However, payments/fintech is fairly specialized and doesn't map directly to your stated priorities (IB, asset management, S&T, or structured finance). Unless you have a genuine interest in payments infrastructure or fintech, prioritize the Global Markets, IB, or Sales internships instead.",
-    "found_on": "2026-09-04 22:51 UTC"
-  },
-  {
-    "id": "cd076223bc23c36a",
-    "title": "2027 Global Private Bank - Investment Solutions Summer Internship Program - London",
-    "company": "JPMorgan Chase",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867221792?se=ctRoM7Oo8RGogquEo3zAlQ&utm_medium=api&utm_source=88a1c016&v=FFE4760B93DA1C496766EC6E92BE7650CD36722F",
-    "snippet": "Description If you enjoy building relationships and helping develop innovative solutions while working in a fast-paced environment, then we have the role for you. Our advisors help clients achieve their financial goals by delivering the right solutions and services across our industry leading investments, credit, banking and Trust & Estates practices. This individualized attention supports our clients' unique goals and helps build, preserve and manage their wealth over time. As an Advisor Summe…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 81,
-    "reason": "JPM Private Bank internship, London, wealth management focus but solid alternative pathway.",
-    "deadline": null,
-    "pros": [
-      "JPM Private Bank, London, formal summer program",
-      "Investment Solutions role involves portfolio construction and client service",
-      "Exposure to high-net-worth client relationships and wealth preservation"
-    ],
-    "cons": [
-      "Private banking is relationship-focused, not trade/capital markets execution",
-      "Less relevant to IB or S&T interests; closer to asset management"
-    ],
-    "analysis": "This JPMorgan Chase summer internship focuses on the Private Bank's Investment Solutions division, which advises high-net-worth clients on wealth management, investments, and credit. It's a legitimate program with genuine client-facing opportunity. However, it's more aligned with wealth/asset management than with investment banking, sales/trading, or structured finance—your current priorities. If you're open to the wealth/private banking path, this is solid; otherwise, focus on Global Markets, IB, or dedicated Asset Management programs.",
-    "found_on": "2026-09-04 22:51 UTC"
-  },
-  {
-    "id": "eb4104537f117fd0",
-    "title": "2027 Summer Intern - Portfolio Management - Private Strategies Analyst, London - PIMCO",
-    "company": "PIMCO",
-    "location": "London, UK",
-    "url": "https://www.adzuna.co.uk/jobs/land/ad/5867108940?se=ctRoM7Oo8RGogquEo3zAlQ&utm_medium=api&utm_source=88a1c016&v=25E076C7F70280321696119B8DEACE0E4763122C",
-    "snippet": "PIMCO is a global leader in active fixed income with deep expertise across public and private markets. We invest our clients' capital across a range of fixed income and credit opportunities, leveraging our decades of experience navigating complex debt markets. Our flexible capital base and deep relationships with issuers have helped us become one of the world's largest providers of traditional and nontraditional solutions for companies that need financing and investors who seek strong risk-adju…",
-    "source": "Adzuna",
-    "trust": "verified",
-    "score": 86,
-    "reason": "Excellent fit: PIMCO Portfolio Management internship, London, strong asset management credentials.",
-    "deadline": null,
-    "pros": [
-      "PIMCO is world-leading fixed income and asset management firm",
-      "Portfolio Management internship directly matches asset management interest",
-      "Deep exposure to credit markets and investment structuring"
-    ],
-    "cons": [],
-    "analysis": "This is an outstanding match for your profile. PIMCO is one of the world's leading active fixed income managers with expertise in complex debt and credit markets—directly aligned with your interest in asset management and structured finance. The Private Strategies Analyst role focuses on portfolio management, investment analysis, and client solutions. Your structured finance internship experience and economics background make you highly relevant. PIMCO's London office is world-class and offers genuine mentorship. This should be a top priority application. Reach out to any network contacts you have and apply early.",
     "found_on": "2026-09-04 22:51 UTC"
   }
 ]
